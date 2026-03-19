@@ -1,0 +1,12 @@
+{
+  "name": "depology-ad-agent",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Automated ad image generation agent for Depology using JiMeng AI on Volcengine.",
+  "scripts": {
+    "start": "node src/run.js",
+    "dry-run": "node src/run.js --dry-run",
+    "brand": "node src/run.js --brand-only"
+  }
+}
