@@ -50,6 +50,9 @@ export function loadConfig() {
   const envPath = path.resolve(process.cwd(), ".env");
   loadEnvFile(envPath);
 
+  const hasArk = Boolean(process.env.ARK_API_KEY) && Boolean(process.env.ARK_MODEL);
+  const defaultProvider = hasArk ? "ark" : "jimeng";
+
   return {
     siteUrl: process.env.SITE_URL || "https://www.depology.com",
     outputDir: path.resolve(process.cwd(), process.env.OUTPUT_DIR || "output"),
@@ -59,6 +62,56 @@ export function loadConfig() {
     testPrompt:
       process.env.TEST_PROMPT ||
       "Luxury skincare ad, premium serum bottle on a clean vanity, soft daylight, glossy product photography, elegant beauty campaign, high detail",
+    ark: {
+      apiKey: process.env.ARK_API_KEY || "",
+      model: process.env.ARK_MODEL || "",
+      guidanceScale: Number.parseFloat(process.env.ARK_GUIDANCE_SCALE || "2.5"),
+      size: process.env.ARK_SIZE || "2048x2048"
+    },
+    batch: {
+      provider: process.env.IMAGE_PROVIDER || defaultProvider,
+      concurrency: requireNumber(process.env.CONCURRENCY, 1),
+      retries: requireNumber(process.env.RETRIES, 2),
+      retryBaseMs: requireNumber(process.env.RETRY_BASE_MS, 1200),
+      retryMaxMs: requireNumber(process.env.RETRY_MAX_MS, 12000),
+      resume: requireBoolean(process.env.RESUME, true)
+    },
+    integration: {
+      edmCampaignId: process.env.EDM_CAMPAIGN_ID || "",
+      edmFlowId: process.env.EDM_FLOW_ID || "",
+      feishu: {
+        enabled: requireBoolean(process.env.FEISHU_BITABLE_ENABLED, false),
+        nativeImageEnabled: requireBoolean(process.env.FEISHU_NATIVE_IMAGE_ENABLED, true),
+        appId: process.env.FEISHU_APP_ID || "",
+        appSecret: process.env.FEISHU_APP_SECRET || "",
+        appToken: process.env.FEISHU_BITABLE_APP_TOKEN || "",
+        tableId: process.env.FEISHU_BITABLE_TABLE_ID || "",
+        uploadParentType: process.env.FEISHU_MEDIA_PARENT_TYPE || "bitable_file",
+        uploadParentNode: process.env.FEISHU_MEDIA_PARENT_NODE || "",
+        sourceSystem: process.env.FEISHU_SOURCE_SYSTEM || "ai-image",
+        workflow: process.env.FEISHU_WORKFLOW || "ads-image-runner",
+        fields: {
+          primary: process.env.FEISHU_FIELD_PRIMARY ?? "记录标题",
+          runId: process.env.FEISHU_FIELD_RUN_ID ?? "运行批次",
+          sourceSystem: process.env.FEISHU_FIELD_SOURCE ?? "来源系统",
+          workflow: process.env.FEISHU_FIELD_WORKFLOW ?? "工作流",
+          provider: process.env.FEISHU_FIELD_PROVIDER ?? "模型",
+          conceptId: process.env.FEISHU_FIELD_CONCEPT_ID ?? "素材ID",
+          scene: process.env.FEISHU_FIELD_SCENE ?? "场景",
+          status: process.env.FEISHU_FIELD_STATUS ?? "状态",
+          prompt: process.env.FEISHU_FIELD_PROMPT ?? "提示词",
+          imageUrl: process.env.FEISHU_FIELD_IMAGE_URL ?? "图片URL",
+          imageAttachment: process.env.FEISHU_FIELD_IMAGE_ATTACHMENT ?? "图片",
+          localPath: process.env.FEISHU_FIELD_LOCAL_PATH ?? "本地路径",
+          taskId: process.env.FEISHU_FIELD_TASK_ID ?? "任务ID",
+          generatedAt: process.env.FEISHU_FIELD_GENERATED_AT ?? "生成时间",
+          linkKey: process.env.FEISHU_FIELD_LINK_KEY ?? "联动键",
+          edmCampaignId: process.env.FEISHU_FIELD_EDM_CAMPAIGN_ID ?? "EDM活动ID",
+          edmFlowId: process.env.FEISHU_FIELD_EDM_FLOW_ID ?? "EDM流程ID",
+          error: process.env.FEISHU_FIELD_ERROR ?? "错误信息"
+        }
+      }
+    },
     volcengine: {
       accessKey: process.env.VOLCENGINE_ACCESS_KEY || "",
       secretKey: process.env.VOLCENGINE_SECRET_KEY || "",

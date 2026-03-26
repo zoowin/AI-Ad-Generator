@@ -2,3 +2,8 @@
 output/
 tmp/
 node_modules/
+.claude/
+input/ad-generation/winning-ads/
+input/ad-generation/products/*.png
+input/ad-generation/products/*.jpg
+input/ad-generation/products/*.jpeg
