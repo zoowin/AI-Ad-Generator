@@ -8,7 +8,8 @@
     "start": "node src/run.js",
     "dry-run": "node src/run.js --dry-run",
     "brand": "node src/run.js --brand-only",
-    "batch": "node src/run.js --mode img2img"
+    "batch": "node src/run.js --mode img2img",
+    "local-dry-run": "node src/localDryRun.js"
   },
   "dependencies": {
     "sharp": "^0.34.5"
