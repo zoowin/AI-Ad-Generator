@@ -4,6 +4,7 @@ import sharp from "sharp";
 import { loadConfig } from "./config.js";
 import { arkGenerateAndExtract, imageFileToBase64 } from "./arkClient.js";
 import { ensureDir, downloadFile } from "./output.js";
+import { INPUT_PATHS, OUTPUT_PATHS } from "./paths.js";
 
 function readJsonFile(filePath) {
   const raw = fs.readFileSync(filePath, "utf-8");
@@ -18,11 +19,11 @@ async function main() {
   const model = config.ark.model;
   
   // 1. Inputs
-  const briefPath = "input/ad-generation/products/micro-dart-brief.json";
+  const briefPath = INPUT_PATHS.microDart.brief;
   const brief = readJsonFile(briefPath);
-  const productImgWithHand = "input/ad-generation/products/micro-dart-product-withhand.jpg";
+  const productImgWithHand = INPUT_PATHS.microDart.inHand;
   
-  const outDir = "output/ad-generation";
+  const outDir = OUTPUT_PATHS.adGeneration;
   ensureDir(outDir);
   const ts = Date.now();
   const bgPath = path.join(outDir, `${ts}-bg.png`);

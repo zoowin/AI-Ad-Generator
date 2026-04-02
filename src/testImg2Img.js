@@ -20,7 +20,7 @@ import { ensureDir, writeJson, downloadFile } from "./output.js";
 // ---------------------------------------------------------------------------
 function parseArgs(argv) {
   const args = argv.slice(2);
-  const opts = { file: null, url: null, scale: null, useV4: false, prompt: null };
+  const opts = { file: null, url: null, scale: null, useV4: false, prompt: null, width: null, height: null };
 
   for (let i = 0; i < args.length; i++) {
     if (args[i] === "--file" && args[i + 1]) {
@@ -33,6 +33,10 @@ function parseArgs(argv) {
       opts.useV4 = true;
     } else if (args[i] === "--prompt" && args[i + 1]) {
       opts.prompt = args[++i];
+    } else if (args[i] === "--width" && args[i + 1]) {
+      opts.width = Number.parseInt(args[++i], 10);
+    } else if (args[i] === "--height" && args[i + 1]) {
+      opts.height = Number.parseInt(args[++i], 10);
     }
   }
 
@@ -68,6 +72,18 @@ function extractBase64Images(result) {
     return result.data.binary_data_base64.filter(Boolean);
   }
   return [];
+}
+
+function getNextFilePath(dir, baseName, ext = "png") {
+  let index = 1;
+  while (true) {
+    const suffix = String(index).padStart(3, "0");
+    const candidate = path.join(dir, `${baseName}-${suffix}.${ext}`);
+    if (!fs.existsSync(candidate)) {
+      return candidate;
+    }
+    index += 1;
+  }
 }
 
 async function sleep(ms) {
@@ -135,6 +151,7 @@ async function main() {
 
   console.log(`\nModel: ${reqKey || config.volcengine.i2iReqKey}`);
   console.log(`Scale: ${opts.scale ?? config.volcengine.i2iScale}`);
+  console.log(`Size: ${opts.width ?? config.volcengine.width}x${opts.height ?? config.volcengine.height}`);
   console.log(`Prompt: ${prompt.slice(0, 120)}…\n`);
 
   // Submit
@@ -144,6 +161,8 @@ async function main() {
     imageUrls,
     binaryDataBase64,
     scale: opts.scale,
+    width: opts.width,
+    height: opts.height,
     reqKey
   });
 
@@ -170,14 +189,14 @@ async function main() {
   const downloaded = [];
 
   for (let i = 0; i < imageUrlResults.length; i++) {
-    const dest = path.join(outDir, `img2img-result-${i + 1}.png`);
+    const dest = getNextFilePath(outDir, "img2img-result-url");
     await downloadFile(imageUrlResults[i], dest);
     downloaded.push(dest);
     console.log(`Downloaded: ${dest}`);
   }
 
   for (let i = 0; i < base64Results.length; i++) {
-    const dest = path.join(outDir, `img2img-result-b64-${i + 1}.png`);
+    const dest = getNextFilePath(outDir, "img2img-result-b64");
     const raw = base64Results[i].replace(/^data:image\/\w+;base64,/, "");
     fs.writeFileSync(dest, Buffer.from(raw, "base64"));
     downloaded.push(dest);
@@ -188,6 +207,8 @@ async function main() {
     prompt,
     reqKey: reqKey || config.volcengine.i2iReqKey,
     scale: opts.scale ?? config.volcengine.i2iScale,
+    width: opts.width ?? config.volcengine.width,
+    height: opts.height ?? config.volcengine.height,
     taskId,
     imageUrls: imageUrlResults,
     base64Count: base64Results.length,

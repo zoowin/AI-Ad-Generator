@@ -9,6 +9,7 @@ import { ensureDir, writeJson, downloadFile } from "./output.js";
 import { loadProductAssets } from "./productAssets.js";
 import { buildImg2ImgPromptV2, getPresets } from "./promptTemplate.js";
 import { arkGenerateAndExtract, imageFileToBase64 } from "./arkClient.js";
+import { OUTPUT_PATHS } from "./paths.js";
 
 function parseArgs(argv) {
   const flags = new Set();
@@ -67,6 +68,10 @@ function dateStamp(date = new Date()) {
   const m = String(date.getMonth() + 1).padStart(2, "0");
   const d = String(date.getDate()).padStart(2, "0");
   return `${y}${m}${d}`;
+}
+
+function getCoreOutputDir() {
+  return OUTPUT_PATHS.runsCore;
 }
 
 function slugify(value) {
@@ -214,6 +219,7 @@ async function runPool(items, concurrency, worker) {
 }
 
 async function maybeDownloadImages(config, conceptId, submitResult) {
+  const runOutputDir = getCoreOutputDir();
   if (!config.downloadImages) {
     return [];
   }
@@ -238,7 +244,7 @@ async function maybeDownloadImages(config, conceptId, submitResult) {
   for (let i = 0; i < uniqueUrls.length; i += 1) {
     const url = uniqueUrls[i];
     const ext = new URL(url).pathname.split(".").pop() || "png";
-    const filePath = getNextImagePath(config.outputDir, {
+    const filePath = getNextImagePath(runOutputDir, {
       theme: inferThemeFromConceptId(conceptId),
       provider: "url",
       ext
@@ -292,11 +298,12 @@ function extractBase64Images(result) {
 }
 
 async function writeBase64Images(config, conceptId, result) {
+  const runOutputDir = getCoreOutputDir();
   const images = extractBase64Images(result);
   const files = [];
 
   for (let i = 0; i < images.length; i += 1) {
-    const filePath = getNextImagePath(config.outputDir, {
+    const filePath = getNextImagePath(runOutputDir, {
       theme: inferThemeFromConceptId(conceptId),
       provider: "b64",
       ext: "png"
@@ -824,10 +831,11 @@ async function runImg2ImgBatch({ args, config, productAssets }) {
     }
   }
 
-  const imagesDir = path.join(config.outputDir, "images");
+  const runOutputDir = getCoreOutputDir();
+  const imagesDir = path.join(runOutputDir, "images");
   ensureDir(imagesDir);
 
-  const resultsPath = path.join(config.outputDir, "img2img-results.json");
+  const resultsPath = path.join(runOutputDir, "img2img-results.json");
   const previous = resume ? readJsonIfExists(resultsPath) : undefined;
   const previousArray = Array.isArray(previous) ? previous : [];
   const previousById = new Map(previousArray.map((item) => [item.id, item]));
@@ -841,7 +849,7 @@ async function runImg2ImgBatch({ args, config, productAssets }) {
     "lowres, blurry, soft focus, motion blur, watermark, logo, extra bottles, duplicate product, deformed bottle, warped label, illegible text, smeared typography, glare on label, reflections covering text, 3d render, cartoon, CGI";
 
   const worker = async (item) => {
-    const outputPath = getNextImagePath(config.outputDir, {
+    const outputPath = getNextImagePath(runOutputDir, {
       theme: item.scene,
       provider,
       ext: "png"
@@ -996,9 +1004,10 @@ async function runImg2ImgBatch({ args, config, productAssets }) {
 async function main() {
   const args = parseArgs(process.argv);
   const config = loadConfig();
-  ensureDir(config.outputDir);
+  const runOutputDir = getCoreOutputDir();
+  ensureDir(runOutputDir);
   const productAssets = loadProductAssets(process.cwd());
-  writeJson(path.join(config.outputDir, "product-assets.json"), productAssets);
+  writeJson(path.join(runOutputDir, "product-assets.json"), productAssets);
 
   if (args.testImage) {
     const client = new VolcengineJimengClient(config.volcengine);
@@ -1033,7 +1042,7 @@ async function main() {
       finalResult: normalizedResult,
       downloadedFiles
     };
-    writeJson(path.join(config.outputDir, "test-image-result.json"), payload);
+    writeJson(path.join(runOutputDir, "test-image-result.json"), payload);
     const runId = `run-${Date.now()}`;
     const rows = buildRowsFromGenerationResults({ results: [payload], runId, config });
     const sync = await syncRowsToFeishuBitable({ rows, config, runId, workflow: "test-image" });
@@ -1056,15 +1065,15 @@ async function main() {
   }
 
   const brandData = await buildBrandProfile(config.siteUrl);
-  writeJson(path.join(config.outputDir, "brand-profile.json"), brandData);
+  writeJson(path.join(runOutputDir, "brand-profile.json"), brandData);
 
   if (args.brandOnly) {
-    console.log(`Brand profile written to ${path.join(config.outputDir, "brand-profile.json")}`);
+    console.log(`Brand profile written to ${path.join(runOutputDir, "brand-profile.json")}`);
     return;
   }
 
   const concepts = generateAdConcepts(brandData.profile, productAssets.assets);
-  writeJson(path.join(config.outputDir, "ad-concepts.json"), concepts);
+  writeJson(path.join(runOutputDir, "ad-concepts.json"), concepts);
 
   if (args.dryRun) {
     console.log(`Dry run complete. Generated ${concepts.length} concepts.`);
@@ -1072,7 +1081,7 @@ async function main() {
   }
 
   const client = new VolcengineJimengClient(config.volcengine);
-  const resultsPath = path.join(config.outputDir, "generation-results.json");
+  const resultsPath = path.join(runOutputDir, "generation-results.json");
   const existing = readJsonIfExists(resultsPath);
   const results = Array.isArray(existing) ? existing : [];
 
