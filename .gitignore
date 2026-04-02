@@ -6,3 +6,7 @@ node_modules/
 .DS_Store
 *.log
 .trae/
+.agents/
+clean-claude.sh
+skills-lock.json
+ads-image/
