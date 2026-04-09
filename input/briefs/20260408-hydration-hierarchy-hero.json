@@ -1,0 +1,64 @@
+{
+  "campaign_id": "20260408_hydration_hierarchy",
+  "image_role": "hero",
+  "headline": "The Hydration Hierarchy.",
+  "body_anchor": "Water Isn't Hydration.",
+  "objective": "Introduce the educational difference between surface wetness and real hydration before the product cards.",
+  "concept": "A split-screen macro beauty image contrasting superficial wetness with true deep hydration.",
+  "visual_structure": {
+    "composition": "split-screen",
+    "left_side": "close-up macro skin texture with visible water droplets beading on the surface",
+    "right_side": "close-up macro skin that looks plump, smooth, luminous, and deeply hydrated with no visible droplets",
+    "framing": "tight macro crop, no full face, no product packshot",
+    "focus": "clear visual distinction between wet skin and hydrated skin"
+  },
+  "art_direction": {
+    "style": "premium scientific skincare editorial",
+    "palette": [
+      "cool white",
+      "pale blue",
+      "soft neutral skin tones"
+    ],
+    "lighting": "soft diffused light with a clean lab-beauty feel",
+    "mood": [
+      "minimal",
+      "elevated",
+      "clinical but beautiful",
+      "modern"
+    ]
+  },
+  "must_have": [
+    "macro skin texture detail",
+    "left side must clearly read as surface water",
+    "right side must clearly read as deep hydration without visible droplets",
+    "premium skincare campaign quality",
+    "clean negative space around the subject"
+  ],
+  "avoid": [
+    "full face portrait",
+    "product packaging",
+    "hands",
+    "flowers",
+    "leaves",
+    "busy background",
+    "cartoon look",
+    "3D render look",
+    "text overlay",
+    "watermark",
+    "exaggerated splash effects"
+  ],
+  "prompt": "Luxury skincare editorial hero image showing the difference between surface wetness and real hydration. Split composition. Left side: close-up macro skin texture with visible water droplets beading on the surface, glossy and superficial. Right side: close-up macro skin that looks plump, smooth, deeply hydrated, luminous, and healthy with no visible droplets. Clean scientific beauty aesthetic, cool white and pale blue tones, soft diffused lighting, premium lab-inspired skincare campaign, minimal composition, elegant and modern.",
+  "negative_prompt": "product packaging, bottle, jar, full face portrait, hands, flowers, leaves, cluttered background, cartoon, CGI, 3D render, text overlay, watermark, dramatic splash, exaggerated water motion, low detail, blurry skin texture",
+  "generation": {
+    "provider": "ark",
+    "mode": "text-to-image",
+    "size": "2048x2048",
+    "n": 1
+  },
+  "runner_hint": {
+    "script": "node src/testArk.js",
+    "arguments": [
+      "--size 2048x2048"
+    ]
+  }
+}
