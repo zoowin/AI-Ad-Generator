@@ -1,0 +1,37 @@
+{
+  "ad_id": "meta_chomps_1600475334337114",
+  "source_platform": "meta_ad_library",
+  "captured_at": "2026-04-15T03:28:28.774Z",
+  "brand_name": "chomps",
+  "product_category": "unknown",
+  "product_names": [],
+  "image_paths": [
+    "data/input/ad-library/raw/chomps/chomps__1600475334337114.jpg"
+  ],
+  "video_paths": [],
+  "landing_page_url": "https://chomps.com/",
+  "ad_copy": "Mowing season starts when dad says it starts ⛳️\n\nChomps is our go-to for the kid’s snacks. 10g of protein and 0g of sugar sure beats most things they’d want to eat. And since they live on vibes, dreams, and the next snack- it’s a great way to get them some protein in between the meals they don’t eat. \n\nPs, jalapeño is >>>\n\n#ChompsPartner @chomps",
+  "cta": "Shop now",
+  "country": "ALL",
+  "language": "unknown",
+  "notes": "Imported from competitor Meta Ad Library scraper",
+  "source_meta": {
+    "original_ad_archive_id": "1600475334337114",
+    "ad_format": "Video",
+    "media_kind": "video_preview",
+    "title": "",
+    "caption": "chomps.com",
+    "platforms": [
+      "FACEBOOK",
+      "INSTAGRAM",
+      "AUDIENCE_NETWORK"
+    ],
+    "start_date": "2026-03-30T07:00:00.000Z",
+    "end_date": "2026-04-14T07:00:00.000Z",
+    "primary_image_url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/657296375_26255970317400484_5596258257431893491_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=3KomCrzO-KEQ7kNvwEUPbQa&_nc_oc=Adp_FlDP_9V6-pHB9gatCgBOE_EQaGyW5noSPrJKrdKuuz2LE77vAceg0ggEBIcagDU&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=UkQqVnfDU7C9a3-abHHx9g&_nc_ss=7a3a8&oh=00_Af1vDwHc1JrRkkEfxjZOkLhG4lp1I_HYRD3izhywmmNUqw&oe=69E3D696",
+    "card_count": 0,
+    "cards": [],
+    "original_json_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\chomps_ads.json",
+    "original_media_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\media_chomps\\ad_16_1600475334337114.jpg"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "insight_id": "ins_20260415_0001",
+  "source_ad_ids": [
+    "adl_meta_us_20260415_0001"
+  ],
+  "creative_type": "product-hero-with-proof",
+  "visual_structure": {
+    "layout": "product-right proof-left",
+    "subject_count": 2,
+    "text_overlay_heavy": false
+  },
+  "hook_type": "visible-result",
+  "proof_type": "before-after",
+  "product_role": "hero",
+  "human_role": "supporting",
+  "background_style": "clean-clinical",
+  "brand_fit": {
+    "score": 0.82,
+    "reason": "Fits premium clinical skincare direction"
+  },
+  "reuse_score": 0.88,
+  "risks": [
+    "Potential compliance risk if proof is too explicit"
+  ],
+  "recommended_for": [
+    "anti-aging serum",
+    "eye treatment"
+  ]
+}

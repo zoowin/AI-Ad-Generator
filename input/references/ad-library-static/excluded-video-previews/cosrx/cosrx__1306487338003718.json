@@ -1,0 +1,41 @@
+{
+  "ad_id": "meta_cosrx_1306487338003718",
+  "source_platform": "meta_ad_library",
+  "captured_at": "2026-04-15T03:28:28.801Z",
+  "brand_name": "cosrx",
+  "product_category": "unknown",
+  "product_names": [
+    "🔗 Shop now on Amazon"
+  ],
+  "image_paths": [
+    "data/input/ad-library/raw/cosrx/cosrx__1306487338003718.jpg"
+  ],
+  "video_paths": [],
+  "landing_page_url": "https://www.amazon.com/dp/B09ZY7468X?maas=maas_adg_D77A97230A6F724B9741EABE3BB9C7B5_afap_abs&ref_=aa_maas&tag=maas",
+  "ad_copy": "[COSRX] Daily Vitamin E Sunscreen for Protected, Healthy Skin ☀️\nLightweight sun care with skin-loving benefits\n\n☀️ Invisible finish with no white cast\n💧 Hydrating & soothing daily protection\n🌿 Lightweight, non-greasy formula\n\nLightweight sun care, every day 💖\n#COSRX #VitaminESunscreen",
+  "cta": "Shop now",
+  "country": "ALL",
+  "language": "unknown",
+  "notes": "Imported from competitor Meta Ad Library scraper",
+  "source_meta": {
+    "original_ad_archive_id": "1306487338003718",
+    "ad_format": "Video",
+    "media_kind": "video_preview",
+    "title": "🔗 Shop now on Amazon",
+    "caption": "www.amazon.com",
+    "platforms": [
+      "FACEBOOK",
+      "INSTAGRAM",
+      "AUDIENCE_NETWORK",
+      "MESSENGER",
+      "THREADS"
+    ],
+    "start_date": "2026-04-01T07:00:00.000Z",
+    "end_date": "2026-04-07T07:00:00.000Z",
+    "primary_image_url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/660301416_1583205696124076_3041185309537958882_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Sc0eVTaVeaoQ7kNvwEkFy_P&_nc_oc=Ado0iXMJ0-4_YoVBdybTSQ4VPUoIHDx4pBXxLmivqkgWc4x7DKt36iUvXw_oRO9QYVI&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=FUsUbZHriUp9A1s2abkfEQ&_nc_ss=7a3a8&oh=00_Af1-Deb562rVYFWq2K76aIxTGd4KnTb2YxL_aaH5ILeaCg&oe=69DBDB72",
+    "card_count": 0,
+    "cards": [],
+    "original_json_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\cosrx_ads.json",
+    "original_media_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\media_cosrx\\ad_10_1306487338003718.jpg"
+  }
+}

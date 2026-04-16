@@ -1,0 +1,57 @@
+{
+  "ad_id": "meta_jonesroad_1658141568823496",
+  "source_platform": "meta_ad_library",
+  "captured_at": "2026-04-15T03:28:29.119Z",
+  "brand_name": "jonesroad",
+  "product_category": "unknown",
+  "product_names": [
+    "Look Ready In Seconds"
+  ],
+  "image_paths": [
+    "data/input/ad-library/raw/jonesroad/jonesroad__1658141568823496.jpg"
+  ],
+  "video_paths": [],
+  "landing_page_url": "https://www.jonesroadbeauty.com/pages/jetm-th",
+  "ad_copy": "Your mornings are busy enough. Your makeup routine shouldn't add to it. Just Enough Tinted Moisturizer will speed up your routine and have you feeling great and ready for the day.",
+  "cta": "Shop now",
+  "country": "ALL",
+  "language": "unknown",
+  "notes": "Imported from competitor Meta Ad Library scraper",
+  "source_meta": {
+    "original_ad_archive_id": "1658141568823496",
+    "ad_format": "Carousel",
+    "media_kind": "carousel_preview",
+    "title": "Look Ready In Seconds",
+    "caption": "jonesroadbeauty.com",
+    "platforms": [
+      "FACEBOOK",
+      "INSTAGRAM",
+      "MESSENGER",
+      "THREADS"
+    ],
+    "start_date": "2026-03-31T07:00:00.000Z",
+    "end_date": "2026-04-14T07:00:00.000Z",
+    "primary_image_url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/658298091_1442694730678640_6871733602194698037_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=a2j_XXjJENQQ7kNvwGDzWxf&_nc_oc=AdoEb5O0-l677991iZIaUUM456BTEgD5-Vrhk8GhklS42koOQrQD0gXeZSpt8cR_uYU&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=Sa29kFwNq6oKxQTEfza6Ew&_nc_ss=7a3a8&oh=00_Af2SRZS8YSpl8989LDmL62av9pxTlMNVu8TNcej091SNmg&oe=69E3CCF7",
+    "card_count": 2,
+    "cards": [
+      {
+        "body": "Your mornings are busy enough. Your makeup routine shouldn't add to it. Just Enough Tinted Moisturizer will speed up your routine and have you feeling great and ready for the day.",
+        "title": null,
+        "caption": "",
+        "cta_text": "Shop Now",
+        "link_url": "https://www.jonesroadbeauty.com/pages/jetm-th",
+        "image": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/658298091_1442694730678640_6871733602194698037_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=a2j_XXjJENQQ7kNvwGDzWxf&_nc_oc=AdoEb5O0-l677991iZIaUUM456BTEgD5-Vrhk8GhklS42koOQrQD0gXeZSpt8cR_uYU&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=Sa29kFwNq6oKxQTEfza6Ew&_nc_ss=7a3a8&oh=00_Af2SRZS8YSpl8989LDmL62av9pxTlMNVu8TNcej091SNmg&oe=69E3CCF7"
+      },
+      {
+        "body": "Your mornings are busy enough. Your makeup routine shouldn't add to it. Just Enough Tinted Moisturizer will speed up your routine and have you feeling great and ready for the day.",
+        "title": null,
+        "caption": "",
+        "cta_text": "Shop Now",
+        "link_url": "https://www.jonesroadbeauty.com/pages/jetm-th",
+        "image": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/659797022_1591429792114992_7155403397894963994_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=6jcD98G2X44Q7kNvwFz-AbY&_nc_oc=AdopmdLmbv5Wk3O1NRWXnnt9M0vn24mcVNgSjlPGIolERMAngmGJ5ejrRd6230lQaLQ&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=Sa29kFwNq6oKxQTEfza6Ew&_nc_ss=7a3a8&oh=00_Af0lvrCRvW_Lop07Gyp4SPsrgZORGbX_ymjEZPPlro7htw&oe=69E3EBFB"
+      }
+    ],
+    "original_json_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\jonesroad_ads.json",
+    "original_media_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\media_jonesroad\\ad_2_1658141568823496.jpg"
+  }
+}

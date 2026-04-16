@@ -1,0 +1,40 @@
+{
+  "ad_id": "meta_drsquatch_713292058473550",
+  "source_platform": "meta_ad_library",
+  "captured_at": "2026-04-15T03:28:28.985Z",
+  "brand_name": "drsquatch",
+  "product_category": "unknown",
+  "product_names": [
+    "🤯 3 FREE GIFTS + 54% OFF 🤯"
+  ],
+  "image_paths": [
+    "data/input/ad-library/raw/drsquatch/drsquatch__713292058473550.jpg"
+  ],
+  "video_paths": [],
+  "landing_page_url": "https://www.drsquatch.com/en-ca/products/squatch-stack-exclusive-gifts-nco",
+  "ad_copy": "54% OFF + 3 FREE GIFTS | Squatch Stack Bundle\n⭐⭐⭐⭐⭐ Tens of thousands of 5 star reviews\n\n🤑 54% OFF sale ends soon!\n🧼 Try our soap & deo to score a MASSIVE discount + 3 FREE GIFTS!\n🔗 New customers only, click here to claim!\n\n🫚 Made with natural ingredients\n👃 Amazing scents that men and their families love\n\n📦 Available now – at Drsquatch.com",
+  "cta": "Get offer",
+  "country": "ALL",
+  "language": "unknown",
+  "notes": "Imported from competitor Meta Ad Library scraper",
+  "source_meta": {
+    "original_ad_archive_id": "713292058473550",
+    "ad_format": "Image",
+    "media_kind": "image",
+    "title": "🤯 3 FREE GIFTS + 54% OFF 🤯",
+    "caption": "www.drsquatch.com",
+    "platforms": [
+      "FACEBOOK",
+      "INSTAGRAM",
+      "MESSENGER",
+      "THREADS"
+    ],
+    "start_date": "2026-03-30T07:00:00.000Z",
+    "end_date": "2026-04-13T07:00:00.000Z",
+    "primary_image_url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/661139272_1772684127470651_424925296979540350_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Zd2DChnSNP8Q7kNvwGI6TdZ&_nc_oc=Adqlb-6rSV_XRTcZtP0gywTagDf1xtvUCV0XqNxD4_ZfLafDtHdqFUtpw751PE7xfLM&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=jJjzAELG8KqNybh2TjzeMw&_nc_ss=7a3a8&oh=00_Af206In8y4wUPMkZRo0rroS7-wx9rJaz_ujyqUstvxZUKw&oe=69E3E49E",
+    "card_count": 0,
+    "cards": [],
+    "original_json_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\drsquatch_ads.json",
+    "original_media_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\media_drsquatch\\ad_26_713292058473550.jpg"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "ad_id": "meta_jonesroad_1470674821427344",
+  "source_platform": "meta_ad_library",
+  "captured_at": "2026-04-15T03:28:29.125Z",
+  "brand_name": "jonesroad",
+  "product_category": "unknown",
+  "product_names": [
+    "Meet Lip Recharge"
+  ],
+  "image_paths": [
+    "data/input/ad-library/raw/jonesroad/jonesroad__1470674821427344.jpg"
+  ],
+  "video_paths": [],
+  "landing_page_url": "https://myshop.jonesroadbeauty.com/lip-recharge-m",
+  "ad_copy": "Most lip glosses sit on top of your lips. Lip Recharge actually gets to work—shea butter for a cushiony barrier, peptides to support collagen, vitamin E to smooth and soften. Skincare and makeup in one, the way it should be.",
+  "cta": "Shop now",
+  "country": "ALL",
+  "language": "unknown",
+  "notes": "Imported from competitor Meta Ad Library scraper",
+  "source_meta": {
+    "original_ad_archive_id": "1470674821427344",
+    "ad_format": "Video",
+    "media_kind": "video_preview",
+    "title": "Meet Lip Recharge",
+    "caption": "myshop.jonesroadbeauty.com",
+    "platforms": [
+      "FACEBOOK",
+      "INSTAGRAM",
+      "AUDIENCE_NETWORK",
+      "MESSENGER",
+      "THREADS"
+    ],
+    "start_date": "2026-04-13T07:00:00.000Z",
+    "end_date": "2026-04-14T07:00:00.000Z",
+    "primary_image_url": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/654206672_1194037172609628_5689108438717614174_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=l9QYKgw5tUAQ7kNvwGNn-U1&_nc_oc=Adr315oFWQIDWF-TwQ81Cr1_EQd4NDNeEGa8RUndJ-RJwK2v6QYiHi3WTwZYR23Fyic&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=Sa29kFwNq6oKxQTEfza6Ew&_nc_ss=7a3a8&oh=00_Af2DjV0M3HkUHRRbRHI63SFMf0BPeM6hP8fCwhpuqWOk8w&oe=69E3E45D",
+    "card_count": 0,
+    "cards": [],
+    "original_json_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\jonesroad_ads.json",
+    "original_media_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\media_jonesroad\\ad_9_1470674821427344.jpg"
+  }
+}

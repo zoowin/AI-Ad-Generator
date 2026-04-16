@@ -1,0 +1,57 @@
+{
+  "ad_id": "meta_skinfix_1668433230995138",
+  "source_platform": "meta_ad_library",
+  "captured_at": "2026-04-15T03:28:29.887Z",
+  "brand_name": "skinfix",
+  "product_category": "unknown",
+  "product_names": [
+    "Skinfix.com",
+    "Airy texture and powerful hydration"
+  ],
+  "image_paths": [],
+  "video_paths": [],
+  "landing_page_url": "https://skinfix.com/products/ceramide-prime-whipped-cream",
+  "ad_copy": "{{product.brand}}",
+  "cta": "Learn more",
+  "country": "ALL",
+  "language": "unknown",
+  "notes": "Imported from competitor Meta Ad Library scraper",
+  "source_meta": {
+    "original_ad_archive_id": "1668433230995138",
+    "ad_format": "Carousel",
+    "media_kind": "carousel_preview",
+    "title": "{{product.name}}",
+    "caption": "skinfix.com",
+    "platforms": [
+      "FACEBOOK",
+      "INSTAGRAM",
+      "AUDIENCE_NETWORK",
+      "MESSENGER",
+      "THREADS"
+    ],
+    "start_date": "2026-03-16T07:00:00.000Z",
+    "end_date": "2026-04-07T07:00:00.000Z",
+    "primary_image_url": "",
+    "card_count": 2,
+    "cards": [
+      {
+        "body": "Introducing the new Ceramide Prime Whipped Cream. Designed for normal and combination skin, with a light, easy-to-layer feel.",
+        "title": "Skinfix.com",
+        "caption": "",
+        "cta_text": "Learn More",
+        "link_url": "https://skinfix.com/products/ceramide-prime-whipped-cream",
+        "image": ""
+      },
+      {
+        "body": "Introducing the new Ceramide Prime Whipped Cream. Designed for normal and combination skin, with a light, easy-to-layer feel.",
+        "title": "Airy texture and powerful hydration",
+        "caption": "",
+        "cta_text": "Learn More",
+        "link_url": "https://skinfix.com/products/ceramide-prime-whipped-cream",
+        "image": ""
+      }
+    ],
+    "original_json_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\skinfix_ads.json",
+    "original_media_path": ""
+  }
+}

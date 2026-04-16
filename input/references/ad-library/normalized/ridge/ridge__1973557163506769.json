@@ -1,0 +1,41 @@
+{
+  "ad_id": "meta_ridge_1973557163506769",
+  "source_platform": "meta_ad_library",
+  "captured_at": "2026-04-15T03:28:29.718Z",
+  "brand_name": "ridge",
+  "product_category": "unknown",
+  "product_names": [
+    "5 in 1 Powerbank"
+  ],
+  "image_paths": [
+    "data/input/ad-library/raw/ridge/ridge__1973557163506769.jpg"
+  ],
+  "video_paths": [],
+  "landing_page_url": "https://ridgewallet.ca/collections/magnetic-power-banks-capsule",
+  "ad_copy": "Charge iPhones with magsafe, Qi phones, USB-C wired, lightning wired AND an Apple Watch and get 10,000mAh in the palm of your hand. One thing to pack, five ways to power.",
+  "cta": "Shop now",
+  "country": "ALL",
+  "language": "unknown",
+  "notes": "Imported from competitor Meta Ad Library scraper",
+  "source_meta": {
+    "original_ad_archive_id": "1973557163506769",
+    "ad_format": "Video",
+    "media_kind": "video_preview",
+    "title": "5 in 1 Powerbank",
+    "caption": "ridgewallet.ca",
+    "platforms": [
+      "FACEBOOK",
+      "INSTAGRAM",
+      "AUDIENCE_NETWORK",
+      "MESSENGER",
+      "THREADS"
+    ],
+    "start_date": "2026-02-17T08:00:00.000Z",
+    "end_date": "2026-04-13T07:00:00.000Z",
+    "primary_image_url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/636835238_1249191473214711_2831830296953631185_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=eu_qO1YIvWkQ7kNvwGg3cxO&_nc_oc=AdrRHB7U_ZLZ-G3VJNgu6j-3CLqtP-dHQQKkprzJLxMb9L5Fd6l_ncAvj6Mq0h0OZiA&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=qqZTfAce3wqWlUL87WTHpQ&_nc_ss=7a3a8&oh=00_Af1HH83lQLPQ5Kv6bYC7GRnu1VvFtLhVZ_CawdlIOTRBDw&oe=69E3D5BA",
+    "card_count": 0,
+    "cards": [],
+    "original_json_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\ridge_ads.json",
+    "original_media_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\media_ridge\\ad_18_1973557163506769.jpg"
+  }
+}

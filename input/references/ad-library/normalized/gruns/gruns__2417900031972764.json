@@ -1,0 +1,56 @@
+{
+  "ad_id": "meta_gruns_2417900031972764",
+  "source_platform": "meta_ad_library",
+  "captured_at": "2026-04-15T03:28:29.102Z",
+  "brand_name": "gruns",
+  "product_category": "unknown",
+  "product_names": [
+    "Fuel Your Health"
+  ],
+  "image_paths": [],
+  "video_paths": [],
+  "landing_page_url": "https://gruns.co/pages/first-order-benefits",
+  "ad_copy": "{{product.brand}}",
+  "cta": "Shop now",
+  "country": "ALL",
+  "language": "unknown",
+  "notes": "Imported from competitor Meta Ad Library scraper",
+  "source_meta": {
+    "original_ad_archive_id": "2417900031972764",
+    "ad_format": "Carousel",
+    "media_kind": "carousel_preview",
+    "title": "{{product.name}}",
+    "caption": "gruns.co",
+    "platforms": [
+      "FACEBOOK",
+      "INSTAGRAM",
+      "AUDIENCE_NETWORK",
+      "MESSENGER",
+      "THREADS"
+    ],
+    "start_date": "2026-03-10T07:00:00.000Z",
+    "end_date": "2026-04-13T07:00:00.000Z",
+    "primary_image_url": "",
+    "card_count": 2,
+    "cards": [
+      {
+        "body": "Grüns Superfood Gummies pack 20+ nutrients to support energy and gut health—because adulting needs a tasty sidekick!",
+        "title": "Fuel Your Health",
+        "caption": "",
+        "cta_text": "Shop Now",
+        "link_url": "https://gruns.co/pages/first-order-benefits",
+        "image": ""
+      },
+      {
+        "body": "Grüns Superfood Gummies pack 20+ nutrients to support energy and gut health—because adulting needs a tasty sidekick!",
+        "title": "Fuel Your Health",
+        "caption": "",
+        "cta_text": "Shop Now",
+        "link_url": "https://gruns.co/pages/first-order-benefits",
+        "image": ""
+      }
+    ],
+    "original_json_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\gruns_ads.json",
+    "original_media_path": ""
+  }
+}

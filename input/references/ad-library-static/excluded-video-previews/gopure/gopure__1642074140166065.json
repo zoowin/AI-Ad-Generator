@@ -1,0 +1,38 @@
+{
+  "ad_id": "meta_gopure_1642074140166065",
+  "source_platform": "meta_ad_library",
+  "captured_at": "2026-04-15T03:28:29.008Z",
+  "brand_name": "gopure",
+  "product_category": "unknown",
+  "product_names": [
+    "Jaw on the floor. This stuff actually works."
+  ],
+  "image_paths": [],
+  "video_paths": [],
+  "landing_page_url": "https://gopurebeauty.com/products/tighten-lift-neck-cream",
+  "ad_copy": "This Go Pure neck cream 100% worked for me! If you have a wrinkly or saggy neck, this is the solution. I saw a huge difference in 30 days! \n#antiagingtreatmentlondon #skincare #tiktokshopsale #saggyneck",
+  "cta": "Learn more",
+  "country": "ALL",
+  "language": "unknown",
+  "notes": "Imported from competitor Meta Ad Library scraper",
+  "source_meta": {
+    "original_ad_archive_id": "1642074140166065",
+    "ad_format": "Video",
+    "media_kind": "video_preview",
+    "title": "Jaw on the floor. This stuff actually works.",
+    "caption": "gopurebeauty.com",
+    "platforms": [
+      "FACEBOOK",
+      "INSTAGRAM",
+      "MESSENGER",
+      "THREADS"
+    ],
+    "start_date": "2026-03-17T07:00:00.000Z",
+    "end_date": "2026-04-01T07:00:00.000Z",
+    "primary_image_url": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/491958285_3408362882628345_1274677613640876520_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=tBFjuvLEtp4Q7kNvwGdpo-T&_nc_oc=AdpdcXLZSKXor_9aeP_71SBD2LALOIuxfGS0-6YK3DwXO-vN86d5m3WBh0cHCmDkV_U&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=sjp9o1GcZJUITvj2pIsr-Q&_nc_ss=7a3a8&oh=00_Af2U4ksaMdDfH8Np0YfYIMtSQRCRr-YQUJIpcKaOTC7DQw&oe=69D40B2D",
+    "card_count": 0,
+    "cards": [],
+    "original_json_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\gopure_ads.json",
+    "original_media_path": ""
+  }
+}

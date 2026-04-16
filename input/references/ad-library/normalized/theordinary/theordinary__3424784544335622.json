@@ -1,0 +1,40 @@
+{
+  "ad_id": "meta_theordinary_3424784544335622",
+  "source_platform": "meta_ad_library",
+  "captured_at": "2026-04-15T03:28:29.986Z",
+  "brand_name": "theordinary",
+  "product_category": "unknown",
+  "product_names": [
+    "Niacinamide doesn’t need a makeover to be trending"
+  ],
+  "image_paths": [
+    "data/input/ad-library/raw/theordinary/theordinary__3424784544335622.jpg"
+  ],
+  "video_paths": [],
+  "landing_page_url": "https://fb.com/canvas_doc/2487253231688616",
+  "ad_copy": "Skincare's most researched, universal ingredient for blemish-prone skin that targets dullness, uneven texture, excess oil.",
+  "cta": "Shop now",
+  "country": "ALL",
+  "language": "unknown",
+  "notes": "Imported from competitor Meta Ad Library scraper",
+  "source_meta": {
+    "original_ad_archive_id": "3424784544335622",
+    "ad_format": "Image",
+    "media_kind": "image",
+    "title": "Niacinamide doesn’t need a makeover to be trending",
+    "caption": "fb.com",
+    "platforms": [
+      "FACEBOOK",
+      "INSTAGRAM",
+      "AUDIENCE_NETWORK",
+      "THREADS"
+    ],
+    "start_date": "2026-03-16T07:00:00.000Z",
+    "end_date": "2026-04-08T07:00:00.000Z",
+    "primary_image_url": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/651746385_947875661525169_6230346736503053583_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Rfne8I-fYScQ7kNvwGbR2mN&_nc_oc=AdqH7jtfw4nTdkDAk9mvuObtzgAP3RlMrHfP8gKdhCSTvsdfRUbb-FEMQqhiOmiFV2E&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=Z_nVSow4qziKaexeRF_dXQ&_nc_ss=7a3a8&oh=00_Af1d1W7n73cvrjbGotLB-uonrcW7Rn2MxfmEvNZExnryHw&oe=69DC00C0",
+    "card_count": 0,
+    "cards": [],
+    "original_json_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\theordinary_ads.json",
+    "original_media_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\media_theordinary\\ad_26_3424784544335622.jpg"
+  }
+}

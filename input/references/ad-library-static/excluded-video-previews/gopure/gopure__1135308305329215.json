@@ -1,0 +1,38 @@
+{
+  "ad_id": "meta_gopure_1135308305329215",
+  "source_platform": "meta_ad_library",
+  "captured_at": "2026-04-15T03:28:29.006Z",
+  "brand_name": "gopure",
+  "product_category": "unknown",
+  "product_names": [
+    "#1 Neck Cream on Amazon"
+  ],
+  "image_paths": [],
+  "video_paths": [],
+  "landing_page_url": "http://amazon.gopure.com/nc10",
+  "ad_copy": "Flash Sale Alert! Go Pure Neck Cream is on sale, and it’s time to grab yours! At 57, this cream has improved the look of my neck. I apply it every morning and evening, and my skin looks better than it did 10 years ago. No filters—just real results! Plus, free shipping! Get the real Go Pure Neck Cream while this amazing flash sale lasts. Don’t miss out—shop now on Amazon and see the difference for yourself.",
+  "cta": "Learn more",
+  "country": "ALL",
+  "language": "unknown",
+  "notes": "Imported from competitor Meta Ad Library scraper",
+  "source_meta": {
+    "original_ad_archive_id": "1135308305329215",
+    "ad_format": "Video",
+    "media_kind": "video_preview",
+    "title": "#1 Neck Cream on Amazon",
+    "caption": "amazon.gopure.com",
+    "platforms": [
+      "FACEBOOK",
+      "INSTAGRAM",
+      "MESSENGER",
+      "THREADS"
+    ],
+    "start_date": "2026-03-17T07:00:00.000Z",
+    "end_date": "2026-04-02T07:00:00.000Z",
+    "primary_image_url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/588641432_2118985365306561_8678596315424278594_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=fE3AJ8nF7iUQ7kNvwEa4N2k&_nc_oc=AdqZWbHN97k6y-BrLWhFVc6wStVhYpYIncq-qv9pxyYSkAOZmENlKIQxEyEAlMhIXzc&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=sjp9o1GcZJUITvj2pIsr-Q&_nc_ss=7a3a8&oh=00_Af0k23PrXz2wCB--nIdjz0JpfGI3kSbrQlGDLK9Cklmrig&oe=69D4012D",
+    "card_count": 0,
+    "cards": [],
+    "original_json_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\gopure_ads.json",
+    "original_media_path": ""
+  }
+}

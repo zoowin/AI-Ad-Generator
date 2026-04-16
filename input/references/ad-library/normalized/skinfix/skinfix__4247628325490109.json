@@ -1,0 +1,57 @@
+{
+  "ad_id": "meta_skinfix_4247628325490109",
+  "source_platform": "meta_ad_library",
+  "captured_at": "2026-04-15T03:28:29.846Z",
+  "brand_name": "skinfix",
+  "product_category": "unknown",
+  "product_names": [
+    "For Skin That Fluctuates"
+  ],
+  "image_paths": [
+    "data/input/ad-library/raw/skinfix/skinfix__4247628325490109.jpg"
+  ],
+  "video_paths": [],
+  "landing_page_url": "https://skinfix.com/products/ceramide-prime-whipped-cream",
+  "ad_copy": "{{product.brand}}",
+  "cta": "Learn more",
+  "country": "ALL",
+  "language": "unknown",
+  "notes": "Imported from competitor Meta Ad Library scraper",
+  "source_meta": {
+    "original_ad_archive_id": "4247628325490109",
+    "ad_format": "Carousel",
+    "media_kind": "carousel_preview",
+    "title": "{{product.name}}",
+    "caption": "skinfix.com",
+    "platforms": [
+      "FACEBOOK",
+      "INSTAGRAM",
+      "AUDIENCE_NETWORK",
+      "THREADS"
+    ],
+    "start_date": "2026-03-10T07:00:00.000Z",
+    "end_date": "2026-04-07T07:00:00.000Z",
+    "primary_image_url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/647212548_1970663290154890_2979102600226635317_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=yivbNhP_R0AQ7kNvwFEYMXZ&_nc_oc=AdqzJuIESqnGc5lHtQWWJZZOVqRO8KcjgKU_MYPlPFGkV94qTLbxu1hDr19OcNhCjQ4&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=NfPh_cuV0mLiy6yq3lQodQ&_nc_ss=7a3a8&oh=00_Af0ZFSffxXAb3TuS8v7EicLn24R_eV8SdDMiIFvJWaZeLQ&oe=69DBDD91",
+    "card_count": 2,
+    "cards": [
+      {
+        "body": "Lasting, non-greasy hydration that leaves normal-to-combination skin bouncier and healthier-looking: meet Ceramide Prime.",
+        "title": "For Skin That Fluctuates",
+        "caption": "",
+        "cta_text": "Learn More",
+        "link_url": "https://skinfix.com/products/ceramide-prime-whipped-cream",
+        "image": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/647212548_1970663290154890_2979102600226635317_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=yivbNhP_R0AQ7kNvwFEYMXZ&_nc_oc=AdqzJuIESqnGc5lHtQWWJZZOVqRO8KcjgKU_MYPlPFGkV94qTLbxu1hDr19OcNhCjQ4&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=NfPh_cuV0mLiy6yq3lQodQ&_nc_ss=7a3a8&oh=00_Af0ZFSffxXAb3TuS8v7EicLn24R_eV8SdDMiIFvJWaZeLQ&oe=69DBDD91"
+      },
+      {
+        "body": "Lasting, non-greasy hydration that leaves normal-to-combination skin bouncier and healthier-looking: meet Ceramide Prime.",
+        "title": "For Skin That Fluctuates",
+        "caption": "",
+        "cta_text": "Learn More",
+        "link_url": "https://skinfix.com/products/ceramide-prime-whipped-cream",
+        "image": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/646381058_1625151218734716_7059517906822987212_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=nbZEUGSqUTkQ7kNvwGZ6gep&_nc_oc=Adq2v6StDCJeVpVtymJXtAQkw35KYxgLjrJTNnb8Bi_qEOi3PK5EYPBi9Lm3kUT_Mi8&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=NfPh_cuV0mLiy6yq3lQodQ&_nc_ss=7a3a8&oh=00_Af2n9D_58M4qeFtBkbcil4mhNlASq02pemX7Oa5XSU7ULQ&oe=69DBF28B"
+      }
+    ],
+    "original_json_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\skinfix_ads.json",
+    "original_media_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\media_skinfix\\ad_7_4247628325490109.jpg"
+  }
+}

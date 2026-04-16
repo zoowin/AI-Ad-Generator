@@ -1,0 +1,40 @@
+{
+  "ad_id": "meta_drmtlgy_980898377694049",
+  "source_platform": "meta_ad_library",
+  "captured_at": "2026-04-15T03:28:28.913Z",
+  "brand_name": "drmtlgy",
+  "product_category": "unknown",
+  "product_names": [
+    "\"Basically, it's like liquid gold for skin.\""
+  ],
+  "image_paths": [
+    "data/input/ad-library/raw/drmtlgy/drmtlgy__980898377694049.jpg"
+  ],
+  "video_paths": [],
+  "landing_page_url": "https://www.drmtlgy.com/products/retinol-body-lotion",
+  "ad_copy": "{{product.brand}}",
+  "cta": "Shop Now",
+  "country": "ALL",
+  "language": "unknown",
+  "notes": "Imported from competitor Meta Ad Library scraper",
+  "source_meta": {
+    "original_ad_archive_id": "980898377694049",
+    "ad_format": "Video",
+    "media_kind": "video_preview",
+    "title": "\"Basically, it's like liquid gold for skin.\"",
+    "caption": "",
+    "platforms": [
+      "FACEBOOK",
+      "INSTAGRAM",
+      "MESSENGER",
+      "THREADS"
+    ],
+    "start_date": "2026-04-01T07:00:00.000Z",
+    "end_date": "",
+    "primary_image_url": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/588598332_1932970190983281_3931026811636825534_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=dGIIPbea8-IQ7kNvwG3OxF3&_nc_oc=AdrCgC3m4FIunEEvvT5l4-rvdGWHtLUWQMU7yX8Z6A4ixhFZzjjtzOA_gCjxMWL_7ho&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=2QWTKabkCeZiH4T1AWhjTw&_nc_ss=7a3a8&oh=00_Af3iDBaHvHNgonZmuBMOzSqCWVEq55jspepZgWXsS4dC-w&oe=69D42773",
+    "card_count": 2,
+    "cards": [],
+    "original_json_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\drmtlgy_ads.json",
+    "original_media_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\media_drmtlgy\\ad_21.jpg"
+  }
+}

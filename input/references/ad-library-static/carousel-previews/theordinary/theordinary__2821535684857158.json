@@ -1,0 +1,55 @@
+{
+  "ad_id": "meta_theordinary_2821535684857158",
+  "source_platform": "meta_ad_library",
+  "captured_at": "2026-04-15T03:28:29.956Z",
+  "brand_name": "theordinary",
+  "product_category": "unknown",
+  "product_names": [
+    "Join The Party."
+  ],
+  "image_paths": [
+    "data/input/ad-library/raw/theordinary/theordinary__2821535684857158.jpg"
+  ],
+  "video_paths": [],
+  "landing_page_url": "https://theordinary.com/category/best-sellers?utm_medium=paid_social&utm_source=fb_ig&utm_campaign=deciembirthday&utm_content={{adset.id}}-{{ad.id}}",
+  "ad_copy": "{{product.brand}}",
+  "cta": "Shop now",
+  "country": "ALL",
+  "language": "unknown",
+  "notes": "Imported from competitor Meta Ad Library scraper",
+  "source_meta": {
+    "original_ad_archive_id": "2821535684857158",
+    "ad_format": "Carousel",
+    "media_kind": "carousel_preview",
+    "title": "{{product.name}}",
+    "caption": "theordinary.com",
+    "platforms": [
+      "FACEBOOK",
+      "INSTAGRAM"
+    ],
+    "start_date": "2026-03-31T07:00:00.000Z",
+    "end_date": "2026-04-07T07:00:00.000Z",
+    "primary_image_url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/659113187_1197687995775146_2568088553704336980_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Zl8fhu5a01wQ7kNvwHbWqrY&_nc_oc=Ado0KxFKoO77PPuF4plEkB_QH9UiykKxjVDhTcM_AJD9TYVlMM-a9CT1yKH0vf7_kbo&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=Z_nVSow4qziKaexeRF_dXQ&_nc_ss=7a3a8&oh=00_Af2dw11-sXBlizfhpakx26SPz92awNX9CqrHGaJyP8eqDw&oe=69DBDD09",
+    "card_count": 2,
+    "cards": [
+      {
+        "body": "It's our birthday and everyone's invited. 23% off all formulations.",
+        "title": "Join The Party.",
+        "caption": "",
+        "cta_text": "Shop Now",
+        "link_url": "https://theordinary.com/category/best-sellers?utm_medium=paid_social&utm_source=fb_ig&utm_campaign=deciembirthday&utm_content={{adset.id}}-{{ad.id}}",
+        "image": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/659113187_1197687995775146_2568088553704336980_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Zl8fhu5a01wQ7kNvwHbWqrY&_nc_oc=Ado0KxFKoO77PPuF4plEkB_QH9UiykKxjVDhTcM_AJD9TYVlMM-a9CT1yKH0vf7_kbo&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=Z_nVSow4qziKaexeRF_dXQ&_nc_ss=7a3a8&oh=00_Af2dw11-sXBlizfhpakx26SPz92awNX9CqrHGaJyP8eqDw&oe=69DBDD09"
+      },
+      {
+        "body": "It's our birthday and everyone's invited. 23% off all formulations.",
+        "title": "Join The Party.",
+        "caption": "",
+        "cta_text": "Shop Now",
+        "link_url": "https://theordinary.com/category/best-sellers?utm_medium=paid_social&utm_source=fb_ig&utm_campaign=deciembirthday&utm_content={{adset.id}}-{{ad.id}}",
+        "image": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/658125929_1640839300441199_2584313899998670039_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=aZ2kxFCiiCoQ7kNvwEYvbgo&_nc_oc=Adp1jHtGScQN_Xuyxb9NsVnQmgy_Uv2uERI8i2Qq4hrPesD40RrwrpSUwXzbBQV7BM0&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=Z_nVSow4qziKaexeRF_dXQ&_nc_ss=7a3a8&oh=00_Af1khiKtQjgFFYRBPEdNMFYvfvcHkih1TVzCmMIQ6jHPZA&oe=69DBCA8C"
+      }
+    ],
+    "original_json_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\theordinary_ads.json",
+    "original_media_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\media_theordinary\\ad_19_2821535684857158.jpg"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "ad_id": "meta_caraway_1608780010450243",
+  "source_platform": "meta_ad_library",
+  "captured_at": "2026-04-15T03:28:28.755Z",
+  "brand_name": "caraway",
+  "product_category": "unknown",
+  "product_names": [
+    "Upgrade Your Kitchen with Caraway"
+  ],
+  "image_paths": [],
+  "video_paths": [],
+  "landing_page_url": "https://www.carawayhome.com/collections/best-sellers",
+  "ad_copy": "{{product.brand}}",
+  "cta": "Shop now",
+  "country": "ALL",
+  "language": "unknown",
+  "notes": "Imported from competitor Meta Ad Library scraper",
+  "source_meta": {
+    "original_ad_archive_id": "1608780010450243",
+    "ad_format": "Carousel",
+    "media_kind": "carousel_preview",
+    "title": "{{product.name}}",
+    "caption": "carawayhome.com",
+    "platforms": [
+      "FACEBOOK",
+      "INSTAGRAM",
+      "MESSENGER",
+      "THREADS"
+    ],
+    "start_date": "2026-02-25T08:00:00.000Z",
+    "end_date": "2026-04-13T07:00:00.000Z",
+    "primary_image_url": "",
+    "card_count": 2,
+    "cards": [
+      {
+        "body": "Motherhood changes everything — including your standards. \nCaraway cookware delivers precise heat control, effortless cleanup, and timeless design made for everyday cooking. \nBecause the pieces you use daily should evolve with you.",
+        "title": "Upgrade Your Kitchen with Caraway",
+        "caption": "",
+        "cta_text": "Shop Now",
+        "link_url": "https://www.carawayhome.com/collections/best-sellers",
+        "image": ""
+      },
+      {
+        "body": "Motherhood changes everything — including your standards. \nCaraway cookware delivers precise heat control, effortless cleanup, and timeless design made for everyday cooking. \nBecause the pieces you use daily should evolve with you.",
+        "title": "Upgrade Your Kitchen with Caraway",
+        "caption": "",
+        "cta_text": "Shop Now",
+        "link_url": "https://www.carawayhome.com/collections/best-sellers",
+        "image": ""
+      }
+    ],
+    "original_json_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\caraway_ads.json",
+    "original_media_path": ""
+  }
+}

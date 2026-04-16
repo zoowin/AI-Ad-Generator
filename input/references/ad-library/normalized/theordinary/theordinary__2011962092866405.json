@@ -1,0 +1,40 @@
+{
+  "ad_id": "meta_theordinary_2011962092866405",
+  "source_platform": "meta_ad_library",
+  "captured_at": "2026-04-15T03:28:29.952Z",
+  "brand_name": "theordinary",
+  "product_category": "unknown",
+  "product_names": [
+    "Scientifically formulated without a white cast"
+  ],
+  "image_paths": [
+    "data/input/ad-library/raw/theordinary/theordinary__2011962092866405.jpg"
+  ],
+  "video_paths": [],
+  "landing_page_url": "https://fb.com/canvas_doc/1481990233530423",
+  "ad_copy": "UV Filters SPF 40 that’s formulated with ceramides to strengthen skin’s barrier & keep hydration locked in.",
+  "cta": "Shop now",
+  "country": "ALL",
+  "language": "unknown",
+  "notes": "Imported from competitor Meta Ad Library scraper",
+  "source_meta": {
+    "original_ad_archive_id": "2011962092866405",
+    "ad_format": "Video",
+    "media_kind": "video_preview",
+    "title": "Scientifically formulated without a white cast",
+    "caption": "fb.com",
+    "platforms": [
+      "FACEBOOK",
+      "INSTAGRAM",
+      "AUDIENCE_NETWORK",
+      "THREADS"
+    ],
+    "start_date": "2026-04-01T07:00:00.000Z",
+    "end_date": "2026-04-07T07:00:00.000Z",
+    "primary_image_url": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/660407102_830192482727986_5379551819980538725_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=PBs-caM6MtgQ7kNvwF1g26r&_nc_oc=Adqv7pIUzUC23_bdrjEMCpWAVXuCtuj3tKw2Ce-Ec0zorTKQBbTTGs2oggIHudXPLXM&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=Z_nVSow4qziKaexeRF_dXQ&_nc_ss=7a3a8&oh=00_Af1Ez5PVAn3ETj4SnliDNenQzZjP21aIErX5Vqx_9lXyXQ&oe=69DBFD47",
+    "card_count": 0,
+    "cards": [],
+    "original_json_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\theordinary_ads.json",
+    "original_media_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\media_theordinary\\ad_18_2011962092866405.jpg"
+  }
+}

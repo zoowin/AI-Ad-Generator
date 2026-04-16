@@ -1,0 +1,65 @@
+{
+  "ad_id": "meta_skinfix_1910732636500496",
+  "source_platform": "meta_ad_library",
+  "captured_at": "2026-04-15T03:28:29.843Z",
+  "brand_name": "skinfix",
+  "product_category": "unknown",
+  "product_names": [
+    "Light, Airy Barrier Care"
+  ],
+  "image_paths": [
+    "data/input/ad-library/raw/skinfix/skinfix__1910732636500496.jpg"
+  ],
+  "video_paths": [],
+  "landing_page_url": "https://ca.skinfix.com/products/ceramide-prime-whipped-cream",
+  "ad_copy": "{{product.brand}}",
+  "cta": "Learn more",
+  "country": "ALL",
+  "language": "unknown",
+  "notes": "Imported from competitor Meta Ad Library scraper",
+  "source_meta": {
+    "original_ad_archive_id": "1910732636500496",
+    "ad_format": "Carousel",
+    "media_kind": "carousel_preview",
+    "title": "{{product.name}}",
+    "caption": "ca.skinfix.com",
+    "platforms": [
+      "FACEBOOK",
+      "INSTAGRAM",
+      "AUDIENCE_NETWORK",
+      "THREADS"
+    ],
+    "start_date": "2026-03-10T07:00:00.000Z",
+    "end_date": "2026-04-07T07:00:00.000Z",
+    "primary_image_url": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/648949914_1848881219153083_1900976760993568001_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Cu-uZSRD4o8Q7kNvwGshm87&_nc_oc=AdrSzcEQCmkfqzngTBMauvQJsXlkEi90ZN_iNnHHiJrkgakrxyMMHOZ21YQKsvI068g&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=NfPh_cuV0mLiy6yq3lQodQ&_nc_ss=7a3a8&oh=00_Af2f70dbzGT48sk6kXmD6fwkDlTFRBLD8K6E_CkmWqFEow&oe=69DBEB7A",
+    "card_count": 3,
+    "cards": [
+      {
+        "body": "Dermatologist recommended. User loved. See what clinical testing confirmed: 97% of testers saw results in just 1 week.",
+        "title": "Light, Airy Barrier Care",
+        "caption": "",
+        "cta_text": "Learn More",
+        "link_url": "https://ca.skinfix.com/products/ceramide-prime-whipped-cream",
+        "image": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/648949914_1848881219153083_1900976760993568001_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Cu-uZSRD4o8Q7kNvwGshm87&_nc_oc=AdrSzcEQCmkfqzngTBMauvQJsXlkEi90ZN_iNnHHiJrkgakrxyMMHOZ21YQKsvI068g&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=NfPh_cuV0mLiy6yq3lQodQ&_nc_ss=7a3a8&oh=00_Af2f70dbzGT48sk6kXmD6fwkDlTFRBLD8K6E_CkmWqFEow&oe=69DBEB7A"
+      },
+      {
+        "body": "Dermatologist recommended. User loved. See what clinical testing confirmed: 97% of testers saw results in just 1 week.",
+        "title": "Light, Airy Barrier Care",
+        "caption": "",
+        "cta_text": "Learn More",
+        "link_url": "https://ca.skinfix.com/products/ceramide-prime-whipped-cream",
+        "image": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/648338134_967906342776298_4337022859061870167_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Wx-nUVEtAdoQ7kNvwETp-bn&_nc_oc=AdqXfUYAWqgF9MHXnH3niCAIkqF-rc4dgE-5R6XV1d-6iCBNJkyJKafMTnC1DXdQB8U&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=NfPh_cuV0mLiy6yq3lQodQ&_nc_ss=7a3a8&oh=00_Af0YsJfaJ2wJHIFeTV3CWECFXJvjpvioI695d1MxuNAGuw&oe=69DBE1F0"
+      },
+      {
+        "body": "Dermatologist recommended. User loved. See what clinical testing confirmed: 97% of testers saw results in just 1 week.",
+        "title": "Light, Airy Barrier Care",
+        "caption": "",
+        "cta_text": "Learn More",
+        "link_url": "https://ca.skinfix.com/products/ceramide-prime-whipped-cream",
+        "image": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/648850870_1510658680476185_2007829138416033532_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=sqIJJxyu5B8Q7kNvwE4btZU&_nc_oc=Adrlv-cyTL3UxXXJPavdFLVOdjKM5dGOsoBbhy1H6Q_LncIAWF2oLxYwfvZAjfrIups&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=NfPh_cuV0mLiy6yq3lQodQ&_nc_ss=7a3a8&oh=00_Af0DS3U3MEc75l9fpWP7ujAZAGwRX5Q0iCEjCVxSc53coA&oe=69DBD716"
+      }
+    ],
+    "original_json_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\skinfix_ads.json",
+    "original_media_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\media_skinfix\\ad_2_1910732636500496.jpg"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "ad_id": "meta_gopure_1286730496650324",
+  "source_platform": "meta_ad_library",
+  "captured_at": "2026-04-15T03:28:29.001Z",
+  "brand_name": "gopure",
+  "product_category": "unknown",
+  "product_names": [
+    "Best Deal on Amazon"
+  ],
+  "image_paths": [],
+  "video_paths": [],
+  "landing_page_url": "http://amazon.gopure.com/nc10",
+  "ad_copy": "The best neck tightening, neck firming cream you’ll ever find!\n#gopure #tiktokshopsummersale #tiktokshopsale\n\nYou can also grab the authentic GoPure cream on Amazon for quick delivery and an easy checkout.",
+  "cta": "Learn more",
+  "country": "ALL",
+  "language": "unknown",
+  "notes": "Imported from competitor Meta Ad Library scraper",
+  "source_meta": {
+    "original_ad_archive_id": "1286730496650324",
+    "ad_format": "Video",
+    "media_kind": "video_preview",
+    "title": "Best Deal on Amazon",
+    "caption": "amazon.gopure.com",
+    "platforms": [
+      "FACEBOOK",
+      "INSTAGRAM",
+      "MESSENGER",
+      "THREADS"
+    ],
+    "start_date": "2026-03-17T07:00:00.000Z",
+    "end_date": "2026-04-02T07:00:00.000Z",
+    "primary_image_url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/588982011_855861883601502_2513500636026281878_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=B43TieS86PEQ7kNvwGlfgVT&_nc_oc=Ado7Tbhr9U4Iq817s_8Tkum2EiSnOpRTVW19dU77euiIEGyW9FwoKeUuF32m9l_WWXQ&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=sjp9o1GcZJUITvj2pIsr-Q&_nc_ss=7a3a8&oh=00_Af26aa6PvsBhV6SczyHPmDPSquuGgtE2lu9set44iqzVUQ&oe=69D41076",
+    "card_count": 0,
+    "cards": [],
+    "original_json_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\gopure_ads.json",
+    "original_media_path": ""
+  }
+}

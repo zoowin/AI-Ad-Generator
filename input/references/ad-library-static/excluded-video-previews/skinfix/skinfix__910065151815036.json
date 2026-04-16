@@ -1,0 +1,39 @@
+{
+  "ad_id": "meta_skinfix_910065151815036",
+  "source_platform": "meta_ad_library",
+  "captured_at": "2026-04-15T03:28:29.883Z",
+  "brand_name": "skinfix",
+  "product_category": "unknown",
+  "product_names": [],
+  "image_paths": [
+    "data/input/ad-library/raw/skinfix/skinfix__910065151815036.jpg"
+  ],
+  "video_paths": [],
+  "landing_page_url": "https://skinfix.com/products/vitamin-c-serum",
+  "ad_copy": "Many of my clients want the brightening benefits of vitamin C but struggle because traditional formulas can be too irritating. Most formulas on the market use L-ascorbic acid, which isn’t always ideal for sensitive or reactive skin.\n\n@skinfix takes a different approach with 15% THD Ascorbate, a gentler more stable form designed help brighten + firm the skin without the irritation✨\n\n#skinfix #skinfixpartner",
+  "cta": "Shop now",
+  "country": "ALL",
+  "language": "unknown",
+  "notes": "Imported from competitor Meta Ad Library scraper",
+  "source_meta": {
+    "original_ad_archive_id": "910065151815036",
+    "ad_format": "Video",
+    "media_kind": "video_preview",
+    "title": "",
+    "caption": "skinfix.com",
+    "platforms": [
+      "FACEBOOK",
+      "INSTAGRAM",
+      "AUDIENCE_NETWORK",
+      "MESSENGER",
+      "THREADS"
+    ],
+    "start_date": "2026-03-03T08:00:00.000Z",
+    "end_date": "2026-04-07T07:00:00.000Z",
+    "primary_image_url": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/646446543_1661603621925649_7892560158545802196_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=2Kn6sIrxjmYQ7kNvwEwf4sd&_nc_oc=AdpXpxj6kESpoqtJOcsfqvubUnVSBRL9cFAVve_7oNI8Gd8PBmyLGZJRI1fJHAAn6oo&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=NfPh_cuV0mLiy6yq3lQodQ&_nc_ss=7a3a8&oh=00_Af08vqBtFXIM0XHMPw3C5i-u4brLFSO73LoOFJ8iobbT4Q&oe=69DBF3D5",
+    "card_count": 0,
+    "cards": [],
+    "original_json_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\skinfix_ads.json",
+    "original_media_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\media_skinfix\\ad_21_910065151815036.jpg"
+  }
+}

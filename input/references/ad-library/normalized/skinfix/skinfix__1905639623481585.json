@@ -1,0 +1,67 @@
+{
+  "ad_id": "meta_skinfix_1905639623481585",
+  "source_platform": "meta_ad_library",
+  "captured_at": "2026-04-15T03:28:29.892Z",
+  "brand_name": "skinfix",
+  "product_category": "unknown",
+  "product_names": [
+    "Skinfix.com",
+    "Softer skin without compromising on feel"
+  ],
+  "image_paths": [
+    "data/input/ad-library/raw/skinfix/skinfix__1905639623481585.jpg"
+  ],
+  "video_paths": [],
+  "landing_page_url": "https://skinfix.com/products/ceramide-prime-whipped-cream",
+  "ad_copy": "{{product.brand}}",
+  "cta": "Learn more",
+  "country": "ALL",
+  "language": "unknown",
+  "notes": "Imported from competitor Meta Ad Library scraper",
+  "source_meta": {
+    "original_ad_archive_id": "1905639623481585",
+    "ad_format": "Carousel",
+    "media_kind": "carousel_preview",
+    "title": "{{product.name}}",
+    "caption": "skinfix.com",
+    "platforms": [
+      "FACEBOOK",
+      "INSTAGRAM",
+      "AUDIENCE_NETWORK",
+      "MESSENGER",
+      "THREADS"
+    ],
+    "start_date": "2026-03-16T07:00:00.000Z",
+    "end_date": "2026-04-07T07:00:00.000Z",
+    "primary_image_url": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/646285695_1605953027117060_7856194248594444694_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ON_4Pal4CGYQ7kNvwFFM_iC&_nc_oc=AdqhB558wFG2Iy33WuUVzeONcDdYr9FhNszrNRS5cg0D_t9CnNYjdi7JtlT9OcKGPLo&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=NfPh_cuV0mLiy6yq3lQodQ&_nc_ss=7a3a8&oh=00_Af1zpmayZakPH8RO7SNJgqFRViLIioNZmZ9dFeqnGL_hQQ&oe=69DBF61D",
+    "card_count": 3,
+    "cards": [
+      {
+        "body": "Traditional creams sit on the skin's surface, but Ceramide Prime Whipped Cream sinks in for deep hydration without pilling.",
+        "title": "Skinfix.com",
+        "caption": "",
+        "cta_text": "Learn More",
+        "link_url": "https://skinfix.com/products/ceramide-prime-whipped-cream",
+        "image": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/646285695_1605953027117060_7856194248594444694_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ON_4Pal4CGYQ7kNvwFFM_iC&_nc_oc=AdqhB558wFG2Iy33WuUVzeONcDdYr9FhNszrNRS5cg0D_t9CnNYjdi7JtlT9OcKGPLo&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=NfPh_cuV0mLiy6yq3lQodQ&_nc_ss=7a3a8&oh=00_Af1zpmayZakPH8RO7SNJgqFRViLIioNZmZ9dFeqnGL_hQQ&oe=69DBF61D"
+      },
+      {
+        "body": "Traditional creams sit on the skin's surface, but Ceramide Prime Whipped Cream sinks in for deep hydration without pilling.",
+        "title": "Skinfix.com",
+        "caption": "",
+        "cta_text": "Learn More",
+        "link_url": "https://skinfix.com/products/ceramide-prime-whipped-cream",
+        "image": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/646344236_3062894597239762_7540905209362463991_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=xKPjK1aFmYEQ7kNvwHiDUxP&_nc_oc=AdrnKuAoUcFa0DNUzOKCIBJuuddUk91B6Pe45ycP5M_0t9WVPXL14Qsd-SOmIwjJyP8&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=NfPh_cuV0mLiy6yq3lQodQ&_nc_ss=7a3a8&oh=00_Af0dpJDJhq4GDMx8asgJENYUSqzuacaGIMTI7APFNiZqjA&oe=69DBD5A2"
+      },
+      {
+        "body": "Traditional creams sit on the skin's surface, but Ceramide Prime Whipped Cream sinks in for deep hydration without pilling.",
+        "title": "Softer skin without compromising on feel",
+        "caption": "",
+        "cta_text": "Learn More",
+        "link_url": "https://skinfix.com/products/ceramide-prime-whipped-cream",
+        "image": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/646285695_1605953027117060_7856194248594444694_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ON_4Pal4CGYQ7kNvwFFM_iC&_nc_oc=AdqhB558wFG2Iy33WuUVzeONcDdYr9FhNszrNRS5cg0D_t9CnNYjdi7JtlT9OcKGPLo&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=NfPh_cuV0mLiy6yq3lQodQ&_nc_ss=7a3a8&oh=00_Af1zpmayZakPH8RO7SNJgqFRViLIioNZmZ9dFeqnGL_hQQ&oe=69DBF61D"
+      }
+    ],
+    "original_json_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\skinfix_ads.json",
+    "original_media_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\media_skinfix\\ad_30_1905639623481585.jpg"
+  }
+}

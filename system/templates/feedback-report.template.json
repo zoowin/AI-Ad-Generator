@@ -1,0 +1,27 @@
+{
+  "report_id": "fb_20260415_0001",
+  "campaign_id": "cmp_001",
+  "adset_id": "adset_001",
+  "ad_id": "ad_001",
+  "creative_brief_id": "out_20260415_0001",
+  "pattern_ids": [
+    "product-hero-with-proof",
+    "clinical-closeup"
+  ],
+  "ctr": 0.024,
+  "cpc": 1.18,
+  "cpa": 23.7,
+  "roas": 1.9,
+  "thumb_stop_score": 0.73,
+  "winner_signals": [
+    "Strong early CTR",
+    "Product clarity is high"
+  ],
+  "fatigue_signals": [
+    "Frequency rising after day 4"
+  ],
+  "next_actions": [
+    "Keep structure and test softer color palette",
+    "Try tighter proof crop"
+  ]
+}

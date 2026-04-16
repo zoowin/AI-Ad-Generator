@@ -1,0 +1,55 @@
+{
+  "ad_id": "meta_caraway_899531053063155",
+  "source_platform": "meta_ad_library",
+  "captured_at": "2026-04-15T03:28:28.757Z",
+  "brand_name": "caraway",
+  "product_category": "unknown",
+  "product_names": [
+    "The Trash Can That Everyone's Talking About"
+  ],
+  "image_paths": [],
+  "video_paths": [],
+  "landing_page_url": "https://www.carawayhome.com/products/trash-can-duo",
+  "ad_copy": "{{product.brand}}",
+  "cta": "Shop now",
+  "country": "ALL",
+  "language": "unknown",
+  "notes": "Imported from competitor Meta Ad Library scraper",
+  "source_meta": {
+    "original_ad_archive_id": "899531053063155",
+    "ad_format": "Carousel",
+    "media_kind": "carousel_preview",
+    "title": "{{product.name}}",
+    "caption": "carawayhome.com",
+    "platforms": [
+      "FACEBOOK",
+      "INSTAGRAM",
+      "MESSENGER",
+      "THREADS"
+    ],
+    "start_date": "2026-04-08T07:00:00.000Z",
+    "end_date": "2026-04-14T07:00:00.000Z",
+    "primary_image_url": "",
+    "card_count": 2,
+    "cards": [
+      {
+        "body": "You use your trash can too often for it to look like that. Caraway’s Trash & Recycling Collection brings together a clean, intentional design with a system that actually works—so it finally fits your kitchen.",
+        "title": "The Trash Can That Everyone's Talking About",
+        "caption": "",
+        "cta_text": "Shop Now",
+        "link_url": "https://www.carawayhome.com/products/trash-can-duo",
+        "image": ""
+      },
+      {
+        "body": "You use your trash can too often for it to look like that. Caraway’s Trash & Recycling Collection brings together a clean, intentional design with a system that actually works—so it finally fits your kitchen.",
+        "title": "The Trash Can That Everyone's Talking About",
+        "caption": "",
+        "cta_text": "Shop Now",
+        "link_url": "https://www.carawayhome.com/products/trash-can-duo",
+        "image": ""
+      }
+    ],
+    "original_json_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\caraway_ads.json",
+    "original_media_path": ""
+  }
+}

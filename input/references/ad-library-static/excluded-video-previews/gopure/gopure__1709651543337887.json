@@ -1,0 +1,38 @@
+{
+  "ad_id": "meta_gopure_1709651543337887",
+  "source_platform": "meta_ad_library",
+  "captured_at": "2026-04-15T03:28:29.003Z",
+  "brand_name": "gopure",
+  "product_category": "unknown",
+  "product_names": [
+    "Trust me, you’ll love the results"
+  ],
+  "image_paths": [],
+  "video_paths": [],
+  "landing_page_url": "https://amazon.gopure.com/nc41-amazon",
+  "ad_copy": "GoPure Saved My Look! The GoPure Neck Cream WORKS—it really works! And guess what? It’s on a flash sale right now at an amazing price. Don’t miss your chance to try it today. You’re going to thank me later! Grab it now and see the difference!",
+  "cta": "Learn more",
+  "country": "ALL",
+  "language": "unknown",
+  "notes": "Imported from competitor Meta Ad Library scraper",
+  "source_meta": {
+    "original_ad_archive_id": "1709651543337887",
+    "ad_format": "Video",
+    "media_kind": "video_preview",
+    "title": "Trust me, you’ll love the results",
+    "caption": "amazon.gopure.com",
+    "platforms": [
+      "FACEBOOK",
+      "INSTAGRAM",
+      "MESSENGER",
+      "THREADS"
+    ],
+    "start_date": "2026-03-26T07:00:00.000Z",
+    "end_date": "2026-04-02T07:00:00.000Z",
+    "primary_image_url": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/634019229_906885532091970_6154593078885472217_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=-OA51qljuK8Q7kNvwF1sbRr&_nc_oc=AdpG3T19HtKggKKSXU19MI0z8RI7PFWLWvMuX6gmDlyXGUZsaeclQPSTiAMGofQA-4g&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=sjp9o1GcZJUITvj2pIsr-Q&_nc_ss=7a3a8&oh=00_Af0-IQfUBW3Eh1e4FaCK_VukujnKDm4LTT-8OKnJl-Ujuw&oe=69D40122",
+    "card_count": 0,
+    "cards": [],
+    "original_json_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\gopure_ads.json",
+    "original_media_path": ""
+  }
+}

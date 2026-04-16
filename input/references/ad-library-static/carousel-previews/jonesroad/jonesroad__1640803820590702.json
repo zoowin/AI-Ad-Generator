@@ -1,0 +1,57 @@
+{
+  "ad_id": "meta_jonesroad_1640803820590702",
+  "source_platform": "meta_ad_library",
+  "captured_at": "2026-04-15T03:28:29.124Z",
+  "brand_name": "jonesroad",
+  "product_category": "unknown",
+  "product_names": [
+    "Your Next Holy Grail"
+  ],
+  "image_paths": [
+    "data/input/ad-library/raw/jonesroad/jonesroad__1640803820590702.jpg"
+  ],
+  "video_paths": [],
+  "landing_page_url": "https://myshop.jonesroadbeauty.com/lip-recharge-m",
+  "ad_copy": "{{product.brand}}",
+  "cta": "Shop now",
+  "country": "ALL",
+  "language": "unknown",
+  "notes": "Imported from competitor Meta Ad Library scraper",
+  "source_meta": {
+    "original_ad_archive_id": "1640803820590702",
+    "ad_format": "Carousel",
+    "media_kind": "carousel_preview",
+    "title": "{{product.name}}",
+    "caption": "myshop.jonesroadbeauty.com",
+    "platforms": [
+      "FACEBOOK",
+      "INSTAGRAM",
+      "MESSENGER",
+      "THREADS"
+    ],
+    "start_date": "2026-03-31T07:00:00.000Z",
+    "end_date": "2026-04-13T07:00:00.000Z",
+    "primary_image_url": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/657351546_1897311257580124_2505772113413382128_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Fl1ACcmV17AQ7kNvwGgcziv&_nc_oc=AdqWRgOZ4SUpAFVKC4idQsBpr04GxWXB6CuAesu1DAyt0mgxD4O0vO5mdh5iPHtYMuM&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=Sa29kFwNq6oKxQTEfza6Ew&_nc_ss=7a3a8&oh=00_Af0ZHcl3GtUoX4RgYoHVFhrtg0N5TgBIyqoNvmZAW2ZyyA&oe=69E3C0E1",
+    "card_count": 2,
+    "cards": [
+      {
+        "body": "Say goodbye to dry, uncomfortable lips and say hello to your next holy grail. On first use, 100% of users agreed that this is the product they want to keep in their bag everyday… 28 days later, 100% still agreed. By checking every box, this is the one product everyone agrees on, and the one you’ll never want to be without.",
+        "title": "Your Next Holy Grail",
+        "caption": "",
+        "cta_text": "Shop Now",
+        "link_url": "https://myshop.jonesroadbeauty.com/lip-recharge-m",
+        "image": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/657351546_1897311257580124_2505772113413382128_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Fl1ACcmV17AQ7kNvwGgcziv&_nc_oc=AdqWRgOZ4SUpAFVKC4idQsBpr04GxWXB6CuAesu1DAyt0mgxD4O0vO5mdh5iPHtYMuM&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=Sa29kFwNq6oKxQTEfza6Ew&_nc_ss=7a3a8&oh=00_Af0ZHcl3GtUoX4RgYoHVFhrtg0N5TgBIyqoNvmZAW2ZyyA&oe=69E3C0E1"
+      },
+      {
+        "body": "Say goodbye to dry, uncomfortable lips and say hello to your next holy grail. On first use, 100% of users agreed that this is the product they want to keep in their bag everyday… 28 days later, 100% still agreed. By checking every box, this is the one product everyone agrees on, and the one you’ll never want to be without.",
+        "title": "Your Next Holy Grail",
+        "caption": "",
+        "cta_text": "Shop Now",
+        "link_url": "https://myshop.jonesroadbeauty.com/lip-recharge-m",
+        "image": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/656106112_1101782052136230_7434997642124132644_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Eh6kT0LmvC4Q7kNvwFoGaGf&_nc_oc=AdrNCxO92ElUtIB-pW10TpyJsjtb7VC6Q4wOPG1I-ZxSlmtLzADG-YLFhFfWbKiyJaY&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=Sa29kFwNq6oKxQTEfza6Ew&_nc_ss=7a3a8&oh=00_Af1yYyARNoLlo9ZHjg8kav5ptbS7gjrOgFXNstPD6LpOPg&oe=69E3B786"
+      }
+    ],
+    "original_json_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\jonesroad_ads.json",
+    "original_media_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\media_jonesroad\\ad_8_1640803820590702.jpg"
+  }
+}

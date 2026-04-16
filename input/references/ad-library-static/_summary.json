@@ -1,0 +1,10 @@
+{
+  "generated_at": "2026-04-15T05:01:56.041Z",
+  "source_root": "input/references/ad-library/normalized",
+  "output_root": "input/references/ad-library-static",
+  "total_records": 404,
+  "static_images": 55,
+  "carousel_previews": 201,
+  "excluded_video_previews": 148,
+  "needs_review": 0
+}

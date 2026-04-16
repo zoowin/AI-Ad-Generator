@@ -1,0 +1,77 @@
+{
+  "ad_id": "meta_peachandlily_689518360812311",
+  "source_platform": "meta_ad_library",
+  "captured_at": "2026-04-15T03:28:29.514Z",
+  "brand_name": "peachandlily",
+  "product_category": "unknown",
+  "product_names": [
+    "Overnight Star Night Cream",
+    "Peach & Lily Glass Skin Veil Mist",
+    "Power Cocktail Lactic Acid Repair Serum",
+    "Peptide Pro Firming Moisturizer"
+  ],
+  "image_paths": [
+    "data/input/ad-library/raw/peachandlily/peachandlily__689518360812311.jpg"
+  ],
+  "video_paths": [],
+  "landing_page_url": "https://www.peachandlily.com/collections/bestselling-korean-skincare",
+  "ad_copy": "K-beauty is getting more and more popular, so if you’re curious what all the hype is about, add some of these bestselling Korean skincare products to your skincare routine and see how amazing they are!",
+  "cta": "Shop now",
+  "country": "ALL",
+  "language": "unknown",
+  "notes": "Imported from competitor Meta Ad Library scraper",
+  "source_meta": {
+    "original_ad_archive_id": "689518360812311",
+    "ad_format": "Carousel",
+    "media_kind": "carousel_preview",
+    "title": "{{product.name}}",
+    "caption": "peachandlily.com",
+    "platforms": [
+      "FACEBOOK",
+      "INSTAGRAM",
+      "AUDIENCE_NETWORK",
+      "MESSENGER",
+      "THREADS"
+    ],
+    "start_date": "2025-08-15T07:00:00.000Z",
+    "end_date": "2026-04-07T07:00:00.000Z",
+    "primary_image_url": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/532365742_1062091269239891_7483417646833063089_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=-h_nBWwFqtoQ7kNvwHnWp2E&_nc_oc=AdpaP0ngWXLrWKOnMNeGvdsH4LVt3PLlkh2Y5vIuVZGiN4UQlgyxPP_r-Vh1GhUMpSY&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=o60n_sAgQqIAcUFEuaP01A&_nc_ss=7a3a8&oh=00_Af2V11xMLt_ckyAaFDpt9nkaoGG80rV_Y_WZKkwelkyPaA&oe=69DBDFFE",
+    "card_count": 4,
+    "cards": [
+      {
+        "body": "K-beauty is getting more and more popular, so if you’re curious what all the hype is about, add some of these bestselling Korean skincare products to your skincare routine and see how amazing they are!",
+        "title": "Overnight Star Night Cream",
+        "caption": "peachandlily.com",
+        "cta_text": "Shop Now",
+        "link_url": "https://www.peachandlily.com/products/overnight-star-sleeping-mask?utm_content=Facebook_UA&utm_source=facebook&variant=39449984827463",
+        "image": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/532365742_1062091269239891_7483417646833063089_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=-h_nBWwFqtoQ7kNvwHnWp2E&_nc_oc=AdpaP0ngWXLrWKOnMNeGvdsH4LVt3PLlkh2Y5vIuVZGiN4UQlgyxPP_r-Vh1GhUMpSY&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=o60n_sAgQqIAcUFEuaP01A&_nc_ss=7a3a8&oh=00_Af2V11xMLt_ckyAaFDpt9nkaoGG80rV_Y_WZKkwelkyPaA&oe=69DBDFFE"
+      },
+      {
+        "body": "K-beauty is getting more and more popular, so if you’re curious what all the hype is about, add some of these bestselling Korean skincare products to your skincare routine and see how amazing they are!",
+        "title": "Peach & Lily Glass Skin Veil Mist",
+        "caption": "peachandlily.com",
+        "cta_text": "Shop Now",
+        "link_url": "https://www.peachandlily.com/products/glass-skin-veil-mist?utm_content=Facebook_UA&utm_source=facebook&variant=39449984204871",
+        "image": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/533379160_1085188233592673_6236935689444702924_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=lkVt0bn81mwQ7kNvwEVd7T5&_nc_oc=AdrvzMwHXUIyfWNZysvB1--TwBI5SdFfKVg7EQtQLJ77-0WbYDTVYN7qPK2mYHplqfg&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=o60n_sAgQqIAcUFEuaP01A&_nc_ss=7a3a8&oh=00_Af3HPFwDhezuGdGLFwgxOzFaAYNlLU5WSJxWB6XYweCSRg&oe=69DBD9DC"
+      },
+      {
+        "body": "K-beauty is getting more and more popular, so if you’re curious what all the hype is about, add some of these bestselling Korean skincare products to your skincare routine and see how amazing they are!",
+        "title": "Power Cocktail Lactic Acid Repair Serum",
+        "caption": "peachandlily.com",
+        "cta_text": "Shop Now",
+        "link_url": "https://www.peachandlily.com/products/power-cocktail-lactic-acid-repair-serum?utm_content=Facebook_UA&utm_source=facebook&variant=39511610785863",
+        "image": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/533034892_1887388031974132_3639733497441187448_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=jk608OdspsYQ7kNvwGTTVhq&_nc_oc=Adr2GJod6oCoF49wCuZgLlm4SODYppVbmSG6DMs-Q3LaQcSP0osO6-1LQNX5Vn9jtJw&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=o60n_sAgQqIAcUFEuaP01A&_nc_ss=7a3a8&oh=00_Af0Lf5KRq71ZPw5tSGCn_A9S4IjBOWgK3SN0bN6_9ziCbA&oe=69DBE3FA"
+      },
+      {
+        "body": "K-beauty is getting more and more popular, so if you’re curious what all the hype is about, add some of these bestselling Korean skincare products to your skincare routine and see how amazing they are!",
+        "title": "Peptide Pro Firming Moisturizer",
+        "caption": "peachandlily.com",
+        "cta_text": "Shop Now",
+        "link_url": "https://www.peachandlily.com/products/peptide-pro-firming-moisturizer?utm_content=Facebook_UA&utm_source=facebook&variant=39774732877895",
+        "image": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/533397154_1911861249382235_3730647978013571114_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=O7cjyfSu8NEQ7kNvwEkmuka&_nc_oc=Ado3q4i_fXz0dtPkXC1uBAXKMYEkwZhvsCuno1bDBCaSmxh6772mNCExeRAXwpR0POc&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=o60n_sAgQqIAcUFEuaP01A&_nc_ss=7a3a8&oh=00_Af1t3cg5OoNt5_Tt8zkSpY6hEnKM9plIm0PuAbG62bitew&oe=69DBEBF6"
+      }
+    ],
+    "original_json_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\peachandlily_ads.json",
+    "original_media_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\media_peachandlily\\ad_1_689518360812311.jpg"
+  }
+}

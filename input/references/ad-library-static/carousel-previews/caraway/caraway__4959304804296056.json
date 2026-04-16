@@ -1,0 +1,58 @@
+{
+  "ad_id": "meta_caraway_4959304804296056",
+  "source_platform": "meta_ad_library",
+  "captured_at": "2026-04-15T03:28:28.740Z",
+  "brand_name": "caraway",
+  "product_category": "unknown",
+  "product_names": [
+    "Premium Kitchenware For Less",
+    "Save Big On Caraway Bundles"
+  ],
+  "image_paths": [
+    "data/input/ad-library/raw/caraway/caraway__4959304804296056.jpg"
+  ],
+  "video_paths": [],
+  "landing_page_url": "https://www.carawayhome.com/products/deluxe-cookware-set",
+  "ad_copy": "{{product.brand}}",
+  "cta": "Shop now",
+  "country": "ALL",
+  "language": "unknown",
+  "notes": "Imported from competitor Meta Ad Library scraper",
+  "source_meta": {
+    "original_ad_archive_id": "4959304804296056",
+    "ad_format": "Carousel",
+    "media_kind": "carousel_preview",
+    "title": "{{product.name}}",
+    "caption": "carawayhome.com",
+    "platforms": [
+      "FACEBOOK",
+      "INSTAGRAM",
+      "MESSENGER",
+      "THREADS"
+    ],
+    "start_date": "2026-04-03T07:00:00.000Z",
+    "end_date": "2026-04-13T07:00:00.000Z",
+    "primary_image_url": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/662642587_1280938630649243_3192987397309977266_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=LOUKNRFMKzoQ7kNvwG12fWe&_nc_oc=AdrlGY9jouaALR9tvDHx-qqcOuj22mw-xS9yiNIaaXn_tEI9XEgEFdova0xNDRSaU0M&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=_48kJ1ham5jY4v5iIqaJ5Q&_nc_ss=7a3a8&oh=00_Af27zyIJn2G4U4paM2FNZ3b2MsbNZV-gbbNP41L-cgXRhw&oe=69E3CCB3",
+    "card_count": 2,
+    "cards": [
+      {
+        "body": "Bundle and save on Caraway's game changing cookware. With thoughtful designs and durable materials, they're worth every penny.",
+        "title": "Premium Kitchenware For Less",
+        "caption": "",
+        "cta_text": "Shop Now",
+        "link_url": "https://www.carawayhome.com/products/deluxe-cookware-set",
+        "image": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/662642587_1280938630649243_3192987397309977266_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=LOUKNRFMKzoQ7kNvwG12fWe&_nc_oc=AdrlGY9jouaALR9tvDHx-qqcOuj22mw-xS9yiNIaaXn_tEI9XEgEFdova0xNDRSaU0M&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=_48kJ1ham5jY4v5iIqaJ5Q&_nc_ss=7a3a8&oh=00_Af27zyIJn2G4U4paM2FNZ3b2MsbNZV-gbbNP41L-cgXRhw&oe=69E3CCB3"
+      },
+      {
+        "body": "These ceramic cookware sets are beautifully designed *and* thoughtfully priced. So you can start that kitchenware refresh, ASAP.",
+        "title": "Save Big On Caraway Bundles",
+        "caption": "",
+        "cta_text": "Shop Now",
+        "link_url": "https://www.carawayhome.com/products/deluxe-cookware-set",
+        "image": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/660382157_2221054425371250_6855680172442750164_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=7-M_iSdHrYIQ7kNvwHMlLzV&_nc_oc=AdqeIG_mk4FGeD3srXMRD1h0lPTdcWLqks9jhSXprmIcmcAlDhHmEnw-yxxZ34ZmtDk&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=_48kJ1ham5jY4v5iIqaJ5Q&_nc_ss=7a3a8&oh=00_Af1CLTGRFcGyTPhXCUK4IVCXONTipU_je11Uu6cmgq381Q&oe=69E3BA8E"
+      }
+    ],
+    "original_json_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\caraway_ads.json",
+    "original_media_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\media_caraway\\ad_1_4959304804296056.jpg"
+  }
+}

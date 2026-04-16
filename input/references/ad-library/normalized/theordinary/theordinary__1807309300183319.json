@@ -1,0 +1,38 @@
+{
+  "ad_id": "meta_theordinary_1807309300183319",
+  "source_platform": "meta_ad_library",
+  "captured_at": "2026-04-15T03:28:29.958Z",
+  "brand_name": "theordinary",
+  "product_category": "unknown",
+  "product_names": [
+    "Nouveau Sérum Repulpant Ciblé."
+  ],
+  "image_paths": [
+    "data/input/ad-library/raw/theordinary/theordinary__1807309300183319.jpg"
+  ],
+  "video_paths": [],
+  "landing_page_url": "https://www.nocibe.fr/fr/p/5011994731?trac=DO_FR.01.01_Shopping.P_Shopping.Google.23123661765..1281272.online.PM&gad_source=1&gad_campaignid=23129439296&gbraid=0AAAAADvEy7WN1uTienbrvuDBvQn_KrIvo&gclid=Cj0KCQjwj47OBhCmARIsAF5wUEH1neUDLcZ0AmsBwXT2wY6vOwkwRrx09Qc3tzDyLxMEOXbfajcq5mMaAm8DEALw_wcB",
+  "ad_copy": "Un sérum repulpant ciblé, enrichi en Volufiline, pour une peau visiblement repulpée.",
+  "cta": "Order now",
+  "country": "ALL",
+  "language": "unknown",
+  "notes": "Imported from competitor Meta Ad Library scraper",
+  "source_meta": {
+    "original_ad_archive_id": "1807309300183319",
+    "ad_format": "Video",
+    "media_kind": "video_preview",
+    "title": "Nouveau Sérum Repulpant Ciblé.",
+    "caption": "www.nocibe.fr",
+    "platforms": [
+      "FACEBOOK",
+      "INSTAGRAM"
+    ],
+    "start_date": "2026-04-01T07:00:00.000Z",
+    "end_date": "2026-04-08T07:00:00.000Z",
+    "primary_image_url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/655813708_1079888718535438_5601858101153968219_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=OhDYClEynHoQ7kNvwGt97Iw&_nc_oc=Adq-t8YgEQISpThQMmKR8mKbtkVNxhJp1XrCi3MXbu9ADKsh0e70OijSE6kInHL7k-c&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=Z_nVSow4qziKaexeRF_dXQ&_nc_ss=7a3a8&oh=00_Af0j8Jg7sHFoKuSvNbOlEFWYkJeoB3FKDfm30IKwTMBJ_A&oe=69DBE474",
+    "card_count": 0,
+    "cards": [],
+    "original_json_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\theordinary_ads.json",
+    "original_media_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\media_theordinary\\ad_20_1807309300183319.jpg"
+  }
+}

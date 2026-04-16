@@ -1,0 +1,89 @@
+{
+  "ad_id": "meta_caraway_1099512212381043",
+  "source_platform": "meta_ad_library",
+  "captured_at": "2026-04-15T03:28:28.752Z",
+  "brand_name": "caraway",
+  "product_category": "unknown",
+  "product_names": [
+    "default_collection_headline"
+  ],
+  "image_paths": [
+    "data/input/ad-library/raw/caraway/caraway__1099512212381043.jpg"
+  ],
+  "video_paths": [],
+  "landing_page_url": "https://fb.com/canvas_doc/931108846067884",
+  "ad_copy": "Caraway kitchenware is designed for health-conscious households who care about performance, aesthetics, and ease.",
+  "cta": "Shop now",
+  "country": "ALL",
+  "language": "unknown",
+  "notes": "Imported from competitor Meta Ad Library scraper",
+  "source_meta": {
+    "original_ad_archive_id": "1099512212381043",
+    "ad_format": "Carousel",
+    "media_kind": "carousel_preview",
+    "title": "default_collection_headline",
+    "caption": "fb.com",
+    "platforms": [
+      "FACEBOOK",
+      "INSTAGRAM",
+      "MESSENGER",
+      "THREADS"
+    ],
+    "start_date": "2026-04-12T07:00:00.000Z",
+    "end_date": "2026-04-13T07:00:00.000Z",
+    "primary_image_url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/668755331_1478211630365716_2522274758963824820_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=OuDkKsVpE0MQ7kNvwFIetWx&_nc_oc=AdrFOuP8qWbXKvWPwLOIXdYBmmL2t_2BWKzqkmE-n5rKqCSzvRofzWaADRDwuYkU-nM&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=_48kJ1ham5jY4v5iIqaJ5Q&_nc_ss=7a3a8&oh=00_Af3KLE0iKKUaGVcDY3B5293pseO9Pd0cxYeOGSuMbUO4Fw&oe=69E3D97C",
+    "card_count": 6,
+    "cards": [
+      {
+        "body": "Caraway kitchenware is designed for health-conscious households who care about performance, aesthetics, and ease.",
+        "title": "default_collection_headline",
+        "caption": "fb.com",
+        "cta_text": "Shop Now",
+        "link_url": "https://www.carawayhome.com/products/cookware-sets?color=gray",
+        "image": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/668755331_1478211630365716_2522274758963824820_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=OuDkKsVpE0MQ7kNvwFIetWx&_nc_oc=AdrFOuP8qWbXKvWPwLOIXdYBmmL2t_2BWKzqkmE-n5rKqCSzvRofzWaADRDwuYkU-nM&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=_48kJ1ham5jY4v5iIqaJ5Q&_nc_ss=7a3a8&oh=00_Af3KLE0iKKUaGVcDY3B5293pseO9Pd0cxYeOGSuMbUO4Fw&oe=69E3D97C"
+      },
+      {
+        "body": "Caraway kitchenware is designed for health-conscious households who care about performance, aesthetics, and ease.",
+        "title": "default_collection_headline",
+        "caption": "fb.com",
+        "cta_text": "Shop Now",
+        "link_url": "https://www.carawayhome.com/products/cookware-sets?color=navy",
+        "image": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/668481294_929045326773224_4110495240956801852_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Y61HyXMU_MIQ7kNvwEPzsNH&_nc_oc=AdohDZDMQ78STLBZ6T0vFsSoXrI-fUHc4wak8_MKtshw15SoyQAvrqFJ4VAWz7voW_E&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=_48kJ1ham5jY4v5iIqaJ5Q&_nc_ss=7a3a8&oh=00_Af1wdqIYjrYc_WvGLAvUctd2CjMBbQyvxpJZ33Oh9WXiHA&oe=69E3E1E1"
+      },
+      {
+        "body": "Caraway kitchenware is designed for health-conscious households who care about performance, aesthetics, and ease.",
+        "title": "default_collection_headline",
+        "caption": "fb.com",
+        "cta_text": "Shop Now",
+        "link_url": "https://www.carawayhome.com/products/cookware-sets?color=cream",
+        "image": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/670575821_1958967634721752_1071111631233098924_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=qCR7RxapgBYQ7kNvwFvebQU&_nc_oc=Adom57W1n_w6xjWtfuPKSRtZuLY4lVdXuFnDo_ncQXB3mEmtExzQM8n2dkaoxqgw6Vk&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=_48kJ1ham5jY4v5iIqaJ5Q&_nc_ss=7a3a8&oh=00_Af2BzthkzhycdPNH6n0GFbcGtcdy2Z1zbsCBP4YKXSsgQA&oe=69E3B7C0"
+      },
+      {
+        "body": "Caraway kitchenware is designed for health-conscious households who care about performance, aesthetics, and ease.",
+        "title": "default_collection_headline",
+        "caption": "fb.com",
+        "cta_text": "Shop Now",
+        "link_url": "https://www.carawayhome.com/products/cookware-sets?color=perracotta",
+        "image": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/671628772_1894689594727386_1350544616997465757_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=qqEVwMmvoKEQ7kNvwHKhf_l&_nc_oc=AdoQ-fsExZ1rF8qrss59irw7BhQ4kdKWyRV5xep8hln37M_gKMksEMPPryzInUmtyp8&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=_48kJ1ham5jY4v5iIqaJ5Q&_nc_ss=7a3a8&oh=00_Af1PzxXbEujHibshFcpyD2gfg6lL7OjA_956TDSRVWDaFQ&oe=69E3EC2F"
+      },
+      {
+        "body": "Caraway kitchenware is designed for health-conscious households who care about performance, aesthetics, and ease.",
+        "title": "default_collection_headline",
+        "caption": "fb.com",
+        "cta_text": "Shop Now",
+        "link_url": "https://www.carawayhome.com/products/cookware-sets?color=sage",
+        "image": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/668746171_2345753049253534_4361584718646888270_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=GpvPNhzE3b8Q7kNvwGKH20s&_nc_oc=AdpCMCGcPpqvO0WtvNpOB0GWYN8QKCMmQAFIi8464X-rhCq0KM4dyGzyLkXQ96BaTlE&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=_48kJ1ham5jY4v5iIqaJ5Q&_nc_ss=7a3a8&oh=00_Af2EUYWqhOEHP9vxBZWHDaAI-yefSo6g01qq2lkR8-auBA&oe=69E3D57B"
+      },
+      {
+        "body": "Caraway kitchenware is designed for health-conscious households who care about performance, aesthetics, and ease.",
+        "title": "default_collection_headline",
+        "caption": "fb.com",
+        "cta_text": "Shop Now",
+        "link_url": "https://www.carawayhome.com/products/fry-pan?color=sage",
+        "image": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/671323047_3161588704025237_6705644374963998720_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=qV1qgKI4kbkQ7kNvwHBFvCz&_nc_oc=AdrNnJxAHkEkObiEPFbMRZjD9sr8Cqpi_tG7_AxX5AeW__81eh4r6L1gfVQEMYn9LTo&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=_48kJ1ham5jY4v5iIqaJ5Q&_nc_ss=7a3a8&oh=00_Af3P3IsW1jE05gdiaixnNziDMnHQRpeV6DKffyCdhjsYKw&oe=69E3D0A0"
+      }
+    ],
+    "original_json_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\caraway_ads.json",
+    "original_media_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\media_caraway\\ad_21_1099512212381043.jpg"
+  }
+}

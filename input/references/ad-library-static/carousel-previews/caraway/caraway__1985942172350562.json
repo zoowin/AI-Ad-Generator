@@ -1,0 +1,55 @@
+{
+  "ad_id": "meta_caraway_1985942172350562",
+  "source_platform": "meta_ad_library",
+  "captured_at": "2026-04-15T03:28:28.757Z",
+  "brand_name": "caraway",
+  "product_category": "unknown",
+  "product_names": [
+    "Perfect Sears, Every Time"
+  ],
+  "image_paths": [],
+  "video_paths": [],
+  "landing_page_url": "https://www.carawayhome.com/products/grill-press?color=cream",
+  "ad_copy": "{{product.brand}}",
+  "cta": "Shop now",
+  "country": "ALL",
+  "language": "unknown",
+  "notes": "Imported from competitor Meta Ad Library scraper",
+  "source_meta": {
+    "original_ad_archive_id": "1985942172350562",
+    "ad_format": "Carousel",
+    "media_kind": "carousel_preview",
+    "title": "{{product.name}}",
+    "caption": "carawayhome.com",
+    "platforms": [
+      "FACEBOOK",
+      "INSTAGRAM",
+      "MESSENGER",
+      "THREADS"
+    ],
+    "start_date": "2026-04-02T07:00:00.000Z",
+    "end_date": "2026-04-13T07:00:00.000Z",
+    "primary_image_url": "",
+    "card_count": 2,
+    "cards": [
+      {
+        "body": "I thought my Caraway kitchen was complete… until these. The Grill Press gives me perfect and even sears. It seriously changed my whole cooking game.",
+        "title": "Perfect Sears, Every Time",
+        "caption": "",
+        "cta_text": "Shop Now",
+        "link_url": "https://www.carawayhome.com/products/grill-press?color=cream",
+        "image": ""
+      },
+      {
+        "body": "I thought my Caraway kitchen was complete… until these. The Grill Press gives me perfect and even sears. It seriously changed my whole cooking game.",
+        "title": "Perfect Sears, Every Time",
+        "caption": "",
+        "cta_text": "Shop Now",
+        "link_url": "https://www.carawayhome.com/products/grill-press?color=cream",
+        "image": ""
+      }
+    ],
+    "original_json_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\caraway_ads.json",
+    "original_media_path": ""
+  }
+}

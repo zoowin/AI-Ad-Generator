@@ -1,0 +1,40 @@
+{
+  "ad_id": "meta_ridge_1208679997979021",
+  "source_platform": "meta_ad_library",
+  "captured_at": "2026-04-15T03:28:29.698Z",
+  "brand_name": "ridge",
+  "product_category": "unknown",
+  "product_names": [
+    "IMPOSSIBLE TO MISS"
+  ],
+  "image_paths": [
+    "data/input/ad-library/raw/ridge/ridge__1208679997979021.jpg"
+  ],
+  "video_paths": [],
+  "landing_page_url": "https://ridge.com/collections/hyper-lime-capsule",
+  "ad_copy": "High-Vis Performance Returns. Ridge Wallet 2.0, Power Banks & more in impossible-to-miss yellow.",
+  "cta": "Shop now",
+  "country": "ALL",
+  "language": "unknown",
+  "notes": "Imported from competitor Meta Ad Library scraper",
+  "source_meta": {
+    "original_ad_archive_id": "1208679997979021",
+    "ad_format": "Video",
+    "media_kind": "video_preview",
+    "title": "IMPOSSIBLE TO MISS",
+    "caption": "ridge.com",
+    "platforms": [
+      "FACEBOOK",
+      "INSTAGRAM",
+      "MESSENGER",
+      "THREADS"
+    ],
+    "start_date": "2026-01-21T08:00:00.000Z",
+    "end_date": "2026-04-13T07:00:00.000Z",
+    "primary_image_url": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/615868949_1972642753630959_8485423484541843198_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=XlEY231XUN8Q7kNvwEWoibF&_nc_oc=AdorWfKz1NyOwNt5r48OIG8s0suuw-uwstyhpjCAbLM3IFnXjdqtxiJ8hB6JlFlZGB0&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=qqZTfAce3wqWlUL87WTHpQ&_nc_ss=7a3a8&oh=00_Af2uEi5Z99Fxq2rR40mdRKmptICWo-kEig6Ae9Psmhj-vg&oe=69E3C464",
+    "card_count": 0,
+    "cards": [],
+    "original_json_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\ridge_ads.json",
+    "original_media_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\media_ridge\\ad_16_1208679997979021.jpg"
+  }
+}

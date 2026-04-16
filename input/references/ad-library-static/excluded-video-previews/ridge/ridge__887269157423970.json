@@ -1,0 +1,40 @@
+{
+  "ad_id": "meta_ridge_887269157423970",
+  "source_platform": "meta_ad_library",
+  "captured_at": "2026-04-15T03:28:29.715Z",
+  "brand_name": "ridge",
+  "product_category": "unknown",
+  "product_names": [
+    "Upgrade Your Wallet"
+  ],
+  "image_paths": [
+    "data/input/ad-library/raw/ridge/ridge__887269157423970.jpg"
+  ],
+  "video_paths": [],
+  "landing_page_url": "https://ridge.com/pages/edc-smart-wallet-5rlp",
+  "ad_copy": "Slim. Secure. Built to last. The Ridge Wallet redefines everyday carry with RFID-blocking technology and a sleek, minimalist design. Stop carrying bulk, start carrying better.",
+  "cta": "Shop now",
+  "country": "ALL",
+  "language": "unknown",
+  "notes": "Imported from competitor Meta Ad Library scraper",
+  "source_meta": {
+    "original_ad_archive_id": "887269157423970",
+    "ad_format": "Video",
+    "media_kind": "video_preview",
+    "title": "Upgrade Your Wallet",
+    "caption": "ridge.com",
+    "platforms": [
+      "FACEBOOK",
+      "INSTAGRAM",
+      "MESSENGER",
+      "THREADS"
+    ],
+    "start_date": "2026-02-25T08:00:00.000Z",
+    "end_date": "2026-04-13T07:00:00.000Z",
+    "primary_image_url": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/640394419_2790186151340076_356191700901098324_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=rO1MHRedI_AQ7kNvwFGKOUh&_nc_oc=AdqUEq6msJuaZe71BcFaJAn1MLgwG1NxNdJUE81Hkk-ZH9m78bBcpZ_Jj67NgtEy9Qw&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=qqZTfAce3wqWlUL87WTHpQ&_nc_ss=7a3a8&oh=00_Af0I4g0MTr2n2HuePVnBSLcGCs2PsU7DAFHaB9xLVbcuxw&oe=69E3CE59",
+    "card_count": 0,
+    "cards": [],
+    "original_json_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\ridge_ads.json",
+    "original_media_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\media_ridge\\ad_17_887269157423970.jpg"
+  }
+}

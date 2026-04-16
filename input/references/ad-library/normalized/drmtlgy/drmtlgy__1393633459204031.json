@@ -1,0 +1,40 @@
+{
+  "ad_id": "meta_drmtlgy_1393633459204031",
+  "source_platform": "meta_ad_library",
+  "captured_at": "2026-04-15T03:28:28.848Z",
+  "brand_name": "drmtlgy",
+  "product_category": "unknown",
+  "product_names": [
+    "Firm + Hydrate: Retinol Body Lotion That Enhances Elasticity"
+  ],
+  "image_paths": [
+    "data/input/ad-library/raw/drmtlgy/drmtlgy__1393633459204031.jpg"
+  ],
+  "video_paths": [],
+  "landing_page_url": "https://www.drmtlgy.com/products/retinol-body-lotion",
+  "ad_copy": "{{product.brand}}",
+  "cta": "Shop Now",
+  "country": "ALL",
+  "language": "unknown",
+  "notes": "Imported from competitor Meta Ad Library scraper",
+  "source_meta": {
+    "original_ad_archive_id": "1393633459204031",
+    "ad_format": "Video",
+    "media_kind": "video_preview",
+    "title": "Firm + Hydrate: Retinol Body Lotion That Enhances Elasticity",
+    "caption": "",
+    "platforms": [
+      "FACEBOOK",
+      "INSTAGRAM",
+      "MESSENGER",
+      "THREADS"
+    ],
+    "start_date": "2026-04-01T07:00:00.000Z",
+    "end_date": "",
+    "primary_image_url": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/648512896_908507888584377_8406131578214834043_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=pZaQPEiblykQ7kNvwFvvNJF&_nc_oc=AdrimnWpwvE27K56I84BSlaJo7R3ceeZbmtjw6flBZzL5arL6c1UjfgV_bghQ2D4WA8&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=2QWTKabkCeZiH4T1AWhjTw&_nc_ss=7a3a8&oh=00_Af3Uc4JwXhar3fKkuzFejZ3Wt57bu9xi0O1VAWCwu4B-LA&oe=69D428B8",
+    "card_count": 2,
+    "cards": [],
+    "original_json_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\drmtlgy_ads.json",
+    "original_media_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\media_drmtlgy\\ad_4.jpg"
+  }
+}

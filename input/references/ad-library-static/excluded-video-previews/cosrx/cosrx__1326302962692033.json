@@ -1,0 +1,41 @@
+{
+  "ad_id": "meta_cosrx_1326302962692033",
+  "source_platform": "meta_ad_library",
+  "captured_at": "2026-04-15T03:28:28.814Z",
+  "brand_name": "cosrx",
+  "product_category": "unknown",
+  "product_names": [
+    "🔗 Jetzt auf Amazon shoppen"
+  ],
+  "image_paths": [
+    "data/input/ad-library/raw/cosrx/cosrx__1326302962692033.jpg"
+  ],
+  "video_paths": [],
+  "landing_page_url": "https://www.amazon.de/dp/B0FWK57DL4?maas=maas_adg_99836ECBE61E948B8D2EABD51CFACFD1_afap_abs&ref_=aa_maas&tag=maas",
+  "ad_copy": "[COSRX] PDRN Exosom-Maske für glatte, verfeinerte Haut ✨\nAuf klinischen Erkenntnissen basierende Pflege für sichtbar verbesserte Haut. 🧪\n\n✨ Glow & Textur: Verfeinert das Hautbild für ein natürliches Strahlen. \n🧬 Straff & Ebenmäßig: Stärkt die Hautbarriere für einenausgeglichenenTeint. \n💧 Intensive Feuchtigkeit:Spendet langanhaltendeFeuchtigkeit für ein gesundesHautgefühl. \n\nDeine effektivetägliche Pflege. 🤍\n#COSRX #ExosomeMask",
+  "cta": "Learn more",
+  "country": "ALL",
+  "language": "unknown",
+  "notes": "Imported from competitor Meta Ad Library scraper",
+  "source_meta": {
+    "original_ad_archive_id": "1326302962692033",
+    "ad_format": "Video",
+    "media_kind": "video_preview",
+    "title": "🔗 Jetzt auf Amazon shoppen",
+    "caption": "www.amazon.de",
+    "platforms": [
+      "FACEBOOK",
+      "INSTAGRAM",
+      "AUDIENCE_NETWORK",
+      "MESSENGER",
+      "THREADS"
+    ],
+    "start_date": "2026-03-31T07:00:00.000Z",
+    "end_date": "2026-04-07T07:00:00.000Z",
+    "primary_image_url": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/657748999_919373547360184_5126702604553795755_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=i9uUI_Vcw9sQ7kNvwFY3c7V&_nc_oc=AdqcpGO1t2Z7WZtij_a1bvqyS816-NrZtRQrqoByXwIGCst6gkcVaXFuh2ucdqe_1Pg&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=FUsUbZHriUp9A1s2abkfEQ&_nc_ss=7a3a8&oh=00_Af2Bth0Js0uPhxabRyhDsN4f2lJuW0VpbOSetUnOaueJWw&oe=69DBF028",
+    "card_count": 0,
+    "cards": [],
+    "original_json_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\cosrx_ads.json",
+    "original_media_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\media_cosrx\\ad_19_1326302962692033.jpg"
+  }
+}

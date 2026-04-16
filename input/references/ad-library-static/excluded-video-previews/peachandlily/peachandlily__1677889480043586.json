@@ -1,0 +1,41 @@
+{
+  "ad_id": "meta_peachandlily_1677889480043586",
+  "source_platform": "meta_ad_library",
+  "captured_at": "2026-04-15T03:28:29.533Z",
+  "brand_name": "peachandlily",
+  "product_category": "unknown",
+  "product_names": [
+    "Peach and Lily Glass Skin Ginseng Collagen Mask"
+  ],
+  "image_paths": [
+    "data/input/ad-library/raw/peachandlily/peachandlily__1677889480043586.jpg"
+  ],
+  "video_paths": [],
+  "landing_page_url": "https://www.peachandlily.com/products/glass-skin-ginseng-collagen-mask?variant=41634518564935",
+  "ad_copy": "Double the serum. None of the stickiness. Peach & Lily’s collagen mask delivers intense hydration with a lightweight feel, so skin looks smooth, plump, and glassy, never tacky.",
+  "cta": "Shop now",
+  "country": "ALL",
+  "language": "unknown",
+  "notes": "Imported from competitor Meta Ad Library scraper",
+  "source_meta": {
+    "original_ad_archive_id": "1677889480043586",
+    "ad_format": "Video",
+    "media_kind": "video_preview",
+    "title": "Peach and Lily Glass Skin Ginseng Collagen Mask",
+    "caption": "www.peachandlily.com",
+    "platforms": [
+      "FACEBOOK",
+      "INSTAGRAM",
+      "AUDIENCE_NETWORK",
+      "MESSENGER",
+      "THREADS"
+    ],
+    "start_date": "2026-03-26T07:00:00.000Z",
+    "end_date": "2026-04-07T07:00:00.000Z",
+    "primary_image_url": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/653706442_1602377187710377_4043419434583452140_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=0UijwxrWj6gQ7kNvwENIA89&_nc_oc=Adrue2zu4ULjUpOYFV0pcmjTU3Y2_T3zrMvsipKBZAViF39eEpXWpImemKNlwMzUe3s&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=o60n_sAgQqIAcUFEuaP01A&_nc_ss=7a3a8&oh=00_Af3xUo7pXT14Ql_r6B1njn1yervehUHkJqsyyVgPZfnGOw&oe=69DBEA8F",
+    "card_count": 0,
+    "cards": [],
+    "original_json_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\peachandlily_ads.json",
+    "original_media_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\media_peachandlily\\ad_10_1677889480043586.jpg"
+  }
+}

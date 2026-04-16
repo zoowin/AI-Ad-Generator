@@ -1,0 +1,38 @@
+{
+  "ad_id": "meta_gopure_1326012799350017",
+  "source_platform": "meta_ad_library",
+  "captured_at": "2026-04-15T03:28:29.001Z",
+  "brand_name": "gopure",
+  "product_category": "unknown",
+  "product_names": [
+    "Best Deal on Amazon"
+  ],
+  "image_paths": [],
+  "video_paths": [],
+  "landing_page_url": "https://amazon.gopure.com/ac10",
+  "ad_copy": "Tired of covering your arms? I was too.\n\nThis arm cream has been my secret weapon for confidence! ✨ My skin just *looks* smoother and feels more hydrated.\n\nI’m finally excited to wear sleeveless tops again. Seriously!\n\nIt’s been amazing for me, but everyone's skin is different. Ready to feel good in your skin?\n\nTap to try the cream that helped me! ❤️",
+  "cta": "Shop now",
+  "country": "ALL",
+  "language": "unknown",
+  "notes": "Imported from competitor Meta Ad Library scraper",
+  "source_meta": {
+    "original_ad_archive_id": "1326012799350017",
+    "ad_format": "Video",
+    "media_kind": "video_preview",
+    "title": "Best Deal on Amazon",
+    "caption": "amazon.gopure.com",
+    "platforms": [
+      "FACEBOOK",
+      "INSTAGRAM",
+      "MESSENGER",
+      "THREADS"
+    ],
+    "start_date": "2026-03-17T07:00:00.000Z",
+    "end_date": "2026-04-02T07:00:00.000Z",
+    "primary_image_url": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/642724335_783564718162562_7311178879793493547_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=kRklA_i6Fw8Q7kNvwGvMV7e&_nc_oc=AdrR_c5ktIGP9RhTJ4CoqfDP0WKaLZkp1xoDRAYgo8S0ozN72S9XdS3ilgSw71awiJk&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=sjp9o1GcZJUITvj2pIsr-Q&_nc_ss=7a3a8&oh=00_Af2QD_VJ1NV95ntKOHV6bYypGng_cwyCROxOCWCiN-1roQ&oe=69D4126B",
+    "card_count": 0,
+    "cards": [],
+    "original_json_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\gopure_ads.json",
+    "original_media_path": ""
+  }
+}

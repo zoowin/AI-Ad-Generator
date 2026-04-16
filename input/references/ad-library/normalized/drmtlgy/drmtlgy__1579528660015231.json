@@ -1,0 +1,40 @@
+{
+  "ad_id": "meta_drmtlgy_1579528660015231",
+  "source_platform": "meta_ad_library",
+  "captured_at": "2026-04-15T03:28:28.909Z",
+  "brand_name": "drmtlgy",
+  "product_category": "unknown",
+  "product_names": [
+    "All-In-One Sunscreen For All Skin Types"
+  ],
+  "image_paths": [
+    "data/input/ad-library/raw/drmtlgy/drmtlgy__1579528660015231.jpg"
+  ],
+  "video_paths": [],
+  "landing_page_url": "https://www.drmtlgy.com/pages/utm-testimonial-page",
+  "ad_copy": "{{product.brand}}",
+  "cta": "Shop Now",
+  "country": "ALL",
+  "language": "unknown",
+  "notes": "Imported from competitor Meta Ad Library scraper",
+  "source_meta": {
+    "original_ad_archive_id": "1579528660015231",
+    "ad_format": "Video",
+    "media_kind": "video_preview",
+    "title": "All-In-One Sunscreen For All Skin Types",
+    "caption": "",
+    "platforms": [
+      "FACEBOOK",
+      "INSTAGRAM",
+      "MESSENGER",
+      "THREADS"
+    ],
+    "start_date": "2026-04-01T07:00:00.000Z",
+    "end_date": "",
+    "primary_image_url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/653362161_1247722490759899_7506149049610230565_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=6seF_N826twQ7kNvwGw64t_&_nc_oc=AdrJLa7EMNfv0OESjLAg80xkuH1toYkMf50AL5ML_WZyaBrWcV8wySbyEbX08esMPSg&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=2QWTKabkCeZiH4T1AWhjTw&_nc_ss=7a3a8&oh=00_Af3JJdCJ1nGxGqzT_Dyy9Ir3oEdIbBpbw3SVlIAuOcc1pQ&oe=69D3FB06",
+    "card_count": 2,
+    "cards": [],
+    "original_json_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\drmtlgy_ads.json",
+    "original_media_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\media_drmtlgy\\ad_16.jpg"
+  }
+}

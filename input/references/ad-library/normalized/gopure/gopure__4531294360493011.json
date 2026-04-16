@@ -1,0 +1,38 @@
+{
+  "ad_id": "meta_gopure_4531294360493011",
+  "source_platform": "meta_ad_library",
+  "captured_at": "2026-04-15T03:28:29.002Z",
+  "brand_name": "gopure",
+  "product_category": "unknown",
+  "product_names": [
+    "Let’s see what this cream can do"
+  ],
+  "image_paths": [],
+  "video_paths": [],
+  "landing_page_url": "https://amazon.gopure.com/ac10",
+  "ad_copy": "Let’s See What GoPure’s New Arm Cream Can Do! This is the new GoPure product, and I’M GOING TO TRY IT! I have HUGE expectations because GoPure never disappoints. Let’s see what happens next! Don’t miss the launch price—it’s your chance to try it too. Grab yours today and join the journey!",
+  "cta": "Learn more",
+  "country": "ALL",
+  "language": "unknown",
+  "notes": "Imported from competitor Meta Ad Library scraper",
+  "source_meta": {
+    "original_ad_archive_id": "4531294360493011",
+    "ad_format": "Video",
+    "media_kind": "video_preview",
+    "title": "Let’s see what this cream can do",
+    "caption": "amazon.gopure.com",
+    "platforms": [
+      "FACEBOOK",
+      "INSTAGRAM",
+      "MESSENGER",
+      "THREADS"
+    ],
+    "start_date": "2026-03-17T07:00:00.000Z",
+    "end_date": "2026-04-02T07:00:00.000Z",
+    "primary_image_url": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/615754054_1556257005591398_4997868796239774856_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=QD4wL3E02RoQ7kNvwHMaPJT&_nc_oc=Adq_2aH7EJiQuZDH5m3t9NYnSrZo6rhIroVlu7ov4ebwb4I3-FhlVgZJW9drgdo1PVM&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=sjp9o1GcZJUITvj2pIsr-Q&_nc_ss=7a3a8&oh=00_Af2W0pAx_BfOqFJBSnq6L7zKlv3GbwMYVjNQ_ak5W_kLmg&oe=69D40814",
+    "card_count": 0,
+    "cards": [],
+    "original_json_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\gopure_ads.json",
+    "original_media_path": ""
+  }
+}

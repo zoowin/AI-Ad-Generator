@@ -1,0 +1,61 @@
+{
+  "ad_id": "meta_theordinary_1477560713923504",
+  "source_platform": "meta_ad_library",
+  "captured_at": "2026-04-15T03:28:29.986Z",
+  "brand_name": "theordinary",
+  "product_category": "unknown",
+  "product_names": [
+    "POV: You just found an SPF with 10/10 layerability"
+  ],
+  "image_paths": [],
+  "video_paths": [],
+  "landing_page_url": "https://www.nykaa.com/the-ordinary-uv-filters-spf-40-serum/p/22276608",
+  "ad_copy": "{{product.brand}}",
+  "cta": "Shop now",
+  "country": "ALL",
+  "language": "unknown",
+  "notes": "Imported from competitor Meta Ad Library scraper",
+  "source_meta": {
+    "original_ad_archive_id": "1477560713923504",
+    "ad_format": "Carousel",
+    "media_kind": "carousel_preview",
+    "title": "{{product.name}}",
+    "caption": "nykaa.com",
+    "platforms": [
+      "FACEBOOK",
+      "INSTAGRAM"
+    ],
+    "start_date": "2026-04-01T07:00:00.000Z",
+    "end_date": "2026-04-07T07:00:00.000Z",
+    "primary_image_url": "",
+    "card_count": 3,
+    "cards": [
+      {
+        "body": "UV Filters SPF 40 Serum layers well under skincare & makeup, with a hydrating, serum-like texture that protects your skin from sun damage",
+        "title": "POV: You just found an SPF with 10/10 layerability ",
+        "caption": "",
+        "cta_text": "Shop Now",
+        "link_url": "https://www.nykaa.com/the-ordinary-uv-filters-spf-40-serum/p/22276608",
+        "image": ""
+      },
+      {
+        "body": "UV Filters SPF 40 Serum layers well under skincare & makeup, with a hydrating, serum-like texture that protects your skin from sun damage",
+        "title": "POV: You just found an SPF with 10/10 layerability ",
+        "caption": "",
+        "cta_text": "Shop Now",
+        "link_url": "https://www.nykaa.com/the-ordinary-uv-filters-spf-40-serum/p/22276608",
+        "image": ""
+      },
+      {
+        "body": "UV Filters SPF 40 Serum layers well under skincare & makeup, with a hydrating, serum-like texture that protects your skin from sun damage",
+        "title": "POV: You just found an SPF with 10/10 layerability ",
+        "caption": "",
+        "cta_text": "Shop Now",
+        "link_url": "https://www.nykaa.com/the-ordinary-uv-filters-spf-40-serum/p/22276608",
+        "image": ""
+      }
+    ],
+    "original_json_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\theordinary_ads.json",
+    "original_media_path": ""
+  }
+}

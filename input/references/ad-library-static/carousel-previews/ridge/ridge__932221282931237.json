@@ -1,0 +1,93 @@
+{
+  "ad_id": "meta_ridge_932221282931237",
+  "source_platform": "meta_ad_library",
+  "captured_at": "2026-04-15T03:28:29.546Z",
+  "brand_name": "ridge",
+  "product_category": "unknown",
+  "product_names": [
+    "Ridge Wallet - Tropical",
+    "Ridge Wallet - Forged Carbon",
+    "Ridge Wallet - 24K Gold",
+    "Ridge Wallet - Stonewashed Titanium",
+    "Ridge Wallet - Damascus",
+    "Ridge Wallet - Basecamp Orange"
+  ],
+  "image_paths": [
+    "data/input/ad-library/raw/ridge/ridge__932221282931237.jpg"
+  ],
+  "video_paths": [],
+  "landing_page_url": "https://ridge.com/collections/wallets",
+  "ad_copy": "Upgrade your wallet to Ridge. Metal, RFID-blocking wallets designed to carry cards and cash safely and securely.",
+  "cta": "Shop now",
+  "country": "ALL",
+  "language": "unknown",
+  "notes": "Imported from competitor Meta Ad Library scraper",
+  "source_meta": {
+    "original_ad_archive_id": "932221282931237",
+    "ad_format": "Carousel",
+    "media_kind": "carousel_preview",
+    "title": "{{product.name}}",
+    "caption": "ridge.com",
+    "platforms": [
+      "FACEBOOK",
+      "INSTAGRAM",
+      "THREADS"
+    ],
+    "start_date": "2026-03-31T07:00:00.000Z",
+    "end_date": "2026-04-13T07:00:00.000Z",
+    "primary_image_url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/659079615_1477191077751450_3474373844134758034_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=OEMDMZSnMQAQ7kNvwEhodtE&_nc_oc=Adp1r_5kHir2CIQS8VCUANiD84qGaXsfjadwrq8LYm_zJfUj4KzCGvFA7_Z8PPL5ZQs&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=qqZTfAce3wqWlUL87WTHpQ&_nc_ss=7a3a8&oh=00_Af07Hx93L6FTpl-Jm9uDQLwW3lPnwW-_ZsLyh52HagkPpg&oe=69E3C457",
+    "card_count": 6,
+    "cards": [
+      {
+        "body": "Upgrade your wallet to Ridge. Metal, RFID-blocking wallets designed to carry cards and cash safely and securely.",
+        "title": "Ridge Wallet - Tropical",
+        "caption": "ridge.com",
+        "cta_text": "Shop Now",
+        "link_url": "https://ridge.com/products/aluminum-tropical?variant=39692438339658",
+        "image": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/659079615_1477191077751450_3474373844134758034_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=OEMDMZSnMQAQ7kNvwEhodtE&_nc_oc=Adp1r_5kHir2CIQS8VCUANiD84qGaXsfjadwrq8LYm_zJfUj4KzCGvFA7_Z8PPL5ZQs&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=qqZTfAce3wqWlUL87WTHpQ&_nc_ss=7a3a8&oh=00_Af07Hx93L6FTpl-Jm9uDQLwW3lPnwW-_ZsLyh52HagkPpg&oe=69E3C457"
+      },
+      {
+        "body": "Upgrade your wallet to Ridge. Metal, RFID-blocking wallets designed to carry cards and cash safely and securely.",
+        "title": "Ridge Wallet - Forged Carbon",
+        "caption": "ridge.com",
+        "cta_text": "Shop Now",
+        "link_url": "https://ridge.com/products/forged-carbon?variant=29308377825354",
+        "image": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/663284235_1594563388287392_4905802487663771348_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=7GkcNrMevQAQ7kNvwG6OyWk&_nc_oc=AdrtQnRa_h3A14yb8R0G0KfR2RUnbYP-lRjWlMI92_Z5c5lKKVCmJOuYqdzwCkAuJ1w&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=qqZTfAce3wqWlUL87WTHpQ&_nc_ss=7a3a8&oh=00_Af3GwYnj2yXYV3ihtXAQHotBD9PJuMrgQ_yCvFvdVQaivg&oe=69E3E1F9"
+      },
+      {
+        "body": "Upgrade your wallet to Ridge. Metal, RFID-blocking wallets designed to carry cards and cash safely and securely.",
+        "title": "Ridge Wallet - 24K Gold",
+        "caption": "ridge.com",
+        "cta_text": "Shop Now",
+        "link_url": "https://ridge.com/products/24-karat-gold?variant=40026091192394",
+        "image": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/658209745_1299208325400430_798140573781713161_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ivT7JU7c8BwQ7kNvwEbTUKy&_nc_oc=Adrg0VyTx4zoNEZt5Oa9AwOzJXUWN14TWy5sFXizczqRyjK8whzTEwmEhLQnaGsAAVA&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=qqZTfAce3wqWlUL87WTHpQ&_nc_ss=7a3a8&oh=00_Af1_qncXdJskOc6M5aIVFkBlnpVw50lZ6zXejJo00ojrzg&oe=69E3C2D8"
+      },
+      {
+        "body": "Upgrade your wallet to Ridge. Metal, RFID-blocking wallets designed to carry cards and cash safely and securely.",
+        "title": "Ridge Wallet - Stonewashed Titanium",
+        "caption": "ridge.com",
+        "cta_text": "Shop Now",
+        "link_url": "https://ridge.com/products/titanium-stonewashed?variant=32486872350794",
+        "image": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/658793847_1474290840710396_2468520616764938868_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=WlGDce_7WjcQ7kNvwGSe1LX&_nc_oc=AdpqLe8SH32E2pUwGYKMw0K5PklOrbvVGUfizGh3U36zAr7KrIxEVQXfU-KjEXgHso4&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=qqZTfAce3wqWlUL87WTHpQ&_nc_ss=7a3a8&oh=00_Af35WwTFYePYEoJAw8wMltHm19wvKr_YFyS1dDbeh0DQ4w&oe=69E3E8BD"
+      },
+      {
+        "body": "Upgrade your wallet to Ridge. Metal, RFID-blocking wallets designed to carry cards and cash safely and securely.",
+        "title": "Ridge Wallet - Damascus",
+        "caption": "ridge.com",
+        "cta_text": "Shop Now",
+        "link_url": "https://ridge.com/products/damascus?variant=29296348495946",
+        "image": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/657398949_933882376060467_2897828984197914181_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=pGOaE-VN210Q7kNvwFKbSHh&_nc_oc=AdqeW02ve0vIvb6pXEtyrVx1ZCz2-m374qNcfmd-4Zhb7k6HL40UFuxAl9Z7_kGPKoo&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=qqZTfAce3wqWlUL87WTHpQ&_nc_ss=7a3a8&oh=00_Af3hq_wKSnr4DZKx01RXxbENc65svQEQjdjjhw5FwdhfOQ&oe=69E3E870"
+      },
+      {
+        "body": "Upgrade your wallet to Ridge. Metal, RFID-blocking wallets designed to carry cards and cash safely and securely.",
+        "title": "Ridge Wallet - Basecamp Orange",
+        "caption": "ridge.com",
+        "cta_text": "Shop Now",
+        "link_url": "https://ridge.com/products/basecamp-orange?variant=40105121841226",
+        "image": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/658152136_1495058995612923_3515078639332890957_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=S2KAL-WxwUUQ7kNvwGgZJuT&_nc_oc=AdouNtN6h_F8F42fzNm4Bs_-ftxONguxqnAOLVhhmLP43zQb8rHladzh7NsLP1F5ips&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=qqZTfAce3wqWlUL87WTHpQ&_nc_ss=7a3a8&oh=00_Af28lwMJ2ag-VjjX4pVxGN6GKeCfuOjBxsHjeP6jJN7vhA&oe=69E3C373"
+      }
+    ],
+    "original_json_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\ridge_ads.json",
+    "original_media_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\media_ridge\\ad_2_932221282931237.jpg"
+  }
+}

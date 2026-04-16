@@ -1,0 +1,62 @@
+{
+  "ad_id": "meta_ag1_1198203898685885",
+  "source_platform": "meta_ad_library",
+  "captured_at": "2026-04-15T03:28:28.702Z",
+  "brand_name": "ag1",
+  "product_category": "unknown",
+  "product_names": [
+    "Consistency Looks Good on Hugh"
+  ],
+  "image_paths": [],
+  "video_paths": [],
+  "landing_page_url": "https://drinkag1.com/",
+  "ad_copy": "{{product.brand}}",
+  "cta": "Learn more",
+  "country": "ALL",
+  "language": "unknown",
+  "notes": "Imported from competitor Meta Ad Library scraper",
+  "source_meta": {
+    "original_ad_archive_id": "1198203898685885",
+    "ad_format": "Carousel",
+    "media_kind": "carousel_preview",
+    "title": "{{product.name}}",
+    "caption": "drinkag1.com",
+    "platforms": [
+      "FACEBOOK",
+      "INSTAGRAM",
+      "THREADS"
+    ],
+    "start_date": "2026-01-29T08:00:00.000Z",
+    "end_date": "2026-04-13T07:00:00.000Z",
+    "primary_image_url": "",
+    "card_count": 3,
+    "cards": [
+      {
+        "body": "Since 2021, AG1 has been the morning ritual Hugh Jackman relies on to start his day.",
+        "title": "Consistency Looks Good on Hugh",
+        "caption": "",
+        "cta_text": "Learn More",
+        "link_url": "https://drinkag1.com/",
+        "image": ""
+      },
+      {
+        "body": "Since 2021, AG1 has been the morning ritual Hugh Jackman relies on to start his day.",
+        "title": "Consistency Looks Good on Hugh",
+        "caption": "",
+        "cta_text": "Learn More",
+        "link_url": "https://drinkag1.com/",
+        "image": ""
+      },
+      {
+        "body": "Since 2021, AG1 has been the morning ritual Hugh Jackman relies on to start his day.",
+        "title": "Consistency Looks Good on Hugh",
+        "caption": "",
+        "cta_text": "Learn More",
+        "link_url": "https://drinkag1.com/",
+        "image": ""
+      }
+    ],
+    "original_json_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\ag1_ads.json",
+    "original_media_path": ""
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "ad_id": "meta_magicspoon_1905825660077783",
+  "source_platform": "meta_ad_library",
+  "captured_at": "2026-04-15T03:28:29.365Z",
+  "brand_name": "magicspoon",
+  "product_category": "unknown",
+  "product_names": [
+    "Hit Your Goals This Year"
+  ],
+  "image_paths": [
+    "data/input/ad-library/raw/magicspoon/magicspoon__1905825660077783.jpg"
+  ],
+  "video_paths": [],
+  "landing_page_url": "https://magicspoon.com/pages/miss-cereal-25-v2",
+  "ad_copy": "Why would you ever eat regular cereal again?\n💪 13g of protein\n❤️ 4g net carbs and 0g sugar\n🥣Tastes like your childhood favorites\n✨ Perfect for low carb or Keto lifestyles\n💸 Less than $2 per serving\n✅ Happiness guaranteed",
+  "cta": "Shop now",
+  "country": "ALL",
+  "language": "unknown",
+  "notes": "Imported from competitor Meta Ad Library scraper",
+  "source_meta": {
+    "original_ad_archive_id": "1905825660077783",
+    "ad_format": "Video",
+    "media_kind": "video_preview",
+    "title": "Hit Your Goals This Year",
+    "caption": "www.magicspoon.com",
+    "platforms": [
+      "FACEBOOK",
+      "INSTAGRAM",
+      "AUDIENCE_NETWORK",
+      "MESSENGER",
+      "THREADS"
+    ],
+    "start_date": "2026-03-04T08:00:00.000Z",
+    "end_date": "2026-04-13T07:00:00.000Z",
+    "primary_image_url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/580954344_1514563849588080_5939283894534825888_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=vSZwhiCRG0EQ7kNvwGQcjOf&_nc_oc=AdppIFBsMXZwT1rfIO2oh1kk1hebN8iJ5IOiEeluaz36IRLRT9k30BP2QeQZCDlvL4g&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=gVBsOXyMuA7-9yp-b6MSPg&_nc_ss=7a3a8&oh=00_Af2n29QEGXG9UawUs7iLHtfQhFXGWRFQQp0j05ICYZDwgQ&oe=69E3D822",
+    "card_count": 0,
+    "cards": [],
+    "original_json_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\magicspoon_ads.json",
+    "original_media_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\media_magicspoon\\ad_13_1905825660077783.jpg"
+  }
+}

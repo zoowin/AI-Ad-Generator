@@ -1,0 +1,40 @@
+{
+  "ad_id": "meta_caraway_1599126221194409",
+  "source_platform": "meta_ad_library",
+  "captured_at": "2026-04-15T03:28:28.742Z",
+  "brand_name": "caraway",
+  "product_category": "unknown",
+  "product_names": [
+    "🍳 Non-Toxic Materials"
+  ],
+  "image_paths": [
+    "data/input/ad-library/raw/caraway/caraway__1599126221194409.jpg"
+  ],
+  "video_paths": [],
+  "landing_page_url": "https://www.carawayhome.com/collections/cookware",
+  "ad_copy": "This is how breakfast should cook. No oil, no sticking—just clean release every time.\nCaraway’s ceramic-coated cookware gives me smooth release and reliable performance every morning.",
+  "cta": "Shop now",
+  "country": "ALL",
+  "language": "unknown",
+  "notes": "Imported from competitor Meta Ad Library scraper",
+  "source_meta": {
+    "original_ad_archive_id": "1599126221194409",
+    "ad_format": "Video",
+    "media_kind": "video_preview",
+    "title": "🍳 Non-Toxic Materials",
+    "caption": "www.carawayhome.com",
+    "platforms": [
+      "FACEBOOK",
+      "INSTAGRAM",
+      "MESSENGER",
+      "THREADS"
+    ],
+    "start_date": "2026-04-09T07:00:00.000Z",
+    "end_date": "2026-04-13T07:00:00.000Z",
+    "primary_image_url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/657937923_1483337720172858_5101466336696184855_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=qiYVnWb08KIQ7kNvwFwGJD8&_nc_oc=AdqRmSLqW9ot2Fbi8ZJou77f5YzPIc5f8rDBcbEx6SW6v6WnKQIUM3DmXUvti4U9qWw&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=_48kJ1ham5jY4v5iIqaJ5Q&_nc_ss=7a3a8&oh=00_Af2pbdhW0JDtIrB9P5vEDzWY3j8wZvMqF_19wnZ0F6XK-g&oe=69E3D1D1",
+    "card_count": 0,
+    "cards": [],
+    "original_json_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\caraway_ads.json",
+    "original_media_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\media_caraway\\ad_5_1599126221194409.jpg"
+  }
+}

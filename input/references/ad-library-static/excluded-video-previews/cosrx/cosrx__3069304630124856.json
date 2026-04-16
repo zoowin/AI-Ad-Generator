@@ -1,0 +1,41 @@
+{
+  "ad_id": "meta_cosrx_3069304630124856",
+  "source_platform": "meta_ad_library",
+  "captured_at": "2026-04-15T03:28:28.804Z",
+  "brand_name": "cosrx",
+  "product_category": "unknown",
+  "product_names": [
+    "🔗 Jetzt auf Amazon shoppen"
+  ],
+  "image_paths": [
+    "data/input/ad-library/raw/cosrx/cosrx__3069304630124856.jpg"
+  ],
+  "video_paths": [],
+  "landing_page_url": "https://www.amazon.de/dp/B0CCJ3SRB9?maas=maas_adg_F2659C42EE67C0DF94FAAED0C222C61E_afap_abs&ref_=aa_maas&tag=maas",
+  "ad_copy": "[COSRX] Peptid-Serum für straffe, glatte Haut\nTägliche Pflege für mehr Elastizität und ein sichtbar verbessertes Hautbild\n\n💧+162,5 % mehr Feuchtigkeit\n✨Glatteres und strafferes Hautbild\n💄Unterstützt ein ebenmäßigesMake-up-Ergebnis\n\nEffektive Pflege für deine tägliche Routine.\n#COSRX #PeptideSerum",
+  "cta": "Learn more",
+  "country": "ALL",
+  "language": "unknown",
+  "notes": "Imported from competitor Meta Ad Library scraper",
+  "source_meta": {
+    "original_ad_archive_id": "3069304630124856",
+    "ad_format": "Video",
+    "media_kind": "video_preview",
+    "title": "🔗 Jetzt auf Amazon shoppen",
+    "caption": "www.amazon.de",
+    "platforms": [
+      "FACEBOOK",
+      "INSTAGRAM",
+      "AUDIENCE_NETWORK",
+      "MESSENGER",
+      "THREADS"
+    ],
+    "start_date": "2026-03-31T07:00:00.000Z",
+    "end_date": "2026-04-07T07:00:00.000Z",
+    "primary_image_url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/661300239_2058283471733093_7654873345140228457_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=OZUtyI06D6sQ7kNvwEnMZ_1&_nc_oc=Ador59QakhkCBspHJPsdvjWj04LmKiQDWZs-JAkbxL4Z9OiWkvl7n3mSU7RgJ0CF_bg&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=FUsUbZHriUp9A1s2abkfEQ&_nc_ss=7a3a8&oh=00_Af0FBH7-KePfr2j8RLRWgFO6ilROey-Ihmzgonm-Eil-3Q&oe=69DBF267",
+    "card_count": 0,
+    "cards": [],
+    "original_json_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\cosrx_ads.json",
+    "original_media_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\media_cosrx\\ad_14_3069304630124856.jpg"
+  }
+}

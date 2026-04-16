@@ -1,0 +1,55 @@
+{
+  "ad_id": "meta_caraway_1989797002413293",
+  "source_platform": "meta_ad_library",
+  "captured_at": "2026-04-15T03:28:28.749Z",
+  "brand_name": "caraway",
+  "product_category": "unknown",
+  "product_names": [
+    "The Most Unexpected Kitchen Upgrade"
+  ],
+  "image_paths": [],
+  "video_paths": [],
+  "landing_page_url": "https://www.carawayhome.com/products/trash-can",
+  "ad_copy": "{{product.brand}}",
+  "cta": "Learn more",
+  "country": "ALL",
+  "language": "unknown",
+  "notes": "Imported from competitor Meta Ad Library scraper",
+  "source_meta": {
+    "original_ad_archive_id": "1989797002413293",
+    "ad_format": "Carousel",
+    "media_kind": "carousel_preview",
+    "title": "{{product.name}}",
+    "caption": "carawayhome.com",
+    "platforms": [
+      "FACEBOOK",
+      "INSTAGRAM",
+      "MESSENGER",
+      "THREADS"
+    ],
+    "start_date": "2026-04-07T07:00:00.000Z",
+    "end_date": "2026-04-13T07:00:00.000Z",
+    "primary_image_url": "",
+    "card_count": 2,
+    "cards": [
+      {
+        "body": "Is your trash can an eyesore? Meet Caraway's new Trash & Recycling Collection: designed to match your kitchen moodboard.\n✔ Furniture-inspired colors\n✔ Hidden bag, seamless look\n✔ Designed to be seen",
+        "title": "The Most Unexpected Kitchen Upgrade",
+        "caption": "",
+        "cta_text": "Learn More",
+        "link_url": "https://www.carawayhome.com/products/trash-can",
+        "image": ""
+      },
+      {
+        "body": "Is your trash can an eyesore? Meet Caraway's new Trash & Recycling Collection: designed to match your kitchen moodboard.\n✔ Furniture-inspired colors\n✔ Hidden bag, seamless look\n✔ Designed to be seen",
+        "title": "The Most Unexpected Kitchen Upgrade",
+        "caption": "",
+        "cta_text": "Learn More",
+        "link_url": "https://www.carawayhome.com/products/trash-can",
+        "image": ""
+      }
+    ],
+    "original_json_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\caraway_ads.json",
+    "original_media_path": ""
+  }
+}

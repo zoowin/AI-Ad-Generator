@@ -1,0 +1,37 @@
+{
+  "brief_id": "out_20260415_0001",
+  "brand": "Depology",
+  "product": "Matrixyl 3000 Collagen Serum",
+  "target_audience": "Women 35+ concerned with wrinkles and firmness",
+  "objective": "Static Meta ad creative test",
+  "selected_patterns": [
+    "product-hero-with-proof",
+    "clinical-closeup"
+  ],
+  "required_elements": [
+    "real product packshot",
+    "premium skincare lighting",
+    "clinical-but-human tone"
+  ],
+  "forbidden_elements": [
+    "cartoon rendering",
+    "extra duplicate bottles",
+    "unreadable packaging"
+  ],
+  "composition_spec": {
+    "canvas_ratio": "4:5",
+    "product_position": "bottom-right",
+    "proof_module": "left-side inset",
+    "text_safe_area": "top-left"
+  },
+  "copy_direction": {
+    "hook": "Visible smoothing",
+    "support": "Science-backed serum",
+    "cta": "Learn More"
+  },
+  "figma_handoff": {
+    "deliver_as_modules": true,
+    "needs_text_safe_area": true,
+    "notes": "Designer will finalize typography and legal review in Figma"
+  }
+}

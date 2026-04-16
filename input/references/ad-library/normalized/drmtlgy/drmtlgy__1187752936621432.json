@@ -1,0 +1,40 @@
+{
+  "ad_id": "meta_drmtlgy_1187752936621432",
+  "source_platform": "meta_ad_library",
+  "captured_at": "2026-04-15T03:28:28.861Z",
+  "brand_name": "drmtlgy",
+  "product_category": "unknown",
+  "product_names": [
+    "🎉 DRM Day - The Biggest Sale of the Year! 🎉"
+  ],
+  "image_paths": [
+    "data/input/ad-library/raw/drmtlgy/drmtlgy__1187752936621432.jpg"
+  ],
+  "video_paths": [],
+  "landing_page_url": "https://drmtlgy.com/pages/new-meet-growth-factor-serum",
+  "ad_copy": "{{product.brand}}",
+  "cta": "Shop Now",
+  "country": "ALL",
+  "language": "unknown",
+  "notes": "Imported from competitor Meta Ad Library scraper",
+  "source_meta": {
+    "original_ad_archive_id": "1187752936621432",
+    "ad_format": "Carousel",
+    "media_kind": "carousel_preview",
+    "title": "🎉 DRM Day - The Biggest Sale of the Year! 🎉",
+    "caption": "",
+    "platforms": [
+      "FACEBOOK",
+      "INSTAGRAM",
+      "MESSENGER",
+      "THREADS"
+    ],
+    "start_date": "2026-04-01T07:00:00.000Z",
+    "end_date": "",
+    "primary_image_url": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/640297831_2723857897989432_6932344961242976269_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=O9f--M4TtoIQ7kNvwHDg2co&_nc_oc=AdoH3DUR44D5qO1xuGEwwF5eaJcLVSYxe2_7ojLtvc0fW3yJYtDQ7Z2PHeiTlu0C0MU&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=2QWTKabkCeZiH4T1AWhjTw&_nc_ss=7a3a8&oh=00_Af0L0sbSK0jrunMzUrwmiHvLqTbzGD457OH7YHCiL76ViQ&oe=69D42805",
+    "card_count": 2,
+    "cards": [],
+    "original_json_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\drmtlgy_ads.json",
+    "original_media_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\media_drmtlgy\\ad_6.jpg"
+  }
+}

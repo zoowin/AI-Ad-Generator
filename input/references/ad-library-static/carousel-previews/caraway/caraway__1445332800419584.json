@@ -1,0 +1,94 @@
+{
+  "ad_id": "meta_caraway_1445332800419584",
+  "source_platform": "meta_ad_library",
+  "captured_at": "2026-04-15T03:28:28.750Z",
+  "brand_name": "caraway",
+  "product_category": "unknown",
+  "product_names": [
+    "Caraway 12pc Cookware Set in Cream | Non-Toxic I Non-Stick",
+    "Caraway 10.5” Fry Pan in Sage | Non-Toxic I Non-Stick",
+    "Caraway 12pc Cookware Set in Sage | Non-Toxic I Non-Stick",
+    "Caraway 12pc Cookware Set in Perracotta | Non-Toxic I Non-Stick",
+    "Caraway 12pc Cookware Set in Navy | Non-Toxic I Non-Stick",
+    "Caraway 12pc Cookware Set in Gray | Non-Toxic I Non-Stick"
+  ],
+  "image_paths": [
+    "data/input/ad-library/raw/caraway/caraway__1445332800419584.jpg"
+  ],
+  "video_paths": [],
+  "landing_page_url": "https://www.carawayhome.com/collections",
+  "ad_copy": "Waiting for the right time to upgrade?\nThis is it. Caraway is designed for real kitchens—oven safe, beautifully coordinated, easy to use, and built to stay that way. The sooner you upgrade, the sooner you stop settling.",
+  "cta": "Shop now",
+  "country": "ALL",
+  "language": "unknown",
+  "notes": "Imported from competitor Meta Ad Library scraper",
+  "source_meta": {
+    "original_ad_archive_id": "1445332800419584",
+    "ad_format": "Carousel",
+    "media_kind": "carousel_preview",
+    "title": "{{product.name}}",
+    "caption": "carawayhome.com",
+    "platforms": [
+      "FACEBOOK",
+      "INSTAGRAM",
+      "MESSENGER",
+      "THREADS"
+    ],
+    "start_date": "2026-03-17T07:00:00.000Z",
+    "end_date": "2026-04-13T07:00:00.000Z",
+    "primary_image_url": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/643769149_2121195725366157_3222990710965233104_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=qYAS-N0KdpUQ7kNvwG8vobX&_nc_oc=Adr46g4NrPfn1Ix2PnuhbfQXBsKJjiF7YKEu8YJLH0XiGBq1hrT5WIFqDaNYQ9McWRg&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=_48kJ1ham5jY4v5iIqaJ5Q&_nc_ss=7a3a8&oh=00_Af2NW88Nc46mixGCCHWB0_-QYjHfs1__JPC2_IT0v-KbSw&oe=69E3C6C7",
+    "card_count": 6,
+    "cards": [
+      {
+        "body": "Waiting for the right time to upgrade?\nThis is it. Caraway is designed for real kitchens—oven safe, beautifully coordinated, easy to use, and built to stay that way. The sooner you upgrade, the sooner you stop settling.",
+        "title": "Caraway 12pc Cookware Set in Cream | Non-Toxic I Non-Stick",
+        "caption": "carawayhome.com",
+        "cta_text": "Shop Now",
+        "link_url": "https://www.carawayhome.com/products/cookware-sets?color=cream",
+        "image": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/643769149_2121195725366157_3222990710965233104_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=qYAS-N0KdpUQ7kNvwG8vobX&_nc_oc=Adr46g4NrPfn1Ix2PnuhbfQXBsKJjiF7YKEu8YJLH0XiGBq1hrT5WIFqDaNYQ9McWRg&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=_48kJ1ham5jY4v5iIqaJ5Q&_nc_ss=7a3a8&oh=00_Af2NW88Nc46mixGCCHWB0_-QYjHfs1__JPC2_IT0v-KbSw&oe=69E3C6C7"
+      },
+      {
+        "body": "Waiting for the right time to upgrade?\nThis is it. Caraway is designed for real kitchens—oven safe, beautifully coordinated, easy to use, and built to stay that way. The sooner you upgrade, the sooner you stop settling.",
+        "title": "Caraway 10.5” Fry Pan in Sage | Non-Toxic I Non-Stick",
+        "caption": "carawayhome.com",
+        "cta_text": "Shop Now",
+        "link_url": "https://www.carawayhome.com/products/fry-pan?color=sage",
+        "image": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/645459835_1448043193642824_6598867286307677880_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=r4DDjFUMz9YQ7kNvwH3jr5n&_nc_oc=AdqOc557GBaJJCUfbFfpyRgpG203sCp6vreTHhApxgiwyeiyMOEYyB0JIo7EQ_yJy6I&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=_48kJ1ham5jY4v5iIqaJ5Q&_nc_ss=7a3a8&oh=00_Af2Gjb7_Y6wWVnJVo95YSFdttTVGZ8ZEW-gUCtBLMenPQw&oe=69E3D6E7"
+      },
+      {
+        "body": "Waiting for the right time to upgrade?\nThis is it. Caraway is designed for real kitchens—oven safe, beautifully coordinated, easy to use, and built to stay that way. The sooner you upgrade, the sooner you stop settling.",
+        "title": "Caraway 12pc Cookware Set in Sage | Non-Toxic I Non-Stick",
+        "caption": "carawayhome.com",
+        "cta_text": "Shop Now",
+        "link_url": "https://www.carawayhome.com/products/cookware-sets?color=sage",
+        "image": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/645409148_34099427886368044_4646236767106263535_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=2QDtFLYsucIQ7kNvwH0UKWE&_nc_oc=AdrRds-l93qXbb-VWKCCJCdl3c-iASAa9nlWCi2iQLRa5IQo7IbILSAHBSJUiktXw4g&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=_48kJ1ham5jY4v5iIqaJ5Q&_nc_ss=7a3a8&oh=00_Af05en6lKGtdZw4Okfc7OVIffNEChwhUdeF4qnFN8sCTDA&oe=69E3E49F"
+      },
+      {
+        "body": "Waiting for the right time to upgrade?\nThis is it. Caraway is designed for real kitchens—oven safe, beautifully coordinated, easy to use, and built to stay that way. The sooner you upgrade, the sooner you stop settling.",
+        "title": "Caraway 12pc Cookware Set in Perracotta | Non-Toxic I Non-Stick",
+        "caption": "carawayhome.com",
+        "cta_text": "Shop Now",
+        "link_url": "https://www.carawayhome.com/products/cookware-sets?color=perracotta",
+        "image": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/645294619_1976411216243847_5893393939759285532_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=gxIKcmsAZa0Q7kNvwFV6E2x&_nc_oc=Adp4Zg9ANK5nmRte8vWudDniRhgAEbnE-ehE6YBxzWEHinKmusG9sMAJzJO-zpisVsA&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=_48kJ1ham5jY4v5iIqaJ5Q&_nc_ss=7a3a8&oh=00_Af3iw6RqCpGfe33wMzrydCwyoqHnHJp0GgLkUzb_dM4WBA&oe=69E3CE8D"
+      },
+      {
+        "body": "Waiting for the right time to upgrade?\nThis is it. Caraway is designed for real kitchens—oven safe, beautifully coordinated, easy to use, and built to stay that way. The sooner you upgrade, the sooner you stop settling.",
+        "title": "Caraway 12pc Cookware Set in Navy | Non-Toxic I Non-Stick",
+        "caption": "carawayhome.com",
+        "cta_text": "Shop Now",
+        "link_url": "https://www.carawayhome.com/products/cookware-sets?color=navy",
+        "image": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/645219033_2785681241823959_1918018414966519082_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=CYP4Od_4QM0Q7kNvwFuXLCD&_nc_oc=AdoMBQa7q1ovk8NobzmoAbv0U4IO1wq3ECAc1lJs281jXEI9N5VHo18Dd51rafwJnZI&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=_48kJ1ham5jY4v5iIqaJ5Q&_nc_ss=7a3a8&oh=00_Af3KsqjmacRdppiQSn15UUGIxttIA80JKhnAyruNSkTCJQ&oe=69E3E58E"
+      },
+      {
+        "body": "Waiting for the right time to upgrade?\nThis is it. Caraway is designed for real kitchens—oven safe, beautifully coordinated, easy to use, and built to stay that way. The sooner you upgrade, the sooner you stop settling.",
+        "title": "Caraway 12pc Cookware Set in Gray | Non-Toxic I Non-Stick",
+        "caption": "carawayhome.com",
+        "cta_text": "Shop Now",
+        "link_url": "https://www.carawayhome.com/products/cookware-sets?color=gray",
+        "image": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/646710120_1251018543167538_8428886842413208848_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=8h6GI-zN0CIQ7kNvwFp5J7H&_nc_oc=AdqpC4Q3WdHZTr4HXQart-8HTxGvoSlRXGzqDZauAjmlV9fAjoqMSrpHfBNS2WAvB2Q&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=_48kJ1ham5jY4v5iIqaJ5Q&_nc_ss=7a3a8&oh=00_Af3Z2NMX4EPgqgeZRzjUfLCZHjSD7qm0oA7JCUlpl5uv5g&oe=69E3C050"
+      }
+    ],
+    "original_json_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\caraway_ads.json",
+    "original_media_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\media_caraway\\ad_17_1445332800419584.jpg"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "ad_id": "meta_caraway_1507520490948042",
+  "source_platform": "meta_ad_library",
+  "captured_at": "2026-04-15T03:28:28.751Z",
+  "brand_name": "caraway",
+  "product_category": "unknown",
+  "product_names": [
+    "Upgrade Your Kitchen with Caraway"
+  ],
+  "image_paths": [
+    "data/input/ad-library/raw/caraway/caraway__1507520490948042.jpg"
+  ],
+  "video_paths": [],
+  "landing_page_url": "https://www.carawayhome.com/collections/best-sellers",
+  "ad_copy": "I’m making healthier cooking a priority this year, and Caraway fits right into my kitchen and my lifestyle.✨ It not only performs, but looks beautiful in my kitchen.",
+  "cta": "Shop now",
+  "country": "ALL",
+  "language": "unknown",
+  "notes": "Imported from competitor Meta Ad Library scraper",
+  "source_meta": {
+    "original_ad_archive_id": "1507520490948042",
+    "ad_format": "Video",
+    "media_kind": "video_preview",
+    "title": "Upgrade Your Kitchen with Caraway",
+    "caption": "www.carawayhome.com",
+    "platforms": [
+      "FACEBOOK",
+      "INSTAGRAM",
+      "MESSENGER",
+      "THREADS"
+    ],
+    "start_date": "2026-04-13T07:00:00.000Z",
+    "end_date": "2026-04-13T07:00:00.000Z",
+    "primary_image_url": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/651770243_1487991152884922_8349191115008769865_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=AHXsg1v51tIQ7kNvwGvOTes&_nc_oc=AdrqnDxrjas2LikdYX2fPRPGxyc-Rrl50AIRj6OfTxA4dCaU5Ml9yOc4tC8DfGfxCmI&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=_48kJ1ham5jY4v5iIqaJ5Q&_nc_ss=7a3a8&oh=00_Af1jehUQI1NQpplljkR6DUi4Ylj1aWsNs1ngRn1hkXytjg&oe=69E3E210",
+    "card_count": 0,
+    "cards": [],
+    "original_json_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\caraway_ads.json",
+    "original_media_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\media_caraway\\ad_20_1507520490948042.jpg"
+  }
+}

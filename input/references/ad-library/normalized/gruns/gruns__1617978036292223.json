@@ -1,0 +1,55 @@
+{
+  "ad_id": "meta_gruns_1617978036292223",
+  "source_platform": "meta_ad_library",
+  "captured_at": "2026-04-15T03:28:29.073Z",
+  "brand_name": "gruns",
+  "product_category": "unknown",
+  "product_names": [
+    "Struggling to Get Enough Fiber?"
+  ],
+  "image_paths": [],
+  "video_paths": [],
+  "landing_page_url": "https://gruns.co/pages/fiber",
+  "ad_copy": "{{product.brand}}",
+  "cta": "Shop now",
+  "country": "ALL",
+  "language": "unknown",
+  "notes": "Imported from competitor Meta Ad Library scraper",
+  "source_meta": {
+    "original_ad_archive_id": "1617978036292223",
+    "ad_format": "Carousel",
+    "media_kind": "carousel_preview",
+    "title": "{{product.name}}",
+    "caption": "gruns.co",
+    "platforms": [
+      "FACEBOOK",
+      "INSTAGRAM",
+      "AUDIENCE_NETWORK",
+      "MESSENGER"
+    ],
+    "start_date": "2026-03-04T08:00:00.000Z",
+    "end_date": "2026-04-13T07:00:00.000Z",
+    "primary_image_url": "",
+    "card_count": 2,
+    "cards": [
+      {
+        "body": "Did you know fiber isn’t just for digestion? Fiber feeds the good bacteria in your gut, supporting regularity, digestive health, appetite control, and healthy blood sugar levels. Grüns gives you 6g of prebiotic fiber per serving—no powders, no prep.",
+        "title": "Struggling to Get Enough Fiber?",
+        "caption": "",
+        "cta_text": "Shop Now",
+        "link_url": "https://gruns.co/pages/fiber",
+        "image": ""
+      },
+      {
+        "body": "Did you know fiber isn’t just for digestion? Fiber feeds the good bacteria in your gut, supporting regularity, digestive health, appetite control, and healthy blood sugar levels. Grüns gives you 6g of prebiotic fiber per serving—no powders, no prep.",
+        "title": "Struggling to Get Enough Fiber?",
+        "caption": "",
+        "cta_text": "Shop Now",
+        "link_url": "https://gruns.co/pages/fiber",
+        "image": ""
+      }
+    ],
+    "original_json_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\gruns_ads.json",
+    "original_media_path": ""
+  }
+}

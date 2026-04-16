@@ -1,0 +1,38 @@
+{
+  "ad_id": "meta_theordinary_2952086494984832",
+  "source_platform": "meta_ad_library",
+  "captured_at": "2026-04-15T03:28:29.942Z",
+  "brand_name": "theordinary",
+  "product_category": "unknown",
+  "product_names": [
+    "Neues Serum für mehr Fülle."
+  ],
+  "image_paths": [
+    "data/input/ad-library/raw/theordinary/theordinary__2952086494984832.jpg"
+  ],
+  "video_paths": [],
+  "landing_page_url": "https://www.douglas.de/de/p/5011994731",
+  "ad_copy": "Gezielt aufbauendes Serum mit Volufiline für sichtbar vollere Haut.",
+  "cta": "Shop now",
+  "country": "ALL",
+  "language": "unknown",
+  "notes": "Imported from competitor Meta Ad Library scraper",
+  "source_meta": {
+    "original_ad_archive_id": "2952086494984832",
+    "ad_format": "Image",
+    "media_kind": "image",
+    "title": "Neues Serum für mehr Fülle.",
+    "caption": "douglas.de",
+    "platforms": [
+      "FACEBOOK",
+      "INSTAGRAM"
+    ],
+    "start_date": "2026-04-07T07:00:00.000Z",
+    "end_date": "2026-04-07T07:00:00.000Z",
+    "primary_image_url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/661563429_1298168865489785_2323497244804124323_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=2KdbbK1fhgYQ7kNvwGBcvBw&_nc_oc=AdrBAeZlc3YSq6a7ajrsHcqfvxOpH-4syfmeJM0GfrOPGH18y8-lN7N8uAK2XDM5-eE&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=Z_nVSow4qziKaexeRF_dXQ&_nc_ss=7a3a8&oh=00_Af1mPV2HZndInSh0nDLQrSpsmfHR9SpuTz9oiIONf1o5MA&oe=69DBEF3D",
+    "card_count": 0,
+    "cards": [],
+    "original_json_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\theordinary_ads.json",
+    "original_media_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\media_theordinary\\ad_7_2952086494984832.jpg"
+  }
+}

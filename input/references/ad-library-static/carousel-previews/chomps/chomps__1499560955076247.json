@@ -1,0 +1,56 @@
+{
+  "ad_id": "meta_chomps_1499560955076247",
+  "source_platform": "meta_ad_library",
+  "captured_at": "2026-04-15T03:28:28.780Z",
+  "brand_name": "chomps",
+  "product_category": "unknown",
+  "product_names": [
+    "Pick up new snacks near you"
+  ],
+  "image_paths": [
+    "data/input/ad-library/raw/chomps/chomps__1499560955076247.jpg"
+  ],
+  "video_paths": [],
+  "landing_page_url": "https://www.target.com/b/chomps-snack-sticks/-/N-ucfi",
+  "ad_copy": "{{product.brand}}",
+  "cta": "Shop now",
+  "country": "ALL",
+  "language": "unknown",
+  "notes": "Imported from competitor Meta Ad Library scraper",
+  "source_meta": {
+    "original_ad_archive_id": "1499560955076247",
+    "ad_format": "Carousel",
+    "media_kind": "carousel_preview",
+    "title": "{{product.name}}",
+    "caption": "target.com",
+    "platforms": [
+      "FACEBOOK",
+      "INSTAGRAM",
+      "AUDIENCE_NETWORK"
+    ],
+    "start_date": "2026-04-07T07:00:00.000Z",
+    "end_date": "2026-04-13T07:00:00.000Z",
+    "primary_image_url": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/657927468_1123528019905268_6019937594243055979_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=COdXQT5NLOwQ7kNvwGaGVkU&_nc_oc=AdpssYFrpjfTNCF92Vx47-t8ZFesKpm_K12Ah-rpWiO88kuegBpD5Qo95qLz69HU4KU&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=UkQqVnfDU7C9a3-abHHx9g&_nc_ss=7a3a8&oh=00_Af0SmkxNiqvN8QY4CX3q9OV3AAqgwF-AqZMXgCToLEPlUA&oe=69E3CA6D",
+    "card_count": 2,
+    "cards": [
+      {
+        "body": "Get NEW Chicken sticks in a store near you! Choose between Original Chicken, Nashville Hot Chicken, and Savory Breakfast Chicken.",
+        "title": "Pick up new snacks near you",
+        "caption": "",
+        "cta_text": "Shop Now",
+        "link_url": "https://www.target.com/b/chomps-snack-sticks/-/N-ucfi",
+        "image": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/657927468_1123528019905268_6019937594243055979_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=COdXQT5NLOwQ7kNvwGaGVkU&_nc_oc=AdpssYFrpjfTNCF92Vx47-t8ZFesKpm_K12Ah-rpWiO88kuegBpD5Qo95qLz69HU4KU&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=UkQqVnfDU7C9a3-abHHx9g&_nc_ss=7a3a8&oh=00_Af0SmkxNiqvN8QY4CX3q9OV3AAqgwF-AqZMXgCToLEPlUA&oe=69E3CA6D"
+      },
+      {
+        "body": "Get NEW Chicken sticks in a store near you! Choose between Original Chicken, Nashville Hot Chicken, and Savory Breakfast Chicken.",
+        "title": "Pick up new snacks near you",
+        "caption": "",
+        "cta_text": "Shop Now",
+        "link_url": "https://www.target.com/b/chomps-snack-sticks/-/N-ucfi",
+        "image": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/658901452_2511759515906993_832140911746354213_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=7QaYXrV_OEMQ7kNvwFv-xMD&_nc_oc=AdqAuIY95SqC8ny2MbjOJ_KTgdzoSmDspHlAbNwNB7edufo14D-tQGrEpXrGnkqTBEw&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=UkQqVnfDU7C9a3-abHHx9g&_nc_ss=7a3a8&oh=00_Af3CD0pi_yVCElSe2fuRKEKM-mXUZRHou8-zv3vXHKZvXw&oe=69E3D82B"
+      }
+    ],
+    "original_json_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\chomps_ads.json",
+    "original_media_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\media_chomps\\ad_24_1499560955076247.jpg"
+  }
+}

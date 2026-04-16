@@ -1,0 +1,57 @@
+{
+  "ad_id": "meta_ag1_854700173968438",
+  "source_platform": "meta_ad_library",
+  "captured_at": "2026-04-15T03:28:28.716Z",
+  "brand_name": "ag1",
+  "product_category": "unknown",
+  "product_names": [
+    "Make AG1 Your Daily Routine"
+  ],
+  "image_paths": [
+    "data/input/ad-library/raw/ag1/ag1__854700173968438.jpg"
+  ],
+  "video_paths": [],
+  "landing_page_url": "https://drinkag1.com/immune-support",
+  "ad_copy": "{{product.brand}}",
+  "cta": "Learn more",
+  "country": "ALL",
+  "language": "unknown",
+  "notes": "Imported from competitor Meta Ad Library scraper",
+  "source_meta": {
+    "original_ad_archive_id": "854700173968438",
+    "ad_format": "Carousel",
+    "media_kind": "carousel_preview",
+    "title": "{{product.name}}",
+    "caption": "drinkag1.com",
+    "platforms": [
+      "FACEBOOK",
+      "INSTAGRAM",
+      "MESSENGER",
+      "THREADS"
+    ],
+    "start_date": "2025-12-04T08:00:00.000Z",
+    "end_date": "2026-04-13T07:00:00.000Z",
+    "primary_image_url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/593716295_1445998043713098_8663429010808400051_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=jRslX2c8NHcQ7kNvwHAKGHA&_nc_oc=AdohScNqVVkTMXaJ8-54k4jwtL0CjSHMn8Mt9JysaPYuWO5FT_pdM0P4AzX1l-gm_kE&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=Fns_35FlzA60O0VNYqaUAg&_nc_ss=7a3a8&oh=00_Af2PHd1XsMVQ-5VrwFZAjbOuBCv_FzhA257JQkWa7cD2UQ&oe=69E3E067",
+    "card_count": 2,
+    "cards": [
+      {
+        "body": "AG1 contains your daily dose of essential nutrients to support your body’s immune defense and keep you resilient throughout the year.*",
+        "title": "Make AG1 Your Daily Routine",
+        "caption": "",
+        "cta_text": "Learn More",
+        "link_url": "https://drinkag1.com/immune-support",
+        "image": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/593716295_1445998043713098_8663429010808400051_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=jRslX2c8NHcQ7kNvwHAKGHA&_nc_oc=AdohScNqVVkTMXaJ8-54k4jwtL0CjSHMn8Mt9JysaPYuWO5FT_pdM0P4AzX1l-gm_kE&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=Fns_35FlzA60O0VNYqaUAg&_nc_ss=7a3a8&oh=00_Af2PHd1XsMVQ-5VrwFZAjbOuBCv_FzhA257JQkWa7cD2UQ&oe=69E3E067"
+      },
+      {
+        "body": "AG1 contains your daily dose of essential nutrients to support your body’s immune defense and keep you resilient throughout the year.*",
+        "title": "Make AG1 Your Daily Routine",
+        "caption": "",
+        "cta_text": "Learn More",
+        "link_url": "https://drinkag1.com/immune-support",
+        "image": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/593609286_1332021698210254_1914712178984079957_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=bvnlM6IEWFoQ7kNvwGEDRzh&_nc_oc=AdoXZqllw1RJwE6uhwUO6yHcplJsKpRzeXnMFpFAqQmODQcyh2W5Vcqf59Xw5CfMPZ4&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=Fns_35FlzA60O0VNYqaUAg&_nc_ss=7a3a8&oh=00_Af2nVQEY_MNjX-QeAbIdRCzqRFbear05XockyWw7WgAPwQ&oe=69E3E5C4"
+      }
+    ],
+    "original_json_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\ag1_ads.json",
+    "original_media_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\media_ag1\\ad_18_854700173968438.jpg"
+  }
+}

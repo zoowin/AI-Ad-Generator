@@ -1,0 +1,55 @@
+{
+  "ad_id": "meta_theordinary_1211489287725150",
+  "source_platform": "meta_ad_library",
+  "captured_at": "2026-04-15T03:28:29.945Z",
+  "brand_name": "theordinary",
+  "product_category": "unknown",
+  "product_names": [
+    "A Birthday Gift For You."
+  ],
+  "image_paths": [],
+  "video_paths": [],
+  "landing_page_url": "https://theordinary.com/category/best-sellers?utm_medium=paid_social&utm_source=fb_ig&utm_campaign=deciembirthday&utm_content={{adset.id}}-{{ad.id}}",
+  "ad_copy": "{{product.brand}}",
+  "cta": "Shop now",
+  "country": "ALL",
+  "language": "unknown",
+  "notes": "Imported from competitor Meta Ad Library scraper",
+  "source_meta": {
+    "original_ad_archive_id": "1211489287725150",
+    "ad_format": "Carousel",
+    "media_kind": "carousel_preview",
+    "title": "{{product.name}}",
+    "caption": "theordinary.com",
+    "platforms": [
+      "FACEBOOK",
+      "INSTAGRAM",
+      "MESSENGER",
+      "THREADS"
+    ],
+    "start_date": "2026-03-31T07:00:00.000Z",
+    "end_date": "2026-04-07T07:00:00.000Z",
+    "primary_image_url": "",
+    "card_count": 2,
+    "cards": [
+      {
+        "body": "23% off. Plus, a complimentary 30ml moisturizer with qualifying purchase. T&Cs apply.",
+        "title": "A Birthday Gift For You.",
+        "caption": "",
+        "cta_text": "Shop Now",
+        "link_url": "https://theordinary.com/category/best-sellers?utm_medium=paid_social&utm_source=fb_ig&utm_campaign=deciembirthday&utm_content={{adset.id}}-{{ad.id}}",
+        "image": ""
+      },
+      {
+        "body": "23% off. Plus, a complimentary 30ml moisturizer with qualifying purchase. T&Cs apply.",
+        "title": "A Birthday Gift For You.",
+        "caption": "",
+        "cta_text": "Shop Now",
+        "link_url": "https://theordinary.com/category/best-sellers?utm_medium=paid_social&utm_source=fb_ig&utm_campaign=deciembirthday&utm_content={{adset.id}}-{{ad.id}}",
+        "image": ""
+      }
+    ],
+    "original_json_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\theordinary_ads.json",
+    "original_media_path": ""
+  }
+}

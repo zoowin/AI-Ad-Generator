@@ -1,0 +1,66 @@
+{
+  "ad_id": "meta_skinfix_838140052136957",
+  "source_platform": "meta_ad_library",
+  "captured_at": "2026-04-15T03:28:29.860Z",
+  "brand_name": "skinfix",
+  "product_category": "unknown",
+  "product_names": [
+    "New! Skinfix Water Cream 💧"
+  ],
+  "image_paths": [
+    "data/input/ad-library/raw/skinfix/skinfix__838140052136957.jpg"
+  ],
+  "video_paths": [],
+  "landing_page_url": "https://skinfix.com/products/barrier-balancing-water-cream",
+  "ad_copy": "{{product.brand}}",
+  "cta": "Shop now",
+  "country": "ALL",
+  "language": "unknown",
+  "notes": "Imported from competitor Meta Ad Library scraper",
+  "source_meta": {
+    "original_ad_archive_id": "838140052136957",
+    "ad_format": "Carousel",
+    "media_kind": "carousel_preview",
+    "title": "{{product.name}}",
+    "caption": "skinfix.com",
+    "platforms": [
+      "FACEBOOK",
+      "INSTAGRAM",
+      "AUDIENCE_NETWORK",
+      "MESSENGER",
+      "THREADS"
+    ],
+    "start_date": "2025-11-14T08:00:00.000Z",
+    "end_date": "2026-04-07T07:00:00.000Z",
+    "primary_image_url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/581960568_840567352270521_6683286483988073775_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=86MDGs2XvGkQ7kNvwFsh5JW&_nc_oc=Adr-dTRZMcQJFdi1cayQv9Br__bYN-ZVioGViY-LXuj4bi6ckdODbzJfzwdIQyxkIBc&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=NfPh_cuV0mLiy6yq3lQodQ&_nc_ss=7a3a8&oh=00_Af0ZGzUd5H_W3uha-vEbCfNmKK_fon4nfULK2MaEZ9ladA&oe=69DBEAE9",
+    "card_count": 3,
+    "cards": [
+      {
+        "body": "Your skincare routine just got better! 💙 Discover our new Barrier Balancing Water Cream—A lightweight & refreshing formula that leaves your skin hydrated for 72-hours. Shop Skinfix's new addition to our award-winning line-up to give your skin the barrier support it craves.",
+        "title": "New! Skinfix Water Cream 💧",
+        "caption": "",
+        "cta_text": "Shop Now",
+        "link_url": "https://skinfix.com/products/barrier-balancing-water-cream",
+        "image": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/581960568_840567352270521_6683286483988073775_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=86MDGs2XvGkQ7kNvwFsh5JW&_nc_oc=Adr-dTRZMcQJFdi1cayQv9Br__bYN-ZVioGViY-LXuj4bi6ckdODbzJfzwdIQyxkIBc&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=NfPh_cuV0mLiy6yq3lQodQ&_nc_ss=7a3a8&oh=00_Af0ZGzUd5H_W3uha-vEbCfNmKK_fon4nfULK2MaEZ9ladA&oe=69DBEAE9"
+      },
+      {
+        "body": "Your skincare routine just got better! 💙 Discover our new Barrier Balancing Water Cream—A lightweight & refreshing formula that leaves your skin hydrated for 72-hours. Shop Skinfix's new addition to our award-winning line-up to give your skin the barrier support it craves.",
+        "title": "New! Skinfix Water Cream 💧",
+        "caption": "",
+        "cta_text": "Shop Now",
+        "link_url": "https://skinfix.com/products/barrier-balancing-water-cream",
+        "image": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/581266548_816408481377411_3230708570876914073_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=sr4x1lbgfiAQ7kNvwHeaBN0&_nc_oc=AdocN-NYL3_HylrSaQjE3207nFRaIY6mqzDiV3JD7WojlP0hnUxMxB4yxH1Xg_EODhc&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=NfPh_cuV0mLiy6yq3lQodQ&_nc_ss=7a3a8&oh=00_Af302z2UmJLYEQ33QdQpX-5bUn_1e9bL8t6ygiYkUQPHyA&oe=69DBEF29"
+      },
+      {
+        "body": "A refreshing new solution from the trusted skin barrier experts. Replenish and balance your skin barrier with our Barrier Balancing Water Cream. Shop now for 72-hour hydration!✨",
+        "title": "New! Skinfix Water Cream 💧",
+        "caption": "",
+        "cta_text": "Shop Now",
+        "link_url": "https://skinfix.com/products/barrier-balancing-water-cream",
+        "image": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/581960568_840567352270521_6683286483988073775_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=86MDGs2XvGkQ7kNvwFsh5JW&_nc_oc=Adr-dTRZMcQJFdi1cayQv9Br__bYN-ZVioGViY-LXuj4bi6ckdODbzJfzwdIQyxkIBc&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=NfPh_cuV0mLiy6yq3lQodQ&_nc_ss=7a3a8&oh=00_Af0ZGzUd5H_W3uha-vEbCfNmKK_fon4nfULK2MaEZ9ladA&oe=69DBEAE9"
+      }
+    ],
+    "original_json_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\skinfix_ads.json",
+    "original_media_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\media_skinfix\\ad_18_838140052136957.jpg"
+  }
+}

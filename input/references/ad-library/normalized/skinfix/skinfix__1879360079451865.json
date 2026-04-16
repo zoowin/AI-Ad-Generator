@@ -1,0 +1,74 @@
+{
+  "ad_id": "meta_skinfix_1879360079451865",
+  "source_platform": "meta_ad_library",
+  "captured_at": "2026-04-15T03:28:29.886Z",
+  "brand_name": "skinfix",
+  "product_category": "unknown",
+  "product_names": [
+    "Light, Airy Barrier Care"
+  ],
+  "image_paths": [
+    "data/input/ad-library/raw/skinfix/skinfix__1879360079451865.jpg"
+  ],
+  "video_paths": [],
+  "landing_page_url": "https://ca.skinfix.com/products/ceramide-prime-whipped-cream",
+  "ad_copy": "{{product.brand}}",
+  "cta": "Learn more",
+  "country": "ALL",
+  "language": "unknown",
+  "notes": "Imported from competitor Meta Ad Library scraper",
+  "source_meta": {
+    "original_ad_archive_id": "1879360079451865",
+    "ad_format": "Carousel",
+    "media_kind": "carousel_preview",
+    "title": "{{product.name}}",
+    "caption": "ca.skinfix.com",
+    "platforms": [
+      "FACEBOOK",
+      "INSTAGRAM",
+      "AUDIENCE_NETWORK",
+      "MESSENGER",
+      "THREADS"
+    ],
+    "start_date": "2026-03-09T07:00:00.000Z",
+    "end_date": "2026-04-07T07:00:00.000Z",
+    "primary_image_url": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/648797477_795783093578106_1248153608339723715_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ZXPGa6_UIPgQ7kNvwHMGWLg&_nc_oc=Adr_NWREHrEEWhly8XVRsqXLAYDAR4qShtWmjpX9j2vQyFfQK6RGcmOMuWNHURp0o1g&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=NfPh_cuV0mLiy6yq3lQodQ&_nc_ss=7a3a8&oh=00_Af3nKTHfXpO1oMsTczX8XriheAPghrBAq6e2Jhq2lLxp2A&oe=69DBF1FC",
+    "card_count": 4,
+    "cards": [
+      {
+        "body": "Dermatologist recommended. User loved. See what clinical testing confirmed: 97% of testers saw results in just 1 week.",
+        "title": "Light, Airy Barrier Care",
+        "caption": "",
+        "cta_text": "Learn More",
+        "link_url": "https://ca.skinfix.com/products/ceramide-prime-whipped-cream",
+        "image": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/648797477_795783093578106_1248153608339723715_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ZXPGa6_UIPgQ7kNvwHMGWLg&_nc_oc=Adr_NWREHrEEWhly8XVRsqXLAYDAR4qShtWmjpX9j2vQyFfQK6RGcmOMuWNHURp0o1g&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=NfPh_cuV0mLiy6yq3lQodQ&_nc_ss=7a3a8&oh=00_Af3nKTHfXpO1oMsTczX8XriheAPghrBAq6e2Jhq2lLxp2A&oe=69DBF1FC"
+      },
+      {
+        "body": "Dermatologist recommended. User loved. See what clinical testing confirmed: 97% of testers saw results in just 1 week.",
+        "title": "Light, Airy Barrier Care",
+        "caption": "",
+        "cta_text": "Learn More",
+        "link_url": "https://ca.skinfix.com/products/ceramide-prime-whipped-cream",
+        "image": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/646821395_1552144529197560_4256428971080882433_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=sUGPR2ao7BkQ7kNvwFCzyY7&_nc_oc=AdpSL4pqDmPT0E1Tu2C6lDZGrPWoID63Vds9mzgWC9Ymh4JIOmVBkob302amVu6RoQw&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=NfPh_cuV0mLiy6yq3lQodQ&_nc_ss=7a3a8&oh=00_Af3jfhWJdub1Fl-rEw4rKOUra5dnJLaI7NDXfU-ljNJqhQ&oe=69DBF052"
+      },
+      {
+        "body": "Dermatologist recommended. User loved. See what clinical testing confirmed: 97% of testers saw results in just 1 week.",
+        "title": "Light, Airy Barrier Care",
+        "caption": "",
+        "cta_text": "Learn More",
+        "link_url": "https://ca.skinfix.com/products/ceramide-prime-whipped-cream",
+        "image": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/646821395_1552144529197560_4256428971080882433_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=sUGPR2ao7BkQ7kNvwFCzyY7&_nc_oc=AdpSL4pqDmPT0E1Tu2C6lDZGrPWoID63Vds9mzgWC9Ymh4JIOmVBkob302amVu6RoQw&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=NfPh_cuV0mLiy6yq3lQodQ&_nc_ss=7a3a8&oh=00_Af3jfhWJdub1Fl-rEw4rKOUra5dnJLaI7NDXfU-ljNJqhQ&oe=69DBF052"
+      },
+      {
+        "body": "Dermatologist recommended. User loved. See what clinical testing confirmed: 97% of testers saw results in just 1 week.",
+        "title": "Light, Airy Barrier Care",
+        "caption": "",
+        "cta_text": "Learn More",
+        "link_url": "https://ca.skinfix.com/products/ceramide-prime-whipped-cream",
+        "image": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/646821395_1552144529197560_4256428971080882433_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=sUGPR2ao7BkQ7kNvwFCzyY7&_nc_oc=AdpSL4pqDmPT0E1Tu2C6lDZGrPWoID63Vds9mzgWC9Ymh4JIOmVBkob302amVu6RoQw&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=NfPh_cuV0mLiy6yq3lQodQ&_nc_ss=7a3a8&oh=00_Af3jfhWJdub1Fl-rEw4rKOUra5dnJLaI7NDXfU-ljNJqhQ&oe=69DBF052"
+      }
+    ],
+    "original_json_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\skinfix_ads.json",
+    "original_media_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\media_skinfix\\ad_23_1879360079451865.jpg"
+  }
+}

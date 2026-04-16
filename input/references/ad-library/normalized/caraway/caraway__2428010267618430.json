@@ -1,0 +1,65 @@
+{
+  "ad_id": "meta_caraway_2428010267618430",
+  "source_platform": "meta_ad_library",
+  "captured_at": "2026-04-15T03:28:28.745Z",
+  "brand_name": "caraway",
+  "product_category": "unknown",
+  "product_names": [
+    "\"So easy and organized!\" - Michelle"
+  ],
+  "image_paths": [
+    "data/input/ad-library/raw/caraway/caraway__2428010267618430.jpg"
+  ],
+  "video_paths": [],
+  "landing_page_url": "https://www.carawayhome.com/products/deluxe-cookware-set",
+  "ad_copy": "{{product.brand}}",
+  "cta": "Shop now",
+  "country": "ALL",
+  "language": "unknown",
+  "notes": "Imported from competitor Meta Ad Library scraper",
+  "source_meta": {
+    "original_ad_archive_id": "2428010267618430",
+    "ad_format": "Carousel",
+    "media_kind": "carousel_preview",
+    "title": "{{product.name}}",
+    "caption": "carawayhome.com",
+    "platforms": [
+      "FACEBOOK",
+      "INSTAGRAM",
+      "MESSENGER",
+      "THREADS"
+    ],
+    "start_date": "2026-02-19T08:00:00.000Z",
+    "end_date": "2026-04-14T07:00:00.000Z",
+    "primary_image_url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/635012695_1310398797595090_3424422711455248521_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=SSxXsbKOuAsQ7kNvwHCdEGQ&_nc_oc=AdrS8vYB9S_jtY0g64yJXnyfMcYjYwgbdBSRi4Z5x0hWGW7ng8KKmJX3GX6oZgwi_GU&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=_48kJ1ham5jY4v5iIqaJ5Q&_nc_ss=7a3a8&oh=00_Af11hvAuBa7F8zZV2dJ3AGndfCuTQWTmqz0vQGFoTGnklA&oe=69E3D6B7",
+    "card_count": 3,
+    "cards": [
+      {
+        "body": "Elevate your cooking with Caraway cookware:\n🧪 Non-Toxic Ceramic Coating\n🍳 Smooth Cooking, Easy Cleanup\n📦 Free Shipping & Returns",
+        "title": "\"So easy and organized!\" - Michelle",
+        "caption": "",
+        "cta_text": "Shop Now",
+        "link_url": "https://www.carawayhome.com/products/deluxe-cookware-set",
+        "image": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/635012695_1310398797595090_3424422711455248521_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=SSxXsbKOuAsQ7kNvwHCdEGQ&_nc_oc=AdrS8vYB9S_jtY0g64yJXnyfMcYjYwgbdBSRi4Z5x0hWGW7ng8KKmJX3GX6oZgwi_GU&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=_48kJ1ham5jY4v5iIqaJ5Q&_nc_ss=7a3a8&oh=00_Af11hvAuBa7F8zZV2dJ3AGndfCuTQWTmqz0vQGFoTGnklA&oe=69E3D6B7"
+      },
+      {
+        "body": "Elevate your cooking with Caraway cookware:\n🧪 Non-Toxic Ceramic Coating\n🍳 Smooth Cooking, Easy Cleanup\n📦 Free Shipping & Returns",
+        "title": "\"So easy and organized!\" - Michelle",
+        "caption": "",
+        "cta_text": "Shop Now",
+        "link_url": "https://www.carawayhome.com/products/deluxe-cookware-set",
+        "image": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/635143949_1229690688747000_2857328106047320037_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=_gMbFEOTq-YQ7kNvwEConxF&_nc_oc=Adqt-38wp9ZBmltA9HcKS0OvcNHBvX77sl2inNSl2LapKMK8vwbzTxDtDd0GDfKFodk&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=_48kJ1ham5jY4v5iIqaJ5Q&_nc_ss=7a3a8&oh=00_Af026zblc_p8rJcJc1DHgGepFJA8gBE2vuy2sUjqUQHxJQ&oe=69E3C064"
+      },
+      {
+        "body": "Elevate your cooking with Caraway cookware:\n🧪 Non-Toxic Ceramic Coating\n🍳 Smooth Cooking, Easy Cleanup\n📦 Free Shipping & Returns",
+        "title": "\"So easy and organized!\" - Michelle",
+        "caption": "",
+        "cta_text": "Shop Now",
+        "link_url": "https://www.carawayhome.com/products/deluxe-cookware-set",
+        "image": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/637144343_880462524595802_3871326553242159098_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ZZXNGWCEW_kQ7kNvwH6TOOc&_nc_oc=AdrJS9IMmwydOGBfp_8wPLEeLi0EYnoBSkP81IrnjF6ZuPgqCrNCyUvX_aeVEBPuHTk&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=_48kJ1ham5jY4v5iIqaJ5Q&_nc_ss=7a3a8&oh=00_Af2KiCCzZsgSMGgC_SFtp143qNuIsEIwNOudyUqTNExgXA&oe=69E3D33A"
+      }
+    ],
+    "original_json_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\caraway_ads.json",
+    "original_media_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\media_caraway\\ad_11_2428010267618430.jpg"
+  }
+}

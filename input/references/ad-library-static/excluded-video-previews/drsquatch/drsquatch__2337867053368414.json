@@ -1,0 +1,41 @@
+{
+  "ad_id": "meta_drsquatch_2337867053368414",
+  "source_platform": "meta_ad_library",
+  "captured_at": "2026-04-15T03:28:28.974Z",
+  "brand_name": "drsquatch",
+  "product_category": "unknown",
+  "product_names": [
+    "🤯 3 FREE GIFTS + 59% OFF 🤯"
+  ],
+  "image_paths": [
+    "data/input/ad-library/raw/drsquatch/drsquatch__2337867053368414.jpg"
+  ],
+  "video_paths": [],
+  "landing_page_url": "https://shop.drsquatch.com/products/squatch-stack-exclusive-gifts-nco",
+  "ad_copy": "59% OFF + 3 FREE GIFTS | Squatch Stack Bundle\n⭐⭐⭐⭐⭐ Tens of thousands of 5 star reviews\n\n🤑 59% OFF sale ends soon!\n🧼 Try our soap & deo to score a MASSIVE discount + 3 FREE GIFTS!\n🔗 New customers only, click here to claim!\n\n🫚 Made with natural ingredients\n👃 Amazing scents that men and their families love\n\n📦 Available now – at Drsquatch.com",
+  "cta": "Get offer",
+  "country": "ALL",
+  "language": "unknown",
+  "notes": "Imported from competitor Meta Ad Library scraper",
+  "source_meta": {
+    "original_ad_archive_id": "2337867053368414",
+    "ad_format": "Video",
+    "media_kind": "video_preview",
+    "title": "🤯 3 FREE GIFTS + 59% OFF 🤯",
+    "caption": "shop.drsquatch.com",
+    "platforms": [
+      "FACEBOOK",
+      "INSTAGRAM",
+      "AUDIENCE_NETWORK",
+      "MESSENGER",
+      "THREADS"
+    ],
+    "start_date": "2026-04-01T07:00:00.000Z",
+    "end_date": "2026-04-14T07:00:00.000Z",
+    "primary_image_url": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/658827776_1457688259313319_1467330569529067758_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=qAkOfhSDRMIQ7kNvwGTsJFl&_nc_oc=AdpjxeKgmOOSUMd-X8XLWpU8kIlj9lq6YnBNz4o8OQcO0vIa8A32nBEEdU1Wf5oyeiI&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=jJjzAELG8KqNybh2TjzeMw&_nc_ss=7a3a8&oh=00_Af2bqPdBxkiHnIVPbQsQ893CG687rGfe9OU41Lf7F4cTFA&oe=69E3D015",
+    "card_count": 0,
+    "cards": [],
+    "original_json_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\drsquatch_ads.json",
+    "original_media_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\media_drsquatch\\ad_17_2337867053368414.jpg"
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "ad_id": "meta_magicspoon_1137371845104876",
+  "source_platform": "meta_ad_library",
+  "captured_at": "2026-04-15T03:28:29.427Z",
+  "brand_name": "magicspoon",
+  "product_category": "unknown",
+  "product_names": [
+    "New Product Alert 🚨"
+  ],
+  "image_paths": [
+    "data/input/ad-library/raw/magicspoon/magicspoon__1137371845104876.jpg"
+  ],
+  "video_paths": [],
+  "landing_page_url": "https://magicspoon.com/pages/5-reasons-why-page",
+  "ad_copy": "{{product.brand}}",
+  "cta": "Shop now",
+  "country": "ALL",
+  "language": "unknown",
+  "notes": "Imported from competitor Meta Ad Library scraper",
+  "source_meta": {
+    "original_ad_archive_id": "1137371845104876",
+    "ad_format": "Carousel",
+    "media_kind": "carousel_preview",
+    "title": "{{product.name}}",
+    "caption": "magicspoon.com",
+    "platforms": [
+      "FACEBOOK",
+      "INSTAGRAM",
+      "AUDIENCE_NETWORK",
+      "MESSENGER",
+      "THREADS"
+    ],
+    "start_date": "2026-03-11T07:00:00.000Z",
+    "end_date": "2026-04-13T07:00:00.000Z",
+    "primary_image_url": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/650029087_940578085234760_8026169920983244565_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=y3FnhKGb7GwQ7kNvwEWitS4&_nc_oc=Adq4q-zqoTjLwYFd6tTxhX09irh5fZo5whSyNi9crdIKeEtEb4JDDojwFi--MTO_VII&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=gVBsOXyMuA7-9yp-b6MSPg&_nc_ss=7a3a8&oh=00_Af0Sp9ew65YFozCY6HREdv98wl7hpO3N8ghGvwNdWwUjZg&oe=69E3C369",
+    "card_count": 2,
+    "cards": [
+      {
+        "body": "BREAKING NEWS! 🚨 Introducing Magic Spoon Protein Pastries!\n\n• 11g of protein per serving to fuel your day\n• 6g Fiber to support you\n• 3g total added sugar - can you believe it? \n\nReady to start your morning off right?",
+        "title": "New Product Alert 🚨",
+        "caption": "",
+        "cta_text": "Shop Now",
+        "link_url": "https://magicspoon.com/pages/5-reasons-why-page",
+        "image": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/650029087_940578085234760_8026169920983244565_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=y3FnhKGb7GwQ7kNvwEWitS4&_nc_oc=Adq4q-zqoTjLwYFd6tTxhX09irh5fZo5whSyNi9crdIKeEtEb4JDDojwFi--MTO_VII&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=gVBsOXyMuA7-9yp-b6MSPg&_nc_ss=7a3a8&oh=00_Af0Sp9ew65YFozCY6HREdv98wl7hpO3N8ghGvwNdWwUjZg&oe=69E3C369"
+      },
+      {
+        "body": "BREAKING NEWS! 🚨 Introducing Magic Spoon Protein Pastries!\n\n• 11g of protein per serving to fuel your day\n• 6g Fiber to support you\n• 3g total added sugar - can you believe it? \n\nReady to start your morning off right?",
+        "title": "New Product Alert 🚨",
+        "caption": "",
+        "cta_text": "Shop Now",
+        "link_url": "https://magicspoon.com/pages/5-reasons-why-page",
+        "image": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/650597983_1664385511246396_2439973093158724249_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=HNKwA7UUlZcQ7kNvwGPmyO7&_nc_oc=AdoUp9FOMsPKGIr7pFUKrAEXBHCtO6zY_D6jBwA5FdtEC_YJiDn4Qdt-2dlqyBIvtHo&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=gVBsOXyMuA7-9yp-b6MSPg&_nc_ss=7a3a8&oh=00_Af0OI8afff9hKDv-MmsXofsUxM46Nu7u1JNDoGlPHPxd_A&oe=69E3CB88"
+      }
+    ],
+    "original_json_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\magicspoon_ads.json",
+    "original_media_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\media_magicspoon\\ad_22_1137371845104876.jpg"
+  }
+}

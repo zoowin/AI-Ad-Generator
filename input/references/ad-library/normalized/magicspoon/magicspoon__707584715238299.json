@@ -1,0 +1,56 @@
+{
+  "ad_id": "meta_magicspoon_707584715238299",
+  "source_platform": "meta_ad_library",
+  "captured_at": "2026-04-15T03:28:29.241Z",
+  "brand_name": "magicspoon",
+  "product_category": "unknown",
+  "product_names": [
+    "Magic Spoon Granola"
+  ],
+  "image_paths": [],
+  "video_paths": [],
+  "landing_page_url": "https://magicspoon.com/pages/protein-granola-2025",
+  "ad_copy": "{{product.brand}}",
+  "cta": "Shop now",
+  "country": "ALL",
+  "language": "unknown",
+  "notes": "Imported from competitor Meta Ad Library scraper",
+  "source_meta": {
+    "original_ad_archive_id": "707584715238299",
+    "ad_format": "Carousel",
+    "media_kind": "carousel_preview",
+    "title": "{{product.name}}",
+    "caption": "magicspoon.com",
+    "platforms": [
+      "FACEBOOK",
+      "INSTAGRAM",
+      "AUDIENCE_NETWORK",
+      "MESSENGER",
+      "THREADS"
+    ],
+    "start_date": "2025-11-12T08:00:00.000Z",
+    "end_date": "2026-04-13T07:00:00.000Z",
+    "primary_image_url": "",
+    "card_count": 2,
+    "cards": [
+      {
+        "body": "Indulge guilt-free in a game-changing Granola! 🌟\nPacked with 13-14g protein, 2g sugar & 7-8g fiber per serving. \nSuperfood-powered crunch that satisfies your cravings and nourishes your body.\nCrunch on without compromise!",
+        "title": "Magic Spoon Granola",
+        "caption": "",
+        "cta_text": "Shop Now",
+        "link_url": "https://magicspoon.com/pages/protein-granola-2025",
+        "image": ""
+      },
+      {
+        "body": "Indulge guilt-free in a game-changing Granola! 🌟\nPacked with 13-14g protein, 2g sugar & 7-8g fiber per serving. \nSuperfood-powered crunch that satisfies your cravings and nourishes your body.\nCrunch on without compromise!",
+        "title": "Magic Spoon Granola",
+        "caption": "",
+        "cta_text": "Shop Now",
+        "link_url": "https://magicspoon.com/pages/protein-granola-2025",
+        "image": ""
+      }
+    ],
+    "original_json_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\magicspoon_ads.json",
+    "original_media_path": ""
+  }
+}

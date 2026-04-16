@@ -1,0 +1,35 @@
+{
+  "ad_id": "meta_magicspoon_1422065389139448",
+  "source_platform": "meta_ad_library",
+  "captured_at": "2026-04-15T03:28:29.387Z",
+  "brand_name": "magicspoon",
+  "product_category": "unknown",
+  "product_names": [],
+  "image_paths": [
+    "data/input/ad-library/raw/magicspoon/magicspoon__1422065389139448.jpg"
+  ],
+  "video_paths": [],
+  "landing_page_url": "https://magicspoon.com/",
+  "ad_copy": "POV: You only have 5 minutes to get ready but refuse to skip breakfast 🥣👟 @magicspooncereal \n\n#MagicSpoonPartner",
+  "cta": "Learn more",
+  "country": "ALL",
+  "language": "unknown",
+  "notes": "Imported from competitor Meta Ad Library scraper",
+  "source_meta": {
+    "original_ad_archive_id": "1422065389139448",
+    "ad_format": "Video",
+    "media_kind": "video_preview",
+    "title": "",
+    "caption": "magicspoon.com",
+    "platforms": [
+      "INSTAGRAM"
+    ],
+    "start_date": "2026-03-11T07:00:00.000Z",
+    "end_date": "2026-04-13T07:00:00.000Z",
+    "primary_image_url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/649739478_1418855149713001_4245819977383729764_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=GJsxkq7QN1gQ7kNvwFKy794&_nc_oc=AdrHlMRl_oO-hpi5HvzVr9uZsB-6ibfN3JpldFmzPFd2jwqVvVwTia2FFJvWNOf_3WA&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=gVBsOXyMuA7-9yp-b6MSPg&_nc_ss=7a3a8&oh=00_Af3C4RUNFBqyRQPX5UPgx9SUGsZRpabEG_MgRJjDpcf7Ug&oe=69E3DD01",
+    "card_count": 0,
+    "cards": [],
+    "original_json_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\magicspoon_ads.json",
+    "original_media_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\media_magicspoon\\ad_15_1422065389139448.jpg"
+  }
+}

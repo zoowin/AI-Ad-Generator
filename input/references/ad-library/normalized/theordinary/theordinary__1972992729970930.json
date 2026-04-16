@@ -1,0 +1,55 @@
+{
+  "ad_id": "meta_theordinary_1972992729970930",
+  "source_platform": "meta_ad_library",
+  "captured_at": "2026-04-15T03:28:29.925Z",
+  "brand_name": "theordinary",
+  "product_category": "unknown",
+  "product_names": [
+    "Nouveau Sérum Repulpant Ciblé."
+  ],
+  "image_paths": [
+    "data/input/ad-library/raw/theordinary/theordinary__1972992729970930.jpg"
+  ],
+  "video_paths": [],
+  "landing_page_url": "https://www.nocibe.fr/fr/p/5011994731?trac=DO_FR.01.01_Shopping.P_Shopping.Google.23123661765..1281272.online.PM&gad_source=1&gad_campaignid=23129439296&gbraid=0AAAAADvEy7WN1uTienbrvuDBvQn_KrIvo&gclid=Cj0KCQjwj47OBhCmARIsAF5wUEH1neUDLcZ0AmsBwXT2wY6vOwkwRrx09Qc3tzDyLxMEOXbfajcq5mMaAm8DEALw_wcB",
+  "ad_copy": "{{product.brand}}",
+  "cta": "Shop now",
+  "country": "ALL",
+  "language": "unknown",
+  "notes": "Imported from competitor Meta Ad Library scraper",
+  "source_meta": {
+    "original_ad_archive_id": "1972992729970930",
+    "ad_format": "Carousel",
+    "media_kind": "carousel_preview",
+    "title": "{{product.name}}",
+    "caption": "nocibe.fr",
+    "platforms": [
+      "FACEBOOK",
+      "INSTAGRAM"
+    ],
+    "start_date": "2026-04-01T07:00:00.000Z",
+    "end_date": "2026-04-08T07:00:00.000Z",
+    "primary_image_url": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/656802289_898809093155146_3653351407125773119_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=_F4YOagivGEQ7kNvwHzC-79&_nc_oc=AdoCEr1d1GN9y7QaebD2vhGXE7SPugCopCQqylKcaXoBp49GM2b8bh5JWg31cOJT5vE&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=Z_nVSow4qziKaexeRF_dXQ&_nc_ss=7a3a8&oh=00_Af2sWJiYhz_F6Pk5gFT5yRLFujyrHd5677UHHBxEAIqH5w&oe=69DBD9F6",
+    "card_count": 2,
+    "cards": [
+      {
+        "body": "Un sérum repulpant ciblé, enrichi en Volufiline, pour une peau visiblement repulpée.",
+        "title": "Nouveau Sérum Repulpant Ciblé.",
+        "caption": "",
+        "cta_text": "Shop Now",
+        "link_url": "https://www.nocibe.fr/fr/p/5011994731?trac=DO_FR.01.01_Shopping.P_Shopping.Google.23123661765..1281272.online.PM&gad_source=1&gad_campaignid=23129439296&gbraid=0AAAAADvEy7WN1uTienbrvuDBvQn_KrIvo&gclid=Cj0KCQjwj47OBhCmARIsAF5wUEH1neUDLcZ0AmsBwXT2wY6vOwkwRrx09Qc3tzDyLxMEOXbfajcq5mMaAm8DEALw_wcB",
+        "image": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/656802289_898809093155146_3653351407125773119_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=_F4YOagivGEQ7kNvwHzC-79&_nc_oc=AdoCEr1d1GN9y7QaebD2vhGXE7SPugCopCQqylKcaXoBp49GM2b8bh5JWg31cOJT5vE&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=Z_nVSow4qziKaexeRF_dXQ&_nc_ss=7a3a8&oh=00_Af2sWJiYhz_F6Pk5gFT5yRLFujyrHd5677UHHBxEAIqH5w&oe=69DBD9F6"
+      },
+      {
+        "body": "Un sérum repulpant ciblé, enrichi en Volufiline, pour une peau visiblement repulpée.",
+        "title": "Nouveau Sérum Repulpant Ciblé.",
+        "caption": "",
+        "cta_text": "Shop Now",
+        "link_url": "https://www.nocibe.fr/fr/p/5011994731?trac=DO_FR.01.01_Shopping.P_Shopping.Google.23123661765..1281272.online.PM&gad_source=1&gad_campaignid=23129439296&gbraid=0AAAAADvEy7WN1uTienbrvuDBvQn_KrIvo&gclid=Cj0KCQjwj47OBhCmARIsAF5wUEH1neUDLcZ0AmsBwXT2wY6vOwkwRrx09Qc3tzDyLxMEOXbfajcq5mMaAm8DEALw_wcB",
+        "image": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/655752318_952577030635829_3132796096111618985_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=BGOy-_ev1sAQ7kNvwE7njzE&_nc_oc=AdoFN0Lm8Gi8dp8IRhX3d31ASRxiJEUcM3jt8sTNcKMC1lmRTsqbltSq9tEV4GUUa-E&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=Z_nVSow4qziKaexeRF_dXQ&_nc_ss=7a3a8&oh=00_Af1ZJnFTbaUkZPMEycszGIJ5GagEZIBhdurPt5Y6B3OJGg&oe=69DBD959"
+      }
+    ],
+    "original_json_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\theordinary_ads.json",
+    "original_media_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\media_theordinary\\ad_4_1972992729970930.jpg"
+  }
+}

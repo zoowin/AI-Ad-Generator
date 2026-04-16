@@ -1,0 +1,72 @@
+{
+  "ad_id": "meta_ag1_1333855138551031",
+  "source_platform": "meta_ad_library",
+  "captured_at": "2026-04-15T03:28:28.721Z",
+  "brand_name": "ag1",
+  "product_category": "unknown",
+  "product_names": [
+    "One Scoop. Every Morning."
+  ],
+  "image_paths": [],
+  "video_paths": [],
+  "landing_page_url": "http://www.drinkag1.com/en-au",
+  "ad_copy": "{{product.brand}}",
+  "cta": "Learn more",
+  "country": "ALL",
+  "language": "unknown",
+  "notes": "Imported from competitor Meta Ad Library scraper",
+  "source_meta": {
+    "original_ad_archive_id": "1333855138551031",
+    "ad_format": "Carousel",
+    "media_kind": "carousel_preview",
+    "title": "{{product.name}}",
+    "caption": "drinkag1.com",
+    "platforms": [
+      "FACEBOOK",
+      "INSTAGRAM",
+      "MESSENGER",
+      "WHATSAPP",
+      "THREADS"
+    ],
+    "start_date": "2026-03-19T07:00:00.000Z",
+    "end_date": "2026-04-13T07:00:00.000Z",
+    "primary_image_url": "",
+    "card_count": 4,
+    "cards": [
+      {
+        "body": "AG1 is More-in-One nutrition.\n\n75+ nutrients for energy, focus & digestive support*—trusted by Australia’s top rugby teams.\n\nTry AG1 today and feel the difference.\n\n*Please refer to www.drinkAG1.com for full disclosure.",
+        "title": "One Scoop. Every Morning.",
+        "caption": "",
+        "cta_text": "Learn More",
+        "link_url": "http://www.drinkag1.com/en-au",
+        "image": ""
+      },
+      {
+        "body": "AG1 is More-in-One nutrition.\n\n75+ nutrients for energy, focus & digestive support*—trusted by Australia’s top rugby teams.\n\nTry AG1 today and feel the difference.\n\n*Please refer to www.drinkAG1.com for full disclosure.",
+        "title": "One Scoop. Every Morning.",
+        "caption": "",
+        "cta_text": "Learn More",
+        "link_url": "http://www.drinkag1.com/en-au",
+        "image": ""
+      },
+      {
+        "body": "AG1 is More-in-One nutrition.\n\n75+ nutrients for energy, focus & digestive support*—trusted by Australia’s top rugby teams.\n\nTry AG1 today and feel the difference.\n\n*Please refer to www.drinkAG1.com for full disclosure.",
+        "title": "One Scoop. Every Morning.",
+        "caption": "",
+        "cta_text": "Learn More",
+        "link_url": "http://www.drinkag1.com/en-au",
+        "image": ""
+      },
+      {
+        "body": "Most multivitamins fall short. AG1 packs 75+ bioavailable nutrients — vitamins, minerals & probiotics — into one daily scoop to support whole body health.\n\nOne Scoop. Every Morning. Try AG1 and get a FREE Welcome Kit when you subscribe**. Skip or cancel anytime.\n\n👉 drinkag1.com\n**New subscribers only.",
+        "title": "One Scoop. Every Morning.",
+        "caption": "",
+        "cta_text": "Learn More",
+        "link_url": "http://www.drinkag1.com/en-au",
+        "image": ""
+      }
+    ],
+    "original_json_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\ag1_ads.json",
+    "original_media_path": ""
+  }
+}

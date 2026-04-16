@@ -1,0 +1,56 @@
+{
+  "ad_id": "meta_jonesroad_1248965904050532",
+  "source_platform": "meta_ad_library",
+  "captured_at": "2026-04-15T03:28:29.171Z",
+  "brand_name": "jonesroad",
+  "product_category": "unknown",
+  "product_names": [
+    "Meet Lip Recharge"
+  ],
+  "image_paths": [],
+  "video_paths": [],
+  "landing_page_url": "https://myshop.jonesroadbeauty.com/lip-recharge-m",
+  "ad_copy": "{{product.brand}}",
+  "cta": "Shop now",
+  "country": "ALL",
+  "language": "unknown",
+  "notes": "Imported from competitor Meta Ad Library scraper",
+  "source_meta": {
+    "original_ad_archive_id": "1248965904050532",
+    "ad_format": "Carousel",
+    "media_kind": "carousel_preview",
+    "title": "{{product.name}}",
+    "caption": "myshop.jonesroadbeauty.com",
+    "platforms": [
+      "FACEBOOK",
+      "INSTAGRAM",
+      "AUDIENCE_NETWORK",
+      "MESSENGER",
+      "THREADS"
+    ],
+    "start_date": "2026-03-19T07:00:00.000Z",
+    "end_date": "2026-04-14T07:00:00.000Z",
+    "primary_image_url": "",
+    "card_count": 2,
+    "cards": [
+      {
+        "body": "Most lip glosses sit on top of your lips. Lip Recharge actually gets to work—shea butter for a cushiony barrier, peptides to support collagen, vitamin E to smooth and soften. Skincare and makeup in one, the way it should be.",
+        "title": "Meet Lip Recharge",
+        "caption": "",
+        "cta_text": "Shop Now",
+        "link_url": "https://myshop.jonesroadbeauty.com/lip-recharge-m",
+        "image": ""
+      },
+      {
+        "body": "Most lip glosses sit on top of your lips. Lip Recharge actually gets to work—shea butter for a cushiony barrier, peptides to support collagen, vitamin E to smooth and soften. Skincare and makeup in one, the way it should be.",
+        "title": "Meet Lip Recharge",
+        "caption": "",
+        "cta_text": "Shop Now",
+        "link_url": "https://myshop.jonesroadbeauty.com/lip-recharge-m",
+        "image": ""
+      }
+    ],
+    "original_json_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\jonesroad_ads.json",
+    "original_media_path": ""
+  }
+}

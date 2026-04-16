@@ -1,0 +1,58 @@
+{
+  "ad_id": "meta_magicspoon_1256832029226009",
+  "source_platform": "meta_ad_library",
+  "captured_at": "2026-04-15T03:28:29.504Z",
+  "brand_name": "magicspoon",
+  "product_category": "unknown",
+  "product_names": [
+    "New Product Alert 🚨"
+  ],
+  "image_paths": [
+    "data/input/ad-library/raw/magicspoon/magicspoon__1256832029226009.jpg"
+  ],
+  "video_paths": [],
+  "landing_page_url": "https://magicspoon.com/pages/5-reasons-why-page",
+  "ad_copy": "{{product.brand}}",
+  "cta": "Shop now",
+  "country": "ALL",
+  "language": "unknown",
+  "notes": "Imported from competitor Meta Ad Library scraper",
+  "source_meta": {
+    "original_ad_archive_id": "1256832029226009",
+    "ad_format": "Carousel",
+    "media_kind": "carousel_preview",
+    "title": "{{product.name}}",
+    "caption": "magicspoon.com",
+    "platforms": [
+      "FACEBOOK",
+      "INSTAGRAM",
+      "AUDIENCE_NETWORK",
+      "MESSENGER",
+      "THREADS"
+    ],
+    "start_date": "2026-03-19T07:00:00.000Z",
+    "end_date": "2026-04-13T07:00:00.000Z",
+    "primary_image_url": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/653837147_1592288322047657_4136314377900941871_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=6ZfCZVZNQcQQ7kNvwH86l_u&_nc_oc=Adr8tfmCmNNdEFU-l5dneX76XDy3JNreQ3QaiyMsn1gF8oSvtJveTf36EsUrLAwcDRA&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=gVBsOXyMuA7-9yp-b6MSPg&_nc_ss=7a3a8&oh=00_Af1GvhJ8sAWlwehkbFCAQ6rRZyez0uvfEQqPgPeEIy_4Aw&oe=69E3E98F",
+    "card_count": 2,
+    "cards": [
+      {
+        "body": "Congrats! 🎉 You just found the perfect protein snack that’s fun & delicious without the junk! Magic Spoon Pastries are packed with 11g of protein and come in delicious flavors!",
+        "title": "New Product Alert 🚨",
+        "caption": "",
+        "cta_text": "Shop Now",
+        "link_url": "https://magicspoon.com/pages/5-reasons-why-page",
+        "image": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/653837147_1592288322047657_4136314377900941871_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=6ZfCZVZNQcQQ7kNvwH86l_u&_nc_oc=Adr8tfmCmNNdEFU-l5dneX76XDy3JNreQ3QaiyMsn1gF8oSvtJveTf36EsUrLAwcDRA&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=gVBsOXyMuA7-9yp-b6MSPg&_nc_ss=7a3a8&oh=00_Af1GvhJ8sAWlwehkbFCAQ6rRZyez0uvfEQqPgPeEIy_4Aw&oe=69E3E98F"
+      },
+      {
+        "body": "Congrats! 🎉 You just found the perfect protein snack that’s fun & delicious without the junk! Magic Spoon Pastries are packed with 11g of protein and come in delicious flavors!",
+        "title": "New Product Alert 🚨",
+        "caption": "",
+        "cta_text": "Shop Now",
+        "link_url": "https://magicspoon.com/pages/5-reasons-why-page",
+        "image": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/653912158_927271210172168_1970543855379202295_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=q7rfhWe0_50Q7kNvwEi5mCa&_nc_oc=AdogjLAnHhB8cNov0N0VkffJvEiivOGTvRrdkkqfoGMF_OQfn9Sg5tv_aUF8YJU04WI&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=gVBsOXyMuA7-9yp-b6MSPg&_nc_ss=7a3a8&oh=00_Af03ZciOmci3qGfoY9VRhjMBGTzgUGImiDttMdNut3zXPg&oe=69E3D03C"
+      }
+    ],
+    "original_json_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\magicspoon_ads.json",
+    "original_media_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\media_magicspoon\\ad_28_1256832029226009.jpg"
+  }
+}

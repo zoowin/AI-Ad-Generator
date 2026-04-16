@@ -1,0 +1,41 @@
+{
+  "ad_id": "meta_cosrx_1473059374261625",
+  "source_platform": "meta_ad_library",
+  "captured_at": "2026-04-15T03:28:28.790Z",
+  "brand_name": "cosrx",
+  "product_category": "unknown",
+  "product_names": [
+    "🔗 Shop now on Amazon"
+  ],
+  "image_paths": [
+    "data/input/ad-library/raw/cosrx/cosrx__1473059374261625.jpg"
+  ],
+  "video_paths": [],
+  "landing_page_url": "https://www.amazon.com/dp/B09ZY7468X?maas=maas_adg_B9869C38E8F285C4F66A2233963E8504_afap_abs&ref_=aa_maas&tag=maas",
+  "ad_copy": "[COSRX] Daily Vitamin E Sunscreen for Protected, Healthy Skin ☀️\nLightweight sun care with skin-loving benefits\n\n☀️ Invisible finish with no white cast\n💧 Hydrating & soothing daily protection\n🌿 Lightweight, non-greasy formula\n\nLightweight sun care, every day 💖\n#COSRX #VitaminESunscreen",
+  "cta": "Shop now",
+  "country": "ALL",
+  "language": "unknown",
+  "notes": "Imported from competitor Meta Ad Library scraper",
+  "source_meta": {
+    "original_ad_archive_id": "1473059374261625",
+    "ad_format": "Video",
+    "media_kind": "video_preview",
+    "title": "🔗 Shop now on Amazon",
+    "caption": "www.amazon.com",
+    "platforms": [
+      "FACEBOOK",
+      "INSTAGRAM",
+      "AUDIENCE_NETWORK",
+      "MESSENGER",
+      "THREADS"
+    ],
+    "start_date": "2026-04-01T07:00:00.000Z",
+    "end_date": "2026-04-07T07:00:00.000Z",
+    "primary_image_url": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/661356729_977463214830610_6933241750617250182_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=dEaKjQ2T6FMQ7kNvwE29gLZ&_nc_oc=AdoCHcI1Gs_WLEy0yBv9612-_rw9ybEzXU4_UyHM8xm9p0AdBz4_9QfCk6SVlSklHiQ&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=FUsUbZHriUp9A1s2abkfEQ&_nc_ss=7a3a8&oh=00_Af0HYK0UGapVzPZI9Gd8oVcaZpGwrncdjVfnoF4NUVwvcA&oe=69DBE99C",
+    "card_count": 0,
+    "cards": [],
+    "original_json_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\cosrx_ads.json",
+    "original_media_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\media_cosrx\\ad_4_1473059374261625.jpg"
+  }
+}

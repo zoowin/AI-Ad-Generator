@@ -1,0 +1,40 @@
+{
+  "ad_id": "meta_caraway_27059681016948617",
+  "source_platform": "meta_ad_library",
+  "captured_at": "2026-04-15T03:28:28.747Z",
+  "brand_name": "caraway",
+  "product_category": "unknown",
+  "product_names": [
+    "Style, Meet Function"
+  ],
+  "image_paths": [
+    "data/input/ad-library/raw/caraway/caraway__27059681016948617.jpg"
+  ],
+  "video_paths": [],
+  "landing_page_url": "https://www.carawayhome.com/collections/best-sellers",
+  "ad_copy": "We're not just pretty, we're non-toxic, easy to clean, and come with storage. It's a hard job being this great, but someone has to do it.😉",
+  "cta": "Shop now",
+  "country": "ALL",
+  "language": "unknown",
+  "notes": "Imported from competitor Meta Ad Library scraper",
+  "source_meta": {
+    "original_ad_archive_id": "27059681016948617",
+    "ad_format": "Image",
+    "media_kind": "image",
+    "title": "Style, Meet Function",
+    "caption": "carawayhome.com",
+    "platforms": [
+      "FACEBOOK",
+      "INSTAGRAM",
+      "MESSENGER",
+      "THREADS"
+    ],
+    "start_date": "2026-04-12T07:00:00.000Z",
+    "end_date": "2026-04-14T07:00:00.000Z",
+    "primary_image_url": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/669736968_2094368881106025_5944533734770509476_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=VWHUZ6wDhl8Q7kNvwE7W5Rd&_nc_oc=AdpWvx4sSF6KGvXKGRuF-TQHObXbie4U0Z-FH_QoA3WjcZxlIGjj0nzQLzl4_UatG9s&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=_48kJ1ham5jY4v5iIqaJ5Q&_nc_ss=7a3a8&oh=00_Af0Soe-1wYrCPhqyb-LPdIQ-wm0mMqpLe_He9Ybir5n3fw&oe=69E3D893",
+    "card_count": 0,
+    "cards": [],
+    "original_json_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\caraway_ads.json",
+    "original_media_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\media_caraway\\ad_13_27059681016948617.jpg"
+  }
+}

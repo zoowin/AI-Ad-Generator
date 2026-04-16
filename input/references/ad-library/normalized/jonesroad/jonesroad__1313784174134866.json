@@ -1,0 +1,64 @@
+{
+  "ad_id": "meta_jonesroad_1313784174134866",
+  "source_platform": "meta_ad_library",
+  "captured_at": "2026-04-15T03:28:29.150Z",
+  "brand_name": "jonesroad",
+  "product_category": "unknown",
+  "product_names": [
+    "I wasn't expecting to love this"
+  ],
+  "image_paths": [],
+  "video_paths": [],
+  "landing_page_url": "https://myshop.jonesroadbeauty.com/bethenny-frankel",
+  "ad_copy": "{{product.brand}}",
+  "cta": "Shop now",
+  "country": "ALL",
+  "language": "unknown",
+  "notes": "Imported from competitor Meta Ad Library scraper",
+  "source_meta": {
+    "original_ad_archive_id": "1313784174134866",
+    "ad_format": "Carousel",
+    "media_kind": "carousel_preview",
+    "title": "{{product.name}}",
+    "caption": "myshop.jonesroadbeauty.com",
+    "platforms": [
+      "FACEBOOK",
+      "INSTAGRAM",
+      "AUDIENCE_NETWORK",
+      "MESSENGER",
+      "THREADS"
+    ],
+    "start_date": "2026-03-21T07:00:00.000Z",
+    "end_date": "2026-04-13T07:00:00.000Z",
+    "primary_image_url": "",
+    "card_count": 3,
+    "cards": [
+      {
+        "body": "I have no patience for products that don't actually perform. Miracle Balm absorbs fast, doesn't feel heavy, and gives me that lit-from-within glow. I'm pretty selective. This one made the cut.\n\nI'm using the colors Pinched Cheeks and Pinky Bronze. They're my staples.",
+        "title": "I wasn't expecting to love this",
+        "caption": "",
+        "cta_text": "Shop Now",
+        "link_url": "https://myshop.jonesroadbeauty.com/bethenny-frankel",
+        "image": ""
+      },
+      {
+        "body": "I have no patience for products that don't actually perform. Miracle Balm absorbs fast, doesn't feel heavy, and gives me that lit-from-within glow. I'm pretty selective. This one made the cut.\n\nI'm using the colors Pinched Cheeks and Pinky Bronze. They're my staples.",
+        "title": "I wasn't expecting to love this",
+        "caption": "",
+        "cta_text": "Shop Now",
+        "link_url": "https://myshop.jonesroadbeauty.com/bethenny-frankel",
+        "image": ""
+      },
+      {
+        "body": "I have no patience for products that don't actually perform. Miracle Balm absorbs fast, doesn't feel heavy, and gives me that lit-from-within glow. I'm pretty selective. This one made the cut.\n\nI'm using the colors Pinched Cheeks and Pinky Bronze. They're my staples.",
+        "title": "I wasn't expecting to love this",
+        "caption": "",
+        "cta_text": "Shop Now",
+        "link_url": "https://myshop.jonesroadbeauty.com/bethenny-frankel",
+        "image": ""
+      }
+    ],
+    "original_json_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\jonesroad_ads.json",
+    "original_media_path": ""
+  }
+}

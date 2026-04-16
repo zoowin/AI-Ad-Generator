@@ -1,0 +1,57 @@
+{
+  "ad_id": "meta_caraway_790164040457309",
+  "source_platform": "meta_ad_library",
+  "captured_at": "2026-04-15T03:28:28.753Z",
+  "brand_name": "caraway",
+  "product_category": "unknown",
+  "product_names": [
+    "Mixing and Storing, Made Clean"
+  ],
+  "image_paths": [
+    "data/input/ad-library/raw/caraway/caraway__790164040457309.jpg"
+  ],
+  "video_paths": [],
+  "landing_page_url": "https://www.carawayhome.com/products/mixing-bowl-and-strainer-set",
+  "ad_copy": "{{product.brand}}",
+  "cta": "Shop now",
+  "country": "ALL",
+  "language": "unknown",
+  "notes": "Imported from competitor Meta Ad Library scraper",
+  "source_meta": {
+    "original_ad_archive_id": "790164040457309",
+    "ad_format": "Carousel",
+    "media_kind": "carousel_preview",
+    "title": "{{product.name}}",
+    "caption": "carawayhome.com",
+    "platforms": [
+      "FACEBOOK",
+      "INSTAGRAM",
+      "MESSENGER",
+      "THREADS"
+    ],
+    "start_date": "2026-03-31T07:00:00.000Z",
+    "end_date": "2026-04-13T07:00:00.000Z",
+    "primary_image_url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/655016860_964832672744358_7769965012863126295_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=w0ijBcfMK1IQ7kNvwH-hVxu&_nc_oc=Ado99scfhKvt4tbupSsI8_JKOkCA3LGYC5KydY0C07nP_g3XPwpkO2mFo5PcsN2Lopg&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=_48kJ1ham5jY4v5iIqaJ5Q&_nc_ss=7a3a8&oh=00_Af1ZtUaxpNXUGNRk1r5CviSkzQdLbxvmUqqbhEWgWJz9QA&oe=69E3DB3E",
+    "card_count": 2,
+    "cards": [
+      {
+        "body": "Your cabinets shouldn’t be chaotic. Our nestable Mixing Bowls & Strainers are designed to save space, simplify prep, and raise the standard for what everyday tools can be.",
+        "title": "Mixing and Storing, Made Clean",
+        "caption": "",
+        "cta_text": "Shop Now",
+        "link_url": "https://www.carawayhome.com/products/mixing-bowl-and-strainer-set",
+        "image": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/655016860_964832672744358_7769965012863126295_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=w0ijBcfMK1IQ7kNvwH-hVxu&_nc_oc=Ado99scfhKvt4tbupSsI8_JKOkCA3LGYC5KydY0C07nP_g3XPwpkO2mFo5PcsN2Lopg&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=_48kJ1ham5jY4v5iIqaJ5Q&_nc_ss=7a3a8&oh=00_Af1ZtUaxpNXUGNRk1r5CviSkzQdLbxvmUqqbhEWgWJz9QA&oe=69E3DB3E"
+      },
+      {
+        "body": "Your cabinets shouldn’t be chaotic. Our nestable Mixing Bowls & Strainers are designed to save space, simplify prep, and raise the standard for what everyday tools can be.",
+        "title": "Mixing and Storing, Made Clean",
+        "caption": "",
+        "cta_text": "Shop Now",
+        "link_url": "https://www.carawayhome.com/products/mixing-bowl-and-strainer-set",
+        "image": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/657197113_2072814836982938_5135127920281876346_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=QO742vh0M-oQ7kNvwHfbbgm&_nc_oc=AdqyuIr6Fn8c31c4TwaM4tymazkH-KJ54iD6OutC_8_Ut8a2Q9dyLoQ0FVZixAEcCAc&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=_48kJ1ham5jY4v5iIqaJ5Q&_nc_ss=7a3a8&oh=00_Af1zDNE9Hx-vNRJAL_721fWvvOOjKQXmtTtAUo7bNBazsQ&oe=69E3E1F8"
+      }
+    ],
+    "original_json_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\caraway_ads.json",
+    "original_media_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\media_caraway\\ad_23_790164040457309.jpg"
+  }
+}

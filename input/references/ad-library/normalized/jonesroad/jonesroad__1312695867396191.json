@@ -1,0 +1,58 @@
+{
+  "ad_id": "meta_jonesroad_1312695867396191",
+  "source_platform": "meta_ad_library",
+  "captured_at": "2026-04-15T03:28:29.149Z",
+  "brand_name": "jonesroad",
+  "product_category": "unknown",
+  "product_names": [
+    "Ditch Your Traditional Foundation"
+  ],
+  "image_paths": [
+    "data/input/ad-library/raw/jonesroad/jonesroad__1312695867396191.jpg"
+  ],
+  "video_paths": [],
+  "landing_page_url": "https://www.jonesroadbeauty.com/pages/jetm-minimalist",
+  "ad_copy": "Meet your new morning essential. Just Enough Tinted Moisturizer is here. Light coverage, barely-there feel, and ready in seconds.",
+  "cta": "Shop now",
+  "country": "ALL",
+  "language": "unknown",
+  "notes": "Imported from competitor Meta Ad Library scraper",
+  "source_meta": {
+    "original_ad_archive_id": "1312695867396191",
+    "ad_format": "Carousel",
+    "media_kind": "carousel_preview",
+    "title": "Ditch Your Traditional Foundation",
+    "caption": "jonesroadbeauty.com",
+    "platforms": [
+      "FACEBOOK",
+      "INSTAGRAM",
+      "AUDIENCE_NETWORK",
+      "MESSENGER",
+      "THREADS"
+    ],
+    "start_date": "2026-04-01T07:00:00.000Z",
+    "end_date": "2026-04-14T07:00:00.000Z",
+    "primary_image_url": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/489089498_1567715110567443_2234595132676090636_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=VsQjGcpc9SYQ7kNvwHbwKCg&_nc_oc=Adrb-udxI41a-L5p-LqctspMbwc2W7Uw_9ca7UGrfXOPfnasm-FlmEFy8IlYqMRD76k&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=Sa29kFwNq6oKxQTEfza6Ew&_nc_ss=7a3a8&oh=00_Af0R2TSnlEW2FGeRLDkVlsp1hpUmnqb_LA736aSl_mGNCw&oe=69E3D0C8",
+    "card_count": 2,
+    "cards": [
+      {
+        "body": "Meet your new morning essential. Just Enough Tinted Moisturizer is here. Light coverage, barely-there feel, and ready in seconds.",
+        "title": null,
+        "caption": "",
+        "cta_text": "Shop Now",
+        "link_url": "https://www.jonesroadbeauty.com/pages/jetm-minimalist",
+        "image": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/489089498_1567715110567443_2234595132676090636_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=VsQjGcpc9SYQ7kNvwHbwKCg&_nc_oc=Adrb-udxI41a-L5p-LqctspMbwc2W7Uw_9ca7UGrfXOPfnasm-FlmEFy8IlYqMRD76k&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=Sa29kFwNq6oKxQTEfza6Ew&_nc_ss=7a3a8&oh=00_Af0R2TSnlEW2FGeRLDkVlsp1hpUmnqb_LA736aSl_mGNCw&oe=69E3D0C8"
+      },
+      {
+        "body": "Meet your new morning essential. Just Enough Tinted Moisturizer is here. Light coverage, barely-there feel, and ready in seconds.",
+        "title": null,
+        "caption": "",
+        "cta_text": "Shop Now",
+        "link_url": "https://www.jonesroadbeauty.com/pages/jetm-minimalist",
+        "image": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/489463719_1493723601587792_6883378422798032285_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=0-7H8loZeKcQ7kNvwFdqgZw&_nc_oc=Adq1h7XLbOKSM2Z1Aed7pUw-PQYaxX8V4MbAV2Aa8_wByAM_BwOXQAd_3awpPOncAsc&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=Sa29kFwNq6oKxQTEfza6Ew&_nc_ss=7a3a8&oh=00_Af2QsIjRSbCASY4yk3ur8ebgRaW8zW5WArD6d09z8sm6fg&oe=69E3C8F1"
+      }
+    ],
+    "original_json_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\jonesroad_ads.json",
+    "original_media_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\media_jonesroad\\ad_21_1312695867396191.jpg"
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "ad_id": "meta_theordinary_1587517899187694",
+  "source_platform": "meta_ad_library",
+  "captured_at": "2026-04-15T03:28:29.947Z",
+  "brand_name": "theordinary",
+  "product_category": "unknown",
+  "product_names": [
+    "Granactive Retinoid 2% Emulsion ( Suero Para Signos De Evenjecimiento Con Retinoide)",
+    "100% Organic Cold-Pressed Rose Hip Seed Oil (Aceite De Semilla De Rosa De Mosqueta Hidratante Y Antiedad)",
+    "Caffeine Solution 5% + Egcgc (Suero Para Contorno De Ojos Con Cafeína)",
+    "Multipeptide Serum for Hair Density (Suero Para Cabello Con Péptidos)",
+    "Lactic Acid 10% + Ha 2% (Suero Iluminador Con Ácido Láctico)",
+    "Vitamin C 23% Suspension + Ha Spheres 2% (Suspensión Antiedad Y Antioxidante Con Vitamina C)"
+  ],
+  "image_paths": [
+    "data/input/ad-library/raw/theordinary/theordinary__1587517899187694.jpg"
+  ],
+  "video_paths": [],
+  "landing_page_url": "http://www.sephora.com.mx/",
+  "ad_copy": "La calidad en el cuidado de la piel es para todos: fórmulas científicas, efectivas diseñadas a precios accesibles",
+  "cta": "Shop now",
+  "country": "ALL",
+  "language": "unknown",
+  "notes": "Imported from competitor Meta Ad Library scraper",
+  "source_meta": {
+    "original_ad_archive_id": "1587517899187694",
+    "ad_format": "Carousel",
+    "media_kind": "carousel_preview",
+    "title": "{{product.name}}",
+    "caption": "sephora.com.mx",
+    "platforms": [
+      "FACEBOOK",
+      "INSTAGRAM",
+      "AUDIENCE_NETWORK",
+      "THREADS"
+    ],
+    "start_date": "2026-03-04T08:00:00.000Z",
+    "end_date": "2026-04-07T07:00:00.000Z",
+    "primary_image_url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/646790444_1605002190702296_5201374615244312168_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=zUexNYvaXWcQ7kNvwG1ilKJ&_nc_oc=Adq_5cwOp9jEzFoRRhb4JQCWQqlbPkPCjsGnYIBLkmD8MZwWsMmydLZzrRdVtqpL00U&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=Z_nVSow4qziKaexeRF_dXQ&_nc_ss=7a3a8&oh=00_Af3Stpxaou9PZZCjCr_yp8nIUrX_3QTeZd30dzk14ww7MQ&oe=69DBF582",
+    "card_count": 6,
+    "cards": [
+      {
+        "body": "La calidad en el cuidado de la piel es para todos: fórmulas científicas, efectivas diseñadas a precios accesibles",
+        "title": "Granactive Retinoid 2% Emulsion ( Suero Para Signos De Evenjecimiento Con Retinoide)",
+        "caption": "sephora.com.mx",
+        "cta_text": "Shop Now",
+        "link_url": "https://www.sephora.com.mx/products-502435.html",
+        "image": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/646790444_1605002190702296_5201374615244312168_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=zUexNYvaXWcQ7kNvwG1ilKJ&_nc_oc=Adq_5cwOp9jEzFoRRhb4JQCWQqlbPkPCjsGnYIBLkmD8MZwWsMmydLZzrRdVtqpL00U&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=Z_nVSow4qziKaexeRF_dXQ&_nc_ss=7a3a8&oh=00_Af3Stpxaou9PZZCjCr_yp8nIUrX_3QTeZd30dzk14ww7MQ&oe=69DBF582"
+      },
+      {
+        "body": "La calidad en el cuidado de la piel es para todos: fórmulas científicas, efectivas diseñadas a precios accesibles",
+        "title": "100% Organic Cold-Pressed Rose Hip Seed Oil (Aceite De Semilla De Rosa De Mosqueta Hidratante Y Antiedad)",
+        "caption": "sephora.com.mx",
+        "cta_text": "Shop Now",
+        "link_url": "https://www.sephora.com.mx/products-502418.html",
+        "image": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/646723758_1325875219601036_6780034266222726938_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=G-sBn1FpX9QQ7kNvwEqJ_jm&_nc_oc=Adpq9kMiXdOwzww-_9VuBdisg24FPPWXCMxvB1AWFxTY0kstu1ZzehtChPL_PLP_Pi8&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=Z_nVSow4qziKaexeRF_dXQ&_nc_ss=7a3a8&oh=00_Af2C4_LiPQalCqOBv7dPkiHs_ao8pXO6Lwz5vIqC1GyZsA&oe=69DBD0F3"
+      },
+      {
+        "body": "La calidad en el cuidado de la piel es para todos: fórmulas científicas, efectivas diseñadas a precios accesibles",
+        "title": "Caffeine Solution 5% + Egcgc (Suero Para Contorno De Ojos Con Cafeína)",
+        "caption": "sephora.com.mx",
+        "cta_text": "Shop Now",
+        "link_url": "https://www.sephora.com.mx/products-502431.html",
+        "image": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/646744899_4337475736540812_562843722881517357_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=MhS2_RvPzQ8Q7kNvwGqiEZl&_nc_oc=AdpUDTpTE9CEqYXjfLQq2LSUEWMPOpOCh2oqs9UwdyIniDWJh7WqDOAQWhesM9zDb-8&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=Z_nVSow4qziKaexeRF_dXQ&_nc_ss=7a3a8&oh=00_Af1S0GpUNmY849ec5owu3EHBn-PVapFmlZqajRphet0Vww&oe=69DBF86E"
+      },
+      {
+        "body": "La calidad en el cuidado de la piel es para todos: fórmulas científicas, efectivas diseñadas a precios accesibles",
+        "title": "Multipeptide Serum for Hair Density (Suero Para Cabello Con Péptidos)",
+        "caption": "sephora.com.mx",
+        "cta_text": "Shop Now",
+        "link_url": "https://www.sephora.com.mx/products-502447.html",
+        "image": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/646808332_1465890828321986_2878126813115690389_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=fpTSYJ9bVPkQ7kNvwF-IHn5&_nc_oc=Adq1MoVm00qoGQFGRQVqBbT46G4yT2WXwre_jJp_tCal6VBSQGzy1JhKTNTcj5FvCVk&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=Z_nVSow4qziKaexeRF_dXQ&_nc_ss=7a3a8&oh=00_Af02q8NbldEarr1f4X9mIRFWus8R91I1LMGT0LTs5bhKFg&oe=69DBF2A3"
+      },
+      {
+        "body": "La calidad en el cuidado de la piel es para todos: fórmulas científicas, efectivas diseñadas a precios accesibles",
+        "title": "Lactic Acid 10% + Ha 2% (Suero Iluminador Con Ácido Láctico)",
+        "caption": "sephora.com.mx",
+        "cta_text": "Shop Now",
+        "link_url": "https://www.sephora.com.mx/products-502441.html",
+        "image": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/646770923_1447714290131431_6371008493017526094_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=gVBrWOg_wEoQ7kNvwEFQRCm&_nc_oc=AdpUYT6-6_7k805im_p1u2qTkSpgVznj5AsMEAeJnx29MGzXfJEQcF_m1SDqO9fUajU&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=Z_nVSow4qziKaexeRF_dXQ&_nc_ss=7a3a8&oh=00_Af1vhZBcdcBvIgJoGtEKxWWoJTaQelvmlhRDTMKtS2X0yQ&oe=69DBD830"
+      },
+      {
+        "body": "La calidad en el cuidado de la piel es para todos: fórmulas científicas, efectivas diseñadas a precios accesibles",
+        "title": "Vitamin C 23% Suspension + Ha Spheres 2% (Suspensión Antiedad Y Antioxidante Con Vitamina C)",
+        "caption": "sephora.com.mx",
+        "cta_text": "Shop Now",
+        "link_url": "https://www.sephora.com.mx/products-502461.html",
+        "image": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/646943505_1572226434085357_1456163734878982529_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=qrOhpgPJ7HEQ7kNvwHD2qor&_nc_oc=Adoczoxe0mPMDLpcEnjZCC2X89a3fL-CywfOD9CFw0lJ9yAbEZhJs9BA1HrdPpDr_FY&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=Z_nVSow4qziKaexeRF_dXQ&_nc_ss=7a3a8&oh=00_Af3T2PTZwBVMsAW4ppQEaB-dx6Os2O0nYO4hMW1jmr1ShQ&oe=69DBDF8E"
+      }
+    ],
+    "original_json_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\theordinary_ads.json",
+    "original_media_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\media_theordinary\\ad_12_1587517899187694.jpg"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "ad_id": "meta_gopure_2173463480063492",
+  "source_platform": "meta_ad_library",
+  "captured_at": "2026-04-15T03:28:29.007Z",
+  "brand_name": "gopure",
+  "product_category": "unknown",
+  "product_names": [
+    "OMG this neck cream sale!! 😱"
+  ],
+  "image_paths": [],
+  "video_paths": [],
+  "landing_page_url": "https://gopure.com/limited-offer-neck-cream-nc41",
+  "ad_copy": "\"Real talk, been using this neck cream religiously before vacation and the difference is wild!\nThey have this huge exclusive sale happening:\n\n✓ Up to 61% off\n✓ FREE beauty gifts\n\nAlready have sold over 2 million jars apparently. Now I know why!\"",
+  "cta": "Shop now",
+  "country": "ALL",
+  "language": "unknown",
+  "notes": "Imported from competitor Meta Ad Library scraper",
+  "source_meta": {
+    "original_ad_archive_id": "2173463480063492",
+    "ad_format": "Image",
+    "media_kind": "image",
+    "title": "OMG this neck cream sale!! 😱",
+    "caption": "gopure.com",
+    "platforms": [
+      "FACEBOOK",
+      "INSTAGRAM",
+      "MESSENGER",
+      "THREADS"
+    ],
+    "start_date": "2026-03-17T07:00:00.000Z",
+    "end_date": "2026-04-01T07:00:00.000Z",
+    "primary_image_url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/571339496_835789289028701_658191534414267252_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=csMSIWrLtEgQ7kNvwEzguJq&_nc_oc=AdqfKeNFe06qgpXR-VKN2W-6QG2LtmHnP0XpJTV9uHW9PcIABzXwHHP0iSugGHekF24&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=sjp9o1GcZJUITvj2pIsr-Q&_nc_ss=7a3a8&oh=00_Af3ygn60W0HRhA1XIeLEvMWVTauk-JsBkkwJPgpwn-b2Xg&oe=69D3F837",
+    "card_count": 0,
+    "cards": [],
+    "original_json_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\gopure_ads.json",
+    "original_media_path": ""
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "ad_id": "meta_chomps_887105004377939",
+  "source_platform": "meta_ad_library",
+  "captured_at": "2026-04-15T03:28:28.782Z",
+  "brand_name": "chomps",
+  "product_category": "unknown",
+  "product_names": [
+    "SATISFYING 0g SUGAR PROTEIN SNACKS"
+  ],
+  "image_paths": [
+    "data/input/ad-library/raw/chomps/chomps__887105004377939.jpg"
+  ],
+  "video_paths": [],
+  "landing_page_url": "https://chomps.com/",
+  "ad_copy": "Looking for the perfect snack? Try Chomps meat sticks! Each stick has 10+ grams of protein, 0 grams of sugar, and is made with real ingredients. They are a great snack for any occasion. Whether you're at the gym, work, or on-the-go. Try one and become a #Chompian today!",
+  "cta": "Shop now",
+  "country": "ALL",
+  "language": "unknown",
+  "notes": "Imported from competitor Meta Ad Library scraper",
+  "source_meta": {
+    "original_ad_archive_id": "887105004377939",
+    "ad_format": "Image",
+    "media_kind": "image",
+    "title": "SATISFYING 0g SUGAR PROTEIN SNACKS",
+    "caption": "chomps.com",
+    "platforms": [
+      "FACEBOOK",
+      "INSTAGRAM",
+      "AUDIENCE_NETWORK"
+    ],
+    "start_date": "2026-04-12T07:00:00.000Z",
+    "end_date": "2026-04-12T07:00:00.000Z",
+    "primary_image_url": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/653956210_846751255096304_8045622403208037623_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=qvsT26e3SLQQ7kNvwEVnzhO&_nc_oc=AdqMVckoT5hMGclGKHKPjO-uYzzx_8tjSCA5VS3-zenIvojoGl3ZU4RAlZpcDPZi8m8&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=UkQqVnfDU7C9a3-abHHx9g&_nc_ss=7a3a8&oh=00_Af3oS6uyByDwJWcaF7E-Cwpkr0uqijvYNtp6495PDNEmbw&oe=69E3C768",
+    "card_count": 0,
+    "cards": [],
+    "original_json_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\chomps_ads.json",
+    "original_media_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\media_chomps\\ad_26_887105004377939.jpg"
+  }
+}

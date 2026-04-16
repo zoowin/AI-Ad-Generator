@@ -1,0 +1,38 @@
+{
+  "ad_id": "meta_gopure_1701675571202183",
+  "source_platform": "meta_ad_library",
+  "captured_at": "2026-04-15T03:28:29.007Z",
+  "brand_name": "gopure",
+  "product_category": "unknown",
+  "product_names": [
+    "Best Deal on Amazon"
+  ],
+  "image_paths": [],
+  "video_paths": [],
+  "landing_page_url": "https://amazon.gopure.com/bc-generic-amz",
+  "ad_copy": "Uhm @Gopurebeauty literally still sitting here jaw AGAPE on the floor. This is why I like being consistent with products and showing before and afters!!!!!! #bellycream #looseskin #firmingcream #csection #postpartumbody",
+  "cta": "Learn more",
+  "country": "ALL",
+  "language": "unknown",
+  "notes": "Imported from competitor Meta Ad Library scraper",
+  "source_meta": {
+    "original_ad_archive_id": "1701675571202183",
+    "ad_format": "Video",
+    "media_kind": "video_preview",
+    "title": "Best Deal on Amazon",
+    "caption": "amazon.gopure.com",
+    "platforms": [
+      "FACEBOOK",
+      "INSTAGRAM",
+      "MESSENGER",
+      "THREADS"
+    ],
+    "start_date": "2026-03-20T07:00:00.000Z",
+    "end_date": "2026-04-02T07:00:00.000Z",
+    "primary_image_url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/650307418_2432544717193968_490735136933904099_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=J4T9V1vq6QIQ7kNvwGwZUs9&_nc_oc=Adomw8nuVoF3iyTwfOeDh-PYKFA0cVuS0m358KTZWsIaMYiO6ZKpkDc_qrMMn0kkf2M&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=sjp9o1GcZJUITvj2pIsr-Q&_nc_ss=7a3a8&oh=00_Af12BqVL5BV9glYnHkiSx-8V_HeyYTuv8Z16-wIikblVXg&oe=69D40ED7",
+    "card_count": 0,
+    "cards": [],
+    "original_json_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\gopure_ads.json",
+    "original_media_path": ""
+  }
+}

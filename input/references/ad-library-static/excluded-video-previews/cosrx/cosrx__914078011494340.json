@@ -1,0 +1,41 @@
+{
+  "ad_id": "meta_cosrx_914078011494340",
+  "source_platform": "meta_ad_library",
+  "captured_at": "2026-04-15T03:28:28.808Z",
+  "brand_name": "cosrx",
+  "product_category": "unknown",
+  "product_names": [
+    "🔗 Shop now on ULTA"
+  ],
+  "image_paths": [
+    "data/input/ad-library/raw/cosrx/cosrx__914078011494340.jpg"
+  ],
+  "video_paths": [],
+  "landing_page_url": "https://www.ulta.com/p/pdrn-exosome-skinplaning-glaze-mask-with-collagen-peptide-pimprod2056620?sku=2651678",
+  "ad_copy": "One-step boost for glow and texture,\nCOSRX PDRN Exosome Mask✨\n\n💧Pearl cream formula for bright, translucent glow\n✨Double-boost care for bouncy skin\n👍Non-irritation formula refines skin texture\n\nGet your glow with COSRX 💖\n#COSRX #ULTA #PDRNExosomeMask",
+  "cta": "Shop now",
+  "country": "ALL",
+  "language": "unknown",
+  "notes": "Imported from competitor Meta Ad Library scraper",
+  "source_meta": {
+    "original_ad_archive_id": "914078011494340",
+    "ad_format": "Video",
+    "media_kind": "video_preview",
+    "title": "🔗 Shop now on ULTA",
+    "caption": "www.ulta.com",
+    "platforms": [
+      "FACEBOOK",
+      "INSTAGRAM",
+      "AUDIENCE_NETWORK",
+      "MESSENGER",
+      "THREADS"
+    ],
+    "start_date": "2026-04-01T07:00:00.000Z",
+    "end_date": "2026-04-07T07:00:00.000Z",
+    "primary_image_url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/660278843_1308482168009908_129247309704410230_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=H1jAMj38broQ7kNvwGREW6a&_nc_oc=AdqD0OWuluHsXHk2WK7F01moVIH_Gm6-qXbq04rfypgjogQ3WB5o3OKGzAAFCWgymmE&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=FUsUbZHriUp9A1s2abkfEQ&_nc_ss=7a3a8&oh=00_Af3d-Byjz6lLwebMheshpXPvBkjzoRK9B2XjWH0Tx8fZRQ&oe=69DBE7E0",
+    "card_count": 0,
+    "cards": [],
+    "original_json_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\cosrx_ads.json",
+    "original_media_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\media_cosrx\\ad_15_914078011494340.jpg"
+  }
+}

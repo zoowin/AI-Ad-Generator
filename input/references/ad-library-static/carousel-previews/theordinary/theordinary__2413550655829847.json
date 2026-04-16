@@ -1,0 +1,55 @@
+{
+  "ad_id": "meta_theordinary_2413550655829847",
+  "source_platform": "meta_ad_library",
+  "captured_at": "2026-04-15T03:28:29.951Z",
+  "brand_name": "theordinary",
+  "product_category": "unknown",
+  "product_names": [
+    "Sunscreen Can Feel Good."
+  ],
+  "image_paths": [
+    "data/input/ad-library/raw/theordinary/theordinary__2413550655829847.jpg"
+  ],
+  "video_paths": [],
+  "landing_page_url": "https://www.nykaa.com/the-ordinary-uv-filters-spf-40-serum/p/22276608?utm_source=facebook_instagram&utm_medium=paid_social&utm_campaign=spf40&utm_content=linkad-&utm_term=",
+  "ad_copy": "{{product.brand}}",
+  "cta": "Shop now",
+  "country": "ALL",
+  "language": "unknown",
+  "notes": "Imported from competitor Meta Ad Library scraper",
+  "source_meta": {
+    "original_ad_archive_id": "2413550655829847",
+    "ad_format": "Carousel",
+    "media_kind": "carousel_preview",
+    "title": "{{product.name}}",
+    "caption": "nykaa.com",
+    "platforms": [
+      "FACEBOOK",
+      "INSTAGRAM"
+    ],
+    "start_date": "2026-04-02T07:00:00.000Z",
+    "end_date": "2026-04-07T07:00:00.000Z",
+    "primary_image_url": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/661431119_1488420649367090_6275096817663925650_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=nS-IzUJA4WQQ7kNvwHNy1Yr&_nc_oc=AdoeGg8s8fGTNwRSzY54xvqZV9-wd7Qq9mq0uB8CDcTA3vYVPk4-oKCuJifnOjYdv1Y&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=Z_nVSow4qziKaexeRF_dXQ&_nc_ss=7a3a8&oh=00_Af2lq6-Y9Vr6JtoyX16WxToDXLCAQ4CYfsArcYy_BhU1tA&oe=69DBD2C1",
+    "card_count": 2,
+    "cards": [
+      {
+        "body": "UV Filters SPF 40 Serum is formulated to feel comfortable on your skin, just like a serum. Broad-spectrum. SPF 40. PA++++.",
+        "title": "Sunscreen Can Feel Good.",
+        "caption": "",
+        "cta_text": "Shop Now",
+        "link_url": "https://www.nykaa.com/the-ordinary-uv-filters-spf-40-serum/p/22276608?utm_source=facebook_instagram&utm_medium=paid_social&utm_campaign=spf40&utm_content=linkad-&utm_term=",
+        "image": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/661431119_1488420649367090_6275096817663925650_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=nS-IzUJA4WQQ7kNvwHNy1Yr&_nc_oc=AdoeGg8s8fGTNwRSzY54xvqZV9-wd7Qq9mq0uB8CDcTA3vYVPk4-oKCuJifnOjYdv1Y&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=Z_nVSow4qziKaexeRF_dXQ&_nc_ss=7a3a8&oh=00_Af2lq6-Y9Vr6JtoyX16WxToDXLCAQ4CYfsArcYy_BhU1tA&oe=69DBD2C1"
+      },
+      {
+        "body": "UV Filters SPF 40 Serum is formulated to feel comfortable on your skin, just like a serum. Broad-spectrum. SPF 40. PA++++.",
+        "title": "Sunscreen Can Feel Good.",
+        "caption": "",
+        "cta_text": "Shop Now",
+        "link_url": "https://www.nykaa.com/the-ordinary-uv-filters-spf-40-serum/p/22276608?utm_source=facebook_instagram&utm_medium=paid_social&utm_campaign=spf40&utm_content=linkad-&utm_term=",
+        "image": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/658910032_1490690202529482_3156406217044730115_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=XlVGsBugYm8Q7kNvwEpKa16&_nc_oc=AdpW5ooN7v7k6O8moDBThomwuTr5tHmrMYza3wWpmRAgHsIJzYtdwItVlk7CSKyy6pE&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=Z_nVSow4qziKaexeRF_dXQ&_nc_ss=7a3a8&oh=00_Af1n281xlRUO7q17j1zh66wt-UIYqj5oU8oGz3DH4Etq9w&oe=69DBFAF2"
+      }
+    ],
+    "original_json_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\theordinary_ads.json",
+    "original_media_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\media_theordinary\\ad_17_2413550655829847.jpg"
+  }
+}

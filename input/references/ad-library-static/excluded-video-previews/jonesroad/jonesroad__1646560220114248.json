@@ -1,0 +1,41 @@
+{
+  "ad_id": "meta_jonesroad_1646560220114248",
+  "source_platform": "meta_ad_library",
+  "captured_at": "2026-04-15T03:28:29.151Z",
+  "brand_name": "jonesroad",
+  "product_category": "unknown",
+  "product_names": [
+    "A fresh look without a full face"
+  ],
+  "image_paths": [
+    "data/input/ad-library/raw/jonesroad/jonesroad__1646560220114248.jpg"
+  ],
+  "video_paths": [],
+  "landing_page_url": "https://www.jonesroadbeauty.com/pages/listicle-wtf-reviews-sc-header",
+  "ad_copy": "If you're craving a minimal routine, this makes it easy. Get light, breathable coverage that evens your skin without feeling heavy, plus a natural glow that lasts all day. It feels like skincare, looks effortless, and gives you that fresh-faced finish without overdoing it.",
+  "cta": "Shop now",
+  "country": "ALL",
+  "language": "unknown",
+  "notes": "Imported from competitor Meta Ad Library scraper",
+  "source_meta": {
+    "original_ad_archive_id": "1646560220114248",
+    "ad_format": "Video",
+    "media_kind": "video_preview",
+    "title": "A fresh look without a full face",
+    "caption": "www.jonesroadbeauty.com",
+    "platforms": [
+      "FACEBOOK",
+      "INSTAGRAM",
+      "AUDIENCE_NETWORK",
+      "MESSENGER",
+      "THREADS"
+    ],
+    "start_date": "2026-02-18T08:00:00.000Z",
+    "end_date": "2026-04-14T07:00:00.000Z",
+    "primary_image_url": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/633312468_911473238049112_8186228299610879270_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=1lxIaRKDlv0Q7kNvwHPcUu4&_nc_oc=AdqyxMC7HUwYYt9-I1WDgWOfojo8FE9qgBez7kYc9SBfHAnZh2D1_bkE6FsUXJSuPQc&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=Sa29kFwNq6oKxQTEfza6Ew&_nc_ss=7a3a8&oh=00_Af2XWXzIlucsqmG0XiKmdmNgMJ-q7zPjOpKPaKsqJAVIww&oe=69E3E647",
+    "card_count": 0,
+    "cards": [],
+    "original_json_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\jonesroad_ads.json",
+    "original_media_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\media_jonesroad\\ad_24_1646560220114248.jpg"
+  }
+}

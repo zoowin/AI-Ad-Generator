@@ -1,0 +1,58 @@
+{
+  "ad_id": "meta_gruns_1490349725939371",
+  "source_platform": "meta_ad_library",
+  "captured_at": "2026-04-15T03:28:29.053Z",
+  "brand_name": "gruns",
+  "product_category": "unknown",
+  "product_names": [
+    "Grüns: 6g Fiber, Prebiotics, and Wellness"
+  ],
+  "image_paths": [
+    "data/input/ad-library/raw/gruns/gruns__1490349725939371.jpg"
+  ],
+  "video_paths": [],
+  "landing_page_url": "https://gruns.co/pages/first-order-gut-health",
+  "ad_copy": "{{product.brand}}",
+  "cta": "Shop now",
+  "country": "ALL",
+  "language": "unknown",
+  "notes": "Imported from competitor Meta Ad Library scraper",
+  "source_meta": {
+    "original_ad_archive_id": "1490349725939371",
+    "ad_format": "Carousel",
+    "media_kind": "carousel_preview",
+    "title": "{{product.name}}",
+    "caption": "gruns.co",
+    "platforms": [
+      "FACEBOOK",
+      "INSTAGRAM",
+      "AUDIENCE_NETWORK",
+      "MESSENGER",
+      "THREADS"
+    ],
+    "start_date": "2026-03-04T08:00:00.000Z",
+    "end_date": "2026-04-13T07:00:00.000Z",
+    "primary_image_url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/476229399_496791429780761_1770495355339806440_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=VV56vDH7GpMQ7kNvwG8R9W2&_nc_oc=Adr9TPQZ7SYz_mujChDs7h1s-sfRAm5KCtDttoXEG3knLkKobXK2aU_U72rxJRtMbQQ&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=GN6450Ux2-aU2aIrZCZ9SA&_nc_ss=7a3a8&oh=00_Af2JtO88olNEI0WU1nrmrWMsgtZA3YOjknVPC17y51d0PA&oe=69E3E423",
+    "card_count": 2,
+    "cards": [
+      {
+        "body": "Support your gut and overall wellness with Grüns Superfood Gummies. Packed with 6g of fiber, prebiotics, and over 20 essential vitamins and minerals, these 8 tasty gummies boost energy, support digestion, and help keep your gut balanced. Forget about greens powders—Grüns makes it easy to nourish your body every day!",
+        "title": "Grüns: 6g Fiber, Prebiotics, and Wellness",
+        "caption": "",
+        "cta_text": "Shop Now",
+        "link_url": "https://gruns.co/pages/first-order-gut-health",
+        "image": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/476229399_496791429780761_1770495355339806440_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=VV56vDH7GpMQ7kNvwG8R9W2&_nc_oc=Adr9TPQZ7SYz_mujChDs7h1s-sfRAm5KCtDttoXEG3knLkKobXK2aU_U72rxJRtMbQQ&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=GN6450Ux2-aU2aIrZCZ9SA&_nc_ss=7a3a8&oh=00_Af2JtO88olNEI0WU1nrmrWMsgtZA3YOjknVPC17y51d0PA&oe=69E3E423"
+      },
+      {
+        "body": "Support your gut and overall wellness with Grüns Superfood Gummies. Packed with 6g of fiber, prebiotics, and over 20 essential vitamins and minerals, these 8 tasty gummies boost energy, support digestion, and help keep your gut balanced. Forget about greens powders—Grüns makes it easy to nourish your body every day!",
+        "title": "Grüns: 6g Fiber, Prebiotics, and Wellness",
+        "caption": "",
+        "cta_text": "Shop Now",
+        "link_url": "https://gruns.co/pages/first-order-gut-health",
+        "image": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/476229401_973052390876222_488548032741141901_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ZL2V156qoMUQ7kNvwHfocYu&_nc_oc=Adpnmour0aw9cNb02TlId5AqbZunkzrkszkLOfRif4Tg44_T2l_a75Ye24KDkDAQfU4&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=GN6450Ux2-aU2aIrZCZ9SA&_nc_ss=7a3a8&oh=00_Af2Ou6vN6MfpOHHOT5mfleXfVvtDtGp8Y3r_CYpb621GHg&oe=69E3CA4F"
+      }
+    ],
+    "original_json_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\gruns_ads.json",
+    "original_media_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\media_gruns\\ad_10_1490349725939371.jpg"
+  }
+}

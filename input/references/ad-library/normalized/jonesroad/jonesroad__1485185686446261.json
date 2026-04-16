@@ -1,0 +1,41 @@
+{
+  "ad_id": "meta_jonesroad_1485185686446261",
+  "source_platform": "meta_ad_library",
+  "captured_at": "2026-04-15T03:28:29.128Z",
+  "brand_name": "jonesroad",
+  "product_category": "unknown",
+  "product_names": [
+    "Recharge Anytime, Anywhere"
+  ],
+  "image_paths": [
+    "data/input/ad-library/raw/jonesroad/jonesroad__1485185686446261.jpg"
+  ],
+  "video_paths": [],
+  "landing_page_url": "https://myshop.jonesroadbeauty.com/lip-recharge-m",
+  "ad_copy": "Skincare and makeup in one, done right. Lip Recharge gives you a sheer wash of color, serious moisture, and that \"my lips but better\" look in one swipe. Available in 9 sheer shades that look beautiful on every lip tone.",
+  "cta": "Shop now",
+  "country": "ALL",
+  "language": "unknown",
+  "notes": "Imported from competitor Meta Ad Library scraper",
+  "source_meta": {
+    "original_ad_archive_id": "1485185686446261",
+    "ad_format": "Image",
+    "media_kind": "image",
+    "title": "Recharge Anytime, Anywhere",
+    "caption": "myshop.jonesroadbeauty.com",
+    "platforms": [
+      "FACEBOOK",
+      "INSTAGRAM",
+      "AUDIENCE_NETWORK",
+      "MESSENGER",
+      "THREADS"
+    ],
+    "start_date": "2026-04-10T07:00:00.000Z",
+    "end_date": "2026-04-13T07:00:00.000Z",
+    "primary_image_url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/669319893_26234161902931424_2500240380503664031_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=tAvMSdbLMloQ7kNvwGBy4_I&_nc_oc=AdqXfZL6e-f0TaRmYS4_YQPtN8mnWHPckby-4dDk330CFsG36MpdVxqJU5z7CQmUW-E&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=Sa29kFwNq6oKxQTEfza6Ew&_nc_ss=7a3a8&oh=00_Af1mcKvS2DzRcrtT4K3W0b3xNBCH6WYhFlEWAJIzTGNr1A&oe=69E3D4F6",
+    "card_count": 0,
+    "cards": [],
+    "original_json_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\jonesroad_ads.json",
+    "original_media_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\media_jonesroad\\ad_10_1485185686446261.jpg"
+  }
+}

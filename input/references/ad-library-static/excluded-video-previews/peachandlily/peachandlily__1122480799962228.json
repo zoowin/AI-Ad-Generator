@@ -1,0 +1,39 @@
+{
+  "ad_id": "meta_peachandlily_1122480799962228",
+  "source_platform": "meta_ad_library",
+  "captured_at": "2026-04-15T03:28:29.517Z",
+  "brand_name": "peachandlily",
+  "product_category": "unknown",
+  "product_names": [],
+  "image_paths": [
+    "data/input/ad-library/raw/peachandlily/peachandlily__1122480799962228.jpg"
+  ],
+  "video_paths": [],
+  "landing_page_url": "https://www.peachandlily.com/products/miniprotein-exosome-bioactive-ampoule",
+  "ad_copy": "We are so excited to reveal the brand of the mystery Ampoule that we have been testing for a few weeks now! It’s Peach & Lily if you didn’t already figure it out!! It’s the Miniprotein Exosome Bioactive Ampoule! This ampoule has gone through rigorous clinical testing and actually shows visible improvements in fine lines and wrinkles, firmness, and texture. We are here to tell you that it works!  And you can tell in the video! We are highly recommending this Ampoule for your skincare routine. Now available at Ulta Beauty! @peachandlily @ultabeauty #peachandlily #glassskingoals #glassskin #fyp #ampoule #koreanskincare #kbeauty",
+  "cta": "Shop now",
+  "country": "ALL",
+  "language": "unknown",
+  "notes": "Imported from competitor Meta Ad Library scraper",
+  "source_meta": {
+    "original_ad_archive_id": "1122480799962228",
+    "ad_format": "Video",
+    "media_kind": "video_preview",
+    "title": "",
+    "caption": "www.peachandlily.com",
+    "platforms": [
+      "FACEBOOK",
+      "INSTAGRAM",
+      "AUDIENCE_NETWORK",
+      "MESSENGER",
+      "THREADS"
+    ],
+    "start_date": "2025-11-14T08:00:00.000Z",
+    "end_date": "2026-04-07T07:00:00.000Z",
+    "primary_image_url": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/581857302_2658201031186511_6557421587384646520_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=z0gcOg65eNMQ7kNvwHSyHI-&_nc_oc=AdpaOhQccYZEXo34XBp_HKtacpguCg6GPhYu6BXvdk0gdGZoF_2RG8VjyeP9N1WhqyE&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=o60n_sAgQqIAcUFEuaP01A&_nc_ss=7a3a8&oh=00_Af2wkiTUqU5t7wjuseFxg53yJlfReXdOeLtzgIG5qQ_K3g&oe=69DBCC13",
+    "card_count": 0,
+    "cards": [],
+    "original_json_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\peachandlily_ads.json",
+    "original_media_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\media_peachandlily\\ad_3_1122480799962228.jpg"
+  }
+}

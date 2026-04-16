@@ -1,0 +1,83 @@
+{
+  "ad_id": "meta_ridge_1129781885867589",
+  "source_platform": "meta_ad_library",
+  "captured_at": "2026-04-15T03:28:29.550Z",
+  "brand_name": "ridge",
+  "product_category": "unknown",
+  "product_names": [
+    "Ridge 8mm Beveled Ring Set - Stonewashed Titanium",
+    "Ridge 8mm Beveled Ring Set - 24K Gold",
+    "Ridge 8MM Beveled Ring Set - Carbon Fiber 3K"
+  ],
+  "image_paths": [
+    "data/input/ad-library/raw/ridge/ridge__1129781885867589.jpg"
+  ],
+  "video_paths": [],
+  "landing_page_url": "http://ridge.com/",
+  "ad_copy": "The Ridge Ring Set - crafted from premium materials and designed for comfort.\nThis Includes:\n✅ Dual Ridge Silicone Ring\n✅ 99 Day Risk-Free Trial\n✅ Guaranteed for Life",
+  "cta": "Shop now",
+  "country": "ALL",
+  "language": "unknown",
+  "notes": "Imported from competitor Meta Ad Library scraper",
+  "source_meta": {
+    "original_ad_archive_id": "1129781885867589",
+    "ad_format": "Carousel",
+    "media_kind": "carousel_preview",
+    "title": "{{product.name}}",
+    "caption": "ridge.com",
+    "platforms": [
+      "FACEBOOK",
+      "INSTAGRAM",
+      "MESSENGER",
+      "THREADS"
+    ],
+    "start_date": "2026-02-18T08:00:00.000Z",
+    "end_date": "2026-04-13T07:00:00.000Z",
+    "primary_image_url": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/637175464_1315258777094113_1151493428296158670_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=0ViL9et5BDEQ7kNvwGP_euP&_nc_oc=AdqISYzh4k1NZOD_BryiG3tb-B9RDSlI4ETenfg5rcdEaB43pvaW1eyCuJYNvuegfos&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=qqZTfAce3wqWlUL87WTHpQ&_nc_ss=7a3a8&oh=00_Af0DMGDtp70ruvmTzERNH6YeYSLKmdPmimuZfvJyfHtpdw&oe=69E3C0FC",
+    "card_count": 5,
+    "cards": [
+      {
+        "body": "The Ridge Ring Set - crafted from premium materials and designed for comfort.\nThis Includes:\n✅ Dual Ridge Silicone Ring\n✅ 99 Day Risk-Free Trial\n✅ Guaranteed for Life",
+        "title": "Ridge 8mm Beveled Ring Set - Stonewashed Titanium",
+        "caption": "ridge.com",
+        "cta_text": "Shop Now",
+        "link_url": "https://ridge.com/products/stonewashed-titanium-beveled-ring?variant=40093763928138",
+        "image": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/637175464_1315258777094113_1151493428296158670_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=0ViL9et5BDEQ7kNvwGP_euP&_nc_oc=AdqISYzh4k1NZOD_BryiG3tb-B9RDSlI4ETenfg5rcdEaB43pvaW1eyCuJYNvuegfos&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=qqZTfAce3wqWlUL87WTHpQ&_nc_ss=7a3a8&oh=00_Af0DMGDtp70ruvmTzERNH6YeYSLKmdPmimuZfvJyfHtpdw&oe=69E3C0FC"
+      },
+      {
+        "body": "The Ridge Ring Set - crafted from premium materials and designed for comfort.\nThis Includes:\n✅ Dual Ridge Silicone Ring\n✅ 99 Day Risk-Free Trial\n✅ Guaranteed for Life",
+        "title": "Ridge 8mm Beveled Ring Set - Stonewashed Titanium",
+        "caption": "ridge.com",
+        "cta_text": "Shop Now",
+        "link_url": "https://ridge.com/products/stonewashed-titanium-beveled-ring?variant=40093764124746",
+        "image": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/636261529_1232835865665927_5206987904159842322_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=w7vYOH2MDmEQ7kNvwFj5Qjm&_nc_oc=AdptydTyWTbh0uGfOtu8Wj3KwBUy6ex23E-n-MygA36Phnl1Z3X4IwXVh4KqkcwWn3o&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=qqZTfAce3wqWlUL87WTHpQ&_nc_ss=7a3a8&oh=00_Af2Z-FrVoKj1HX6lAtghy4SKuGxC0p5MWMgIzik9CRlG1Q&oe=69E3CDBA"
+      },
+      {
+        "body": "The Ridge Ring Set - crafted from premium materials and designed for comfort.\nThis Includes:\n✅ Dual Ridge Silicone Ring\n✅ 99 Day Risk-Free Trial\n✅ Guaranteed for Life",
+        "title": "Ridge 8mm Beveled Ring Set - 24K Gold",
+        "caption": "ridge.com",
+        "cta_text": "Shop Now",
+        "link_url": "https://ridge.com/products/24-karat-gold-beveled-ring?variant=40093713432650",
+        "image": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/637003394_952805343979239_5040146080348313101_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=TtZpPhBZN2wQ7kNvwE4VhZS&_nc_oc=AdrlAwJ-1Ouw32qBErsqhOib4jrzo7fx1Cy9cBzcMuiN-zDFCQ_mKwPhxKMpiHhEmOI&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=qqZTfAce3wqWlUL87WTHpQ&_nc_ss=7a3a8&oh=00_Af1LOItwbkMFI0RzV-eeYRFa1V2aAR6ci-n5vLQK1MoR_Q&oe=69E3D9B4"
+      },
+      {
+        "body": "The Ridge Ring Set - crafted from premium materials and designed for comfort.\nThis Includes:\n✅ Dual Ridge Silicone Ring\n✅ 99 Day Risk-Free Trial\n✅ Guaranteed for Life",
+        "title": "Ridge 8mm Beveled Ring Set - 24K Gold",
+        "caption": "ridge.com",
+        "cta_text": "Shop Now",
+        "link_url": "https://ridge.com/products/24-karat-gold-beveled-ring?variant=40093713104970",
+        "image": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/636904602_2297253400741111_8511371262620517264_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=2ELYya0YTlMQ7kNvwFW522i&_nc_oc=AdosyMp8IQ-Ghq0d2kzI8E-b03pwAaVDPXoej5Q3lYXW13iOGdUSOonihH3taw8kJHk&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=qqZTfAce3wqWlUL87WTHpQ&_nc_ss=7a3a8&oh=00_Af0ZKehkz0xTSqq61gb7T1ZiKOULNgcB0Vr-KtSxRTNXAg&oe=69E3EB96"
+      },
+      {
+        "body": "The Ridge Ring Set - crafted from premium materials and designed for comfort.\nThis Includes:\n✅ Dual Ridge Silicone Ring\n✅ 99 Day Risk-Free Trial\n✅ Guaranteed for Life",
+        "title": "Ridge 8MM Beveled Ring Set - Carbon Fiber 3K",
+        "caption": "ridge.com",
+        "cta_text": "Shop Now",
+        "link_url": "https://ridge.com/products/carbon-fiber-3k-beveled-ring?variant=40093726146634",
+        "image": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/636927552_4435914553311092_8366435475961892819_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ODYpO2ZYZD8Q7kNvwGGSmHl&_nc_oc=AdoHL-JL2bCFDXLO_KzcrlcKlGebhTC-FaOK9ummkmO2XzE37AUqvqvronkSeoaD0qo&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=qqZTfAce3wqWlUL87WTHpQ&_nc_ss=7a3a8&oh=00_Af08jWFm4aNMtcg-w7tEW9GRVPjMXQJ8-P1RQ_o3aU6Plw&oe=69E3D929"
+      }
+    ],
+    "original_json_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\ridge_ads.json",
+    "original_media_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\media_ridge\\ad_4_1129781885867589.jpg"
+  }
+}

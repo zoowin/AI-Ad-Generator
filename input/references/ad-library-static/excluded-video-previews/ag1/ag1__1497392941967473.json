@@ -1,0 +1,40 @@
+{
+  "ad_id": "meta_ag1_1497392941967473",
+  "source_platform": "meta_ad_library",
+  "captured_at": "2026-04-15T03:28:28.717Z",
+  "brand_name": "ag1",
+  "product_category": "unknown",
+  "product_names": [
+    "Recommended by Karl Stefanovic"
+  ],
+  "image_paths": [
+    "data/input/ad-library/raw/ag1/ag1__1497392941967473.jpg"
+  ],
+  "video_paths": [],
+  "landing_page_url": "https://drinkag1.com/en-au",
+  "ad_copy": "Most multivitamins fall short. AG1 packs 75+ bioavailable nutrients — vitamins, minerals & probiotics — into one daily scoop to support whole body health.\n\nOne Scoop. Every Morning. Try AG1 and get a FREE Welcome Kit when you subscribe**. Skip or cancel anytime.\n\n👉 drinkag1.com\n**New subscribers only.",
+  "cta": "Learn more",
+  "country": "ALL",
+  "language": "unknown",
+  "notes": "Imported from competitor Meta Ad Library scraper",
+  "source_meta": {
+    "original_ad_archive_id": "1497392941967473",
+    "ad_format": "Video",
+    "media_kind": "video_preview",
+    "title": "Recommended by Karl Stefanovic",
+    "caption": "drinkag1.com/",
+    "platforms": [
+      "FACEBOOK",
+      "INSTAGRAM",
+      "MESSENGER",
+      "THREADS"
+    ],
+    "start_date": "2026-04-10T07:00:00.000Z",
+    "end_date": "2026-04-13T07:00:00.000Z",
+    "primary_image_url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/658843460_1366790175173424_1702268468712710818_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Q63ZIm8c2KMQ7kNvwHToY9K&_nc_oc=AdpjHsaHazTojQd8qV67LsUtJ1Fe_WFQO3HH6rgJdUbaGZQ5UIMme2xqqojFdjez4Dc&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=Fns_35FlzA60O0VNYqaUAg&_nc_ss=7a3a8&oh=00_Af1kqXmnvvJlTbggeqfInpnLMNTo220AiUznCDwXnKiBlQ&oe=69E3C83D",
+    "card_count": 0,
+    "cards": [],
+    "original_json_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\ag1_ads.json",
+    "original_media_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\media_ag1\\ad_19_1497392941967473.jpg"
+  }
+}

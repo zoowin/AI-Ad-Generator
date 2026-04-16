@@ -1,8 +1,18 @@
 # Input Guide
 
-- `briefs/` 放结构化产品 brief
-- `products/<slug>/` 放该产品的主图、参考图、手持图
-- `references/winning-ads/` 放外部参考广告
-- `references/before-after/` 放前后对比参考图
+- `briefs/`
+  Product briefs and campaign briefs.
+- `products/<product-folder>/`
+  Product-specific references such as in-hand shots, model shots, and extra PNGs.
+- `product-docs/`
+  Product descriptions, SKU notes, claims, and supporting product knowledge.
+- `references/ad-library/`
+  Imported ad-library references.
+- `references/ad-library-static/static-images/`
+  Static-only ad references for analysis when video is out of scope.
+- `references/winning-ads/`
+  Manually collected winning ad references.
 
-新增产品时，优先复制 `micro-dart/` 的组织方式。
+Practical rule:
+
+- all new input material should be placed somewhere under `input/`

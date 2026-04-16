@@ -1,0 +1,58 @@
+{
+  "ad_id": "meta_chomps_2398226977307779",
+  "source_platform": "meta_ad_library",
+  "captured_at": "2026-04-15T03:28:28.762Z",
+  "brand_name": "chomps",
+  "product_category": "unknown",
+  "product_names": [
+    "20% OFF + FREE SHIPPING"
+  ],
+  "image_paths": [
+    "data/input/ad-library/raw/chomps/chomps__2398226977307779.jpg"
+  ],
+  "video_paths": [],
+  "landing_page_url": "https://get.chomps.com/fb-try-chomps-20?discount=YUMCHOMPS20",
+  "ad_copy": "{{product.brand}}",
+  "cta": "Shop now",
+  "country": "ALL",
+  "language": "unknown",
+  "notes": "Imported from competitor Meta Ad Library scraper",
+  "source_meta": {
+    "original_ad_archive_id": "2398226977307779",
+    "ad_format": "Carousel",
+    "media_kind": "carousel_preview",
+    "title": "{{product.name}}",
+    "caption": "get.chomps.com",
+    "platforms": [
+      "FACEBOOK",
+      "INSTAGRAM",
+      "AUDIENCE_NETWORK",
+      "MESSENGER",
+      "THREADS"
+    ],
+    "start_date": "2026-03-18T07:00:00.000Z",
+    "end_date": "2026-04-14T07:00:00.000Z",
+    "primary_image_url": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/653910745_4310656912544595_228646249892945144_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=UGpI_Td_RngQ7kNvwHWB2II&_nc_oc=AdrCJQUgSKVg7XlmuGo9pW6AqXT27F6TdQQpJXXcpflFwV21Vt7-CClezeUJrsNM0NU&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=UkQqVnfDU7C9a3-abHHx9g&_nc_ss=7a3a8&oh=00_Af1BwQsUKZE6XlDAzBQdcJLFt8Lj7r-ikGZfVcZa92fu7g&oe=69E3E822",
+    "card_count": 2,
+    "cards": [
+      {
+        "body": "Unlock 20% savings + free shipping on flavorful meat sticks with 10+ grams of protein, 0 grams of sugar, and real ingredients! Use code YUMCHOMPS20.",
+        "title": "20% OFF + FREE SHIPPING",
+        "caption": "",
+        "cta_text": "Shop Now",
+        "link_url": "https://get.chomps.com/fb-try-chomps-20?discount=YUMCHOMPS20",
+        "image": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/653910745_4310656912544595_228646249892945144_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=UGpI_Td_RngQ7kNvwHWB2II&_nc_oc=AdrCJQUgSKVg7XlmuGo9pW6AqXT27F6TdQQpJXXcpflFwV21Vt7-CClezeUJrsNM0NU&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=UkQqVnfDU7C9a3-abHHx9g&_nc_ss=7a3a8&oh=00_Af1BwQsUKZE6XlDAzBQdcJLFt8Lj7r-ikGZfVcZa92fu7g&oe=69E3E822"
+      },
+      {
+        "body": "Unlock 20% savings + free shipping on flavorful meat sticks with 10+ grams of protein, 0 grams of sugar, and real ingredients! Use code YUMCHOMPS20.",
+        "title": "20% OFF + FREE SHIPPING",
+        "caption": "",
+        "cta_text": "Shop Now",
+        "link_url": "https://get.chomps.com/fb-try-chomps-20?discount=YUMCHOMPS20",
+        "image": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/652991440_25124741367202751_3238865465843960072_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Rqv3INxnzcoQ7kNvwGm94_m&_nc_oc=AdqeAK0Zr5whX7EzU3sEdedF9TtKJdqUWue6fNj5xH44JwkRap4MPjnSBu_SW8k0UdQ&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=UkQqVnfDU7C9a3-abHHx9g&_nc_ss=7a3a8&oh=00_Af0wBQstseTCEF2TApvIyAFyFWdiT2fvGX5F-PK6a6B-ZQ&oe=69E3DF13"
+      }
+    ],
+    "original_json_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\chomps_ads.json",
+    "original_media_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\media_chomps\\ad_2_2398226977307779.jpg"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "ad_id": "meta_caraway_3908466796123380",
+  "source_platform": "meta_ad_library",
+  "captured_at": "2026-04-15T03:28:28.745Z",
+  "brand_name": "caraway",
+  "product_category": "unknown",
+  "product_names": [
+    "Upgrade Once. Be Done."
+  ],
+  "image_paths": [],
+  "video_paths": [],
+  "landing_page_url": "https://www.carawayhome.com/products/clean-start-bundle?color=navy",
+  "ad_copy": "{{product.brand}}",
+  "cta": "Shop now",
+  "country": "ALL",
+  "language": "unknown",
+  "notes": "Imported from competitor Meta Ad Library scraper",
+  "source_meta": {
+    "original_ad_archive_id": "3908466796123380",
+    "ad_format": "Carousel",
+    "media_kind": "carousel_preview",
+    "title": "{{product.name}}",
+    "caption": "carawayhome.com",
+    "platforms": [
+      "FACEBOOK",
+      "INSTAGRAM",
+      "MESSENGER",
+      "THREADS"
+    ],
+    "start_date": "2026-03-18T07:00:00.000Z",
+    "end_date": "2026-04-14T07:00:00.000Z",
+    "primary_image_url": "",
+    "card_count": 2,
+    "cards": [
+      {
+        "body": "When you bundle your kitchen upgrade, the savings get serious.\nShop Caraway bundles and get cookware, bakeware, storage, and prep essentials—designed to work beautifully together.",
+        "title": "Upgrade Once. Be Done.",
+        "caption": "",
+        "cta_text": "Shop Now",
+        "link_url": "https://www.carawayhome.com/products/clean-start-bundle?color=navy",
+        "image": ""
+      },
+      {
+        "body": "When you bundle your kitchen upgrade, the savings get serious.\nShop Caraway bundles and get cookware, bakeware, storage, and prep essentials—designed to work beautifully together.",
+        "title": "Upgrade Once. Be Done.",
+        "caption": "",
+        "cta_text": "Shop Now",
+        "link_url": "https://www.carawayhome.com/products/clean-start-bundle?color=navy",
+        "image": ""
+      }
+    ],
+    "original_json_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\caraway_ads.json",
+    "original_media_path": ""
+  }
+}

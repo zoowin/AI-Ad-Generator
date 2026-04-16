@@ -1,0 +1,89 @@
+{
+  "ad_id": "meta_theordinary_937164135934563",
+  "source_platform": "meta_ad_library",
+  "captured_at": "2026-04-15T03:28:29.945Z",
+  "brand_name": "theordinary",
+  "product_category": "unknown",
+  "product_names": [
+    "Herkes için Kaliteli Cilt Bakımını Trendyol’da Keşfet."
+  ],
+  "image_paths": [
+    "data/input/ad-library/raw/theordinary/theordinary__937164135934563.jpg"
+  ],
+  "video_paths": [],
+  "landing_page_url": "https://ty.gl/theordinary_launch_xrfyh",
+  "ad_copy": "The Ordinary Şimdi Tek Yetkili Trendyol Mağazasında!",
+  "cta": "Shop now",
+  "country": "ALL",
+  "language": "unknown",
+  "notes": "Imported from competitor Meta Ad Library scraper",
+  "source_meta": {
+    "original_ad_archive_id": "937164135934563",
+    "ad_format": "Carousel",
+    "media_kind": "carousel_preview",
+    "title": "Herkes için Kaliteli Cilt Bakımını Trendyol’da Keşfet.",
+    "caption": "ty.gl",
+    "platforms": [
+      "FACEBOOK",
+      "INSTAGRAM",
+      "AUDIENCE_NETWORK",
+      "THREADS"
+    ],
+    "start_date": "2026-02-27T08:00:00.000Z",
+    "end_date": "2026-04-07T07:00:00.000Z",
+    "primary_image_url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/574579899_1175424554530097_3325812829813255714_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=dlTbg6KJzSQQ7kNvwGQiocm&_nc_oc=AdregcAkkI4gWE9LN-M9WeHWeCMwm3fxFXTAUDhX5_EXKlbRQsc7W785JiYtUEZz9lw&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=Z_nVSow4qziKaexeRF_dXQ&_nc_ss=7a3a8&oh=00_Af1scJ4hpZGxF2IYWLUFeJ0OUOpBSZwFk8sBQaxcXbr6sQ&oe=69DBE15A",
+    "card_count": 6,
+    "cards": [
+      {
+        "body": "The Ordinary Şimdi Tek Yetkili Trendyol Mağazasında!",
+        "title": "Herkes için Kaliteli Cilt Bakımını Trendyol’da Keşfet.",
+        "caption": "ty.gl",
+        "cta_text": "Shop Now",
+        "link_url": "https://www.trendyol.com/the-ordinary/lactic-acid-5-ha-30ml-nazik-peeling-etkili-laktik-asit-serumu-p-1022361437?boutiqueId=61&merchantId=1174892",
+        "image": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/574579899_1175424554530097_3325812829813255714_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=dlTbg6KJzSQQ7kNvwGQiocm&_nc_oc=AdregcAkkI4gWE9LN-M9WeHWeCMwm3fxFXTAUDhX5_EXKlbRQsc7W785JiYtUEZz9lw&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=Z_nVSow4qziKaexeRF_dXQ&_nc_ss=7a3a8&oh=00_Af1scJ4hpZGxF2IYWLUFeJ0OUOpBSZwFk8sBQaxcXbr6sQ&oe=69DBE15A"
+      },
+      {
+        "body": "The Ordinary Şimdi Tek Yetkili Trendyol Mağazasında!",
+        "title": "Herkes için Kaliteli Cilt Bakımını Trendyol’da Keşfet.",
+        "caption": "ty.gl",
+        "cta_text": "Shop Now",
+        "link_url": "https://www.trendyol.com/the-ordinary/resveratrol-3-ferulic-acid-3-yaslanma-karsiti-serum-p-1022361021?boutiqueId=61&merchantId=1174892",
+        "image": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/576553360_831514032862180_2616530340814921767_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=d15O0oUOuAsQ7kNvwFfTpGd&_nc_oc=AdpGQThH_WKs-KCLSI3ESKJ3JXY2bkRikJB2UVmXGmYd8-I40W1F7Op2JGxmXoNq2MA&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=Z_nVSow4qziKaexeRF_dXQ&_nc_ss=7a3a8&oh=00_Af2mxuyq9Axmn7RchyeZRZRDAZc3_c9OcLNS-xpRxzqYIA&oe=69DBF1F6"
+      },
+      {
+        "body": "The Ordinary Şimdi Tek Yetkili Trendyol Mağazasında!",
+        "title": "Herkes için Kaliteli Cilt Bakımını Trendyol’da Keşfet.",
+        "caption": "ty.gl",
+        "cta_text": "Shop Now",
+        "link_url": "https://www.trendyol.com/the-ordinary/sulfur-10-powder-to-cream-concentrate-gorunumu-karsiti-konsantre-toz-krem-p-1022361307?boutiqueId=61&merchantId=1174892",
+        "image": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/576688001_1238234198137447_5574794198032593001_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=am_pjEvzln8Q7kNvwFuI3F7&_nc_oc=AdqXD4kslBEEqm1JXLs64S56mtFB-5oKY2t5r_GXMmo4SF_BnRirXlAmpVJzQdk41Ms&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=Z_nVSow4qziKaexeRF_dXQ&_nc_ss=7a3a8&oh=00_Af3Dx7lmcNLzk0yRUxj7V4N_ZnHnuLiMAiN-YpXEX0YSqg&oe=69DBD2C2"
+      },
+      {
+        "body": "The Ordinary Şimdi Tek Yetkili Trendyol Mağazasında!",
+        "title": "Herkes için Kaliteli Cilt Bakımını Trendyol’da Keşfet.",
+        "caption": "ty.gl",
+        "cta_text": "Shop Now",
+        "link_url": "https://www.trendyol.com/the-ordinary/uv-filters-spf-45-serum-gunes-koruyucu-serum-p-1022360565?boutiqueId=61&merchantId=1174892",
+        "image": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/574849459_1921982008663926_1849050274250741238_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=hXj5g9XR2iwQ7kNvwEHoquy&_nc_oc=AdoWVLvjmUE_fMNV2K14E_ssUK4TV1Plel8dbFZck1GAS6HQxUfisDqdm8KtAv8rOno&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=Z_nVSow4qziKaexeRF_dXQ&_nc_ss=7a3a8&oh=00_Af1xIEs72IM6wM8uMFn6Cdh9hzSr2YoqAids6mjNku8TOg&oe=69DBEF3F"
+      },
+      {
+        "body": "The Ordinary Şimdi Tek Yetkili Trendyol Mağazasında!",
+        "title": "Herkes için Kaliteli Cilt Bakımını Trendyol’da Keşfet.",
+        "caption": "ty.gl",
+        "cta_text": "Shop Now",
+        "link_url": "https://www.trendyol.com/the-ordinary/the-face-body-set-yuz-ve-vucut-seti-p-1022360569?boutiqueId=61&merchantId=1174892",
+        "image": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/576090525_2644654502536323_3519139949619912632_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ni_B396X_3gQ7kNvwGiO9Ns&_nc_oc=Adqwshx24_fxxNoiYedpy0Mhp5XrEoIGbUgOcHI30_wd9bGN983elg8RXQ9ojnqj5AE&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=Z_nVSow4qziKaexeRF_dXQ&_nc_ss=7a3a8&oh=00_Af3bi052hcriVQHudzgSxmmaCaO5lEx6hKWVLG2fgSA3Vg&oe=69DBE880"
+      },
+      {
+        "body": "The Ordinary Şimdi Tek Yetkili Trendyol Mağazasında!",
+        "title": "Herkes için Kaliteli Cilt Bakımını Trendyol’da Keşfet.",
+        "caption": "ty.gl",
+        "cta_text": "Shop Now",
+        "link_url": "https://www.trendyol.com/the-ordinary/hair-care-natural-moisturizing-factors-ha-nemlendirici-serum-p-1022361397?boutiqueId=61&merchantId=1174892",
+        "image": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/576325886_793690986809667_3438330751604510015_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=B5mhNnxudTMQ7kNvwGhsvU6&_nc_oc=AdoKQQG3NFhqutDsShHhu8Op4bwql7ELSWpDLXL2Jeu3qBJWapGargCjK-2pSdp3MKQ&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=Z_nVSow4qziKaexeRF_dXQ&_nc_ss=7a3a8&oh=00_Af0cMaQV0LcP5XMFFyVJ0BkrVq-MTrBUKe0o3GHSsju7cg&oe=69DBDBAB"
+      }
+    ],
+    "original_json_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\theordinary_ads.json",
+    "original_media_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\media_theordinary\\ad_9_937164135934563.jpg"
+  }
+}

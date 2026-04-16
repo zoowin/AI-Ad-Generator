@@ -1,0 +1,40 @@
+{
+  "ad_id": "meta_drmtlgy_1421850333023669",
+  "source_platform": "meta_ad_library",
+  "captured_at": "2026-04-15T03:28:28.828Z",
+  "brand_name": "drmtlgy",
+  "product_category": "unknown",
+  "product_names": [
+    "🎉 DRM Day - The Biggest Sale of the Year! 🎉"
+  ],
+  "image_paths": [
+    "data/input/ad-library/raw/drmtlgy/drmtlgy__1421850333023669.jpg"
+  ],
+  "video_paths": [],
+  "landing_page_url": "https://www.drmtlgy.com/collections/all-products",
+  "ad_copy": "{{product.brand}}",
+  "cta": "Shop Now",
+  "country": "ALL",
+  "language": "unknown",
+  "notes": "Imported from competitor Meta Ad Library scraper",
+  "source_meta": {
+    "original_ad_archive_id": "1421850333023669",
+    "ad_format": "Carousel",
+    "media_kind": "carousel_preview",
+    "title": "🎉 DRM Day - The Biggest Sale of the Year! 🎉",
+    "caption": "",
+    "platforms": [
+      "FACEBOOK",
+      "INSTAGRAM",
+      "MESSENGER",
+      "THREADS"
+    ],
+    "start_date": "2026-04-01T07:00:00.000Z",
+    "end_date": "",
+    "primary_image_url": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/641483994_701652799608837_7128676076507274738_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=lzBev9RUh5UQ7kNvwErbidO&_nc_oc=Adp7szTD8OX2n4gLCKPCaLTbPlXhhrdG_65t6RR2vLqq-FQ1e9Eozi9eLxhx4LeB9WM&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=2QWTKabkCeZiH4T1AWhjTw&_nc_ss=7a3a8&oh=00_Af2_lUV3K7kMzBtCxIfKBjtmLn_caUgfzrBJOzOPlM9MjQ&oe=69D4155B",
+    "card_count": 2,
+    "cards": [],
+    "original_json_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\drmtlgy_ads.json",
+    "original_media_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\media_drmtlgy\\ad_1.jpg"
+  }
+}

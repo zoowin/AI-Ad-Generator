@@ -1,0 +1,40 @@
+{
+  "ad_id": "meta_drsquatch_919114714240744",
+  "source_platform": "meta_ad_library",
+  "captured_at": "2026-04-15T03:28:28.962Z",
+  "brand_name": "drsquatch",
+  "product_category": "unknown",
+  "product_names": [
+    "💪 LIMITED EDITION WWE SOAPS 💥"
+  ],
+  "image_paths": [
+    "data/input/ad-library/raw/drsquatch/drsquatch__919114714240744.jpg"
+  ],
+  "video_paths": [],
+  "landing_page_url": "https://intl.drsquatch.com/products/double-smackdown-2-pack",
+  "ad_copy": "💥 LIMITED EDITION WWE SOAPS 🤼\n🗿 NEW! Stone Cold Stunner\n💪 NEW! Mysterio Magic\n\nStep into the ring with the ultimate tag team, built to bring the smackdown to your shower routine. Featuring the cold, brutal strength of Stone Cold Stunner and the high-flying energy of Mysterio Magic, this duo delivers a top-rope 619 and a can of whoop-ass—leaving you fresh, fired up, and ready to raise hell.",
+  "cta": "Shop now",
+  "country": "ALL",
+  "language": "unknown",
+  "notes": "Imported from competitor Meta Ad Library scraper",
+  "source_meta": {
+    "original_ad_archive_id": "919114714240744",
+    "ad_format": "Image",
+    "media_kind": "image",
+    "title": "💪 LIMITED EDITION WWE SOAPS 💥",
+    "caption": "www.drsquatch.com",
+    "platforms": [
+      "FACEBOOK",
+      "INSTAGRAM",
+      "MESSENGER",
+      "THREADS"
+    ],
+    "start_date": "2026-03-07T08:00:00.000Z",
+    "end_date": "2026-04-13T07:00:00.000Z",
+    "primary_image_url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/648360448_2260050684522365_1626379180192583141_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=9BPNSiaEHRoQ7kNvwF_pkrh&_nc_oc=AdpJmb-SPeTkkrQ2hhIXSo57m_X-gPyPV-hvlajTc8nrO87cuHw1arfqV4er6mNLPHQ&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=jJjzAELG8KqNybh2TjzeMw&_nc_ss=7a3a8&oh=00_Af1IXkn1oPtAcJ0LcypokQwil6nUYl-shUI_XtYoJBlk4w&oe=69E3E898",
+    "card_count": 0,
+    "cards": [],
+    "original_json_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\drsquatch_ads.json",
+    "original_media_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\media_drsquatch\\ad_6_919114714240744.jpg"
+  }
+}

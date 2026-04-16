@@ -1,0 +1,58 @@
+{
+  "ad_id": "meta_skinfix_788144764228323",
+  "source_platform": "meta_ad_library",
+  "captured_at": "2026-04-15T03:28:29.857Z",
+  "brand_name": "skinfix",
+  "product_category": "unknown",
+  "product_names": [
+    "The cream derms recommend for dry skin"
+  ],
+  "image_paths": [
+    "data/input/ad-library/raw/skinfix/skinfix__788144764228323.jpg"
+  ],
+  "video_paths": [],
+  "landing_page_url": "https://ca.skinfix.com/products/lipid-peptide-cream",
+  "ad_copy": "{{product.brand}}",
+  "cta": "Shop now",
+  "country": "ALL",
+  "language": "unknown",
+  "notes": "Imported from competitor Meta Ad Library scraper",
+  "source_meta": {
+    "original_ad_archive_id": "788144764228323",
+    "ad_format": "Carousel",
+    "media_kind": "carousel_preview",
+    "title": "{{product.name}}",
+    "caption": "ca.skinfix.com",
+    "platforms": [
+      "FACEBOOK",
+      "INSTAGRAM",
+      "AUDIENCE_NETWORK",
+      "MESSENGER",
+      "THREADS"
+    ],
+    "start_date": "2025-11-14T08:00:00.000Z",
+    "end_date": "2026-04-07T07:00:00.000Z",
+    "primary_image_url": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/581939335_1383781709805964_8678998445981555910_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=8rsibxOZPsAQ7kNvwGmObr_&_nc_oc=AdpRj_G-7kBKSULmVYb56ijuD4MBXgiQPioPdF0NDPhAHquLLVo953u2Eo_x9Tt-Ryg&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=NfPh_cuV0mLiy6yq3lQodQ&_nc_ss=7a3a8&oh=00_Af094sa4J8r4k-wB26jcPrZbmFIAGn-1O3oW5vflPTL4zg&oe=69DBFBD6",
+    "card_count": 2,
+    "cards": [
+      {
+        "body": "The Triple Lipid-Peptide Cream is tested and recommended by unbiased derms to take hydration to the next level.",
+        "title": "The cream derms recommend for dry skin",
+        "caption": "",
+        "cta_text": "Shop Now",
+        "link_url": "https://ca.skinfix.com/products/lipid-peptide-cream",
+        "image": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/581939335_1383781709805964_8678998445981555910_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=8rsibxOZPsAQ7kNvwGmObr_&_nc_oc=AdpRj_G-7kBKSULmVYb56ijuD4MBXgiQPioPdF0NDPhAHquLLVo953u2Eo_x9Tt-Ryg&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=NfPh_cuV0mLiy6yq3lQodQ&_nc_ss=7a3a8&oh=00_Af094sa4J8r4k-wB26jcPrZbmFIAGn-1O3oW5vflPTL4zg&oe=69DBFBD6"
+      },
+      {
+        "body": "The Triple Lipid-Peptide Cream is tested and recommended by unbiased derms to take hydration to the next level.",
+        "title": "The cream derms recommend for dry skin",
+        "caption": "",
+        "cta_text": "Shop Now",
+        "link_url": "https://ca.skinfix.com/products/lipid-peptide-cream",
+        "image": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/583312555_1513081633305770_614810885770448980_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=KHN-OQ0akpYQ7kNvwGhwL1-&_nc_oc=AdqU4NYI-zlvEWPpqfJXgU0ZE2gEHSbGxU79V_mM7Pe9k3YDvltEfSTG2QLVRNzxoms&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=NfPh_cuV0mLiy6yq3lQodQ&_nc_ss=7a3a8&oh=00_Af0kR9TJ6sl3WfQD5ndZe9THTK8E6Rn2Tnp46WBQcDre_g&oe=69DBF6CA"
+      }
+    ],
+    "original_json_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\skinfix_ads.json",
+    "original_media_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\media_skinfix\\ad_16_788144764228323.jpg"
+  }
+}

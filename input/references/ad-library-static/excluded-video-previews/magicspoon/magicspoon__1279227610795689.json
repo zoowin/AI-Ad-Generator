@@ -1,0 +1,41 @@
+{
+  "ad_id": "meta_magicspoon_1279227610795689",
+  "source_platform": "meta_ad_library",
+  "captured_at": "2026-04-15T03:28:29.402Z",
+  "brand_name": "magicspoon",
+  "product_category": "unknown",
+  "product_names": [
+    "Keep the fun, Lose the junk"
+  ],
+  "image_paths": [
+    "data/input/ad-library/raw/magicspoon/magicspoon__1279227610795689.jpg"
+  ],
+  "video_paths": [],
+  "landing_page_url": "https://magicspoon.com/pages/5-reasons-why-page",
+  "ad_copy": "New Product Alert 🚨 Stay on track with Magic Spoon Protein Pastries! \n💪 11g Protein & 6g Fiber per serving\n🩷 3g total sugar per serving\n🍫 Grab it, pop it and go!",
+  "cta": "Shop now",
+  "country": "ALL",
+  "language": "unknown",
+  "notes": "Imported from competitor Meta Ad Library scraper",
+  "source_meta": {
+    "original_ad_archive_id": "1279227610795689",
+    "ad_format": "Video",
+    "media_kind": "video_preview",
+    "title": "Keep the fun, Lose the junk",
+    "caption": "magicspoon.com",
+    "platforms": [
+      "FACEBOOK",
+      "INSTAGRAM",
+      "AUDIENCE_NETWORK",
+      "MESSENGER",
+      "THREADS"
+    ],
+    "start_date": "2026-03-12T07:00:00.000Z",
+    "end_date": "2026-04-13T07:00:00.000Z",
+    "primary_image_url": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/645888863_1847375659296116_2855152843600096003_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=jVlTgVzVXNIQ7kNvwHALFeq&_nc_oc=AdreCNdy8fwFx14NXTObUDO1OXyLmhGnIrbAObGBtwrcsgBE3H6G8u8j2Kszc2kxa5g&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=gVBsOXyMuA7-9yp-b6MSPg&_nc_ss=7a3a8&oh=00_Af1i7a5lyL7Pktg6QiW2dhy5XJTg9Y-2O-XNBLsQttcixg&oe=69E3D4F3",
+    "card_count": 0,
+    "cards": [],
+    "original_json_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\magicspoon_ads.json",
+    "original_media_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\media_magicspoon\\ad_19_1279227610795689.jpg"
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "ad_id": "meta_magicspoon_2385566621916171",
+  "source_platform": "meta_ad_library",
+  "captured_at": "2026-04-15T03:28:29.340Z",
+  "brand_name": "magicspoon",
+  "product_category": "unknown",
+  "product_names": [
+    "Try Magic Spoon Now!"
+  ],
+  "image_paths": [
+    "data/input/ad-library/raw/magicspoon/magicspoon__2385566621916171.jpg"
+  ],
+  "video_paths": [],
+  "landing_page_url": "https://magicspoon.com/pages/protein-fiber-cereal",
+  "ad_copy": "{{product.brand}}",
+  "cta": "Shop now",
+  "country": "ALL",
+  "language": "unknown",
+  "notes": "Imported from competitor Meta Ad Library scraper",
+  "source_meta": {
+    "original_ad_archive_id": "2385566621916171",
+    "ad_format": "Carousel",
+    "media_kind": "carousel_preview",
+    "title": "{{product.name}}",
+    "caption": "www.magicspooncom/fiber-cereal",
+    "platforms": [
+      "FACEBOOK",
+      "INSTAGRAM",
+      "AUDIENCE_NETWORK",
+      "MESSENGER",
+      "THREADS"
+    ],
+    "start_date": "2026-02-11T08:00:00.000Z",
+    "end_date": "2026-04-13T07:00:00.000Z",
+    "primary_image_url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/597601560_843070138701274_658681320879685407_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=cjcuR5VI600Q7kNvwEbN2cI&_nc_oc=AdrZgQKKttZNiQaDhl2SMsX66LbpBtoEvJ927fRO2rLF1RHSzQGV4gw-9bSFd_SFgFo&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=gVBsOXyMuA7-9yp-b6MSPg&_nc_ss=7a3a8&oh=00_Af3WYew2bQCjLjxfotlIyARg0SEf62SKYKO31uy9L_8sHw&oe=69E3E116",
+    "card_count": 3,
+    "cards": [
+      {
+        "body": "Why would you ever eat regular cereal again?\n💪 13g of protein\n❤️ 6g of fiber and 2g sugar\n🥣Tastes like your childhood favorites\n✨ Perfect for low carb or Keto lifestyles\n💸 Less than $2 per serving\n✅ Happiness guaranteed",
+        "title": "Try Magic Spoon Now!",
+        "caption": "www.magicspooncom/fiber-cereal",
+        "cta_text": "Shop Now",
+        "link_url": "https://magicspoon.com/pages/protein-fiber-cereal",
+        "image": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/597601560_843070138701274_658681320879685407_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=cjcuR5VI600Q7kNvwEbN2cI&_nc_oc=AdrZgQKKttZNiQaDhl2SMsX66LbpBtoEvJ927fRO2rLF1RHSzQGV4gw-9bSFd_SFgFo&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=gVBsOXyMuA7-9yp-b6MSPg&_nc_ss=7a3a8&oh=00_Af3WYew2bQCjLjxfotlIyARg0SEf62SKYKO31uy9L_8sHw&oe=69E3E116"
+      },
+      {
+        "body": "Why would you ever eat regular cereal again?\n💪 13g of protein\n❤️ 6g of fiber and 2g sugar\n🥣Tastes like your childhood favorites\n✨ Perfect for low carb or Keto lifestyles\n💸 Less than $2 per serving\n✅ Happiness guaranteed",
+        "title": "Try Magic Spoon Now!",
+        "caption": "www.magicspooncom/fiber-cereal",
+        "cta_text": "Shop Now",
+        "link_url": "https://magicspoon.com/pages/protein-fiber-cereal",
+        "image": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/596983126_1235223208500345_2545473517302472615_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=a3i3OOqQ63sQ7kNvwGDGLkO&_nc_oc=Adr63Xu56dPTSPBPT7wYMw6j84D95_cWrweznIDTkR1Xjy8pQcXBNjnx4GdvIN2r-l0&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=gVBsOXyMuA7-9yp-b6MSPg&_nc_ss=7a3a8&oh=00_Af1sTIaNUMmzs6cg51L6vIPNGkjXPLj_xU41ytrXb0A8ww&oe=69E3ED4B"
+      },
+      {
+        "body": "Why would you ever eat regular cereal again?\n💪 13g of protein\n❤️ 6g of fiber and 2g sugar\n🥣Tastes like your childhood favorites\n✨ Perfect for low carb or Keto lifestyles\n💸 Less than $2 per serving\n✅ Happiness guaranteed",
+        "title": "Try Magic Spoon Now!",
+        "caption": "www.magicspooncom/fiber-cereal",
+        "cta_text": "Shop Now",
+        "link_url": "https://magicspoon.com/pages/protein-fiber-cereal",
+        "image": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/596983126_1235223208500345_2545473517302472615_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=a3i3OOqQ63sQ7kNvwGDGLkO&_nc_oc=Adr63Xu56dPTSPBPT7wYMw6j84D95_cWrweznIDTkR1Xjy8pQcXBNjnx4GdvIN2r-l0&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=gVBsOXyMuA7-9yp-b6MSPg&_nc_ss=7a3a8&oh=00_Af1sTIaNUMmzs6cg51L6vIPNGkjXPLj_xU41ytrXb0A8ww&oe=69E3ED4B"
+      }
+    ],
+    "original_json_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\magicspoon_ads.json",
+    "original_media_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\media_magicspoon\\ad_10_2385566621916171.jpg"
+  }
+}

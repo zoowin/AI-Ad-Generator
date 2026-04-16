@@ -1,0 +1,56 @@
+{
+  "ad_id": "meta_chomps_1431375858623670",
+  "source_platform": "meta_ad_library",
+  "captured_at": "2026-04-15T03:28:28.784Z",
+  "brand_name": "chomps",
+  "product_category": "unknown",
+  "product_names": [
+    "SATISFYING 0g SUGAR PROTEIN SNACKS"
+  ],
+  "image_paths": [
+    "data/input/ad-library/raw/chomps/chomps__1431375858623670.jpg"
+  ],
+  "video_paths": [],
+  "landing_page_url": "https://chomps.com/",
+  "ad_copy": "Chomps: A high-quality protein snack you can feel good about. Packed with real ingredients, 10+ grams of protein, and 0 grams of sugar to fuel whatever's next.",
+  "cta": "Shop now",
+  "country": "ALL",
+  "language": "unknown",
+  "notes": "Imported from competitor Meta Ad Library scraper",
+  "source_meta": {
+    "original_ad_archive_id": "1431375858623670",
+    "ad_format": "Carousel",
+    "media_kind": "carousel_preview",
+    "title": "SATISFYING 0g SUGAR PROTEIN SNACKS",
+    "caption": "chomps.com",
+    "platforms": [
+      "FACEBOOK",
+      "INSTAGRAM",
+      "AUDIENCE_NETWORK"
+    ],
+    "start_date": "2026-02-25T08:00:00.000Z",
+    "end_date": "2026-04-13T07:00:00.000Z",
+    "primary_image_url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/644110960_730790353304277_7740141330081527510_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=utWuydnrT7gQ7kNvwHFR1z8&_nc_oc=Adq1n7-WNqd2tJttpO8xBG5kyVf4QrKwrkEZuyUDH0Pow25vnT-jX_qXTf5ahSrw91c&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=UkQqVnfDU7C9a3-abHHx9g&_nc_ss=7a3a8&oh=00_Af0SGJ0wOWml_9A800QMhxgIjBr74b19_PSmFn9ssHb2Gg&oe=69E3DEA9",
+    "card_count": 2,
+    "cards": [
+      {
+        "body": "Chomps: A high-quality protein snack you can feel good about. Packed with real ingredients, 10+ grams of protein, and 0 grams of sugar to fuel whatever's next.",
+        "title": null,
+        "caption": "",
+        "cta_text": "Shop Now",
+        "link_url": "https://chomps.com/",
+        "image": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/644110960_730790353304277_7740141330081527510_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=utWuydnrT7gQ7kNvwHFR1z8&_nc_oc=Adq1n7-WNqd2tJttpO8xBG5kyVf4QrKwrkEZuyUDH0Pow25vnT-jX_qXTf5ahSrw91c&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=UkQqVnfDU7C9a3-abHHx9g&_nc_ss=7a3a8&oh=00_Af0SGJ0wOWml_9A800QMhxgIjBr74b19_PSmFn9ssHb2Gg&oe=69E3DEA9"
+      },
+      {
+        "body": "Chomps: A high-quality protein snack you can feel good about. Packed with real ingredients, 10+ grams of protein, and 0 grams of sugar to fuel whatever's next.",
+        "title": null,
+        "caption": "",
+        "cta_text": "Shop Now",
+        "link_url": "https://chomps.com/",
+        "image": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/641464456_1642636746739394_4375028984439009557_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=T-UAch0ko9cQ7kNvwET29rc&_nc_oc=AdolhWL1bGGkPfTD0nW-3t8RSgvn3AoBVwXURWMI85IslXMy-SBB9tdt3y6vLunnZ8A&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=UkQqVnfDU7C9a3-abHHx9g&_nc_ss=7a3a8&oh=00_Af1MKwYb4vhCyVbqcrB8Elq0_Sf_xAD-8J3LBSfLfkJNCA&oe=69E3DD50"
+      }
+    ],
+    "original_json_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\chomps_ads.json",
+    "original_media_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\media_chomps\\ad_28_1431375858623670.jpg"
+  }
+}

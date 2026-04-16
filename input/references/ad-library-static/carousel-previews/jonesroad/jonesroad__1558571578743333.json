@@ -1,0 +1,64 @@
+{
+  "ad_id": "meta_jonesroad_1558571578743333",
+  "source_platform": "meta_ad_library",
+  "captured_at": "2026-04-15T03:28:29.145Z",
+  "brand_name": "jonesroad",
+  "product_category": "unknown",
+  "product_names": [
+    "My Skin, But Glowier"
+  ],
+  "image_paths": [],
+  "video_paths": [],
+  "landing_page_url": "https://myshop.jonesroadbeauty.com/OTcw?featuredProduct=gid://shopify/Product/7122845565078",
+  "ad_copy": "{{product.brand}}",
+  "cta": "Shop now",
+  "country": "ALL",
+  "language": "unknown",
+  "notes": "Imported from competitor Meta Ad Library scraper",
+  "source_meta": {
+    "original_ad_archive_id": "1558571578743333",
+    "ad_format": "Carousel",
+    "media_kind": "carousel_preview",
+    "title": "{{product.name}}",
+    "caption": "myshop.jonesroadbeauty.com",
+    "platforms": [
+      "FACEBOOK",
+      "INSTAGRAM",
+      "AUDIENCE_NETWORK",
+      "MESSENGER",
+      "THREADS"
+    ],
+    "start_date": "2026-02-19T08:00:00.000Z",
+    "end_date": "2026-03-24T07:00:00.000Z",
+    "primary_image_url": "",
+    "card_count": 3,
+    "cards": [
+      {
+        "body": "If you’ve ever wished your skincare could double as makeup, this is it. Miracle Balm feels like a hydrating treatment, but it gives you that fresh, dewy finish that honestly looks better than foundation.",
+        "title": "My Skin, But Glowier",
+        "caption": "",
+        "cta_text": "Shop Now",
+        "link_url": "https://myshop.jonesroadbeauty.com/OTcw?featuredProduct=gid://shopify/Product/7122845565078",
+        "image": ""
+      },
+      {
+        "body": "If you’ve ever wished your skincare could double as makeup, this is it. Miracle Balm feels like a hydrating treatment, but it gives you that fresh, dewy finish that honestly looks better than foundation.",
+        "title": "My Skin, But Glowier",
+        "caption": "",
+        "cta_text": "Shop Now",
+        "link_url": "https://myshop.jonesroadbeauty.com/OTcw?featuredProduct=gid://shopify/Product/7122845565078",
+        "image": ""
+      },
+      {
+        "body": "If you’ve ever wished your skincare could double as makeup, this is it. Miracle Balm feels like a hydrating treatment, but it gives you that fresh, dewy finish that honestly looks better than foundation.",
+        "title": "My Skin, But Glowier",
+        "caption": "",
+        "cta_text": "Shop Now",
+        "link_url": "https://myshop.jonesroadbeauty.com/OTcw?featuredProduct=gid://shopify/Product/7122845565078",
+        "image": ""
+      }
+    ],
+    "original_json_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\jonesroad_ads.json",
+    "original_media_path": ""
+  }
+}

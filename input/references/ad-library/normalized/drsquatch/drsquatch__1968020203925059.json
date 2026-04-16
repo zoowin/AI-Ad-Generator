@@ -1,0 +1,56 @@
+{
+  "ad_id": "meta_drsquatch_1968020203925059",
+  "source_platform": "meta_ad_library",
+  "captured_at": "2026-04-15T03:28:28.977Z",
+  "brand_name": "drsquatch",
+  "product_category": "unknown",
+  "product_names": [
+    "Save up to 51% + 4 FREE Gifts! 🔥"
+  ],
+  "image_paths": [],
+  "video_paths": [],
+  "landing_page_url": "https://www.drsquatch.com/pages/subscription-free-gifts",
+  "ad_copy": "{{product.brand}}",
+  "cta": "Get offer",
+  "country": "ALL",
+  "language": "unknown",
+  "notes": "Imported from competitor Meta Ad Library scraper",
+  "source_meta": {
+    "original_ad_archive_id": "1968020203925059",
+    "ad_format": "Carousel",
+    "media_kind": "carousel_preview",
+    "title": "{{product.name}}",
+    "caption": "drsquatch.com",
+    "platforms": [
+      "FACEBOOK",
+      "INSTAGRAM",
+      "AUDIENCE_NETWORK",
+      "MESSENGER",
+      "THREADS"
+    ],
+    "start_date": "2026-03-09T07:00:00.000Z",
+    "end_date": "2026-04-14T07:00:00.000Z",
+    "primary_image_url": "",
+    "card_count": 2,
+    "cards": [
+      {
+        "body": "There's nothing better than a man that smells like nature. 🌲\n\nGrab the best natural soap without the BS and save up to 51% + 4 FREE Gifts! 🙌\n\n✅ Natural ingredients & manly scents\n✅ 100% Satisfaction Guarantee\n✅ Made in USA 🇺🇸",
+        "title": "Save up to 51% + 4 FREE Gifts! 🔥",
+        "caption": "",
+        "cta_text": "Get Offer",
+        "link_url": "https://www.drsquatch.com/pages/subscription-free-gifts",
+        "image": ""
+      },
+      {
+        "body": "There's nothing better than a man that smells like nature. 🌲\n\nGrab the best natural soap without the BS and save up to 51% + 4 FREE Gifts! 🙌\n\n✅ Natural ingredients & manly scents\n✅ 100% Satisfaction Guarantee\n✅ Made in USA 🇺🇸",
+        "title": "Save up to 51% + 4 FREE Gifts! 🔥",
+        "caption": "",
+        "cta_text": "Get Offer",
+        "link_url": "https://www.drsquatch.com/pages/subscription-free-gifts",
+        "image": ""
+      }
+    ],
+    "original_json_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\drsquatch_ads.json",
+    "original_media_path": ""
+  }
+}

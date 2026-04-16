@@ -1,0 +1,66 @@
+{
+  "ad_id": "meta_gruns_1244089977537074",
+  "source_platform": "meta_ad_library",
+  "captured_at": "2026-04-15T03:28:29.095Z",
+  "brand_name": "gruns",
+  "product_category": "unknown",
+  "product_names": [
+    "Nourish Your Gut with Grüns"
+  ],
+  "image_paths": [
+    "data/input/ad-library/raw/gruns/gruns__1244089977537074.jpg"
+  ],
+  "video_paths": [],
+  "landing_page_url": "https://gruns.co/pages/first-order-gut-health",
+  "ad_copy": "{{product.brand}}",
+  "cta": "Shop now",
+  "country": "ALL",
+  "language": "unknown",
+  "notes": "Imported from competitor Meta Ad Library scraper",
+  "source_meta": {
+    "original_ad_archive_id": "1244089977537074",
+    "ad_format": "Carousel",
+    "media_kind": "carousel_preview",
+    "title": "{{product.name}}",
+    "caption": "gruns.co",
+    "platforms": [
+      "FACEBOOK",
+      "INSTAGRAM",
+      "AUDIENCE_NETWORK",
+      "MESSENGER",
+      "THREADS"
+    ],
+    "start_date": "2026-01-16T08:00:00.000Z",
+    "end_date": "2026-04-13T07:00:00.000Z",
+    "primary_image_url": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/597719228_1344565236972431_1584113827141115966_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=BRmlR_JPX9MQ7kNvwEyN0M5&_nc_oc=AdqgLvwJacXnt0dXdqbBUuJCBwMSusSyLAlDMa_gdLwUSBLaecmZFLHjPNWHQK0137U&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=GN6450Ux2-aU2aIrZCZ9SA&_nc_ss=7a3a8&oh=00_Af3IktnrJMUwN5o0vMV3lEz_prYkBGc0OkUWowXDodc-gA&oe=69E3D752",
+    "card_count": 3,
+    "cards": [
+      {
+        "body": "Grüns Superfood Gummies pack 20+ vitamins, 6g fiber, and prebiotics into 8 tasty gummies to boost energy, gut health, and wellness daily!",
+        "title": "Nourish Your Gut with Grüns",
+        "caption": "",
+        "cta_text": "Shop Now",
+        "link_url": "https://gruns.co/pages/first-order-gut-health",
+        "image": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/597719228_1344565236972431_1584113827141115966_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=BRmlR_JPX9MQ7kNvwEyN0M5&_nc_oc=AdqgLvwJacXnt0dXdqbBUuJCBwMSusSyLAlDMa_gdLwUSBLaecmZFLHjPNWHQK0137U&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=GN6450Ux2-aU2aIrZCZ9SA&_nc_ss=7a3a8&oh=00_Af3IktnrJMUwN5o0vMV3lEz_prYkBGc0OkUWowXDodc-gA&oe=69E3D752"
+      },
+      {
+        "body": "Grüns Superfood Gummies pack 20+ vitamins, 6g fiber, and prebiotics into 8 tasty gummies to boost energy, gut health, and wellness daily!",
+        "title": "Nourish Your Gut with Grüns",
+        "caption": "",
+        "cta_text": "Shop Now",
+        "link_url": "https://gruns.co/pages/first-order-gut-health",
+        "image": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/597383169_1399957375159834_5419157582049133797_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=vEwwUWqg_zUQ7kNvwESEtMY&_nc_oc=AdrX6IyfPIzqA7iOQFM0yMchIa3_yI8HRa11NJncDi5PsnK5DLkC_31hO4mvs4WHbYo&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=GN6450Ux2-aU2aIrZCZ9SA&_nc_ss=7a3a8&oh=00_Af1Omp2Mp6ZpMkyUlh5m8jzAEE4VpI76eldJT40eEu3dZw&oe=69E3C475"
+      },
+      {
+        "body": "Grüns Superfood Gummies pack 20+ vitamins, 6g fiber, and prebiotics into 8 tasty gummies to boost energy, gut health, and wellness daily!",
+        "title": "Nourish Your Gut with Grüns",
+        "caption": "",
+        "cta_text": "Shop Now",
+        "link_url": "https://gruns.co/pages/first-order-gut-health",
+        "image": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/597383169_1399957375159834_5419157582049133797_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=vEwwUWqg_zUQ7kNvwESEtMY&_nc_oc=AdrX6IyfPIzqA7iOQFM0yMchIa3_yI8HRa11NJncDi5PsnK5DLkC_31hO4mvs4WHbYo&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=GN6450Ux2-aU2aIrZCZ9SA&_nc_ss=7a3a8&oh=00_Af1Omp2Mp6ZpMkyUlh5m8jzAEE4VpI76eldJT40eEu3dZw&oe=69E3C475"
+      }
+    ],
+    "original_json_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\gruns_ads.json",
+    "original_media_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\media_gruns\\ad_24_1244089977537074.jpg"
+  }
+}

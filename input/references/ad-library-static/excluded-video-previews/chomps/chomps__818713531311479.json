@@ -1,0 +1,37 @@
+{
+  "ad_id": "meta_chomps_818713531311479",
+  "source_platform": "meta_ad_library",
+  "captured_at": "2026-04-15T03:28:28.778Z",
+  "brand_name": "chomps",
+  "product_category": "unknown",
+  "product_names": [],
+  "image_paths": [
+    "data/input/ad-library/raw/chomps/chomps__818713531311479.jpg"
+  ],
+  "video_paths": [],
+  "landing_page_url": "https://chomps.com/",
+  "ad_copy": "getting outside, new hobbies and @chomps is my perfect day! #ChompsPartner",
+  "cta": "Shop now",
+  "country": "ALL",
+  "language": "unknown",
+  "notes": "Imported from competitor Meta Ad Library scraper",
+  "source_meta": {
+    "original_ad_archive_id": "818713531311479",
+    "ad_format": "Video",
+    "media_kind": "video_preview",
+    "title": "",
+    "caption": "chomps.com",
+    "platforms": [
+      "FACEBOOK",
+      "INSTAGRAM",
+      "AUDIENCE_NETWORK"
+    ],
+    "start_date": "2026-04-07T07:00:00.000Z",
+    "end_date": "2026-04-13T07:00:00.000Z",
+    "primary_image_url": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/658780204_1265905789002305_6713954200866007604_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=XgzCj8RjYkUQ7kNvwEhZhWp&_nc_oc=Adppj7vTIZYa_jdiyk0koPsTzOHO83op-_BoqAjeXVKJy2JDsBQf_tai-KI7QrVtdXA&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=UkQqVnfDU7C9a3-abHHx9g&_nc_ss=7a3a8&oh=00_Af0dqzNw8ycz4XJ9InP9mBLxqwTLyb_3ZI7ixlormh36tw&oe=69E3CDCB",
+    "card_count": 0,
+    "cards": [],
+    "original_json_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\chomps_ads.json",
+    "original_media_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\media_chomps\\ad_20_818713531311479.jpg"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "ad_id": "meta_theordinary_850807321378244",
+  "source_platform": "meta_ad_library",
+  "captured_at": "2026-04-15T03:28:29.904Z",
+  "brand_name": "theordinary",
+  "product_category": "unknown",
+  "product_names": [
+    "ฟิลผิวให้อิ่มฟู ริ้วรอยดูจางลง"
+  ],
+  "image_paths": [],
+  "video_paths": [],
+  "landing_page_url": "https://shopee.co.th/product/1414523656/41529048991/?deep_and_web=1&smtt=9&uls_trackid=559uc56800pm&utm_campaign=s1414523656_SS_TH_FBBP_TheO-SHP-Brand-AWO-BAU-VolufilinePostFBIG-Apr26-FB-Org&utm_content=&utm_medium=seller&utm_source=facebook",
+  "ad_copy": "{{product.brand}}",
+  "cta": "Shop now",
+  "country": "ALL",
+  "language": "unknown",
+  "notes": "Imported from competitor Meta Ad Library scraper",
+  "source_meta": {
+    "original_ad_archive_id": "850807321378244",
+    "ad_format": "Carousel",
+    "media_kind": "carousel_preview",
+    "title": "{{product.name}}",
+    "caption": "shopee.co.th",
+    "platforms": [
+      "FACEBOOK",
+      "INSTAGRAM"
+    ],
+    "start_date": "2026-04-01T07:00:00.000Z",
+    "end_date": "2026-04-07T07:00:00.000Z",
+    "primary_image_url": "",
+    "card_count": 2,
+    "cards": [
+      {
+        "body": "คุณกำลังกังวลเรื่องริ้วรอย ผิวที่สูญเสียความอิ่มฟูอยู่รึป่าว?\n\nมาเเล้ว Volufiline* 92% +Pal-Isoleucine 1% \nในสูตรที่น่าเชื่อถือของ The Ordinary ขนาด 15ml. ราคาเพียง 900 บาท\n\nผลิตภัณฑ์ที่จะช่วยฟิลผิวให้อิ่มฟู ริ้วรอยดูจางลง สามารถบริเวณที่กังวลเป็นพิเศษออกแบบมาเพื่อช่วยดูแลผิวขาดความยืดหยุ่นเป็นหนึ่งในสัญญาณแห่งวัย เพื่อผิวอิ่มฟู อ่อนเยาว์ เหมาะสำหรับใช้บริเวณ รอบดวงตา ขมับ รอบแก้ม และร่องน้ำหมาก\n\nสามารถซื้อสินค้าการันตีของแท้ได้ที่ช่องทางจัดจำหน่ายอย่างเป็นทางการบน Shopee, Lazada, TikTok Shop, Sephora, EVEANDBOY และ Watsons\n#TheOrdinary #TheOrdinaryTH",
+        "title": "ฟิลผิวให้อิ่มฟู ริ้วรอยดูจางลง",
+        "caption": "",
+        "cta_text": "Shop Now",
+        "link_url": "https://shopee.co.th/product/1414523656/41529048991/?deep_and_web=1&smtt=9&uls_trackid=559uc56800pm&utm_campaign=s1414523656_SS_TH_FBBP_TheO-SHP-Brand-AWO-BAU-VolufilinePostFBIG-Apr26-FB-Org&utm_content=&utm_medium=seller&utm_source=facebook",
+        "image": ""
+      },
+      {
+        "body": "คุณกำลังกังวลเรื่องริ้วรอย ผิวที่สูญเสียความอิ่มฟูอยู่รึป่าว?\n\nมาเเล้ว Volufiline* 92% +Pal-Isoleucine 1% \nในสูตรที่น่าเชื่อถือของ The Ordinary ขนาด 15ml. ราคาเพียง 900 บาท\n\nผลิตภัณฑ์ที่จะช่วยฟิลผิวให้อิ่มฟู ริ้วรอยดูจางลง สามารถบริเวณที่กังวลเป็นพิเศษออกแบบมาเพื่อช่วยดูแลผิวขาดความยืดหยุ่นเป็นหนึ่งในสัญญาณแห่งวัย เพื่อผิวอิ่มฟู อ่อนเยาว์ เหมาะสำหรับใช้บริเวณ รอบดวงตา ขมับ รอบแก้ม และร่องน้ำหมาก\n\nสามารถซื้อสินค้าการันตีของแท้ได้ที่ช่องทางจัดจำหน่ายอย่างเป็นทางการบน Shopee, Lazada, TikTok Shop, Sephora, EVEANDBOY และ Watsons\n#TheOrdinary #TheOrdinaryTH",
+        "title": "ฟิลผิวให้อิ่มฟู ริ้วรอยดูจางลง",
+        "caption": "",
+        "cta_text": "Shop Now",
+        "link_url": "https://shopee.co.th/product/1414523656/41529048991/?deep_and_web=1&smtt=9&uls_trackid=559uc56800pm&utm_campaign=s1414523656_SS_TH_FBBP_TheO-SHP-Brand-AWO-BAU-VolufilinePostFBIG-Apr26-FB-Org&utm_content=&utm_medium=seller&utm_source=facebook",
+        "image": ""
+      }
+    ],
+    "original_json_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\theordinary_ads.json",
+    "original_media_path": ""
+  }
+}

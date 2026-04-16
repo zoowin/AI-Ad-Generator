@@ -1,0 +1,89 @@
+{
+  "ad_id": "meta_ridge_1991590621441674",
+  "source_platform": "meta_ad_library",
+  "captured_at": "2026-04-15T03:28:29.754Z",
+  "brand_name": "ridge",
+  "product_category": "unknown",
+  "product_names": [
+    "default_collection_headline"
+  ],
+  "image_paths": [
+    "data/input/ad-library/raw/ridge/ridge__1991590621441674.jpg"
+  ],
+  "video_paths": [],
+  "landing_page_url": "https://fb.com/canvas_doc/2031639017697118",
+  "ad_copy": "The Ridge Ring Set - crafted from premium materials and designed for comfort.\nThis Includes:\n✅ Dual Ridge Silicone Ring\n✅ 99 Day Risk-Free Trial\n✅ Guaranteed for Life",
+  "cta": "Shop now",
+  "country": "ALL",
+  "language": "unknown",
+  "notes": "Imported from competitor Meta Ad Library scraper",
+  "source_meta": {
+    "original_ad_archive_id": "1991590621441674",
+    "ad_format": "Carousel",
+    "media_kind": "carousel_preview",
+    "title": "default_collection_headline",
+    "caption": "fb.com",
+    "platforms": [
+      "FACEBOOK",
+      "INSTAGRAM",
+      "MESSENGER",
+      "THREADS"
+    ],
+    "start_date": "2026-04-11T07:00:00.000Z",
+    "end_date": "2026-04-13T07:00:00.000Z",
+    "primary_image_url": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/670421980_1222407219725896_1953568716044362810_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=gjdTsa7apCUQ7kNvwHFrR76&_nc_oc=AdpjGmjo-u-pQXY6Iw8-ltVRu4MRcZHX4u6kgt9AN4PYpJpLEwpnyzlgdh1M2fxBQPM&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=qqZTfAce3wqWlUL87WTHpQ&_nc_ss=7a3a8&oh=00_Af3Q0Q_ML4UCHOT3JSrHJSvLBtUsHCjSM6EXCVHRY1wjYg&oe=69E3B8D9",
+    "card_count": 6,
+    "cards": [
+      {
+        "body": "The Ridge Ring Set - crafted from premium materials and designed for comfort.\nThis Includes:\n✅ Dual Ridge Silicone Ring\n✅ 99 Day Risk-Free Trial\n✅ Guaranteed for Life",
+        "title": "default_collection_headline",
+        "caption": "fb.com",
+        "cta_text": "Shop Now",
+        "link_url": "https://ridge.com/products/carbon-fiber-3k-beveled-ring?variant=40093726146634",
+        "image": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/670421980_1222407219725896_1953568716044362810_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=gjdTsa7apCUQ7kNvwHFrR76&_nc_oc=AdpjGmjo-u-pQXY6Iw8-ltVRu4MRcZHX4u6kgt9AN4PYpJpLEwpnyzlgdh1M2fxBQPM&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=qqZTfAce3wqWlUL87WTHpQ&_nc_ss=7a3a8&oh=00_Af3Q0Q_ML4UCHOT3JSrHJSvLBtUsHCjSM6EXCVHRY1wjYg&oe=69E3B8D9"
+      },
+      {
+        "body": "The Ridge Ring Set - crafted from premium materials and designed for comfort.\nThis Includes:\n✅ Dual Ridge Silicone Ring\n✅ 99 Day Risk-Free Trial\n✅ Guaranteed for Life",
+        "title": "default_collection_headline",
+        "caption": "fb.com",
+        "cta_text": "Shop Now",
+        "link_url": "https://ridge.com/products/24-karat-gold-beveled-ring?variant=40093713432650",
+        "image": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/668586562_1620081829259435_4173840937829993834_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ZHLz2wUBw2IQ7kNvwFtrvXU&_nc_oc=AdokxJ9onSu4DExgwvzfNY_JYjoP_Eby4W86NWyKqP5kKWrqAAxsjSzq6NREtPSkAQM&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=qqZTfAce3wqWlUL87WTHpQ&_nc_ss=7a3a8&oh=00_Af2kb6FyhGqcnLT_qQIB2qfA0eBeQtVzE1cWloJYq4BSJw&oe=69E3E754"
+      },
+      {
+        "body": "The Ridge Ring Set - crafted from premium materials and designed for comfort.\nThis Includes:\n✅ Dual Ridge Silicone Ring\n✅ 99 Day Risk-Free Trial\n✅ Guaranteed for Life",
+        "title": "default_collection_headline",
+        "caption": "fb.com",
+        "cta_text": "Shop Now",
+        "link_url": "https://ridge.com/products/carbon-fiber-3k-beveled-ring?variant=40093726408778",
+        "image": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/669711876_3830393017268715_7084944737874125337_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ZKLgRYndMNEQ7kNvwEmTU2m&_nc_oc=AdokVIuU_VjH_bqHg84crLxxa1_VU1JCYz_-Gg7NoGSJa7gGSFhkDgSdGEccSJdJct8&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=qqZTfAce3wqWlUL87WTHpQ&_nc_ss=7a3a8&oh=00_Af178nl75b_g3gXWLXCk57CMjkuzpoe4dJaBjGjU4xwEHA&oe=69E3E565"
+      },
+      {
+        "body": "The Ridge Ring Set - crafted from premium materials and designed for comfort.\nThis Includes:\n✅ Dual Ridge Silicone Ring\n✅ 99 Day Risk-Free Trial\n✅ Guaranteed for Life",
+        "title": "default_collection_headline",
+        "caption": "fb.com",
+        "cta_text": "Shop Now",
+        "link_url": "https://ridge.com/products/alpine-navy-beveled-ring?variant=40093702160458",
+        "image": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/669858389_2181430615726890_4711755677472952870_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=HiDyXxEEQp0Q7kNvwG50yjH&_nc_oc=Adru_fIpcoLUMtiLVAz6tNxxJ0CmE9H2xqrgyq_08rkO6N2FngbzOTXfugYMlt8cjUo&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=qqZTfAce3wqWlUL87WTHpQ&_nc_ss=7a3a8&oh=00_Af0IG11GaYKBXi7C7rmVBBZIZag5hOSh2CyxqDIayGhHVw&oe=69E3D331"
+      },
+      {
+        "body": "The Ridge Ring Set - crafted from premium materials and designed for comfort.\nThis Includes:\n✅ Dual Ridge Silicone Ring\n✅ 99 Day Risk-Free Trial\n✅ Guaranteed for Life",
+        "title": "default_collection_headline",
+        "caption": "fb.com",
+        "cta_text": "Shop Now",
+        "link_url": "https://ridge.com/products/stonewashed-titanium-beveled-ring?variant=40093763928138",
+        "image": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/670523210_1988057908737713_2990977371162366257_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=dK1-hSpL86YQ7kNvwFNn99k&_nc_oc=Adq2gaLgpaXppM_uSZeDHwiuiLifczTB4jr6urNk8oExeU7dPgIQdQWUxJ0J5tbJIFs&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=qqZTfAce3wqWlUL87WTHpQ&_nc_ss=7a3a8&oh=00_Af1t6Wb8LQQYt20G9n5vdMVAeiWTHkv3o_oguc4p3kR8hA&oe=69E3ED93"
+      },
+      {
+        "body": "The Ridge Ring Set - crafted from premium materials and designed for comfort.\nThis Includes:\n✅ Dual Ridge Silicone Ring\n✅ 99 Day Risk-Free Trial\n✅ Guaranteed for Life",
+        "title": "default_collection_headline",
+        "caption": "fb.com",
+        "cta_text": "Shop Now",
+        "link_url": "https://ridge.com/products/24-karat-gold-beveled-ring?variant=40093713104970",
+        "image": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/670867708_933571899313176_3931390101683319507_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=B1PIb5kCgBgQ7kNvwG3f_X-&_nc_oc=AdoGNkOK4jK8WbUIp1cCa0yKyXwDCshbddrTvzkzt5j0CXbal_UIYvyUrjG0NOtUoVA&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=qqZTfAce3wqWlUL87WTHpQ&_nc_ss=7a3a8&oh=00_Af1OZFDG5R155uzMPeJopPm-3Y-nj6rKExWM_KbKiyNpKA&oe=69E3D79D"
+      }
+    ],
+    "original_json_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\ridge_ads.json",
+    "original_media_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\media_ridge\\ad_23_1991590621441674.jpg"
+  }
+}

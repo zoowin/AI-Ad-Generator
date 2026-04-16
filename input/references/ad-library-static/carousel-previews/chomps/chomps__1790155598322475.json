@@ -1,0 +1,58 @@
+{
+  "ad_id": "meta_chomps_1790155598322475",
+  "source_platform": "meta_ad_library",
+  "captured_at": "2026-04-15T03:28:28.768Z",
+  "brand_name": "chomps",
+  "product_category": "unknown",
+  "product_names": [
+    "Find Your New Favorite Protein Snack"
+  ],
+  "image_paths": [
+    "data/input/ad-library/raw/chomps/chomps__1790155598322475.jpg"
+  ],
+  "video_paths": [],
+  "landing_page_url": "https://chomps.com/",
+  "ad_copy": "{{product.brand}}",
+  "cta": "Shop now",
+  "country": "ALL",
+  "language": "unknown",
+  "notes": "Imported from competitor Meta Ad Library scraper",
+  "source_meta": {
+    "original_ad_archive_id": "1790155598322475",
+    "ad_format": "Carousel",
+    "media_kind": "carousel_preview",
+    "title": "{{product.name}}",
+    "caption": "chomps.com",
+    "platforms": [
+      "FACEBOOK",
+      "INSTAGRAM",
+      "AUDIENCE_NETWORK",
+      "MESSENGER",
+      "THREADS"
+    ],
+    "start_date": "2026-02-16T08:00:00.000Z",
+    "end_date": "2026-04-14T07:00:00.000Z",
+    "primary_image_url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/616016975_909845174945497_5033794979138409998_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=v2-8gSPlG7AQ7kNvwHOT-b6&_nc_oc=AdoXj-xVryhkJMN1OJ7iHrJVyCVF0hVGzn5uFe_Ro7B3mh1WvTiGsE-uGLu9eh6XPkY&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=UkQqVnfDU7C9a3-abHHx9g&_nc_ss=7a3a8&oh=00_Af2SQC5mpInuCLMAtCWh1ATYbdcUE4u4bemwk2bFsscrog&oe=69E3BE95",
+    "card_count": 2,
+    "cards": [
+      {
+        "body": "Better snacks for better moments. From gym sessions to family road trips, Chomps is always ready with a nutritious, flavorful boost.",
+        "title": "Find Your New Favorite Protein Snack",
+        "caption": "",
+        "cta_text": "Shop Now",
+        "link_url": "https://chomps.com/",
+        "image": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/616016975_909845174945497_5033794979138409998_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=v2-8gSPlG7AQ7kNvwHOT-b6&_nc_oc=AdoXj-xVryhkJMN1OJ7iHrJVyCVF0hVGzn5uFe_Ro7B3mh1WvTiGsE-uGLu9eh6XPkY&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=UkQqVnfDU7C9a3-abHHx9g&_nc_ss=7a3a8&oh=00_Af2SQC5mpInuCLMAtCWh1ATYbdcUE4u4bemwk2bFsscrog&oe=69E3BE95"
+      },
+      {
+        "body": "Better snacks for better moments. From gym sessions to family road trips, Chomps is always ready with a nutritious, flavorful boost.",
+        "title": "Find Your New Favorite Protein Snack",
+        "caption": "",
+        "cta_text": "Shop Now",
+        "link_url": "https://chomps.com/",
+        "image": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/615828539_4008966655914331_3574712470113650657_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=YLdA4okp278Q7kNvwGxx5vW&_nc_oc=AdonbQvga1ecrJT83w_9QeIH_tK-h1MiM-A4aUI7oeIpX9bJXngY4MVtnBmK18SXtZE&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=UkQqVnfDU7C9a3-abHHx9g&_nc_ss=7a3a8&oh=00_Af0zfuteu6vAN5kk9w8tiUJjMvySOp3YoK2CyUVNkGG1Aw&oe=69E3DC97"
+      }
+    ],
+    "original_json_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\chomps_ads.json",
+    "original_media_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\media_chomps\\ad_10_1790155598322475.jpg"
+  }
+}

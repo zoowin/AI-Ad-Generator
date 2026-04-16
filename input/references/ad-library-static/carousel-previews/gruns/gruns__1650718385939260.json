@@ -1,0 +1,56 @@
+{
+  "ad_id": "meta_gruns_1650718385939260",
+  "source_platform": "meta_ad_library",
+  "captured_at": "2026-04-15T03:28:29.055Z",
+  "brand_name": "gruns",
+  "product_category": "unknown",
+  "product_names": [
+    "Your Wellness Partner After 40"
+  ],
+  "image_paths": [],
+  "video_paths": [],
+  "landing_page_url": "https://gruns.co/pages/perimenopause",
+  "ad_copy": "{{product.brand}}",
+  "cta": "Shop now",
+  "country": "ALL",
+  "language": "unknown",
+  "notes": "Imported from competitor Meta Ad Library scraper",
+  "source_meta": {
+    "original_ad_archive_id": "1650718385939260",
+    "ad_format": "Carousel",
+    "media_kind": "carousel_preview",
+    "title": "{{product.name}}",
+    "caption": "gruns.co",
+    "platforms": [
+      "FACEBOOK",
+      "INSTAGRAM",
+      "AUDIENCE_NETWORK",
+      "MESSENGER",
+      "THREADS"
+    ],
+    "start_date": "2026-02-23T08:00:00.000Z",
+    "end_date": "2026-04-13T07:00:00.000Z",
+    "primary_image_url": "",
+    "card_count": 2,
+    "cards": [
+      {
+        "body": "Grüns makes it easy to stay balanced during perimenopause. With over 20 vitamins, minerals, and prebiotics—including vitamin D3, K2, B vitamins, and antioxidants—these gummies support energy, mood, gut health, and hormone balance.",
+        "title": "Your Wellness Partner After 40",
+        "caption": "",
+        "cta_text": "Shop Now",
+        "link_url": "https://gruns.co/pages/perimenopause",
+        "image": ""
+      },
+      {
+        "body": "Grüns makes it easy to stay balanced during perimenopause. With over 20 vitamins, minerals, and prebiotics—including vitamin D3, K2, B vitamins, and antioxidants—these gummies support energy, mood, gut health, and hormone balance.",
+        "title": "Your Wellness Partner After 40",
+        "caption": "",
+        "cta_text": "Shop Now",
+        "link_url": "https://gruns.co/pages/perimenopause",
+        "image": ""
+      }
+    ],
+    "original_json_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\gruns_ads.json",
+    "original_media_path": ""
+  }
+}

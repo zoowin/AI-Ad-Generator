@@ -1,0 +1,39 @@
+{
+  "ad_id": "meta_ag1_953933737327898",
+  "source_platform": "meta_ad_library",
+  "captured_at": "2026-04-15T03:28:28.707Z",
+  "brand_name": "ag1",
+  "product_category": "unknown",
+  "product_names": [
+    "Make AG1 Your Morning Routine"
+  ],
+  "image_paths": [
+    "data/input/ad-library/raw/ag1/ag1__953933737327898.jpg"
+  ],
+  "video_paths": [],
+  "landing_page_url": "https://drinkag1.com/learn/ag1",
+  "ad_copy": "Good morning, early milers everywhere.\nRoutine wins in the long run. Set your day in motion with a routine that rises to meet it.",
+  "cta": "Learn more",
+  "country": "ALL",
+  "language": "unknown",
+  "notes": "Imported from competitor Meta Ad Library scraper",
+  "source_meta": {
+    "original_ad_archive_id": "953933737327898",
+    "ad_format": "Image",
+    "media_kind": "image",
+    "title": "Make AG1 Your Morning Routine",
+    "caption": "drinkag1.com",
+    "platforms": [
+      "FACEBOOK",
+      "INSTAGRAM",
+      "THREADS"
+    ],
+    "start_date": "2026-04-10T07:00:00.000Z",
+    "end_date": "2026-04-13T07:00:00.000Z",
+    "primary_image_url": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/668351869_3405259676317360_4846595676438944068_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=gMEr7pUhk0oQ7kNvwHG-000&_nc_oc=AdqpbXQvpqTrDonQyB_WteZqu1LFWfVYULisKcVBE5iN94Zg-rjEEDdGD9qIFb4IbyY&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=Fns_35FlzA60O0VNYqaUAg&_nc_ss=7a3a8&oh=00_Af3iamKowRbMvl7iJQWiQEYYtL2lPBWzNAN3YMaaeaPdNA&oe=69E3D9F8",
+    "card_count": 0,
+    "cards": [],
+    "original_json_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\ag1_ads.json",
+    "original_media_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\media_ag1\\ad_6_953933737327898.jpg"
+  }
+}

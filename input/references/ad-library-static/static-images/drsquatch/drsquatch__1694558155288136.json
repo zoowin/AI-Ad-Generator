@@ -1,0 +1,40 @@
+{
+  "ad_id": "meta_drsquatch_1694558155288136",
+  "source_platform": "meta_ad_library",
+  "captured_at": "2026-04-15T03:28:28.965Z",
+  "brand_name": "drsquatch",
+  "product_category": "unknown",
+  "product_names": [
+    "LIMITED MINECRAFTᵀᴹ SOAP IS BACK"
+  ],
+  "image_paths": [
+    "data/input/ad-library/raw/drsquatch/drsquatch__1694558155288136.jpg"
+  ],
+  "video_paths": [],
+  "landing_page_url": "https://www.drsquatch.com/en-ca/products/diamond-scrub-3-pack",
+  "ad_copy": "LIMITED EDITION MINECRAFTᵀᴹ SOAP\n 💎  Made with REAL Diamond Powder\n 💎  Limited Rerelease – sells out fast!",
+  "cta": "Shop now",
+  "country": "ALL",
+  "language": "unknown",
+  "notes": "Imported from competitor Meta Ad Library scraper",
+  "source_meta": {
+    "original_ad_archive_id": "1694558155288136",
+    "ad_format": "Image",
+    "media_kind": "image",
+    "title": "LIMITED MINECRAFTᵀᴹ SOAP IS BACK",
+    "caption": "drsquatch.com",
+    "platforms": [
+      "FACEBOOK",
+      "INSTAGRAM",
+      "MESSENGER",
+      "THREADS"
+    ],
+    "start_date": "2026-03-19T07:00:00.000Z",
+    "end_date": "2026-04-13T07:00:00.000Z",
+    "primary_image_url": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/654456428_2070570300468087_6044563736430063711_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=3z-4FKBh4CkQ7kNvwEdTjMJ&_nc_oc=AdroaSNC3EWaxE8057akw9EMiDnaR-JmdUyzGywcGGnQ8C0IN1kTlHZwtRHqp6yklRk&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=jJjzAELG8KqNybh2TjzeMw&_nc_ss=7a3a8&oh=00_Af0G95igqAGU8US-LXjcllbHI-8fUccIKh_D4Y1NSHV0IQ&oe=69E3BFBC",
+    "card_count": 0,
+    "cards": [],
+    "original_json_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\drsquatch_ads.json",
+    "original_media_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\media_drsquatch\\ad_8_1694558155288136.jpg"
+  }
+}

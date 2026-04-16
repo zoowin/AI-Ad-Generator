@@ -1,0 +1,41 @@
+{
+  "ad_id": "meta_magicspoon_1153232643406433",
+  "source_platform": "meta_ad_library",
+  "captured_at": "2026-04-15T03:28:29.417Z",
+  "brand_name": "magicspoon",
+  "product_category": "unknown",
+  "product_names": [
+    "Try the new Protein cereal with Marshmallows!"
+  ],
+  "image_paths": [
+    "data/input/ad-library/raw/magicspoon/magicspoon__1153232643406433.jpg"
+  ],
+  "video_paths": [],
+  "landing_page_url": "https://magicspoon.com/pages/marshmallow-cereal",
+  "ad_copy": "New Product Alert 🚨 Protein Cereal with MARSHMALLOWS! \n💪 12g protein per serving\n🩷 3g sugar per serving\n🥣 crunchy and gooey goodness in a scoop",
+  "cta": "Shop now",
+  "country": "ALL",
+  "language": "unknown",
+  "notes": "Imported from competitor Meta Ad Library scraper",
+  "source_meta": {
+    "original_ad_archive_id": "1153232643406433",
+    "ad_format": "Image",
+    "media_kind": "image",
+    "title": "Try the new Protein cereal with Marshmallows!",
+    "caption": "www.magicspoon.com",
+    "platforms": [
+      "FACEBOOK",
+      "INSTAGRAM",
+      "AUDIENCE_NETWORK",
+      "MESSENGER",
+      "THREADS"
+    ],
+    "start_date": "2026-02-11T08:00:00.000Z",
+    "end_date": "2026-04-13T07:00:00.000Z",
+    "primary_image_url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/609043696_911219624911792_2833267679686379856_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=OLHQTq3HOMAQ7kNvwFAF8CH&_nc_oc=AdoARRbHQjFNmQAQipMg9wcnNvKIIjcI0sPzJ05TSvBvONo32QQMAZNRiD2SMSiPkAo&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=gVBsOXyMuA7-9yp-b6MSPg&_nc_ss=7a3a8&oh=00_Af0BjB7rRUYvvgtDKc4EQP9WUkGDS6Knmry2QkIVOB4_AA&oe=69E3D379",
+    "card_count": 0,
+    "cards": [],
+    "original_json_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\magicspoon_ads.json",
+    "original_media_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\media_magicspoon\\ad_21_1153232643406433.jpg"
+  }
+}

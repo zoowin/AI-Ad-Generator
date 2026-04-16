@@ -1,0 +1,56 @@
+{
+  "ad_id": "meta_peachandlily_4520187891544706",
+  "source_platform": "meta_ad_library",
+  "captured_at": "2026-04-15T03:28:29.532Z",
+  "brand_name": "peachandlily",
+  "product_category": "unknown",
+  "product_names": [
+    "Peach and Lily Glass Skin Ginseng Collagen Mask"
+  ],
+  "image_paths": [],
+  "video_paths": [],
+  "landing_page_url": "https://www.peachandlily.com/products/glass-skin-ginseng-collagen-mask?variant=41634518564935",
+  "ad_copy": "{{product.brand}}",
+  "cta": "Shop now",
+  "country": "ALL",
+  "language": "unknown",
+  "notes": "Imported from competitor Meta Ad Library scraper",
+  "source_meta": {
+    "original_ad_archive_id": "4520187891544706",
+    "ad_format": "Carousel",
+    "media_kind": "carousel_preview",
+    "title": "{{product.name}}",
+    "caption": "peachandlily.com",
+    "platforms": [
+      "FACEBOOK",
+      "INSTAGRAM",
+      "AUDIENCE_NETWORK",
+      "MESSENGER",
+      "THREADS"
+    ],
+    "start_date": "2026-03-26T07:00:00.000Z",
+    "end_date": "2026-04-07T07:00:00.000Z",
+    "primary_image_url": "",
+    "card_count": 2,
+    "cards": [
+      {
+        "body": "A lightweight collagen mask for real glass skin. Designed to soothe, hydrate, and visibly refresh skin, leaving a smooth, luminous glow with no filter needed.",
+        "title": "Peach and Lily Glass Skin Ginseng Collagen Mask",
+        "caption": "",
+        "cta_text": "Shop Now",
+        "link_url": "https://www.peachandlily.com/products/glass-skin-ginseng-collagen-mask?variant=41634518564935",
+        "image": ""
+      },
+      {
+        "body": "A lightweight collagen mask for real glass skin. Designed to soothe, hydrate, and visibly refresh skin, leaving a smooth, luminous glow with no filter needed.",
+        "title": "Peach and Lily Glass Skin Ginseng Collagen Mask",
+        "caption": "",
+        "cta_text": "Shop Now",
+        "link_url": "https://www.peachandlily.com/products/glass-skin-ginseng-collagen-mask?variant=41634518564935",
+        "image": ""
+      }
+    ],
+    "original_json_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\peachandlily_ads.json",
+    "original_media_path": ""
+  }
+}

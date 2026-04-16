@@ -1,0 +1,86 @@
+{
+  "ad_id": "meta_magicspoon_1275788697853873",
+  "source_platform": "meta_ad_library",
+  "captured_at": "2026-04-15T03:28:29.206Z",
+  "brand_name": "magicspoon",
+  "product_category": "unknown",
+  "product_names": [
+    "Fruity - 1 case (4 boxes)",
+    "Cinnamon Crunch - 1 case (4 boxes)",
+    "Protein Pastry Variety Pack",
+    "Cocoa - 1 case (4 boxes)",
+    "Cinnamon Crunch"
+  ],
+  "image_paths": [
+    "data/input/ad-library/raw/magicspoon/magicspoon__1275788697853873.jpg"
+  ],
+  "video_paths": [],
+  "landing_page_url": "https://magicspoon.com/pages/miss-cereal-25-v2",
+  "ad_copy": "Why would you ever eat regular cereal again?\n💪 13g of protein\n❤️ 4g net carbs and 0g sugar\n🥣Tastes like your childhood favorites\n✨ Perfect for low carb or Keto lifestyles\n💸 Less than $2 per serving\n✅ Happiness guaranteed",
+  "cta": "Shop now",
+  "country": "ALL",
+  "language": "unknown",
+  "notes": "Imported from competitor Meta Ad Library scraper",
+  "source_meta": {
+    "original_ad_archive_id": "1275788697853873",
+    "ad_format": "Carousel",
+    "media_kind": "carousel_preview",
+    "title": "{{product.name}}",
+    "caption": "magicspoon.com",
+    "platforms": [
+      "FACEBOOK",
+      "INSTAGRAM",
+      "AUDIENCE_NETWORK",
+      "MESSENGER",
+      "THREADS"
+    ],
+    "start_date": "2026-04-10T07:00:00.000Z",
+    "end_date": "2026-04-13T07:00:00.000Z",
+    "primary_image_url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/670637229_2104438790289846_3785338505416638414_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=90Z-31NT3sEQ7kNvwFFPo_y&_nc_oc=AdrgO-VtwEGZxmFyx8vGB-zmLlInFZ_V2c77LAGHqIpaQRwbGIM8KWyNfd53iLxANHI&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=gVBsOXyMuA7-9yp-b6MSPg&_nc_ss=7a3a8&oh=00_Af3mTeqRYubeEZMLL_awaTPDHWa6U5JRooW-isWccHrXrA&oe=69E3BA8C",
+    "card_count": 5,
+    "cards": [
+      {
+        "body": "Why would you ever eat regular cereal again?\n💪 13g of protein\n❤️ 4g net carbs and 0g sugar\n🥣Tastes like your childhood favorites\n✨ Perfect for low carb or Keto lifestyles\n💸 Less than $2 per serving\n✅ Happiness guaranteed",
+        "title": "Fruity - 1 case (4 boxes)",
+        "caption": "magicspoon.com",
+        "cta_text": "Shop Now",
+        "link_url": "https://magicspoon.com/products/fruity-keto-cereal-case?utm_content=Facebook_UA&utm_source=facebook&variant=19223997874238",
+        "image": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/670637229_2104438790289846_3785338505416638414_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=90Z-31NT3sEQ7kNvwFFPo_y&_nc_oc=AdrgO-VtwEGZxmFyx8vGB-zmLlInFZ_V2c77LAGHqIpaQRwbGIM8KWyNfd53iLxANHI&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=gVBsOXyMuA7-9yp-b6MSPg&_nc_ss=7a3a8&oh=00_Af3mTeqRYubeEZMLL_awaTPDHWa6U5JRooW-isWccHrXrA&oe=69E3BA8C"
+      },
+      {
+        "body": "Why would you ever eat regular cereal again?\n💪 13g of protein\n❤️ 4g net carbs and 0g sugar\n🥣Tastes like your childhood favorites\n✨ Perfect for low carb or Keto lifestyles\n💸 Less than $2 per serving\n✅ Happiness guaranteed",
+        "title": "Cinnamon Crunch - 1 case (4 boxes)",
+        "caption": "magicspoon.com",
+        "cta_text": "Shop Now",
+        "link_url": "https://magicspoon.com/products/healthy-cinnamon-cereal-case?utm_content=Facebook_UA&utm_source=facebook&variant=19223941382206",
+        "image": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/669198939_2176400936458456_1317416262785287456_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=No5J3JhXumwQ7kNvwEqboVU&_nc_oc=AdrS3B62Px4RsDMOfjtzcsjviMmKTyuBMh9OL-FCsWIcX8SHiZyHn-uOMOgKBsTPCHY&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=gVBsOXyMuA7-9yp-b6MSPg&_nc_ss=7a3a8&oh=00_Af1Mz80DCivCgoScSu_osxGw4c5j9KJdi6IdzTWTkv0FQg&oe=69E3DFC2"
+      },
+      {
+        "body": "Why would you ever eat regular cereal again?\n💪 13g of protein\n❤️ 4g net carbs and 0g sugar\n🥣Tastes like your childhood favorites\n✨ Perfect for low carb or Keto lifestyles\n💸 Less than $2 per serving\n✅ Happiness guaranteed",
+        "title": "Protein Pastry Variety Pack",
+        "caption": "magicspoon.com",
+        "cta_text": "Shop Now",
+        "link_url": "https://magicspoon.com/pages/pastries-lp-2026-02-18-12-07-52-pm?ad_tracking_token=--sanitized--",
+        "image": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/669839245_1143869007840869_793319807782928862_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=to-A4MZJM1oQ7kNvwGEBu6x&_nc_oc=AdrJzJ-IPAOqfmlXGAfXqvxF-p4Oluv325UGNNl8VFGNKmsDbWoGeKHmoTdMCTbsa-A&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=gVBsOXyMuA7-9yp-b6MSPg&_nc_ss=7a3a8&oh=00_Af3kBwZjiKbW01OS7gsJGacaTvIBvVLvmYy6TAhlJ3l4Bg&oe=69E3DDF9"
+      },
+      {
+        "body": "Why would you ever eat regular cereal again?\n💪 13g of protein\n❤️ 4g net carbs and 0g sugar\n🥣Tastes like your childhood favorites\n✨ Perfect for low carb or Keto lifestyles\n💸 Less than $2 per serving\n✅ Happiness guaranteed",
+        "title": "Cocoa - 1 case (4 boxes)",
+        "caption": "magicspoon.com",
+        "cta_text": "Shop Now",
+        "link_url": "https://magicspoon.com/products/cocoa-cereal-case?utm_content=Facebook_UA&utm_source=facebook&variant=19223998660670",
+        "image": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/669188896_1483633606583826_6415017148930522178_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=7NXMGw64oZkQ7kNvwFahoWM&_nc_oc=AdqT6fQT8_qJpM072mxHgIq6w2NgoDiBJHWoOGid3fQJHFqR9GSNHYbewGNcQJRoC-o&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=gVBsOXyMuA7-9yp-b6MSPg&_nc_ss=7a3a8&oh=00_Af1TomBNoWIEi8CVfXPymgj7UG35MQUXaHFhSxbEzPe_Ww&oe=69E3B991"
+      },
+      {
+        "body": "Why would you ever eat regular cereal again?\n💪 13g of protein\n❤️ 4g net carbs and 0g sugar\n🥣Tastes like your childhood favorites\n✨ Perfect for low carb or Keto lifestyles\n💸 Less than $2 per serving\n✅ Happiness guaranteed",
+        "title": "Cinnamon Crunch",
+        "caption": "magicspoon.com",
+        "cta_text": "Shop Now",
+        "link_url": "https://magicspoon.com/products/cinnamon-crunch-fiber-1-case-4-boxes?selling_plan=3403284542&variant=42219668766782",
+        "image": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/669846758_1300163602072992_1390599773858926143_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=gYS4s8Y3mCEQ7kNvwHxcfw7&_nc_oc=AdpNtCPP-DoPZBj2vpIumL9wGvxTx4QM0IFHNNu8Do8MvBxt0PVumbyjU8Csa1NyLt4&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=gVBsOXyMuA7-9yp-b6MSPg&_nc_ss=7a3a8&oh=00_Af0pdJOLKSHeKxo33q1KDpcv-K4_zJAqC54qO5L8mLDIKg&oe=69E3DFFF"
+      }
+    ],
+    "original_json_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\magicspoon_ads.json",
+    "original_media_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\media_magicspoon\\ad_3_1275788697853873.jpg"
+  }
+}

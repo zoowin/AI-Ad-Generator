@@ -1,0 +1,41 @@
+{
+  "ad_id": "meta_magicspoon_1681958496275843",
+  "source_platform": "meta_ad_library",
+  "captured_at": "2026-04-15T03:28:29.510Z",
+  "brand_name": "magicspoon",
+  "product_category": "unknown",
+  "product_names": [
+    "Try the new Protein cereal with Marshmallows!"
+  ],
+  "image_paths": [
+    "data/input/ad-library/raw/magicspoon/magicspoon__1681958496275843.jpg"
+  ],
+  "video_paths": [],
+  "landing_page_url": "https://magicspoon.com/pages/marshmallow-cereal",
+  "ad_copy": "BREAKING NEWS! 🚨 Protein Cereal with MARSHMALLOWS!\n\n• 12g of protein to power your day.\n• 3g total sugar, because you deserve a guilt-free breakfast \n• Only 7g net carbs - can you believe it? \n\nSay No to boring, Hop on to the fun protein",
+  "cta": "Shop now",
+  "country": "ALL",
+  "language": "unknown",
+  "notes": "Imported from competitor Meta Ad Library scraper",
+  "source_meta": {
+    "original_ad_archive_id": "1681958496275843",
+    "ad_format": "Video",
+    "media_kind": "video_preview",
+    "title": "Try the new Protein cereal with Marshmallows!",
+    "caption": "magicspoon.com",
+    "platforms": [
+      "FACEBOOK",
+      "INSTAGRAM",
+      "AUDIENCE_NETWORK",
+      "MESSENGER",
+      "THREADS"
+    ],
+    "start_date": "2026-03-24T07:00:00.000Z",
+    "end_date": "2026-04-13T07:00:00.000Z",
+    "primary_image_url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/658141307_807801858494793_8718292730902948711_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=HZd8GrPlla8Q7kNvwF2cTSP&_nc_oc=AdpH0OZ4_-WxaJmMo6yxcMJ6fbhAYY5Eng4Ej3ud_ppjNVHpDEdOu_FzlJ0dAXcynaI&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=gVBsOXyMuA7-9yp-b6MSPg&_nc_ss=7a3a8&oh=00_Af0Qh1Y-VMVxDVvfi7hBUxlv4TVBt1REnJp5uRuBw7FkYQ&oe=69E3BC51",
+    "card_count": 0,
+    "cards": [],
+    "original_json_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\magicspoon_ads.json",
+    "original_media_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\media_magicspoon\\ad_30_1681958496275843.jpg"
+  }
+}

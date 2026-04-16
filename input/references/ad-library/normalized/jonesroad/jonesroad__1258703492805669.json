@@ -1,0 +1,56 @@
+{
+  "ad_id": "meta_jonesroad_1258703492805669",
+  "source_platform": "meta_ad_library",
+  "captured_at": "2026-04-15T03:28:29.120Z",
+  "brand_name": "jonesroad",
+  "product_category": "unknown",
+  "product_names": [
+    "Makeup That Fits Mom Life"
+  ],
+  "image_paths": [],
+  "video_paths": [],
+  "landing_page_url": "https://myshop.jonesroadbeauty.com/experiment/wtf-mp-moms-bf",
+  "ad_copy": "{{product.brand}}",
+  "cta": "Shop now",
+  "country": "ALL",
+  "language": "unknown",
+  "notes": "Imported from competitor Meta Ad Library scraper",
+  "source_meta": {
+    "original_ad_archive_id": "1258703492805669",
+    "ad_format": "Carousel",
+    "media_kind": "carousel_preview",
+    "title": "{{product.name}}",
+    "caption": "myshop.jonesroadbeauty.com",
+    "platforms": [
+      "FACEBOOK",
+      "INSTAGRAM",
+      "AUDIENCE_NETWORK",
+      "MESSENGER",
+      "THREADS"
+    ],
+    "start_date": "2026-02-11T08:00:00.000Z",
+    "end_date": "2026-03-24T07:00:00.000Z",
+    "primary_image_url": "",
+    "card_count": 2,
+    "cards": [
+      {
+        "body": "Listen, I don’t have an hour to get ready (and honestly, even if I did, I wouldn’t spend it on makeup). What The Foundation evens everything out, Miracle Balm gives me that glow, and I feel like myself—just fresher.",
+        "title": "Makeup That Fits Mom Life",
+        "caption": "",
+        "cta_text": "Shop Now",
+        "link_url": "https://myshop.jonesroadbeauty.com/experiment/wtf-mp-moms-bf",
+        "image": ""
+      },
+      {
+        "body": "Listen, I don’t have an hour to get ready (and honestly, even if I did, I wouldn’t spend it on makeup). What The Foundation evens everything out, Miracle Balm gives me that glow, and I feel like myself—just fresher.",
+        "title": "Makeup That Fits Mom Life",
+        "caption": "",
+        "cta_text": "Shop Now",
+        "link_url": "https://myshop.jonesroadbeauty.com/experiment/wtf-mp-moms-bf",
+        "image": ""
+      }
+    ],
+    "original_json_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\jonesroad_ads.json",
+    "original_media_path": ""
+  }
+}

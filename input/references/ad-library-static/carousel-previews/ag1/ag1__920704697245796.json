@@ -1,0 +1,71 @@
+{
+  "ad_id": "meta_ag1_920704697245796",
+  "source_platform": "meta_ad_library",
+  "captured_at": "2026-04-15T03:28:28.718Z",
+  "brand_name": "ag1",
+  "product_category": "unknown",
+  "product_names": [
+    "Morning Thoughts With Hugh Jackman"
+  ],
+  "image_paths": [],
+  "video_paths": [],
+  "landing_page_url": "http://drinkag1.com/hugh-jackman",
+  "ad_copy": "{{product.brand}}",
+  "cta": "Shop now",
+  "country": "ALL",
+  "language": "unknown",
+  "notes": "Imported from competitor Meta Ad Library scraper",
+  "source_meta": {
+    "original_ad_archive_id": "920704697245796",
+    "ad_format": "Carousel",
+    "media_kind": "carousel_preview",
+    "title": "{{product.name}}",
+    "caption": "drinkag1.com",
+    "platforms": [
+      "FACEBOOK",
+      "INSTAGRAM",
+      "WHATSAPP",
+      "THREADS"
+    ],
+    "start_date": "2026-04-09T07:00:00.000Z",
+    "end_date": "2026-04-13T07:00:00.000Z",
+    "primary_image_url": "",
+    "card_count": 4,
+    "cards": [
+      {
+        "body": "AG1 Next Gen is clinically shown to fill common nutrient gaps.†\n\n\n†Results reflect increases in select gut bacteria and improvements in nutrient gaps in clinical studies in healthy adults ages 18–59 evaluating nutrient biomarkers, microbiome shifts and bioavailability compared to placebo.",
+        "title": "Morning Thoughts With Hugh Jackman",
+        "caption": "",
+        "cta_text": "Shop Now",
+        "link_url": "http://drinkag1.com/hugh-jackman",
+        "image": ""
+      },
+      {
+        "body": "AG1 Next Gen is clinically shown to fill common nutrient gaps.†\n\n\n†Results reflect increases in select gut bacteria and improvements in nutrient gaps in clinical studies in healthy adults ages 18–59 evaluating nutrient biomarkers, microbiome shifts and bioavailability compared to placebo.",
+        "title": "Morning Thoughts With Hugh Jackman",
+        "caption": "",
+        "cta_text": "Shop Now",
+        "link_url": "http://drinkag1.com/hugh-jackman",
+        "image": ""
+      },
+      {
+        "body": "AG1 Next Gen is clinically shown to fill common nutrient gaps.†\n\n\n†Results reflect increases in select gut bacteria and improvements in nutrient gaps in clinical studies in healthy adults ages 18–59 evaluating nutrient biomarkers, microbiome shifts and bioavailability compared to placebo.",
+        "title": "Morning Thoughts With Hugh Jackman",
+        "caption": "",
+        "cta_text": "Shop Now",
+        "link_url": "http://drinkag1.com/hugh-jackman",
+        "image": ""
+      },
+      {
+        "body": "AG1 Next Gen is clinically shown to fill common nutrient gaps.†\n\n\n†Results reflect increases in select gut bacteria and improvements in nutrient gaps in clinical studies in healthy adults ages 18–59 evaluating nutrient biomarkers, microbiome shifts and bioavailability compared to placebo.",
+        "title": "Morning Thoughts With Hugh Jackman",
+        "caption": "",
+        "cta_text": "Shop Now",
+        "link_url": "http://drinkag1.com/hugh-jackman",
+        "image": ""
+      }
+    ],
+    "original_json_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\ag1_ads.json",
+    "original_media_path": ""
+  }
+}

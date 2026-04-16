@@ -1,0 +1,38 @@
+{
+  "ad_id": "meta_theordinary_1690587045632136",
+  "source_platform": "meta_ad_library",
+  "captured_at": "2026-04-15T03:28:29.991Z",
+  "brand_name": "theordinary",
+  "product_category": "unknown",
+  "product_names": [
+    "Lo que tu piel necesita saber."
+  ],
+  "image_paths": [
+    "data/input/ad-library/raw/theordinary/theordinary__1690587045632136.jpg"
+  ],
+  "video_paths": [],
+  "landing_page_url": "https://www.primor.eu/es_es/the-ordinary-aha-30-bha-2-peeling-solution-14762.html",
+  "ad_copy": "La verdad que se esconde tras nuestras fórmulas más queridas.",
+  "cta": "Learn more",
+  "country": "ALL",
+  "language": "unknown",
+  "notes": "Imported from competitor Meta Ad Library scraper",
+  "source_meta": {
+    "original_ad_archive_id": "1690587045632136",
+    "ad_format": "Video",
+    "media_kind": "video_preview",
+    "title": "Lo que tu piel necesita saber.",
+    "caption": "www.primor.eu",
+    "platforms": [
+      "FACEBOOK",
+      "INSTAGRAM"
+    ],
+    "start_date": "2026-04-01T07:00:00.000Z",
+    "end_date": "2026-04-08T07:00:00.000Z",
+    "primary_image_url": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/656368628_1612982123327650_1653910601895039286_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=uXwCYbD5SXMQ7kNvwHtowaY&_nc_oc=Adq9Azq9EG-tDyJEFeCh2-fuRDu2IV58ShatRWb6VV9wNh0IfO5FeI72dh_Anroe4u0&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=Z_nVSow4qziKaexeRF_dXQ&_nc_ss=7a3a8&oh=00_Af2TyYtDf-LuVILUhIlRFcSo-6Qe196Y6zkoUO8u4gQAuw&oe=69DBEDF0",
+    "card_count": 0,
+    "cards": [],
+    "original_json_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\theordinary_ads.json",
+    "original_media_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\media_theordinary\\ad_30_1690587045632136.jpg"
+  }
+}

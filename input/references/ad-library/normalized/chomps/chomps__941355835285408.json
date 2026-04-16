@@ -1,0 +1,41 @@
+{
+  "ad_id": "meta_chomps_941355835285408",
+  "source_platform": "meta_ad_library",
+  "captured_at": "2026-04-15T03:28:28.780Z",
+  "brand_name": "chomps",
+  "product_category": "unknown",
+  "product_names": [
+    "15% OFF + FREE SHIPPING"
+  ],
+  "image_paths": [
+    "data/input/ad-library/raw/chomps/chomps__941355835285408.jpg"
+  ],
+  "video_paths": [],
+  "landing_page_url": "https://chomps.com/pages/fb-gotta-try-chomps?discount=YUMCHOMPS15",
+  "ad_copy": "Unlock 15% savings + free shipping on flavorful meat sticks with 10+ grams of protein, 0 grams of sugar, and real ingredients!",
+  "cta": "Shop now",
+  "country": "ALL",
+  "language": "unknown",
+  "notes": "Imported from competitor Meta Ad Library scraper",
+  "source_meta": {
+    "original_ad_archive_id": "941355835285408",
+    "ad_format": "Video",
+    "media_kind": "video_preview",
+    "title": "15% OFF + FREE SHIPPING",
+    "caption": "chomps.com",
+    "platforms": [
+      "FACEBOOK",
+      "INSTAGRAM",
+      "AUDIENCE_NETWORK",
+      "MESSENGER",
+      "THREADS"
+    ],
+    "start_date": "2026-03-19T07:00:00.000Z",
+    "end_date": "2026-04-13T07:00:00.000Z",
+    "primary_image_url": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/654468791_1252055363699004_8579729456060238366_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Y8mZQ6Fg1c8Q7kNvwElnt6s&_nc_oc=AdrU5v2Hx-JFgujoYeP3WeeN2sOAuqynDb9MCRT0BY5wChj9G4fBzf2gLEWFQw-_TVg&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=UkQqVnfDU7C9a3-abHHx9g&_nc_ss=7a3a8&oh=00_Af2Mn8D4RT1aOmiYGqrCc5dCgg3NMpXbQ9tc2qqY2WJ1Hg&oe=69E3ED9F",
+    "card_count": 0,
+    "cards": [],
+    "original_json_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\chomps_ads.json",
+    "original_media_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\media_chomps\\ad_23_941355835285408.jpg"
+  }
+}

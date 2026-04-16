@@ -1,0 +1,38 @@
+{
+  "ad_id": "meta_gopure_1306168234662837",
+  "source_platform": "meta_ad_library",
+  "captured_at": "2026-04-15T03:28:29.006Z",
+  "brand_name": "gopure",
+  "product_category": "unknown",
+  "product_names": [
+    "¡Lee las reviews! esta crema SI FUNCIONA"
+  ],
+  "image_paths": [],
+  "video_paths": [],
+  "landing_page_url": "https://amazon.gopure.com/ac10",
+  "ad_copy": "Esta es la nueva Sculpt & Tone Arm Cream de GoPure, diseñada para mejorar la apariencia de tus brazos. Amo toda la línea de GoPure y este producto no es la excepción. Si buscas resultados reales, esta crema es para ti. ¡Pruébala hoy y siente la mejora!",
+  "cta": "Learn more",
+  "country": "ALL",
+  "language": "unknown",
+  "notes": "Imported from competitor Meta Ad Library scraper",
+  "source_meta": {
+    "original_ad_archive_id": "1306168234662837",
+    "ad_format": "Video",
+    "media_kind": "video_preview",
+    "title": "¡Lee las reviews! esta crema SI FUNCIONA",
+    "caption": "amazon.gopure.com",
+    "platforms": [
+      "FACEBOOK",
+      "INSTAGRAM",
+      "MESSENGER",
+      "THREADS"
+    ],
+    "start_date": "2026-03-18T07:00:00.000Z",
+    "end_date": "2026-04-02T07:00:00.000Z",
+    "primary_image_url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/615151235_2245306529332715_2539626350105078484_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=WJt66BBmz_0Q7kNvwGWySOg&_nc_oc=Adop3LDf4Ohl9HpJZAcwDZm4lHcFl1nVCtP69rkH3AVdPi9_3d3_Y8d-WfZniqBkFQY&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=sjp9o1GcZJUITvj2pIsr-Q&_nc_ss=7a3a8&oh=00_Af0HdqSvxfdb6J3qeg1_I4Di50sXZteP0tqEiuzpgFB_jg&oe=69D40C81",
+    "card_count": 0,
+    "cards": [],
+    "original_json_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\gopure_ads.json",
+    "original_media_path": ""
+  }
+}

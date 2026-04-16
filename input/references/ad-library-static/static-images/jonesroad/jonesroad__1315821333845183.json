@@ -1,0 +1,40 @@
+{
+  "ad_id": "meta_jonesroad_1315821333845183",
+  "source_platform": "meta_ad_library",
+  "captured_at": "2026-04-15T03:28:29.145Z",
+  "brand_name": "jonesroad",
+  "product_category": "unknown",
+  "product_names": [
+    "Your Next Holy Grail"
+  ],
+  "image_paths": [
+    "data/input/ad-library/raw/jonesroad/jonesroad__1315821333845183.jpg"
+  ],
+  "video_paths": [],
+  "landing_page_url": "https://myshop.jonesroadbeauty.com/lip-recharge-m",
+  "ad_copy": "Say goodbye to dry, uncomfortable lips and say hello to your next holy grail. On first use, 100% of users agreed that this is the product they want to keep in their bag everyday… 28 days later, 100% still agreed. By checking every box, this is the one product everyone agrees on, and the one you’ll never want to be without.",
+  "cta": "Shop now",
+  "country": "ALL",
+  "language": "unknown",
+  "notes": "Imported from competitor Meta Ad Library scraper",
+  "source_meta": {
+    "original_ad_archive_id": "1315821333845183",
+    "ad_format": "Image",
+    "media_kind": "image",
+    "title": "Your Next Holy Grail",
+    "caption": "jonesroadbeauty.com",
+    "platforms": [
+      "FACEBOOK",
+      "INSTAGRAM",
+      "MESSENGER",
+      "THREADS"
+    ],
+    "start_date": "2026-04-10T07:00:00.000Z",
+    "end_date": "2026-04-10T07:00:00.000Z",
+    "primary_image_url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/671423778_2060919907800102_4426917017277755027_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=pVF6neaBGaUQ7kNvwGu8FrS&_nc_oc=Adpvwfr2dMXTsWyE48RWAjISm9FP_ZOVFbX2_h7RRogK5siapD2k84Ne10rL0u3YIso&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=Sa29kFwNq6oKxQTEfza6Ew&_nc_ss=7a3a8&oh=00_Af3EFhXmLUDPmqRcLxJ2hzJbtbAYX5BJUIAI9v4QMdVqMw&oe=69E3CA68",
+    "card_count": 0,
+    "cards": [],
+    "original_json_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\jonesroad_ads.json",
+    "original_media_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\media_jonesroad\\ad_15_1315821333845183.jpg"
+  }
+}

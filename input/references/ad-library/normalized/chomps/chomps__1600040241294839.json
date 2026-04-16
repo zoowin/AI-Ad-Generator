@@ -1,0 +1,39 @@
+{
+  "ad_id": "meta_chomps_1600040241294839",
+  "source_platform": "meta_ad_library",
+  "captured_at": "2026-04-15T03:28:28.775Z",
+  "brand_name": "chomps",
+  "product_category": "unknown",
+  "product_names": [
+    "A BETTER YEAR STARTS WITH BETTER SNACKS"
+  ],
+  "image_paths": [
+    "data/input/ad-library/raw/chomps/chomps__1600040241294839.jpg"
+  ],
+  "video_paths": [],
+  "landing_page_url": "https://chomps.com/",
+  "ad_copy": "This year, skip the fads with snacks that don’t taste like cardboard. Try something better and get 15% off sitewide!",
+  "cta": "Shop now",
+  "country": "ALL",
+  "language": "unknown",
+  "notes": "Imported from competitor Meta Ad Library scraper",
+  "source_meta": {
+    "original_ad_archive_id": "1600040241294839",
+    "ad_format": "Image",
+    "media_kind": "image",
+    "title": "A BETTER YEAR STARTS WITH BETTER SNACKS",
+    "caption": "chomps.com",
+    "platforms": [
+      "FACEBOOK",
+      "INSTAGRAM",
+      "AUDIENCE_NETWORK"
+    ],
+    "start_date": "2026-04-13T07:00:00.000Z",
+    "end_date": "2026-04-13T07:00:00.000Z",
+    "primary_image_url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/641396965_1959318388018095_2715540207038127379_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=RX3-Ok_Wv6sQ7kNvwG0cspu&_nc_oc=AdrtV6czUwWHxa6Axc4vkL7ddtOnMSguE-ouBHN9F9B08id4DmPev4IvAT7nn0KOoTU&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=UkQqVnfDU7C9a3-abHHx9g&_nc_ss=7a3a8&oh=00_Af2-L9YODB5DBPq0XXj--GOE-jfU3c4PS-qroe78zrKV6Q&oe=69E3E969",
+    "card_count": 0,
+    "cards": [],
+    "original_json_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\chomps_ads.json",
+    "original_media_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\media_chomps\\ad_17_1600040241294839.jpg"
+  }
+}

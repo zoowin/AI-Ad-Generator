@@ -1,0 +1,40 @@
+{
+  "ad_id": "meta_drmtlgy_962929572853804",
+  "source_platform": "meta_ad_library",
+  "captured_at": "2026-04-15T03:28:28.919Z",
+  "brand_name": "drmtlgy",
+  "product_category": "unknown",
+  "product_names": [
+    "Your Skin, Only Better"
+  ],
+  "image_paths": [
+    "data/input/ad-library/raw/drmtlgy/drmtlgy__962929572853804.jpg"
+  ],
+  "video_paths": [],
+  "landing_page_url": "https://www.drmtlgy.com/pages/5-reasons-makeup-minimalist-duo-2",
+  "ad_copy": "{{product.brand}}",
+  "cta": "Shop Now",
+  "country": "ALL",
+  "language": "unknown",
+  "notes": "Imported from competitor Meta Ad Library scraper",
+  "source_meta": {
+    "original_ad_archive_id": "962929572853804",
+    "ad_format": "Video",
+    "media_kind": "video_preview",
+    "title": "Your Skin, Only Better",
+    "caption": "",
+    "platforms": [
+      "FACEBOOK",
+      "INSTAGRAM",
+      "MESSENGER",
+      "THREADS"
+    ],
+    "start_date": "2026-04-01T07:00:00.000Z",
+    "end_date": "",
+    "primary_image_url": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/656711573_1427008755359824_8114831400572903092_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=NoJm4zH-URsQ7kNvwHCOnyT&_nc_oc=Adp8p_mXG1i2bPpXLmBwyUuFzHZDtFkeph8TxzU5VwOrZJmIFRtBJHenuqlLOCN0Pmw&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=2QWTKabkCeZiH4T1AWhjTw&_nc_ss=7a3a8&oh=00_Af2bjwbuw63Hm8ibLvSquZlHQ7GcRbjPgDqExHejiIL58g&oe=69D3FF7E",
+    "card_count": 2,
+    "cards": [],
+    "original_json_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\drmtlgy_ads.json",
+    "original_media_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\media_drmtlgy\\ad_29.jpg"
+  }
+}

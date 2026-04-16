@@ -1,0 +1,40 @@
+{
+  "ad_id": "meta_drmtlgy_851824467931122",
+  "source_platform": "meta_ad_library",
+  "captured_at": "2026-04-15T03:28:28.917Z",
+  "brand_name": "drmtlgy",
+  "product_category": "unknown",
+  "product_names": [
+    "Buy One, Get One FREE"
+  ],
+  "image_paths": [
+    "data/input/ad-library/raw/drmtlgy/drmtlgy__851824467931122.jpg"
+  ],
+  "video_paths": [],
+  "landing_page_url": "https://www.drmtlgy.com/pages/bem-new-customer",
+  "ad_copy": "{{product.brand}}",
+  "cta": "Shop Now",
+  "country": "ALL",
+  "language": "unknown",
+  "notes": "Imported from competitor Meta Ad Library scraper",
+  "source_meta": {
+    "original_ad_archive_id": "851824467931122",
+    "ad_format": "Carousel",
+    "media_kind": "carousel_preview",
+    "title": "Buy One, Get One FREE",
+    "caption": "",
+    "platforms": [
+      "FACEBOOK",
+      "INSTAGRAM",
+      "MESSENGER",
+      "THREADS"
+    ],
+    "start_date": "2026-04-01T07:00:00.000Z",
+    "end_date": "",
+    "primary_image_url": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/605961891_2045852686208610_8207845371415591482_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=3tFLUzXlZ2QQ7kNvwEFNHMG&_nc_oc=AdofMX7oSsMUYMAQkw6P2kd0zxyx0llLalqmi7FIt6NGmOTUpE-CjmPz3YrWVhxzbdA&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=2QWTKabkCeZiH4T1AWhjTw&_nc_ss=7a3a8&oh=00_Af3RdqVmzmlH1TkLxaakKIspId5peMHk1evQnen8xZlk_g&oe=69D40EEC",
+    "card_count": 2,
+    "cards": [],
+    "original_json_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\drmtlgy_ads.json",
+    "original_media_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\media_drmtlgy\\ad_27.jpg"
+  }
+}

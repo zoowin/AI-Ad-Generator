@@ -1,0 +1,57 @@
+{
+  "ad_id": "meta_gruns_978832284491534",
+  "source_platform": "meta_ad_library",
+  "captured_at": "2026-04-15T03:28:29.057Z",
+  "brand_name": "gruns",
+  "product_category": "unknown",
+  "product_names": [
+    "Limited drop. Don’t overthink it."
+  ],
+  "image_paths": [
+    "data/input/ad-library/raw/gruns/gruns__978832284491534.jpg"
+  ],
+  "video_paths": [],
+  "landing_page_url": "http://gruns.co/products/gruns-olipop",
+  "ad_copy": "{{product.brand}}",
+  "cta": "Shop now",
+  "country": "ALL",
+  "language": "unknown",
+  "notes": "Imported from competitor Meta Ad Library scraper",
+  "source_meta": {
+    "original_ad_archive_id": "978832284491534",
+    "ad_format": "Carousel",
+    "media_kind": "carousel_preview",
+    "title": "{{product.name}}",
+    "caption": "gruns.co",
+    "platforms": [
+      "FACEBOOK",
+      "INSTAGRAM",
+      "MESSENGER",
+      "THREADS"
+    ],
+    "start_date": "2026-04-08T07:00:00.000Z",
+    "end_date": "2026-04-13T07:00:00.000Z",
+    "primary_image_url": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/667477367_2898863813650554_1968278378542231031_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=-d3l4KhMcfcQ7kNvwFbeM8k&_nc_oc=AdoIjJc5w_0KLeWh-PtaBySYVMDC24wVyIpj1aifCCHxQnUc6UPMg7lHqYtr1sN6UpA&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=GN6450Ux2-aU2aIrZCZ9SA&_nc_ss=7a3a8&oh=00_Af3eAiUu3ma86uaTU-dx1bGrdClpRPvVUzO64q0qnW9new&oe=69E3BA53",
+    "card_count": 2,
+    "cards": [
+      {
+        "body": "Daily nutrition, but make it a treat. 🍓✨ Your favorite greens gummy meets your favorite prebiotic soda. Limited edition, because the best relationships don’t stay a secret forever.",
+        "title": "Limited drop. Don’t overthink it.",
+        "caption": "",
+        "cta_text": "Shop Now",
+        "link_url": "http://gruns.co/products/gruns-olipop",
+        "image": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/667477367_2898863813650554_1968278378542231031_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=-d3l4KhMcfcQ7kNvwFbeM8k&_nc_oc=AdoIjJc5w_0KLeWh-PtaBySYVMDC24wVyIpj1aifCCHxQnUc6UPMg7lHqYtr1sN6UpA&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=GN6450Ux2-aU2aIrZCZ9SA&_nc_ss=7a3a8&oh=00_Af3eAiUu3ma86uaTU-dx1bGrdClpRPvVUzO64q0qnW9new&oe=69E3BA53"
+      },
+      {
+        "body": "Daily nutrition, but make it a treat. 🍓✨ Your favorite greens gummy meets your favorite prebiotic soda. Limited edition, because the best relationships don’t stay a secret forever.",
+        "title": "Limited drop. Don’t overthink it.",
+        "caption": "",
+        "cta_text": "Shop Now",
+        "link_url": "http://gruns.co/products/gruns-olipop",
+        "image": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/667738696_1672242473920503_7919193844521337663_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=RsUOiOaPMEIQ7kNvwHehWPz&_nc_oc=AdrH-imtOvniKPrCLcaNfLnblgifPSG-2xxeR3xuHhUPnQa-_BnmwFOcUtrpZtu2E7s&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=GN6450Ux2-aU2aIrZCZ9SA&_nc_ss=7a3a8&oh=00_Af1WW1O3w3Aiq2hGfC92tT7ruT_ejGrmZVzLN0epSD8P8A&oe=69E3E312"
+      }
+    ],
+    "original_json_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\gruns_ads.json",
+    "original_media_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\media_gruns\\ad_15_978832284491534.jpg"
+  }
+}

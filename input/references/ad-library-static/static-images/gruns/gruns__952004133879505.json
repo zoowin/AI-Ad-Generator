@@ -1,0 +1,41 @@
+{
+  "ad_id": "meta_gruns_952004133879505",
+  "source_platform": "meta_ad_library",
+  "captured_at": "2026-04-15T03:28:29.014Z",
+  "brand_name": "gruns",
+  "product_category": "unknown",
+  "product_names": [
+    "Grüns: Fiber-Rich Support for GLP-1"
+  ],
+  "image_paths": [
+    "data/input/ad-library/raw/gruns/gruns__952004133879505.jpg"
+  ],
+  "video_paths": [],
+  "landing_page_url": "https://gruns.co/pages/nutrition-support",
+  "ad_copy": "Grüns Superfood Gummies offer GLP-1 users a convenient, low-carb, sugar-free way to get essential nutrients. Packed with 20+ vitamins, minerals, and 6g of fiber, they support gut health, boost energy, and promote overall wellness—all in one effective supplement.",
+  "cta": "Shop now",
+  "country": "ALL",
+  "language": "unknown",
+  "notes": "Imported from competitor Meta Ad Library scraper",
+  "source_meta": {
+    "original_ad_archive_id": "952004133879505",
+    "ad_format": "Image",
+    "media_kind": "image",
+    "title": "Grüns: Fiber-Rich Support for GLP-1",
+    "caption": "gruns.co",
+    "platforms": [
+      "FACEBOOK",
+      "INSTAGRAM",
+      "AUDIENCE_NETWORK",
+      "MESSENGER",
+      "THREADS"
+    ],
+    "start_date": "2026-04-10T07:00:00.000Z",
+    "end_date": "2026-04-13T07:00:00.000Z",
+    "primary_image_url": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/670288999_1493781368781863_5109899388652360565_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=mtxA-ekBs-0Q7kNvwG0lNW7&_nc_oc=AdpN3GVsEmOMLKRjeGO28U9cuXXWN2ltLc8bCOVZb-70SSW1bTJX5WOSb9-kdjv4_2M&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=GN6450Ux2-aU2aIrZCZ9SA&_nc_ss=7a3a8&oh=00_Af3zrY5a2icvtzq0bLJEUK_w-UjDuLJm8EtZBHU0uoud2g&oe=69E3C27F",
+    "card_count": 0,
+    "cards": [],
+    "original_json_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\gruns_ads.json",
+    "original_media_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\media_gruns\\ad_4_952004133879505.jpg"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "ad_id": "meta_drsquatch_1711079823631869",
+  "source_platform": "meta_ad_library",
+  "captured_at": "2026-04-15T03:28:28.986Z",
+  "brand_name": "drsquatch",
+  "product_category": "unknown",
+  "product_names": [
+    "Save up to 51% + 4 FREE Gifts! 🔥"
+  ],
+  "image_paths": [
+    "data/input/ad-library/raw/drsquatch/drsquatch__1711079823631869.jpg"
+  ],
+  "video_paths": [],
+  "landing_page_url": "https://uk.drsquatch.com/pages/subscription-free-gifts",
+  "ad_copy": "There's nothing better than a man that smells like nature. 🌲\n\nGrab the best natural soap without the BS and save up to 51% + 4 FREE Gifts! 🙌\n\n✅ Natural ingredients & manly scents\n✅ 100% Satisfaction Guarantee\n✅ Free Shipping",
+  "cta": "Shop now",
+  "country": "ALL",
+  "language": "unknown",
+  "notes": "Imported from competitor Meta Ad Library scraper",
+  "source_meta": {
+    "original_ad_archive_id": "1711079823631869",
+    "ad_format": "Video",
+    "media_kind": "video_preview",
+    "title": "Save up to 51% + 4 FREE Gifts! 🔥",
+    "caption": "uk.drsquatch.com",
+    "platforms": [
+      "FACEBOOK",
+      "INSTAGRAM",
+      "MESSENGER",
+      "THREADS"
+    ],
+    "start_date": "2026-02-26T08:00:00.000Z",
+    "end_date": "2026-04-13T07:00:00.000Z",
+    "primary_image_url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/466794793_595955472788488_8065270608298816330_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=dH911D_ZwYcQ7kNvwEikmM3&_nc_oc=AdqrZHGukCo48tbKGFIFzjhDF9sWC7JpnHeXLDZCtWHiQM6TyYVj7Fpb3nFkK-lyKmI&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=jJjzAELG8KqNybh2TjzeMw&_nc_ss=7a3a8&oh=00_Af0p8FSPwTTGkMTarJ5drDRErr-1bGwkP-0W3l-BvMmmBg&oe=69E3C304",
+    "card_count": 0,
+    "cards": [],
+    "original_json_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\drsquatch_ads.json",
+    "original_media_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\media_drsquatch\\ad_27_1711079823631869.jpg"
+  }
+}

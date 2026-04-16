@@ -1,0 +1,66 @@
+{
+  "ad_id": "meta_peachandlily_1472743921013223",
+  "source_platform": "meta_ad_library",
+  "captured_at": "2026-04-15T03:28:29.540Z",
+  "brand_name": "peachandlily",
+  "product_category": "unknown",
+  "product_names": [
+    "Peach & Lily Beam Blocker Mineral Sunscreen"
+  ],
+  "image_paths": [
+    "data/input/ad-library/raw/peachandlily/peachandlily__1472743921013223.jpg"
+  ],
+  "video_paths": [],
+  "landing_page_url": "https://www.peachandlily.com/products/sun-cover-mineral-sunscreen",
+  "ad_copy": "{{product.brand}}",
+  "cta": "Shop now",
+  "country": "ALL",
+  "language": "unknown",
+  "notes": "Imported from competitor Meta Ad Library scraper",
+  "source_meta": {
+    "original_ad_archive_id": "1472743921013223",
+    "ad_format": "Carousel",
+    "media_kind": "carousel_preview",
+    "title": "{{product.name}}",
+    "caption": "peachandlily.com",
+    "platforms": [
+      "FACEBOOK",
+      "INSTAGRAM",
+      "AUDIENCE_NETWORK",
+      "MESSENGER",
+      "THREADS"
+    ],
+    "start_date": "2026-04-03T07:00:00.000Z",
+    "end_date": "2026-04-07T07:00:00.000Z",
+    "primary_image_url": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/663310562_1663402624688994_1025800784814493125_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=TWukOi2Oho4Q7kNvwFEiewT&_nc_oc=Adr5_k73KvUkQojYf_4f4hTEVfnzgCxc3TX9G7b7mbpHFVrEswNHZBIzNVEJtmwt5qQ&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=o60n_sAgQqIAcUFEuaP01A&_nc_ss=7a3a8&oh=00_Af1mH27AVC-daqJJV2e961s9GzWADQGzPvsR5kNkAftmJg&oe=69DBDAD7",
+    "card_count": 3,
+    "cards": [
+      {
+        "body": "\"An invisible sunscreen with a Glass Skin glow. ☀️\n✨ Truly invisible, weightless texture\n✨ Dewy Glass Skin glow\n✨ Layers effortlessly over skincare and under makeup\n✨ Gently formulated with soothing ingredients, suitable for sensitive skin\"",
+        "title": "Peach & Lily Beam Blocker Mineral Sunscreen",
+        "caption": "",
+        "cta_text": "Shop Now",
+        "link_url": "https://www.peachandlily.com/products/sun-cover-mineral-sunscreen",
+        "image": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/663310562_1663402624688994_1025800784814493125_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=TWukOi2Oho4Q7kNvwFEiewT&_nc_oc=Adr5_k73KvUkQojYf_4f4hTEVfnzgCxc3TX9G7b7mbpHFVrEswNHZBIzNVEJtmwt5qQ&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=o60n_sAgQqIAcUFEuaP01A&_nc_ss=7a3a8&oh=00_Af1mH27AVC-daqJJV2e961s9GzWADQGzPvsR5kNkAftmJg&oe=69DBDAD7"
+      },
+      {
+        "body": "\"An invisible sunscreen with a Glass Skin glow. ☀️\n✨ Truly invisible, weightless texture\n✨ Dewy Glass Skin glow\n✨ Layers effortlessly over skincare and under makeup\n✨ Gently formulated with soothing ingredients, suitable for sensitive skin\"",
+        "title": "Peach & Lily Beam Blocker Mineral Sunscreen",
+        "caption": "",
+        "cta_text": "Shop Now",
+        "link_url": "https://www.peachandlily.com/products/sun-cover-mineral-sunscreen",
+        "image": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/661985543_1672381907093425_340926058352399074_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=1OMGFc5ujk4Q7kNvwE6rUwu&_nc_oc=Adrhn0X61JpcFJ2H4mcMdrcSmM_JHWT6bsNty2EfXZBhIX_QddgGFbDBlXuNCKU8rnY&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=o60n_sAgQqIAcUFEuaP01A&_nc_ss=7a3a8&oh=00_Af0AaOzA5WKTIAW5qpLMjM6fY8ADmQHbvQIXaWMYVauZPg&oe=69DBED38"
+      },
+      {
+        "body": "\"An invisible sunscreen with a Glass Skin glow. ☀️\n✨ Truly invisible, weightless texture\n✨ Dewy Glass Skin glow\n✨ Layers effortlessly over skincare and under makeup\n✨ Gently formulated with soothing ingredients, suitable for sensitive skin\"",
+        "title": "Peach & Lily Beam Blocker Mineral Sunscreen",
+        "caption": "",
+        "cta_text": "Shop Now",
+        "link_url": "https://www.peachandlily.com/products/sun-cover-mineral-sunscreen",
+        "image": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/661985543_1672381907093425_340926058352399074_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=1OMGFc5ujk4Q7kNvwE6rUwu&_nc_oc=Adrhn0X61JpcFJ2H4mcMdrcSmM_JHWT6bsNty2EfXZBhIX_QddgGFbDBlXuNCKU8rnY&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=o60n_sAgQqIAcUFEuaP01A&_nc_ss=7a3a8&oh=00_Af0AaOzA5WKTIAW5qpLMjM6fY8ADmQHbvQIXaWMYVauZPg&oe=69DBED38"
+      }
+    ],
+    "original_json_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\peachandlily_ads.json",
+    "original_media_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\media_peachandlily\\ad_15_1472743921013223.jpg"
+  }
+}

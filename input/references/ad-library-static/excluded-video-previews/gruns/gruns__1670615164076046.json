@@ -1,0 +1,41 @@
+{
+  "ad_id": "meta_gruns_1670615164076046",
+  "source_platform": "meta_ad_library",
+  "captured_at": "2026-04-15T03:28:29.046Z",
+  "brand_name": "gruns",
+  "product_category": "unknown",
+  "product_names": [
+    "The Perfect Daily Supplement"
+  ],
+  "image_paths": [
+    "data/input/ad-library/raw/gruns/gruns__1670615164076046.jpg"
+  ],
+  "video_paths": [],
+  "landing_page_url": "https://gruns.co/pages/nutrition-support-pdp",
+  "ad_copy": "Grüns Superfood Gummies support your nutrition on GLP-1 with 20+ vitamins, 6g fiber, and zero sugar—boost energy, gut health, and wellness daily!",
+  "cta": "Shop now",
+  "country": "ALL",
+  "language": "unknown",
+  "notes": "Imported from competitor Meta Ad Library scraper",
+  "source_meta": {
+    "original_ad_archive_id": "1670615164076046",
+    "ad_format": "Video",
+    "media_kind": "video_preview",
+    "title": "The Perfect Daily Supplement",
+    "caption": "gruns.co",
+    "platforms": [
+      "FACEBOOK",
+      "INSTAGRAM",
+      "AUDIENCE_NETWORK",
+      "MESSENGER",
+      "THREADS"
+    ],
+    "start_date": "2026-04-11T07:00:00.000Z",
+    "end_date": "2026-04-13T07:00:00.000Z",
+    "primary_image_url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/638319517_1573547903926160_5357364771766452394_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=CRFp_rgxBXcQ7kNvwFuISq2&_nc_oc=AdrNQMmoTIwsa4PGDzPmdCI4NWdFUiQJQ1q5nYBSWYNN7N1D8DahxOmq5aKUZ6r7Dvo&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=GN6450Ux2-aU2aIrZCZ9SA&_nc_ss=7a3a8&oh=00_Af1CJrntg7LRMD17DAI71djmZ036p0tv83j5uM2m_6B9ag&oe=69E3CF75",
+    "card_count": 0,
+    "cards": [],
+    "original_json_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\gruns_ads.json",
+    "original_media_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\media_gruns\\ad_8_1670615164076046.jpg"
+  }
+}

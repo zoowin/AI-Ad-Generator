@@ -1,0 +1,40 @@
+{
+  "ad_id": "meta_drsquatch_972219528462536",
+  "source_platform": "meta_ad_library",
+  "captured_at": "2026-04-15T03:28:28.968Z",
+  "brand_name": "drsquatch",
+  "product_category": "unknown",
+  "product_names": [
+    "No dodgy ingredients. Just proper good soap"
+  ],
+  "image_paths": [
+    "data/input/ad-library/raw/drsquatch/drsquatch__972219528462536.jpg"
+  ],
+  "video_paths": [],
+  "landing_page_url": "https://intl.drsquatch.com/en-eu/pages/subscription-free-gifts",
+  "ad_copy": "There's nothing better than a man that smells like nature. 🌲\n\nGrab the best natural soap without the BS and save up to 51% + 4 FREE Gifts! 🙌\n\n✅ Natural ingredients & manly scents\n✅ 100% Satisfaction Guarantee\n✅ Free Shipping",
+  "cta": "Get offer",
+  "country": "ALL",
+  "language": "unknown",
+  "notes": "Imported from competitor Meta Ad Library scraper",
+  "source_meta": {
+    "original_ad_archive_id": "972219528462536",
+    "ad_format": "Image",
+    "media_kind": "image",
+    "title": "No dodgy ingredients. Just proper good soap",
+    "caption": "www.drsquatch.com",
+    "platforms": [
+      "FACEBOOK",
+      "INSTAGRAM",
+      "MESSENGER",
+      "THREADS"
+    ],
+    "start_date": "2026-02-25T08:00:00.000Z",
+    "end_date": "2026-04-13T07:00:00.000Z",
+    "primary_image_url": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/641220612_3894621460673547_8981252980826664061_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=NhO2aVYLZY0Q7kNvwFxJ1jh&_nc_oc=AdoYDzhTx7V_cYB1MRw2zjkyGM3kwTgxEpaaTqF-hnVSor6lhm6H1rlczOI6Oygv0l4&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=jJjzAELG8KqNybh2TjzeMw&_nc_ss=7a3a8&oh=00_Af0TyVOoGSaz3JMAieB_MkBGvXp6aYUTgo9FAFC4atpBzg&oe=69E3E05D",
+    "card_count": 0,
+    "cards": [],
+    "original_json_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\drsquatch_ads.json",
+    "original_media_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\media_drsquatch\\ad_11_972219528462536.jpg"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "ad_id": "meta_ridge_1260245118994035",
+  "source_platform": "meta_ad_library",
+  "captured_at": "2026-04-15T03:28:29.682Z",
+  "brand_name": "ridge",
+  "product_category": "unknown",
+  "product_names": [
+    "The Ridge Ring Set"
+  ],
+  "image_paths": [],
+  "video_paths": [],
+  "landing_page_url": "https://ridgewallet.ca/collections/rings-men-5rlp-col",
+  "ad_copy": "{{product.brand}}",
+  "cta": "Shop now",
+  "country": "ALL",
+  "language": "unknown",
+  "notes": "Imported from competitor Meta Ad Library scraper",
+  "source_meta": {
+    "original_ad_archive_id": "1260245118994035",
+    "ad_format": "Carousel",
+    "media_kind": "carousel_preview",
+    "title": "{{product.name}}",
+    "caption": "ridgewallet.ca",
+    "platforms": [
+      "FACEBOOK",
+      "INSTAGRAM",
+      "MESSENGER"
+    ],
+    "start_date": "2025-05-20T07:00:00.000Z",
+    "end_date": "2026-04-10T07:00:00.000Z",
+    "primary_image_url": "",
+    "card_count": 2,
+    "cards": [
+      {
+        "body": "Crafted with premium materials, the Ridge Beveled Ring sets are where style meets durability. Our rings redefine toughness and are designed to be the most comfortable ring you will ever wear.\n\nWhat's Included:\n✅ FREE Silicone band\n✅ Scratch Resistant\n✅ No-Pinch Fit\n✅ 99 Day Risk-Free Trial\n✅ Guaranteed for Life",
+        "title": "The Ridge Ring Set",
+        "caption": "",
+        "cta_text": "Shop Now",
+        "link_url": "https://ridgewallet.ca/collections/rings-men-5rlp-col",
+        "image": ""
+      },
+      {
+        "body": "Crafted with premium materials, the Ridge Beveled Ring sets are where style meets durability. Our rings redefine toughness and are designed to be the most comfortable ring you will ever wear.\n\nWhat's Included:\n✅ FREE Silicone band\n✅ Scratch Resistant\n✅ No-Pinch Fit\n✅ 99 Day Risk-Free Trial\n✅ Guaranteed for Life",
+        "title": "The Ridge Ring Set",
+        "caption": "",
+        "cta_text": "Shop Now",
+        "link_url": "https://ridgewallet.ca/collections/rings-men-5rlp-col",
+        "image": ""
+      }
+    ],
+    "original_json_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\ridge_ads.json",
+    "original_media_path": ""
+  }
+}

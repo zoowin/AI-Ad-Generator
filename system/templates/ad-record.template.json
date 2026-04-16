@@ -1,0 +1,20 @@
+{
+  "ad_id": "adl_meta_us_20260415_0001",
+  "source_platform": "meta_ad_library",
+  "captured_at": "2026-04-15T10:00:00.000Z",
+  "brand_name": "Example Brand",
+  "product_category": "skincare",
+  "product_names": [
+    "Example Serum"
+  ],
+  "image_paths": [
+    "data/input/ad-library/raw/example-brand/ad-0001.jpg"
+  ],
+  "video_paths": [],
+  "landing_page_url": "https://example.com/product-page",
+  "ad_copy": "Short ad copy here",
+  "cta": "Shop Now",
+  "country": "US",
+  "language": "en",
+  "notes": "Initial normalized record template"
+}

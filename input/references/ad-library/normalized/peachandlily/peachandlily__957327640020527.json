@@ -1,0 +1,66 @@
+{
+  "ad_id": "meta_peachandlily_957327640020527",
+  "source_platform": "meta_ad_library",
+  "captured_at": "2026-04-15T03:28:29.536Z",
+  "brand_name": "peachandlily",
+  "product_category": "unknown",
+  "product_names": [
+    "Peach & Lily MiniProtein Exosome Bioactive Ampoule"
+  ],
+  "image_paths": [
+    "data/input/ad-library/raw/peachandlily/peachandlily__957327640020527.jpg"
+  ],
+  "video_paths": [],
+  "landing_page_url": "https://www.peachandlily.com/products/miniprotein-exosome-bioactive-ampoule",
+  "ad_copy": "{{product.brand}}",
+  "cta": "Shop now",
+  "country": "ALL",
+  "language": "unknown",
+  "notes": "Imported from competitor Meta Ad Library scraper",
+  "source_meta": {
+    "original_ad_archive_id": "957327640020527",
+    "ad_format": "Carousel",
+    "media_kind": "carousel_preview",
+    "title": "{{product.name}}",
+    "caption": "peachandlily.com",
+    "platforms": [
+      "FACEBOOK",
+      "INSTAGRAM",
+      "AUDIENCE_NETWORK",
+      "MESSENGER",
+      "THREADS"
+    ],
+    "start_date": "2026-04-03T07:00:00.000Z",
+    "end_date": "2026-04-07T07:00:00.000Z",
+    "primary_image_url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/666089115_1290647459670344_493939282637283804_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=7HIsfCuPj58Q7kNvwFhToAS&_nc_oc=AdpbZcwhdiA6Ad9FVR1lfDVAIagQa1IyAqIoE6MLv0aE6cb-jt9d02TTHp7B-kgYBcg&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=o60n_sAgQqIAcUFEuaP01A&_nc_ss=7a3a8&oh=00_Af3oxzsT9zYoTEYDmtIR4uuSrVYro5PpE3ph9YX8FvS07A&oe=69DBFAB2",
+    "card_count": 3,
+    "cards": [
+      {
+        "body": "\"A first-of-its-kind formula powered by our proprietary MicroMimic Tri-Signal Concentrate™, featuring a never-before-seen trio of:\n✔️63% micronized miniprotein complex\n✔️Over 10 million centella asiatica-derived exosomes\n✔️Patented phyto growth factors\"",
+        "title": "Peach & Lily MiniProtein Exosome Bioactive Ampoule",
+        "caption": "",
+        "cta_text": "Shop Now",
+        "link_url": "https://www.peachandlily.com/products/miniprotein-exosome-bioactive-ampoule",
+        "image": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/666089115_1290647459670344_493939282637283804_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=7HIsfCuPj58Q7kNvwFhToAS&_nc_oc=AdpbZcwhdiA6Ad9FVR1lfDVAIagQa1IyAqIoE6MLv0aE6cb-jt9d02TTHp7B-kgYBcg&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=o60n_sAgQqIAcUFEuaP01A&_nc_ss=7a3a8&oh=00_Af3oxzsT9zYoTEYDmtIR4uuSrVYro5PpE3ph9YX8FvS07A&oe=69DBFAB2"
+      },
+      {
+        "body": "\"A first-of-its-kind formula powered by our proprietary MicroMimic Tri-Signal Concentrate™, featuring a never-before-seen trio of:\n✔️63% micronized miniprotein complex\n✔️Over 10 million centella asiatica-derived exosomes\n✔️Patented phyto growth factors\"",
+        "title": "Peach & Lily MiniProtein Exosome Bioactive Ampoule",
+        "caption": "",
+        "cta_text": "Shop Now",
+        "link_url": "https://www.peachandlily.com/products/miniprotein-exosome-bioactive-ampoule",
+        "image": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/663336904_1642803893527795_5289444541315849752_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ZDaTWPfM3eMQ7kNvwGDtC1d&_nc_oc=AdoA_Ict0fcCbs0AD5op983e5UiUc4Y97MmItPIVCikgTadB5S6CLwZtk-qOmYtwpbM&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=o60n_sAgQqIAcUFEuaP01A&_nc_ss=7a3a8&oh=00_Af1ZsdrQR8m9coZ9vUgJQ-e7Rjilu25BEga_iFSCKmWJnw&oe=69DBFF1D"
+      },
+      {
+        "body": "\"A first-of-its-kind formula powered by our proprietary MicroMimic Tri-Signal Concentrate™, featuring a never-before-seen trio of:\n✔️63% micronized miniprotein complex\n✔️Over 10 million centella asiatica-derived exosomes\n✔️Patented phyto growth factors\"",
+        "title": "Peach & Lily MiniProtein Exosome Bioactive Ampoule",
+        "caption": "",
+        "cta_text": "Shop Now",
+        "link_url": "https://www.peachandlily.com/products/miniprotein-exosome-bioactive-ampoule",
+        "image": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/666089115_1290647459670344_493939282637283804_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=7HIsfCuPj58Q7kNvwFhToAS&_nc_oc=AdpbZcwhdiA6Ad9FVR1lfDVAIagQa1IyAqIoE6MLv0aE6cb-jt9d02TTHp7B-kgYBcg&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=o60n_sAgQqIAcUFEuaP01A&_nc_ss=7a3a8&oh=00_Af3oxzsT9zYoTEYDmtIR4uuSrVYro5PpE3ph9YX8FvS07A&oe=69DBFAB2"
+      }
+    ],
+    "original_json_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\peachandlily_ads.json",
+    "original_media_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\media_peachandlily\\ad_12_957327640020527.jpg"
+  }
+}

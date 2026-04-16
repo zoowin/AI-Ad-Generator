@@ -1,0 +1,57 @@
+{
+  "ad_id": "meta_ag1_821175231020435",
+  "source_platform": "meta_ad_library",
+  "captured_at": "2026-04-15T03:28:28.718Z",
+  "brand_name": "ag1",
+  "product_category": "unknown",
+  "product_names": [
+    "One Scoop. Every Morning."
+  ],
+  "image_paths": [
+    "data/input/ad-library/raw/ag1/ag1__821175231020435.jpg"
+  ],
+  "video_paths": [],
+  "landing_page_url": "https://drinkag1.com/en-au/campaign/immunity/ctr",
+  "ad_copy": "{{product.brand}}",
+  "cta": "Shop now",
+  "country": "ALL",
+  "language": "unknown",
+  "notes": "Imported from competitor Meta Ad Library scraper",
+  "source_meta": {
+    "original_ad_archive_id": "821175231020435",
+    "ad_format": "Carousel",
+    "media_kind": "carousel_preview",
+    "title": "{{product.name}}",
+    "caption": "drinkag1.com/au",
+    "platforms": [
+      "FACEBOOK",
+      "INSTAGRAM",
+      "MESSENGER",
+      "THREADS"
+    ],
+    "start_date": "2026-03-18T07:00:00.000Z",
+    "end_date": "2026-04-13T07:00:00.000Z",
+    "primary_image_url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/652434167_2150809759081377_6794209041423541032_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=MbK068nhIjgQ7kNvwFCwf1b&_nc_oc=AdrbOE_TNUk6sDrq6724MTHSFCbZ24z1VYeYtlCSr1qWknTzVIuNF_vGxYyia898g3Y&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=Fns_35FlzA60O0VNYqaUAg&_nc_ss=7a3a8&oh=00_Af0GEWePT_UzrOEZEGvdp96gGXZ8dg0wunEOX8-Yr20Ofw&oe=69E3CCCF",
+    "card_count": 2,
+    "cards": [
+      {
+        "body": "Most multivitamins fall short. AG1 packs 75+ bioavailable nutrients — vitamins, minerals & probiotics — into one daily scoop to support whole body health.\n\nOne Scoop. Every Morning. Try AG1 and get a FREE Welcome Kit when you subscribe**. Skip or cancel anytime.\n\n👉 drinkag1.com\n**New subscribers only.",
+        "title": "One Scoop. Every Morning.",
+        "caption": "drinkag1.com/au",
+        "cta_text": "Shop Now",
+        "link_url": "https://drinkag1.com/en-au/campaign/immunity/ctr",
+        "image": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/652434167_2150809759081377_6794209041423541032_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=MbK068nhIjgQ7kNvwFCwf1b&_nc_oc=AdrbOE_TNUk6sDrq6724MTHSFCbZ24z1VYeYtlCSr1qWknTzVIuNF_vGxYyia898g3Y&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=Fns_35FlzA60O0VNYqaUAg&_nc_ss=7a3a8&oh=00_Af0GEWePT_UzrOEZEGvdp96gGXZ8dg0wunEOX8-Yr20Ofw&oe=69E3CCCF"
+      },
+      {
+        "body": "Most multivitamins fall short. AG1 packs 75+ bioavailable nutrients — vitamins, minerals & probiotics — into one daily scoop to support whole body health.\n\nOne Scoop. Every Morning. Try AG1 and get a FREE Welcome Kit when you subscribe**. Skip or cancel anytime.\n\n👉 drinkag1.com\n**New subscribers only.",
+        "title": "One Scoop. Every Morning.",
+        "caption": "drinkag1.com/au",
+        "cta_text": "Shop Now",
+        "link_url": "https://drinkag1.com/en-au/campaign/immunity/ctr",
+        "image": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/653033254_972937898406943_8902447894659458932_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=KinWySjsG7wQ7kNvwFxjo0I&_nc_oc=AdrnjqvahEhr8KnzfFXMrP1MHCG0Qw1EnVfQfiDIs9-m8J1liUbP7TILYFpRvP-70wU&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=Fns_35FlzA60O0VNYqaUAg&_nc_ss=7a3a8&oh=00_Af2auPdxiNFUe_rWyYJiaPeLa0Q2eEgLh__QRR0e5QSggg&oe=69E3EC9E"
+      }
+    ],
+    "original_json_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\ag1_ads.json",
+    "original_media_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\media_ag1\\ad_22_821175231020435.jpg"
+  }
+}

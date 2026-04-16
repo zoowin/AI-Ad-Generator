@@ -1,0 +1,104 @@
+{
+  "imported_at": "2026-04-15T03:28:29.992Z",
+  "source_dir": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper",
+  "brands": [
+    {
+      "brand": "ag1",
+      "totalAds": 27,
+      "importedImages": 16,
+      "missingImages": 11,
+      "importedRecords": 27
+    },
+    {
+      "brand": "caraway",
+      "totalAds": 30,
+      "importedImages": 20,
+      "missingImages": 10,
+      "importedRecords": 30
+    },
+    {
+      "brand": "chomps",
+      "totalAds": 30,
+      "importedImages": 30,
+      "missingImages": 0,
+      "importedRecords": 30
+    },
+    {
+      "brand": "cosrx",
+      "totalAds": 30,
+      "importedImages": 21,
+      "missingImages": 9,
+      "importedRecords": 30
+    },
+    {
+      "brand": "drmtlgy",
+      "totalAds": 30,
+      "importedImages": 30,
+      "missingImages": 0,
+      "importedRecords": 30
+    },
+    {
+      "brand": "drsquatch",
+      "totalAds": 30,
+      "importedImages": 26,
+      "missingImages": 4,
+      "importedRecords": 30
+    },
+    {
+      "brand": "gopure",
+      "totalAds": 30,
+      "importedImages": 0,
+      "missingImages": 30,
+      "importedRecords": 30
+    },
+    {
+      "brand": "gruns",
+      "totalAds": 29,
+      "importedImages": 18,
+      "missingImages": 11,
+      "importedRecords": 29
+    },
+    {
+      "brand": "jonesroad",
+      "totalAds": 30,
+      "importedImages": 14,
+      "missingImages": 16,
+      "importedRecords": 30
+    },
+    {
+      "brand": "magicspoon",
+      "totalAds": 30,
+      "importedImages": 28,
+      "missingImages": 2,
+      "importedRecords": 30
+    },
+    {
+      "brand": "peachandlily",
+      "totalAds": 18,
+      "importedImages": 14,
+      "missingImages": 4,
+      "importedRecords": 18
+    },
+    {
+      "brand": "ridge",
+      "totalAds": 30,
+      "importedImages": 29,
+      "missingImages": 1,
+      "importedRecords": 30
+    },
+    {
+      "brand": "skinfix",
+      "totalAds": 30,
+      "importedImages": 21,
+      "missingImages": 9,
+      "importedRecords": 30
+    },
+    {
+      "brand": "theordinary",
+      "totalAds": 30,
+      "importedImages": 21,
+      "missingImages": 9,
+      "importedRecords": 30
+    }
+  ]
+}

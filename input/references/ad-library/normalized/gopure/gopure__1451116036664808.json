@@ -1,0 +1,38 @@
+{
+  "ad_id": "meta_gopure_1451116036664808",
+  "source_platform": "meta_ad_library",
+  "captured_at": "2026-04-15T03:28:29.006Z",
+  "brand_name": "gopure",
+  "product_category": "unknown",
+  "product_names": [
+    "Best Deal on Amazon"
+  ],
+  "image_paths": [],
+  "video_paths": [],
+  "landing_page_url": "https://amazon.gopure.com/bc-generic-amz",
+  "ad_copy": "Yes yes and yes @Gopurebeauty I WANT TO BATHE IN THIS!! I can't wait to keep everyone updated #gopurebeauty\n#gopuresuperbrandday\n#confidenceatyourcore\n#tightensmoothbellycream",
+  "cta": "Learn more",
+  "country": "ALL",
+  "language": "unknown",
+  "notes": "Imported from competitor Meta Ad Library scraper",
+  "source_meta": {
+    "original_ad_archive_id": "1451116036664808",
+    "ad_format": "Video",
+    "media_kind": "video_preview",
+    "title": "Best Deal on Amazon",
+    "caption": "amazon.gopure.com",
+    "platforms": [
+      "FACEBOOK",
+      "INSTAGRAM",
+      "MESSENGER",
+      "THREADS"
+    ],
+    "start_date": "2026-03-20T07:00:00.000Z",
+    "end_date": "2026-04-02T07:00:00.000Z",
+    "primary_image_url": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/650830725_768162936061812_1630001246075972260_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=WWZGw43rAdIQ7kNvwF_QTGS&_nc_oc=AdrwOLeFLkDmHzVHj973ejCdU5kSeIEkr3xr0cPto0S91TU8omQ5WxkNYsxM-jCPKDw&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=sjp9o1GcZJUITvj2pIsr-Q&_nc_ss=7a3a8&oh=00_Af2z45nR1zGL39C-FaxfnKf8_PIfqohcG5WGX3wbqUQ5oQ&oe=69D414FB",
+    "card_count": 0,
+    "cards": [],
+    "original_json_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\gopure_ads.json",
+    "original_media_path": ""
+  }
+}

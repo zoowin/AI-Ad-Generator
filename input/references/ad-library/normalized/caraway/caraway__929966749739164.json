@@ -1,0 +1,40 @@
+{
+  "ad_id": "meta_caraway_929966749739164",
+  "source_platform": "meta_ad_library",
+  "captured_at": "2026-04-15T03:28:28.748Z",
+  "brand_name": "caraway",
+  "product_category": "unknown",
+  "product_names": [
+    "\"Nothing. Ever. Sticks\" - PopSugar"
+  ],
+  "image_paths": [
+    "data/input/ad-library/raw/caraway/caraway__929966749739164.jpg"
+  ],
+  "video_paths": [],
+  "landing_page_url": "https://www.carawayhome.com/products/deluxe-cookware-set",
+  "ad_copy": "As beautiful as it is beneficial—Caraway’s non-toxic, non-stick ceramic coating lets you cook with confidence while keeping your kitchen clean.",
+  "cta": "Shop now",
+  "country": "ALL",
+  "language": "unknown",
+  "notes": "Imported from competitor Meta Ad Library scraper",
+  "source_meta": {
+    "original_ad_archive_id": "929966749739164",
+    "ad_format": "Image",
+    "media_kind": "image",
+    "title": "\"Nothing. Ever. Sticks\" - PopSugar",
+    "caption": "carawayhome.com",
+    "platforms": [
+      "FACEBOOK",
+      "INSTAGRAM",
+      "MESSENGER",
+      "THREADS"
+    ],
+    "start_date": "2026-04-12T07:00:00.000Z",
+    "end_date": "2026-04-13T07:00:00.000Z",
+    "primary_image_url": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/669071223_1589407555497609_6705780534455697769_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=mT69sDBJZo8Q7kNvwEwrX1j&_nc_oc=AdqL7G2tZ_03ZCXN75cuHN7g3Gv8CiraxdA3l_qzpgAXr1QRo58yjF1m3baOZhqTwq8&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=_48kJ1ham5jY4v5iIqaJ5Q&_nc_ss=7a3a8&oh=00_Af3SMd9GCKezKqMDi5OKuZVXq3kr-uSYZZeBIcNicIOpFw&oe=69E3D805",
+    "card_count": 0,
+    "cards": [],
+    "original_json_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\caraway_ads.json",
+    "original_media_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\media_caraway\\ad_14_929966749739164.jpg"
+  }
+}

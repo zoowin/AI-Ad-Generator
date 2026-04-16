@@ -1,0 +1,41 @@
+{
+  "ad_id": "meta_cosrx_26510146791935806",
+  "source_platform": "meta_ad_library",
+  "captured_at": "2026-04-15T03:28:28.825Z",
+  "brand_name": "cosrx",
+  "product_category": "unknown",
+  "product_names": [
+    "🔗 Shop now on ULTA"
+  ],
+  "image_paths": [
+    "data/input/ad-library/raw/cosrx/cosrx__26510146791935806.jpg"
+  ],
+  "video_paths": [],
+  "landing_page_url": "https://www.ulta.com/p/advanced-vitamin-c-23-serum-with-super-vitamin-e-hyaluronic-acid-pimprod2056627?sku=2652090",
+  "ad_copy": "Newly upgraded COSRX 23% Pure Vitamin C Serum 🍋\n\n🍋 23% pure vitamin C for a clearer tone, glow, and texture\n☘️ High-concentration brightening care, simple for daily use\n🌿 Non-sticky, lightweight serum with quick absorption\n\nGet your glow with COSRX 💖\n#COSRX #ULTA #AdvancedVitaminC23",
+  "cta": "Shop now",
+  "country": "ALL",
+  "language": "unknown",
+  "notes": "Imported from competitor Meta Ad Library scraper",
+  "source_meta": {
+    "original_ad_archive_id": "26510146791935806",
+    "ad_format": "Video",
+    "media_kind": "video_preview",
+    "title": "🔗 Shop now on ULTA",
+    "caption": "www.ulta.com",
+    "platforms": [
+      "FACEBOOK",
+      "INSTAGRAM",
+      "AUDIENCE_NETWORK",
+      "MESSENGER",
+      "THREADS"
+    ],
+    "start_date": "2026-04-01T07:00:00.000Z",
+    "end_date": "2026-04-07T07:00:00.000Z",
+    "primary_image_url": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/658157142_1918284402154794_1312879052874254707_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=uA4Hl3OtBf4Q7kNvwEhFsNE&_nc_oc=AdrrKw2esQfGElDyc4EyWKzQNcq8pf45f4YpoJuy6l-ahDqi4BEgja2EgnGR4lo2Jyk&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=FUsUbZHriUp9A1s2abkfEQ&_nc_ss=7a3a8&oh=00_Af2eKnNSCgg7FC5vsRQl12UpsdcJM2wpoOGsdpU8DnipUw&oe=69DBD87F",
+    "card_count": 0,
+    "cards": [],
+    "original_json_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\cosrx_ads.json",
+    "original_media_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\media_cosrx\\ad_30_26510146791935806.jpg"
+  }
+}

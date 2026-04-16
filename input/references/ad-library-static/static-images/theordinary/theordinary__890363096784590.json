@@ -1,0 +1,40 @@
+{
+  "ad_id": "meta_theordinary_890363096784590",
+  "source_platform": "meta_ad_library",
+  "captured_at": "2026-04-15T03:28:29.927Z",
+  "brand_name": "theordinary",
+  "product_category": "unknown",
+  "product_names": [
+    "Şimdi Tek Yetkili Trendyol Mağazasında."
+  ],
+  "image_paths": [
+    "data/input/ad-library/raw/theordinary/theordinary__890363096784590.jpg"
+  ],
+  "video_paths": [],
+  "landing_page_url": "https://fb.com/canvas_doc/1365522261496815",
+  "ad_copy": "Çok Satan The Ordinary Ürünlerini Keşfedin!",
+  "cta": "Learn more",
+  "country": "ALL",
+  "language": "unknown",
+  "notes": "Imported from competitor Meta Ad Library scraper",
+  "source_meta": {
+    "original_ad_archive_id": "890363096784590",
+    "ad_format": "Image",
+    "media_kind": "image",
+    "title": "Şimdi Tek Yetkili Trendyol Mağazasında.",
+    "caption": "fb.com",
+    "platforms": [
+      "FACEBOOK",
+      "INSTAGRAM",
+      "AUDIENCE_NETWORK",
+      "THREADS"
+    ],
+    "start_date": "2026-01-06T08:00:00.000Z",
+    "end_date": "2026-04-07T07:00:00.000Z",
+    "primary_image_url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/611849109_917490824175705_3741050400517439053_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=D2fSehqd-UgQ7kNvwFr15tt&_nc_oc=Adp39c_GlT5iipuniKs4aEQGFnbddCFR4P0TbtPjJxA9nw0U4SvJMsG79-7k7faOOZA&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=Z_nVSow4qziKaexeRF_dXQ&_nc_ss=7a3a8&oh=00_Af1fKXdHZNhxx3QbEe42xAMmtEa3Lji0w94reUJzDcum7g&oe=69DBD703",
+    "card_count": 0,
+    "cards": [],
+    "original_json_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\theordinary_ads.json",
+    "original_media_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\media_theordinary\\ad_5_890363096784590.jpg"
+  }
+}

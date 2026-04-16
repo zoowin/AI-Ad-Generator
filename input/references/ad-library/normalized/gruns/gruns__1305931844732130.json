@@ -1,0 +1,58 @@
+{
+  "ad_id": "meta_gruns_1305931844732130",
+  "source_platform": "meta_ad_library",
+  "captured_at": "2026-04-15T03:28:29.092Z",
+  "brand_name": "gruns",
+  "product_category": "unknown",
+  "product_names": [
+    "13-in-1 daily immune support."
+  ],
+  "image_paths": [
+    "data/input/ad-library/raw/gruns/gruns__1305931844732130.jpg"
+  ],
+  "video_paths": [],
+  "landing_page_url": "https://immun.co/pages/first-order",
+  "ad_copy": "{{product.brand}}",
+  "cta": "Shop now",
+  "country": "ALL",
+  "language": "unknown",
+  "notes": "Imported from competitor Meta Ad Library scraper",
+  "source_meta": {
+    "original_ad_archive_id": "1305931844732130",
+    "ad_format": "Carousel",
+    "media_kind": "carousel_preview",
+    "title": "{{product.name}}",
+    "caption": "immun.co",
+    "platforms": [
+      "FACEBOOK",
+      "INSTAGRAM",
+      "AUDIENCE_NETWORK",
+      "MESSENGER",
+      "THREADS"
+    ],
+    "start_date": "2026-03-11T07:00:00.000Z",
+    "end_date": "2026-04-13T07:00:00.000Z",
+    "primary_image_url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/643424264_920967730307981_5888360769782914132_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=wNsHalo3kXYQ7kNvwGC0lsi&_nc_oc=AdrSBQolGM3vF_gzt-5RcVgN8rn-yZQz4oK35aWILJeDzpNkXS0J3GxY8mDi9oZqP_o&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=GN6450Ux2-aU2aIrZCZ9SA&_nc_ss=7a3a8&oh=00_Af2QoCm1zjSFH9pAVr6yZkkbcAw_USC8ZjeuR-QVahDlAg&oe=69E3C4E7",
+    "card_count": 2,
+    "cards": [
+      {
+        "body": "The team behind Grüns spent years figuring out how to pack serious nutrition into a gummy you actually want to take every day.\n\nNow we've done it for your immune system.\n\nImmün is a 13-ingredient daily gummy built on the same philosophy.\n\nEvery pack supports:\n\n✔️Vitamin C · D3 · B6 · B12 · Zinc - foundational immune support\n✔️Elderberry, Turmeric, Ginger — antioxidant power\n✔️Ashwagandha + Holy Basil\n✔️ 7g Prebiotic Fiber - because 70% of immune function lives in your gut\n✔️ MCT Oil + Black Pepper - so your body actually absorbs what you're taking\n\nIf you trusted Grüns to handle your greens, this is how you handle the rest.\n\n🛡️ Try Immün today and save 52%",
+        "title": "13-in-1 daily immune support.",
+        "caption": "",
+        "cta_text": "Shop Now",
+        "link_url": "https://immun.co/pages/first-order",
+        "image": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/643424264_920967730307981_5888360769782914132_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=wNsHalo3kXYQ7kNvwGC0lsi&_nc_oc=AdrSBQolGM3vF_gzt-5RcVgN8rn-yZQz4oK35aWILJeDzpNkXS0J3GxY8mDi9oZqP_o&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=GN6450Ux2-aU2aIrZCZ9SA&_nc_ss=7a3a8&oh=00_Af2QoCm1zjSFH9pAVr6yZkkbcAw_USC8ZjeuR-QVahDlAg&oe=69E3C4E7"
+      },
+      {
+        "body": "The team behind Grüns spent years figuring out how to pack serious nutrition into a gummy you actually want to take every day.\n\nNow we've done it for your immune system.\n\nImmün is a 13-ingredient daily gummy built on the same philosophy.\n\nEvery pack supports:\n\n✔️Vitamin C · D3 · B6 · B12 · Zinc - foundational immune support\n✔️Elderberry, Turmeric, Ginger — antioxidant power\n✔️Ashwagandha + Holy Basil\n✔️ 7g Prebiotic Fiber - because 70% of immune function lives in your gut\n✔️ MCT Oil + Black Pepper - so your body actually absorbs what you're taking\n\nIf you trusted Grüns to handle your greens, this is how you handle the rest.\n\n🛡️ Try Immün today and save 52%",
+        "title": "13-in-1 daily immune support.",
+        "caption": "",
+        "cta_text": "Shop Now",
+        "link_url": "https://immun.co/pages/first-order",
+        "image": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/643457963_3852639295043662_5997211988920318492_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=7gxgW01whU8Q7kNvwEqZIx8&_nc_oc=Adrof2hQjOtGG78vJwSiTEYfmg-VoDiDxfkgOSrrr1aiUY32IqCdeV_F-bBtLw7L_8Q&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=GN6450Ux2-aU2aIrZCZ9SA&_nc_ss=7a3a8&oh=00_Af2x8VEA4xV_9bpBA2RqheEIJdNdnB7DW9WDSLzrLgc8iQ&oe=69E3C165"
+      }
+    ],
+    "original_json_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\gruns_ads.json",
+    "original_media_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\media_gruns\\ad_22_1305931844732130.jpg"
+  }
+}

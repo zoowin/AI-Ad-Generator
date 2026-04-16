@@ -1,0 +1,35 @@
+{
+  "ad_id": "meta_magicspoon_1244164737394131",
+  "source_platform": "meta_ad_library",
+  "captured_at": "2026-04-15T03:28:29.194Z",
+  "brand_name": "magicspoon",
+  "product_category": "unknown",
+  "product_names": [],
+  "image_paths": [
+    "data/input/ad-library/raw/magicspoon/magicspoon__1244164737394131.jpg"
+  ],
+  "video_paths": [],
+  "landing_page_url": "https://magicspoon.com/",
+  "ad_copy": "I saw the future… And it involved Magic Spoon.\n\nHead to a local retailer to grab some magicspooncereal today!\n#Ad #MagicSpoon #MagicSpoonPartner",
+  "cta": "Learn more",
+  "country": "ALL",
+  "language": "unknown",
+  "notes": "Imported from competitor Meta Ad Library scraper",
+  "source_meta": {
+    "original_ad_archive_id": "1244164737394131",
+    "ad_format": "Video",
+    "media_kind": "video_preview",
+    "title": "",
+    "caption": "magicspoon.com",
+    "platforms": [
+      "INSTAGRAM"
+    ],
+    "start_date": "2026-03-12T07:00:00.000Z",
+    "end_date": "2026-04-13T07:00:00.000Z",
+    "primary_image_url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/650212769_1402667418273077_940684674344343045_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=qI_00xoMKvYQ7kNvwF5g0HJ&_nc_oc=Adrw1japrTveutUMZtfneb0OPD-eHn71cdDLX7_7iZaW2iG1tq1YGvhp0Tii5cpvRGk&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=gVBsOXyMuA7-9yp-b6MSPg&_nc_ss=7a3a8&oh=00_Af1thk5Ly_QqhIIOBWh9iqBlE11oZ6_cka9rqxjDDXtAMg&oe=69E3CC2E",
+    "card_count": 0,
+    "cards": [],
+    "original_json_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\magicspoon_ads.json",
+    "original_media_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\media_magicspoon\\ad_1_1244164737394131.jpg"
+  }
+}

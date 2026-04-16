@@ -1,0 +1,40 @@
+{
+  "ad_id": "meta_gruns_2018421139082424",
+  "source_platform": "meta_ad_library",
+  "captured_at": "2026-04-15T03:28:29.089Z",
+  "brand_name": "gruns",
+  "product_category": "unknown",
+  "product_names": [
+    "Your Favorite Soda × Your Favorite Greens"
+  ],
+  "image_paths": [
+    "data/input/ad-library/raw/gruns/gruns__2018421139082424.jpg"
+  ],
+  "video_paths": [],
+  "landing_page_url": "http://gruns.co/products/gruns-olipop",
+  "ad_copy": "Grüns x OLIPOP = daily health, but make it a treat:\n✔️ 20+ vitamins & minerals\n✔️ Gut-friendly prebiotics\n✔️ Dreamy strawberry vanilla flavor\nFeel better every day—this time, it tastes like your favorite prebiotic soda. 🍓✨",
+  "cta": "Shop now",
+  "country": "ALL",
+  "language": "unknown",
+  "notes": "Imported from competitor Meta Ad Library scraper",
+  "source_meta": {
+    "original_ad_archive_id": "2018421139082424",
+    "ad_format": "Image",
+    "media_kind": "image",
+    "title": "Your Favorite Soda × Your Favorite Greens",
+    "caption": "gruns.co",
+    "platforms": [
+      "FACEBOOK",
+      "INSTAGRAM",
+      "MESSENGER",
+      "THREADS"
+    ],
+    "start_date": "2026-04-09T07:00:00.000Z",
+    "end_date": "2026-04-13T07:00:00.000Z",
+    "primary_image_url": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/669542949_1359924529503964_7621024466788285864_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=nqtVWz70LOEQ7kNvwHfXXe_&_nc_oc=AdrMaFIbYks9ai5LfPspuRXmu7fuEBI8uqpHPLmRoct30YxHfytqV6QedJhS6PWi6Q8&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=GN6450Ux2-aU2aIrZCZ9SA&_nc_ss=7a3a8&oh=00_Af1qzUaLljunuArlP6Y3QtuNIJIUOF3Zgu29rbd9JGng7A&oe=69E3B842",
+    "card_count": 0,
+    "cards": [],
+    "original_json_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\gruns_ads.json",
+    "original_media_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\media_gruns\\ad_19_2018421139082424.jpg"
+  }
+}

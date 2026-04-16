@@ -1,0 +1,58 @@
+{
+  "ad_id": "meta_magicspoon_1302051315314072",
+  "source_platform": "meta_ad_library",
+  "captured_at": "2026-04-15T03:28:29.222Z",
+  "brand_name": "magicspoon",
+  "product_category": "unknown",
+  "product_names": [
+    "New Product Alert 🚨"
+  ],
+  "image_paths": [
+    "data/input/ad-library/raw/magicspoon/magicspoon__1302051315314072.jpg"
+  ],
+  "video_paths": [],
+  "landing_page_url": "https://magicspoon.com/pages/5-reasons-why-page",
+  "ad_copy": "{{product.brand}}",
+  "cta": "Shop now",
+  "country": "ALL",
+  "language": "unknown",
+  "notes": "Imported from competitor Meta Ad Library scraper",
+  "source_meta": {
+    "original_ad_archive_id": "1302051315314072",
+    "ad_format": "Carousel",
+    "media_kind": "carousel_preview",
+    "title": "{{product.name}}",
+    "caption": "magicspoon.com",
+    "platforms": [
+      "FACEBOOK",
+      "INSTAGRAM",
+      "AUDIENCE_NETWORK",
+      "MESSENGER",
+      "THREADS"
+    ],
+    "start_date": "2026-03-19T07:00:00.000Z",
+    "end_date": "2026-04-13T07:00:00.000Z",
+    "primary_image_url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/654970800_1521981146020739_4683387262643826691_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=PbGsRaczkCUQ7kNvwEe6Ifr&_nc_oc=AdqDrj1-Yqlc8syyEzJEXQrvr36E3QnaYYC9So63i5UC1xHWpxRWc0Vav0nFp5QpW-c&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=gVBsOXyMuA7-9yp-b6MSPg&_nc_ss=7a3a8&oh=00_Af2aSy6gToqJNNe5OqHAoLQwQiAJ2IsHQW5pUEpk40sXyw&oe=69E3E379",
+    "card_count": 2,
+    "cards": [
+      {
+        "body": "We've whipped up the tastiest, gooey-ist, most delicious protein pastries out there. Introducing Magic Spoon Protein Pastries!",
+        "title": "New Product Alert 🚨",
+        "caption": "",
+        "cta_text": "Shop Now",
+        "link_url": "https://magicspoon.com/pages/5-reasons-why-page",
+        "image": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/654970800_1521981146020739_4683387262643826691_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=PbGsRaczkCUQ7kNvwEe6Ifr&_nc_oc=AdqDrj1-Yqlc8syyEzJEXQrvr36E3QnaYYC9So63i5UC1xHWpxRWc0Vav0nFp5QpW-c&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=gVBsOXyMuA7-9yp-b6MSPg&_nc_ss=7a3a8&oh=00_Af2aSy6gToqJNNe5OqHAoLQwQiAJ2IsHQW5pUEpk40sXyw&oe=69E3E379"
+      },
+      {
+        "body": "We've whipped up the tastiest, gooey-ist, most delicious protein pastries out there. Introducing Magic Spoon Protein Pastries!",
+        "title": "New Product Alert 🚨",
+        "caption": "",
+        "cta_text": "Shop Now",
+        "link_url": "https://magicspoon.com/pages/5-reasons-why-page",
+        "image": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/654622517_802950056192716_3376309709195175941_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Cwa-JDEtEmQQ7kNvwHYS9PD&_nc_oc=AdomRSvLxyr90RixP2_rdDJa1hYRZJkRViufuNafpDKGwXIu0jpvCZJx5DaUU-HzIjg&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=gVBsOXyMuA7-9yp-b6MSPg&_nc_ss=7a3a8&oh=00_Af0XwlZnj4yHiutMkt5srgA4Kddz8SOqjBvgfHXI3XhARg&oe=69E3D43E"
+      }
+    ],
+    "original_json_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\magicspoon_ads.json",
+    "original_media_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\media_magicspoon\\ad_6_1302051315314072.jpg"
+  }
+}

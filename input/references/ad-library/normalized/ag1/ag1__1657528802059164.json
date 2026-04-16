@@ -1,0 +1,40 @@
+{
+  "ad_id": "meta_ag1_1657528802059164",
+  "source_platform": "meta_ad_library",
+  "captured_at": "2026-04-15T03:28:28.720Z",
+  "brand_name": "ag1",
+  "product_category": "unknown",
+  "product_names": [
+    "Hugh-Approved Daily Health"
+  ],
+  "image_paths": [
+    "data/input/ad-library/raw/ag1/ag1__1657528802059164.jpg"
+  ],
+  "video_paths": [],
+  "landing_page_url": "https://drinkag1.com/en-au/hugh-jackman",
+  "ad_copy": "Hugh Jackman’s mornings start with a simple daily scoop. AG1 supports Hugh Jackman’s energy and whole-body health every morning.*\n\n*Please refer to drinkAG1.com for full disclosure.",
+  "cta": "Learn more",
+  "country": "ALL",
+  "language": "unknown",
+  "notes": "Imported from competitor Meta Ad Library scraper",
+  "source_meta": {
+    "original_ad_archive_id": "1657528802059164",
+    "ad_format": "Video",
+    "media_kind": "video_preview",
+    "title": "Hugh-Approved Daily Health",
+    "caption": "drinkag1.com/au",
+    "platforms": [
+      "FACEBOOK",
+      "INSTAGRAM",
+      "MESSENGER",
+      "THREADS"
+    ],
+    "start_date": "2026-04-13T07:00:00.000Z",
+    "end_date": "2026-04-13T07:00:00.000Z",
+    "primary_image_url": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/655742973_2057731208173319_6233370196073681569_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=oiBGfUZNtvMQ7kNvwFDtmqB&_nc_oc=Adpa564hUemQx0O8hPm1_-q_HddayZMeXAYVtK2-4Go-aIBwXW5x2LiiqduPVHRl3OA&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=Fns_35FlzA60O0VNYqaUAg&_nc_ss=7a3a8&oh=00_Af0TJBOL3nlUVTeED1YeTjEZXbsZz4rYgQ6RpFittKG1aQ&oe=69E3E9CA",
+    "card_count": 0,
+    "cards": [],
+    "original_json_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\ag1_ads.json",
+    "original_media_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\media_ag1\\ad_25_1657528802059164.jpg"
+  }
+}

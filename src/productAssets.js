@@ -11,8 +11,29 @@ function humanizeName(fileName) {
     .trim();
 }
 
+function walkImageFiles(dirPath) {
+  if (!fs.existsSync(dirPath)) {
+    return [];
+  }
+
+  const files = [];
+  for (const entry of fs.readdirSync(dirPath, { withFileTypes: true })) {
+    const absolutePath = path.join(dirPath, entry.name);
+    if (entry.isDirectory()) {
+      files.push(...walkImageFiles(absolutePath));
+      continue;
+    }
+    if (entry.isFile() && IMAGE_EXTENSIONS.has(path.extname(entry.name).toLowerCase())) {
+      files.push(absolutePath);
+    }
+  }
+  return files;
+}
+
 export function loadProductAssets(rootDir) {
-  const assetsDir = path.join(rootDir, "assets", "products");
+  const preferredDir = path.join(rootDir, "input", "products");
+  const legacyDir = path.join(rootDir, "assets", "products");
+  const assetsDir = fs.existsSync(preferredDir) ? preferredDir : legacyDir;
 
   if (!fs.existsSync(assetsDir)) {
     return {
@@ -21,18 +42,16 @@ export function loadProductAssets(rootDir) {
     };
   }
 
-  const entries = fs.readdirSync(assetsDir, { withFileTypes: true });
-  const assets = entries
-    .filter((entry) => entry.isFile())
-    .filter((entry) => IMAGE_EXTENSIONS.has(path.extname(entry.name).toLowerCase()))
-    .map((entry, index) => {
-      const absolutePath = path.join(assetsDir, entry.name);
+  const imageFiles = walkImageFiles(assetsDir);
+  const assets = imageFiles
+    .map((absolutePath, index) => {
+      const relativePath = path.relative(assetsDir, absolutePath).replace(/\\/g, "/");
       const stats = fs.statSync(absolutePath);
 
       return {
         id: `asset-${index + 1}`,
-        fileName: entry.name,
-        displayName: humanizeName(entry.name),
+        fileName: relativePath,
+        displayName: humanizeName(path.basename(absolutePath)),
         absolutePath,
         sizeBytes: stats.size
       };

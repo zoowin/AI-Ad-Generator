@@ -1,0 +1,38 @@
+{
+  "ad_id": "meta_gopure_807547688447626",
+  "source_platform": "meta_ad_library",
+  "captured_at": "2026-04-15T03:28:29.008Z",
+  "brand_name": "gopure",
+  "product_category": "unknown",
+  "product_names": [
+    "Best Deal on Amazon"
+  ],
+  "image_paths": [],
+  "video_paths": [],
+  "landing_page_url": "http://amazon.gopure.com/nc10",
+  "ad_copy": "My mom’s results are insane! She’s 74 and her neck looks amazing after using GoPure Tighten & Lift Neck Cream. It’s on a great sale right now—don’t miss out! You can grab the authentic one directly on Amazon for fast delivery.",
+  "cta": "Learn more",
+  "country": "ALL",
+  "language": "unknown",
+  "notes": "Imported from competitor Meta Ad Library scraper",
+  "source_meta": {
+    "original_ad_archive_id": "807547688447626",
+    "ad_format": "Video",
+    "media_kind": "video_preview",
+    "title": "Best Deal on Amazon",
+    "caption": "amazon.gopure.com",
+    "platforms": [
+      "FACEBOOK",
+      "INSTAGRAM",
+      "MESSENGER",
+      "THREADS"
+    ],
+    "start_date": "2026-03-17T07:00:00.000Z",
+    "end_date": "2026-04-02T07:00:00.000Z",
+    "primary_image_url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/586295563_1190949985703393_5956264969190394782_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ZZJ08GJIv6EQ7kNvwFdypKd&_nc_oc=AdqSvy27KmycPlfwxd2TNX_BwHGGpfLQDOhl4ZHkpxwM8joWLt1e4ER0cKvWGzyteFw&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=sjp9o1GcZJUITvj2pIsr-Q&_nc_ss=7a3a8&oh=00_Af2X2zzm1eY9R0VH2nO1QzNz5PXfNyfG2dFK-hIWq9evPg&oe=69D41081",
+    "card_count": 0,
+    "cards": [],
+    "original_json_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\gopure_ads.json",
+    "original_media_path": ""
+  }
+}

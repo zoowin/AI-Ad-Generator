@@ -1,0 +1,40 @@
+{
+  "ad_id": "meta_drmtlgy_937497148661417",
+  "source_platform": "meta_ad_library",
+  "captured_at": "2026-04-15T03:28:28.912Z",
+  "brand_name": "drmtlgy",
+  "product_category": "unknown",
+  "product_names": [
+    "20% off our NEW Growth Factor Serum"
+  ],
+  "image_paths": [
+    "data/input/ad-library/raw/drmtlgy/drmtlgy__937497148661417.jpg"
+  ],
+  "video_paths": [],
+  "landing_page_url": "https://drmtlgy.com/pages/new-meet-growth-factor-serum",
+  "ad_copy": "{{product.brand}}",
+  "cta": "Shop Now",
+  "country": "ALL",
+  "language": "unknown",
+  "notes": "Imported from competitor Meta Ad Library scraper",
+  "source_meta": {
+    "original_ad_archive_id": "937497148661417",
+    "ad_format": "Video",
+    "media_kind": "video_preview",
+    "title": "20% off our NEW Growth Factor Serum",
+    "caption": "",
+    "platforms": [
+      "FACEBOOK",
+      "INSTAGRAM",
+      "MESSENGER",
+      "THREADS"
+    ],
+    "start_date": "2026-04-01T07:00:00.000Z",
+    "end_date": "",
+    "primary_image_url": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/658433780_821322524323567_4537489343622145730_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=p5UuClbUFYQQ7kNvwFwjPHo&_nc_oc=Ado5fRd9vXgJ9ZKipTYDlZlUbllGsEHizwg5YSRh0UnGqb5zt0L7O2_jW9tleNcAri4&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=2QWTKabkCeZiH4T1AWhjTw&_nc_ss=7a3a8&oh=00_Af3HfN4bcMT_o82k2iZv5eULjhr74L4Puc8Jey57HRJ0HA&oe=69D4033D",
+    "card_count": 2,
+    "cards": [],
+    "original_json_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\drmtlgy_ads.json",
+    "original_media_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\media_drmtlgy\\ad_20.jpg"
+  }
+}

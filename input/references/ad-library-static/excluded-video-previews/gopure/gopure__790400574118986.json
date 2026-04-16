@@ -1,0 +1,38 @@
+{
+  "ad_id": "meta_gopure_790400574118986",
+  "source_platform": "meta_ad_library",
+  "captured_at": "2026-04-15T03:28:29.002Z",
+  "brand_name": "gopure",
+  "product_category": "unknown",
+  "product_names": [
+    "Best Deal on Amazon"
+  ],
+  "image_paths": [],
+  "video_paths": [],
+  "landing_page_url": "http://amazon.gopure.com/nc10",
+  "ad_copy": "My neck had that dreaded turkey neck look. But look at it now! I know you’ve heard about this, but when you see actual results from someone who’s tried everything, you need to pay attention. Just try one of these GoPure Neck Creams and see for yourself. You can find the authentic one easily on Amazon for quick delivery.\n\n#GoPure #NeckCare #FirmAndLift",
+  "cta": "Learn more",
+  "country": "ALL",
+  "language": "unknown",
+  "notes": "Imported from competitor Meta Ad Library scraper",
+  "source_meta": {
+    "original_ad_archive_id": "790400574118986",
+    "ad_format": "Video",
+    "media_kind": "video_preview",
+    "title": "Best Deal on Amazon",
+    "caption": "amazon.gopure.com",
+    "platforms": [
+      "FACEBOOK",
+      "INSTAGRAM",
+      "MESSENGER",
+      "THREADS"
+    ],
+    "start_date": "2026-03-17T07:00:00.000Z",
+    "end_date": "2026-04-02T07:00:00.000Z",
+    "primary_image_url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/588623316_1391809372541090_8573137234470087324_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=WHtQ9jV06v8Q7kNvwGjRTF0&_nc_oc=AdoKqJLE2I7EmTMjBKZoRlhvS3_YYddgFDQaBFdtMJ-TnUo_p6YlxueNGMLCTkbrDzE&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=sjp9o1GcZJUITvj2pIsr-Q&_nc_ss=7a3a8&oh=00_Af2BIb5MnFxl1luheC2eZTr3S3vhAOARGrB3RBNkcoBN1Q&oe=69D4101E",
+    "card_count": 0,
+    "cards": [],
+    "original_json_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\gopure_ads.json",
+    "original_media_path": ""
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "ad_id": "meta_ridge_1434309948344056",
+  "source_platform": "meta_ad_library",
+  "captured_at": "2026-04-15T03:28:29.740Z",
+  "brand_name": "ridge",
+  "product_category": "unknown",
+  "product_names": [
+    "Perfect fit guaranteed"
+  ],
+  "image_paths": [
+    "data/input/ad-library/raw/ridge/ridge__1434309948344056.jpg"
+  ],
+  "video_paths": [],
+  "landing_page_url": "https://ridge.com/products/platinum-beveled-ring",
+  "ad_copy": "Show your commitment with The Ridge Ring Set - crafted from premium materials and designed for comfort.\n\nThis Includes:\n✅ Dual Ridge Silicone Ring\n✅ 2X FREE Replacements\n✅ 99 Day Risk-Free Trial\n✅ Guaranteed for Life",
+  "cta": "Shop now",
+  "country": "ALL",
+  "language": "unknown",
+  "notes": "Imported from competitor Meta Ad Library scraper",
+  "source_meta": {
+    "original_ad_archive_id": "1434309948344056",
+    "ad_format": "Image",
+    "media_kind": "image",
+    "title": "Perfect fit guaranteed",
+    "caption": "ridge.com",
+    "platforms": [
+      "FACEBOOK",
+      "INSTAGRAM",
+      "MESSENGER",
+      "THREADS"
+    ],
+    "start_date": "2026-02-14T08:00:00.000Z",
+    "end_date": "2026-04-13T07:00:00.000Z",
+    "primary_image_url": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/545573850_1859891011628577_2259826389328110737_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=YbQL9_dBqDoQ7kNvwGCfmcz&_nc_oc=AdpgT9pD_YYIHIa_BvUe1fONKSkFAPQIr7djCfUoy0kw9XFquyUtp2HjoUPPrE1X9LQ&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=qqZTfAce3wqWlUL87WTHpQ&_nc_ss=7a3a8&oh=00_Af1vN82PiEPjomuzPqvX9EzwXtkS6y76EBt1ivI1Nrp1oA&oe=69E3EA70",
+    "card_count": 0,
+    "cards": [],
+    "original_json_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\ridge_ads.json",
+    "original_media_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\media_ridge\\ad_20_1434309948344056.jpg"
+  }
+}

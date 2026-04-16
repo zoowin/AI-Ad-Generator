@@ -1,0 +1,55 @@
+{
+  "ad_id": "meta_ag1_1409602391184318",
+  "source_platform": "meta_ad_library",
+  "captured_at": "2026-04-15T03:28:28.720Z",
+  "brand_name": "ag1",
+  "product_category": "unknown",
+  "product_names": [
+    "Start April Strong: Your AG1 Welcome Kit + Bonus Travel Packs"
+  ],
+  "image_paths": [],
+  "video_paths": [],
+  "landing_page_url": "https://drinkag1.com/en-eu/campaign/immunity/ctr-m-v1",
+  "ad_copy": "{{product.brand}}",
+  "cta": "Shop now",
+  "country": "ALL",
+  "language": "unknown",
+  "notes": "Imported from competitor Meta Ad Library scraper",
+  "source_meta": {
+    "original_ad_archive_id": "1409602391184318",
+    "ad_format": "Carousel",
+    "media_kind": "carousel_preview",
+    "title": "{{product.name}}",
+    "caption": "drinkag1.com",
+    "platforms": [
+      "FACEBOOK",
+      "INSTAGRAM",
+      "MESSENGER",
+      "THREADS"
+    ],
+    "start_date": "2026-04-01T07:00:00.000Z",
+    "end_date": "2026-04-13T07:00:00.000Z",
+    "primary_image_url": "",
+    "card_count": 2,
+    "cards": [
+      {
+        "body": "Spring is here, the perfect time to refresh your daily routine with AG1!\n\nAG1 fits seamlessly into your morning, providing daily nutrition support. Commit to your health this April and receive the complete starter bundle including:\n\n💚 10 FREE Travel Packs\n💚 FREE Vitamin D3+K2 Drops\n💚 Welcome Kit worth €87\n\nAll of this, alongside your first AG1 Monthly Pouch. One daily habit. Support made simple.\n\n--\n\n*Offer valid for new subscribers only. For more information regarding our health claims, please visit our website.",
+        "title": "Start April Strong: Your AG1 Welcome Kit + Bonus Travel Packs",
+        "caption": "",
+        "cta_text": "Shop Now",
+        "link_url": "https://drinkag1.com/en-eu/campaign/immunity/ctr-m-v1",
+        "image": ""
+      },
+      {
+        "body": "Spring is here, the perfect time to refresh your daily routine with AG1!\n\nAG1 fits seamlessly into your morning, providing daily nutrition support. Commit to your health this April and receive the complete starter bundle including:\n\n💚 10 FREE Travel Packs\n💚 FREE Vitamin D3+K2 Drops\n💚 Welcome Kit worth €87\n\nAll of this, alongside your first AG1 Monthly Pouch. One daily habit. Support made simple.\n\n--\n\n*Offer valid for new subscribers only. For more information regarding our health claims, please visit our website.",
+        "title": "Start April Strong: Your AG1 Welcome Kit + Bonus Travel Packs",
+        "caption": "",
+        "cta_text": "Shop Now",
+        "link_url": "https://drinkag1.com/en-eu/campaign/immunity/ctr-m-v1",
+        "image": ""
+      }
+    ],
+    "original_json_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\ag1_ads.json",
+    "original_media_path": ""
+  }
+}

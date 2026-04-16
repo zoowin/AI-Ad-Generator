@@ -1,0 +1,41 @@
+{
+  "ad_id": "meta_drsquatch_1987186482181176",
+  "source_platform": "meta_ad_library",
+  "captured_at": "2026-04-15T03:28:28.970Z",
+  "brand_name": "drsquatch",
+  "product_category": "unknown",
+  "product_names": [
+    "🌿 98% NATURAL SOAP 🌿"
+  ],
+  "image_paths": [
+    "data/input/ad-library/raw/drsquatch/drsquatch__1987186482181176.jpg"
+  ],
+  "video_paths": [],
+  "landing_page_url": "https://www.drsquatch.com/products/exclusive-bar-soap-6-pack",
+  "ad_copy": "✅ Top Scents Inspired By Nature | Level up your skincare ✅\n\n⭐⭐⭐⭐⭐ Tens of thousands of 5 star reviews for Dr. Squatch natural products.\n\nREAL NATURAL INGREDIENTS\n🫚 Made with natural ingredients – charcoal, arrowroot powder\n🧼 Try our best natural soaps, colognes, deodorant, and more.\n👃 Amazing scents that men and their families love\n\n📦 Available now – at Drsquatch.com",
+  "cta": "Shop now",
+  "country": "ALL",
+  "language": "unknown",
+  "notes": "Imported from competitor Meta Ad Library scraper",
+  "source_meta": {
+    "original_ad_archive_id": "1987186482181176",
+    "ad_format": "Video",
+    "media_kind": "video_preview",
+    "title": "🌿 98% NATURAL SOAP 🌿",
+    "caption": "www.drsquatch.com",
+    "platforms": [
+      "FACEBOOK",
+      "INSTAGRAM",
+      "AUDIENCE_NETWORK",
+      "MESSENGER",
+      "THREADS"
+    ],
+    "start_date": "2026-03-19T07:00:00.000Z",
+    "end_date": "2026-04-14T07:00:00.000Z",
+    "primary_image_url": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/654759786_1828572494443931_6134389765432193290_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ZG93p0Y2X7MQ7kNvwGi4pis&_nc_oc=AdoIdDHgfsZqfg9JqjFAbQkjLWtVLin62SktWdoXQhpDCg3gOWnAlGpZcbbroP6q42Q&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=jJjzAELG8KqNybh2TjzeMw&_nc_ss=7a3a8&oh=00_Af39dKg4aZ-Y3YVPb4Bb-p84mL-1wpRsNbw8fCuYYeGFdg&oe=69E3D9C6",
+    "card_count": 0,
+    "cards": [],
+    "original_json_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\drsquatch_ads.json",
+    "original_media_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\media_drsquatch\\ad_13_1987186482181176.jpg"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "ad_id": "meta_ridge_23886003841033000",
+  "source_platform": "meta_ad_library",
+  "captured_at": "2026-04-15T03:28:29.761Z",
+  "brand_name": "ridge",
+  "product_category": "unknown",
+  "product_names": [
+    "The Ridge Ring Set"
+  ],
+  "image_paths": [
+    "data/input/ad-library/raw/ridge/ridge__23886003841033000.jpg"
+  ],
+  "video_paths": [],
+  "landing_page_url": "https://ridgewallet.ca/collections/rings-men-5rlp-col",
+  "ad_copy": "Crafted with premium materials, the Ridge Beveled Ring sets are where style meets durability. Our rings redefine toughness and are designed to be the most comfortable ring you will ever wear.\n\nWhat's Included:\n✅ FREE Silicone band\n✅ Scratch Resistant\n✅ No-Pinch Fit\n✅ 99 Day Risk-Free Trial\n✅ Guaranteed for Life",
+  "cta": "Shop now",
+  "country": "ALL",
+  "language": "unknown",
+  "notes": "Imported from competitor Meta Ad Library scraper",
+  "source_meta": {
+    "original_ad_archive_id": "23886003841033000",
+    "ad_format": "Image",
+    "media_kind": "image",
+    "title": "The Ridge Ring Set",
+    "caption": "ridgewallet.ca",
+    "platforms": [
+      "FACEBOOK",
+      "INSTAGRAM",
+      "MESSENGER"
+    ],
+    "start_date": "2025-05-20T07:00:00.000Z",
+    "end_date": "2026-04-13T07:00:00.000Z",
+    "primary_image_url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/498594407_731478072740904_6728808067172097732_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=cWVao2yRZlUQ7kNvwEkxX3X&_nc_oc=Adq6qsjWvYkxLLFYY302XfmdoRAmClrWMAIM9Tpt7BACsQEaCIq2gveIt6I5aFR2V3U&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=qqZTfAce3wqWlUL87WTHpQ&_nc_ss=7a3a8&oh=00_Af1Q6COG76qkFXKL11c534ScxcJocoa820FRPiFP6wEUoA&oe=69E3D759",
+    "card_count": 0,
+    "cards": [],
+    "original_json_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\ridge_ads.json",
+    "original_media_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\media_ridge\\ad_26_23886003841033000.jpg"
+  }
+}

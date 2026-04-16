@@ -1,0 +1,38 @@
+{
+  "ad_id": "meta_theordinary_772807212576746",
+  "source_platform": "meta_ad_library",
+  "captured_at": "2026-04-15T03:28:29.974Z",
+  "brand_name": "theordinary",
+  "product_category": "unknown",
+  "product_names": [
+    "A Birthday Gift For You."
+  ],
+  "image_paths": [
+    "data/input/ad-library/raw/theordinary/theordinary__772807212576746.jpg"
+  ],
+  "video_paths": [],
+  "landing_page_url": "https://fb.com/canvas_doc/1447553760407573",
+  "ad_copy": "Our birthday means a treat for you. A moisturizer of your choice. Ends April 9. T&Cs apply.",
+  "cta": "Shop now",
+  "country": "ALL",
+  "language": "unknown",
+  "notes": "Imported from competitor Meta Ad Library scraper",
+  "source_meta": {
+    "original_ad_archive_id": "772807212576746",
+    "ad_format": "Image",
+    "media_kind": "image",
+    "title": "A Birthday Gift For You.",
+    "caption": "fb.com",
+    "platforms": [
+      "FACEBOOK",
+      "INSTAGRAM"
+    ],
+    "start_date": "2026-03-31T07:00:00.000Z",
+    "end_date": "2026-04-07T07:00:00.000Z",
+    "primary_image_url": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/659242412_1242464457866375_6412020295541623357_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=_TwJwTuLnOsQ7kNvwGw6ISM&_nc_oc=AdqqTendJhv2a4RbvDmkmaSyjGpOJTjf07OdT2hbjQHFwR3vgo99DrAdnUqaT0HYDgI&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=Z_nVSow4qziKaexeRF_dXQ&_nc_ss=7a3a8&oh=00_Af1-IHMSHvmJi9v8nUMPp8C8j4uV5r_KJ8gqpExF5EhIbw&oe=69DBEF37",
+    "card_count": 0,
+    "cards": [],
+    "original_json_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\theordinary_ads.json",
+    "original_media_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\media_theordinary\\ad_23_772807212576746.jpg"
+  }
+}

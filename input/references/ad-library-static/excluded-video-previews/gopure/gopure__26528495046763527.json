@@ -1,0 +1,38 @@
+{
+  "ad_id": "meta_gopure_26528495046763527",
+  "source_platform": "meta_ad_library",
+  "captured_at": "2026-04-15T03:28:29.008Z",
+  "brand_name": "gopure",
+  "product_category": "unknown",
+  "product_names": [
+    "Affordable Skincare That Delivers"
+  ],
+  "image_paths": [],
+  "video_paths": [],
+  "landing_page_url": "https://gopurebeauty.com/products/tighten-lift-neck-cream",
+  "ad_copy": "Skincare doesn’t have to break the bank! GoPure’s Neck Cream is my go-to for glowing looking-skin—it’s on sale now!",
+  "cta": "Learn more",
+  "country": "ALL",
+  "language": "unknown",
+  "notes": "Imported from competitor Meta Ad Library scraper",
+  "source_meta": {
+    "original_ad_archive_id": "26528495046763527",
+    "ad_format": "Video",
+    "media_kind": "video_preview",
+    "title": "Affordable Skincare That Delivers",
+    "caption": "gopurebeauty.com",
+    "platforms": [
+      "FACEBOOK",
+      "INSTAGRAM",
+      "MESSENGER",
+      "THREADS"
+    ],
+    "start_date": "2026-03-17T07:00:00.000Z",
+    "end_date": "2026-04-01T07:00:00.000Z",
+    "primary_image_url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/529328151_1430506721515962_4864623602245014832_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=W-X7EyfQsPMQ7kNvwHKbb1v&_nc_oc=AdqpbbQKuHdh2bc-sTE8YLWQye7VS3LA3nLwS1V_zzMKc2Tt2SfTyL_gyLNea8Nss9g&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=sjp9o1GcZJUITvj2pIsr-Q&_nc_ss=7a3a8&oh=00_Af1k4iETMysow6tTXMi2xeN9tEWAeOrpHxX11HU7XRA3sw&oe=69D400E4",
+    "card_count": 0,
+    "cards": [],
+    "original_json_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\gopure_ads.json",
+    "original_media_path": ""
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "ad_id": "meta_gopure_1273170014747969",
+  "source_platform": "meta_ad_library",
+  "captured_at": "2026-04-15T03:28:29.007Z",
+  "brand_name": "gopure",
+  "product_category": "unknown",
+  "product_names": [
+    "Don’t miss the launch sale, GoPure’s body cream is here!"
+  ],
+  "image_paths": [],
+  "video_paths": [],
+  "landing_page_url": "https://amazon.gopure.com/ac10",
+  "ad_copy": "What GoPure did for necks, it now does for your body! Introducing the new Sculpt and Tone Arm cream with 7% Pro Tight Firming Complex and ashwagandha root extract. Rich, thick, and nourishing, it’s here to improve the appearance of crepey skin on your arms and more, so you can feel confident",
+  "cta": "Learn more",
+  "country": "ALL",
+  "language": "unknown",
+  "notes": "Imported from competitor Meta Ad Library scraper",
+  "source_meta": {
+    "original_ad_archive_id": "1273170014747969",
+    "ad_format": "Video",
+    "media_kind": "video_preview",
+    "title": "Don’t miss the launch sale, GoPure’s body cream is here!",
+    "caption": "amazon.gopure.com",
+    "platforms": [
+      "FACEBOOK",
+      "INSTAGRAM",
+      "MESSENGER",
+      "THREADS"
+    ],
+    "start_date": "2026-03-17T07:00:00.000Z",
+    "end_date": "2026-04-02T07:00:00.000Z",
+    "primary_image_url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/641274882_821738540326395_7443980699139980811_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=1y30hzj0g3UQ7kNvwHdWQJR&_nc_oc=AdqIY3U4a1MNjoHLlIpgQ_mVS5DL3_H7tfsx_SFltNnqk3NBuPzbr1Fq4GMOFDXjxxc&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=sjp9o1GcZJUITvj2pIsr-Q&_nc_ss=7a3a8&oh=00_Af0CsB5PCtU6q1Qml2IU8hvhkTJvEL0t_06qiYMZw0AG8g&oe=69D41695",
+    "card_count": 0,
+    "cards": [],
+    "original_json_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\gopure_ads.json",
+    "original_media_path": ""
+  }
+}

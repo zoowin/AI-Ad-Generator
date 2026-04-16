@@ -1,0 +1,53 @@
+{
+  "ad_id": "meta_theordinary_1613685239908293",
+  "source_platform": "meta_ad_library",
+  "captured_at": "2026-04-15T03:28:29.989Z",
+  "brand_name": "theordinary",
+  "product_category": "unknown",
+  "product_names": [
+    "Neues Serum für mehr Fülle."
+  ],
+  "image_paths": [],
+  "video_paths": [],
+  "landing_page_url": "https://www.douglas.de/de/p/5011994731",
+  "ad_copy": "{{product.brand}}",
+  "cta": "Order now",
+  "country": "ALL",
+  "language": "unknown",
+  "notes": "Imported from competitor Meta Ad Library scraper",
+  "source_meta": {
+    "original_ad_archive_id": "1613685239908293",
+    "ad_format": "Carousel",
+    "media_kind": "carousel_preview",
+    "title": "{{product.name}}",
+    "caption": "douglas.de",
+    "platforms": [
+      "FACEBOOK",
+      "INSTAGRAM"
+    ],
+    "start_date": "2026-04-01T07:00:00.000Z",
+    "end_date": "2026-04-07T07:00:00.000Z",
+    "primary_image_url": "",
+    "card_count": 2,
+    "cards": [
+      {
+        "body": "Gezielt aufbauendes Serum mit Volufiline für sichtbar vollere Haut.",
+        "title": "Neues Serum für mehr Fülle.",
+        "caption": "",
+        "cta_text": "Order Now",
+        "link_url": "https://www.douglas.de/de/p/5011994731",
+        "image": ""
+      },
+      {
+        "body": "Gezielt aufbauendes Serum mit Volufiline für sichtbar vollere Haut.",
+        "title": "Neues Serum für mehr Fülle.",
+        "caption": "",
+        "cta_text": "Order Now",
+        "link_url": "https://www.douglas.de/de/p/5011994731",
+        "image": ""
+      }
+    ],
+    "original_json_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\theordinary_ads.json",
+    "original_media_path": ""
+  }
+}

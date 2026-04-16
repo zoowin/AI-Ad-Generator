@@ -1,0 +1,41 @@
+{
+  "ad_id": "meta_drsquatch_1696507324854142",
+  "source_platform": "meta_ad_library",
+  "captured_at": "2026-04-15T03:28:28.956Z",
+  "brand_name": "drsquatch",
+  "product_category": "unknown",
+  "product_names": [
+    "🤯 FREE TOILETRY BAG + 39% OFF 🤯"
+  ],
+  "image_paths": [
+    "data/input/ad-library/raw/drsquatch/drsquatch__1696507324854142.jpg"
+  ],
+  "video_paths": [],
+  "landing_page_url": "https://www.drsquatch.com/products/free-toiletry-bag-9-bar-soaps-nco",
+  "ad_copy": "FREE TRAVEL BAG + 39% OFF | Final Days 🚨\n⭐⭐⭐⭐⭐ Tens of thousands of 5 star reviews\n\n🤑 39% OFF sale ends soon!\n🧼 Stock up on 9 signature soaps to get a FREE travel bag ultimate bundle!\n🔗 New customers only, click here to claim!\n\n🫚 Made with natural ingredients\n👃 Amazing scents that men and their families love\n\n📦 Available now – at Drsquatch.com",
+  "cta": "Get offer",
+  "country": "ALL",
+  "language": "unknown",
+  "notes": "Imported from competitor Meta Ad Library scraper",
+  "source_meta": {
+    "original_ad_archive_id": "1696507324854142",
+    "ad_format": "Video",
+    "media_kind": "video_preview",
+    "title": "🤯 FREE TOILETRY BAG + 39% OFF 🤯",
+    "caption": "www.drsquatch.com",
+    "platforms": [
+      "FACEBOOK",
+      "INSTAGRAM",
+      "AUDIENCE_NETWORK",
+      "MESSENGER",
+      "THREADS"
+    ],
+    "start_date": "2026-04-08T07:00:00.000Z",
+    "end_date": "2026-04-13T07:00:00.000Z",
+    "primary_image_url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/651364625_2112960256193335_4639276951775894842_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=hSECNIDv3w4Q7kNvwGnZcxv&_nc_oc=AdoyLHW8CL-Bsl_wbrnLzqwSngPajvJ7hIUtp6Fdmp5XDg6TCHMA_xmLJEdlwOnbVVw&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=jJjzAELG8KqNybh2TjzeMw&_nc_ss=7a3a8&oh=00_Af2I72LxeGen0uMtFsde4UnAAZcrUf7f6ChKThBAA9Tnfw&oe=69E3DA05",
+    "card_count": 0,
+    "cards": [],
+    "original_json_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\drsquatch_ads.json",
+    "original_media_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\media_drsquatch\\ad_2_1696507324854142.jpg"
+  }
+}

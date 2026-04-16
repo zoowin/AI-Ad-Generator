@@ -1,0 +1,55 @@
+{
+  "ad_id": "meta_theordinary_1507088607434389",
+  "source_platform": "meta_ad_library",
+  "captured_at": "2026-04-15T03:28:29.967Z",
+  "brand_name": "theordinary",
+  "product_category": "unknown",
+  "product_names": [
+    "SPF. Made for You."
+  ],
+  "image_paths": [
+    "data/input/ad-library/raw/theordinary/theordinary__1507088607434389.jpg"
+  ],
+  "video_paths": [],
+  "landing_page_url": "https://www.nykaa.com/the-ordinary-uv-filters-spf-40-serum/p/22276608?utm_source=facebook_instagram&utm_medium=paid_social&utm_campaign=spf40&utm_content=linkad-&utm_term=",
+  "ad_copy": "{{product.brand}}",
+  "cta": "Shop now",
+  "country": "ALL",
+  "language": "unknown",
+  "notes": "Imported from competitor Meta Ad Library scraper",
+  "source_meta": {
+    "original_ad_archive_id": "1507088607434389",
+    "ad_format": "Carousel",
+    "media_kind": "carousel_preview",
+    "title": "{{product.name}}",
+    "caption": "nykaa.com",
+    "platforms": [
+      "FACEBOOK",
+      "INSTAGRAM"
+    ],
+    "start_date": "2026-04-02T07:00:00.000Z",
+    "end_date": "2026-04-07T07:00:00.000Z",
+    "primary_image_url": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/660167946_1483665263110027_2444724236137530929_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=I5ZnuliVDjIQ7kNvwGaqF9r&_nc_oc=AdrKpYZzWnwdxN0sYaLN1CrdGrhs89QNpxZtxxMEHMhabmDDIwcb8bi8LcmEAKgLIVo&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=Z_nVSow4qziKaexeRF_dXQ&_nc_ss=7a3a8&oh=00_Af3rncLOifsBZt-L9hK7ZZsQMMM1PGUhXZxShws0P7KB_w&oe=69DBF350",
+    "card_count": 2,
+    "cards": [
+      {
+        "body": "UV Filters SPF 40 Serum is a sunscreen that hydrates, protects against sun damage, early skin aging & leaves skin looking luminous.",
+        "title": "SPF. Made for You. ",
+        "caption": "",
+        "cta_text": "Shop Now",
+        "link_url": "https://www.nykaa.com/the-ordinary-uv-filters-spf-40-serum/p/22276608?utm_source=facebook_instagram&utm_medium=paid_social&utm_campaign=spf40&utm_content=linkad-&utm_term=",
+        "image": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/660167946_1483665263110027_2444724236137530929_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=I5ZnuliVDjIQ7kNvwGaqF9r&_nc_oc=AdrKpYZzWnwdxN0sYaLN1CrdGrhs89QNpxZtxxMEHMhabmDDIwcb8bi8LcmEAKgLIVo&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=Z_nVSow4qziKaexeRF_dXQ&_nc_ss=7a3a8&oh=00_Af3rncLOifsBZt-L9hK7ZZsQMMM1PGUhXZxShws0P7KB_w&oe=69DBF350"
+      },
+      {
+        "body": "UV Filters SPF 40 Serum is a sunscreen that hydrates, protects against sun damage, early skin aging & leaves skin looking luminous.",
+        "title": "SPF. Made for You. ",
+        "caption": "",
+        "cta_text": "Shop Now",
+        "link_url": "https://www.nykaa.com/the-ordinary-uv-filters-spf-40-serum/p/22276608?utm_source=facebook_instagram&utm_medium=paid_social&utm_campaign=spf40&utm_content=linkad-&utm_term=",
+        "image": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/659685679_1938997356983040_6846605749118637584_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=adieoE36fv8Q7kNvwFISwSx&_nc_oc=Adr6-kaRA654bcxqlIELXav4Ri31hbXsuTTglfuvCaHh05stR4K8WXJtF-UZHoiW4gA&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=Z_nVSow4qziKaexeRF_dXQ&_nc_ss=7a3a8&oh=00_Af2CeZOMc764pLN6BIMMu_t3wAqZwgVCkq2gQjfsEZ6YTw&oe=69DBCAB4"
+      }
+    ],
+    "original_json_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\theordinary_ads.json",
+    "original_media_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\media_theordinary\\ad_21_1507088607434389.jpg"
+  }
+}

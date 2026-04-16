@@ -1,0 +1,40 @@
+{
+  "ad_id": "meta_drsquatch_1696820851308010",
+  "source_platform": "meta_ad_library",
+  "captured_at": "2026-04-15T03:28:28.987Z",
+  "brand_name": "drsquatch",
+  "product_category": "unknown",
+  "product_names": [
+    "💪 LIMITED EDITION WWE SOAPS 💥"
+  ],
+  "image_paths": [
+    "data/input/ad-library/raw/drsquatch/drsquatch__1696820851308010.jpg"
+  ],
+  "video_paths": [],
+  "landing_page_url": "https://intl.drsquatch.com/products/double-smackdown-2-pack",
+  "ad_copy": "💥 LIMITED EDITION WWE SOAPS 🤼\n🗿 NEW! Stone Cold Stunner\n💪 NEW! Mysterio Magic\n\nStep into the ring with the ultimate tag team, built to bring the smackdown to your shower routine. Featuring the cold, brutal strength of Stone Cold Stunner and the high-flying energy of Mysterio Magic, this duo delivers a top-rope 619 and a can of whoop-ass—leaving you fresh, fired up, and ready to raise hell.",
+  "cta": "Shop now",
+  "country": "ALL",
+  "language": "unknown",
+  "notes": "Imported from competitor Meta Ad Library scraper",
+  "source_meta": {
+    "original_ad_archive_id": "1696820851308010",
+    "ad_format": "Video",
+    "media_kind": "video_preview",
+    "title": "💪 LIMITED EDITION WWE SOAPS 💥",
+    "caption": "www.drsquatch.com",
+    "platforms": [
+      "FACEBOOK",
+      "INSTAGRAM",
+      "MESSENGER",
+      "THREADS"
+    ],
+    "start_date": "2026-04-10T07:00:00.000Z",
+    "end_date": "2026-04-10T07:00:00.000Z",
+    "primary_image_url": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/646417936_25999020569762310_3135754889882505534_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=E1dDCX9_JRgQ7kNvwGo_Bn7&_nc_oc=AdpMKsJ9meA0w496RAUPL35ptkuZtxcEEhGcwTUseSLt3IlBJ52eG3xral8uCPSw7yQ&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=jJjzAELG8KqNybh2TjzeMw&_nc_ss=7a3a8&oh=00_Af39EK6NXHzJMu2Yb-R0XDXFMw-pCcAkbG_o5YbCunrtPQ&oe=69E3BC52",
+    "card_count": 0,
+    "cards": [],
+    "original_json_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\drsquatch_ads.json",
+    "original_media_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\media_drsquatch\\ad_29_1696820851308010.jpg"
+  }
+}

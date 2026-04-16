@@ -1,0 +1,66 @@
+{
+  "ad_id": "meta_jonesroad_1966870060847447",
+  "source_platform": "meta_ad_library",
+  "captured_at": "2026-04-15T03:28:29.148Z",
+  "brand_name": "jonesroad",
+  "product_category": "unknown",
+  "product_names": [
+    "Skin That Looks Like Skin"
+  ],
+  "image_paths": [
+    "data/input/ad-library/raw/jonesroad/jonesroad__1966870060847447.jpg"
+  ],
+  "video_paths": [],
+  "landing_page_url": "https://myshop.jonesroadbeauty.com/NjQz/multi-prod-listicle-mom-v1",
+  "ad_copy": "{{product.brand}}",
+  "cta": "Shop now",
+  "country": "ALL",
+  "language": "unknown",
+  "notes": "Imported from competitor Meta Ad Library scraper",
+  "source_meta": {
+    "original_ad_archive_id": "1966870060847447",
+    "ad_format": "Carousel",
+    "media_kind": "carousel_preview",
+    "title": "{{product.name}}",
+    "caption": "myshop.jonesroadbeauty.com",
+    "platforms": [
+      "FACEBOOK",
+      "INSTAGRAM",
+      "AUDIENCE_NETWORK",
+      "MESSENGER",
+      "THREADS"
+    ],
+    "start_date": "2026-02-18T08:00:00.000Z",
+    "end_date": "2026-03-24T07:00:00.000Z",
+    "primary_image_url": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/633426939_840620999026175_634502004835243961_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Bja7FBZf-0oQ7kNvwHx0PR6&_nc_oc=AdqZtfMfQWrRxkC7owkEJZVmPmXIQsZ0EMs1fWS3xJFVFbuZQ5UwKIRhUwejV9-ca6w&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=Sa29kFwNq6oKxQTEfza6Ew&_nc_ss=7a3a8&oh=00_Af3X4QsC2CB9b5KAfhmlIq3_sNKCqZ9Hm5d3TIDUYR5V_w&oe=69E3DAAD",
+    "card_count": 3,
+    "cards": [
+      {
+        "body": "I used to think you needed ten different products to look put together. Now I grab WTF for coverage, Miracle Balm for glow, and I’m done. It’s skin that looks real, not “makeup-y.”",
+        "title": "Skin That Looks Like Skin",
+        "caption": "",
+        "cta_text": "Shop Now",
+        "link_url": "https://myshop.jonesroadbeauty.com/NjQz/multi-prod-listicle-mom-v1",
+        "image": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/633426939_840620999026175_634502004835243961_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Bja7FBZf-0oQ7kNvwHx0PR6&_nc_oc=AdqZtfMfQWrRxkC7owkEJZVmPmXIQsZ0EMs1fWS3xJFVFbuZQ5UwKIRhUwejV9-ca6w&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=Sa29kFwNq6oKxQTEfza6Ew&_nc_ss=7a3a8&oh=00_Af3X4QsC2CB9b5KAfhmlIq3_sNKCqZ9Hm5d3TIDUYR5V_w&oe=69E3DAAD"
+      },
+      {
+        "body": "I used to think you needed ten different products to look put together. Now I grab WTF for coverage, Miracle Balm for glow, and I’m done. It’s skin that looks real, not “makeup-y.”",
+        "title": "Skin That Looks Like Skin",
+        "caption": "",
+        "cta_text": "Shop Now",
+        "link_url": "https://myshop.jonesroadbeauty.com/NjQz/multi-prod-listicle-mom-v1",
+        "image": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/632383830_906149045146375_5447003261504780300_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=g7GVOIP1XKsQ7kNvwGM0mxu&_nc_oc=AdrKRCVyl2CHdocnzHDGqYF1YGukDhiraLuwfbyCywI2XVwX-r1s9D5nWcVyOc7fPy4&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=Sa29kFwNq6oKxQTEfza6Ew&_nc_ss=7a3a8&oh=00_Af2gQKCsgcnPEtUO7jqyLtgbJ-hGsOJbcNHq-BLV1jPVZg&oe=69E3D1EA"
+      },
+      {
+        "body": "I used to think you needed ten different products to look put together. Now I grab WTF for coverage, Miracle Balm for glow, and I’m done. It’s skin that looks real, not “makeup-y.”",
+        "title": "Skin That Looks Like Skin",
+        "caption": "",
+        "cta_text": "Shop Now",
+        "link_url": "https://myshop.jonesroadbeauty.com/NjQz/multi-prod-listicle-mom-v1",
+        "image": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/632857129_1641493617023632_3255870139158072616_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=xOPkpDBRZJQQ7kNvwECuKXb&_nc_oc=AdqKJ12Eezd4PxqmC1okwQqZkvAgW0mDwAwPAsTkKj9cI4QS2TWAHumFfrGw5-CW0is&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=Sa29kFwNq6oKxQTEfza6Ew&_nc_ss=7a3a8&oh=00_Af24MncPnQrWkFAAP5NSrTQ5IHxO1X36lazkPFWsAMnLXw&oe=69E3D266"
+      }
+    ],
+    "original_json_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\jonesroad_ads.json",
+    "original_media_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\media_jonesroad\\ad_18_1966870060847447.jpg"
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "ad_id": "meta_theordinary_1772437553716325",
+  "source_platform": "meta_ad_library",
+  "captured_at": "2026-04-15T03:28:29.976Z",
+  "brand_name": "theordinary",
+  "product_category": "unknown",
+  "product_names": [
+    "Notre fête. Un cadeau 30ml."
+  ],
+  "image_paths": [],
+  "video_paths": [],
+  "landing_page_url": "https://theordinary.com/fr-fr/category/best-sellers?utm_medium=paid_social&utm_source=fb_ig&utm_campaign=deciembirthday&utm_content={{adset.id}}-{{ad.id}}",
+  "ad_copy": "{{product.brand}}",
+  "cta": "Shop now",
+  "country": "ALL",
+  "language": "unknown",
+  "notes": "Imported from competitor Meta Ad Library scraper",
+  "source_meta": {
+    "original_ad_archive_id": "1772437553716325",
+    "ad_format": "Carousel",
+    "media_kind": "carousel_preview",
+    "title": "{{product.name}}",
+    "caption": "theordinary.com",
+    "platforms": [
+      "FACEBOOK",
+      "INSTAGRAM"
+    ],
+    "start_date": "2026-04-02T07:00:00.000Z",
+    "end_date": "2026-04-07T07:00:00.000Z",
+    "primary_image_url": "",
+    "card_count": 4,
+    "cards": [
+      {
+        "body": "-23%. et un soin hydratant 30ml offert pour tout achat éligible.",
+        "title": "Notre fête. Un cadeau 30ml.",
+        "caption": "",
+        "cta_text": "Shop Now",
+        "link_url": "https://theordinary.com/fr-fr/category/best-sellers?utm_medium=paid_social&utm_source=fb_ig&utm_campaign=deciembirthday&utm_content={{adset.id}}-{{ad.id}}",
+        "image": ""
+      },
+      {
+        "body": "-23%. et un soin hydratant 30ml offert pour tout achat éligible.",
+        "title": "Notre fête. Un cadeau 30ml.",
+        "caption": "",
+        "cta_text": "Shop Now",
+        "link_url": "https://theordinary.com/fr-fr/category/best-sellers?utm_medium=paid_social&utm_source=fb_ig&utm_campaign=deciembirthday&utm_content={{adset.id}}-{{ad.id}}",
+        "image": ""
+      },
+      {
+        "body": "-23%. et un soin hydratant 30ml offert pour tout achat éligible.",
+        "title": "Notre fête. Un cadeau 30ml.",
+        "caption": "",
+        "cta_text": "Shop Now",
+        "link_url": "https://theordinary.com/fr-fr/category/best-sellers?utm_medium=paid_social&utm_source=fb_ig&utm_campaign=deciembirthday&utm_content={{adset.id}}-{{ad.id}}",
+        "image": ""
+      },
+      {
+        "body": "-23%. et un soin hydratant 30ml offert pour tout achat éligible.",
+        "title": "Notre fête. Un cadeau 30ml.",
+        "caption": "",
+        "cta_text": "Shop Now",
+        "link_url": "https://theordinary.com/fr-fr/category/best-sellers?utm_medium=paid_social&utm_source=fb_ig&utm_campaign=deciembirthday&utm_content={{adset.id}}-{{ad.id}}",
+        "image": ""
+      }
+    ],
+    "original_json_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\theordinary_ads.json",
+    "original_media_path": ""
+  }
+}

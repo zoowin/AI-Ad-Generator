@@ -1,0 +1,40 @@
+{
+  "ad_id": "meta_theordinary_1850012602550234",
+  "source_platform": "meta_ad_library",
+  "captured_at": "2026-04-15T03:28:29.975Z",
+  "brand_name": "theordinary",
+  "product_category": "unknown",
+  "product_names": [
+    "Şimdi Tek Yetkili Trendyol Mağazasında."
+  ],
+  "image_paths": [
+    "data/input/ad-library/raw/theordinary/theordinary__1850012602550234.jpg"
+  ],
+  "video_paths": [],
+  "landing_page_url": "https://fb.com/canvas_doc/1828793854439850",
+  "ad_copy": "Çok Satan Cilt Serumlarımızı Keşfedin!",
+  "cta": "Learn more",
+  "country": "ALL",
+  "language": "unknown",
+  "notes": "Imported from competitor Meta Ad Library scraper",
+  "source_meta": {
+    "original_ad_archive_id": "1850012602550234",
+    "ad_format": "Image",
+    "media_kind": "image",
+    "title": "Şimdi Tek Yetkili Trendyol Mağazasında.",
+    "caption": "fb.com",
+    "platforms": [
+      "FACEBOOK",
+      "INSTAGRAM",
+      "AUDIENCE_NETWORK",
+      "THREADS"
+    ],
+    "start_date": "2026-01-06T08:00:00.000Z",
+    "end_date": "2026-04-07T07:00:00.000Z",
+    "primary_image_url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/608628293_1188595733360122_3393812443292644365_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=4Bu1d0IUO8YQ7kNvwHETUpM&_nc_oc=AdpeFc4mdGqtvXMqqbK66vdcIQWITi6wikb7O6doK7kKAELWg-w8btFndKx-1l4G3Ss&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=Z_nVSow4qziKaexeRF_dXQ&_nc_ss=7a3a8&oh=00_Af081Iy_2ynQkOduRDoTLXtJajGy0El8BHuONOnB3IOkuA&oe=69DBDA27",
+    "card_count": 0,
+    "cards": [],
+    "original_json_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\theordinary_ads.json",
+    "original_media_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\media_theordinary\\ad_24_1850012602550234.jpg"
+  }
+}

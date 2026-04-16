@@ -1,0 +1,38 @@
+{
+  "ad_id": "meta_gopure_1266830815539264",
+  "source_platform": "meta_ad_library",
+  "captured_at": "2026-04-15T03:28:29.004Z",
+  "brand_name": "gopure",
+  "product_category": "unknown",
+  "product_names": [
+    "Lo probé y funciona"
+  ],
+  "image_paths": [],
+  "video_paths": [],
+  "landing_page_url": "https://amazon.gopure.com/nc10-spanish",
+  "ad_copy": "Yo tampoco creía en nada… hasta que probé esta crema para el cuello que está de moda. ��\n\nLa compré para mi suegra como experimento, ¡y los resultados fueron increíbles! Tanto que pedí una para mí y otras dos para mi mamá y mi abuelita.\n\nSi quieres probarla, el precio es sorprendentemente accesible y además, ¡sí funciona! ��✨\n\nTe dejo el link aquí abajo para que veas dónde la conseguí.",
+  "cta": "Learn more",
+  "country": "ALL",
+  "language": "unknown",
+  "notes": "Imported from competitor Meta Ad Library scraper",
+  "source_meta": {
+    "original_ad_archive_id": "1266830815539264",
+    "ad_format": "Video",
+    "media_kind": "video_preview",
+    "title": "Lo probé y funciona",
+    "caption": "amazon.gopure.com",
+    "platforms": [
+      "FACEBOOK",
+      "INSTAGRAM",
+      "MESSENGER",
+      "THREADS"
+    ],
+    "start_date": "2026-03-18T07:00:00.000Z",
+    "end_date": "2026-04-02T07:00:00.000Z",
+    "primary_image_url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/653701318_1678239546854737_48143121111170257_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=PvpF_zTPjy8Q7kNvwHMTg18&_nc_oc=AdpE0ZdUjFWYQPh_qpnIf3EO2Ruv0-FtgfDmpqnB5r-OJxxIgq_4xKXTMjPvMSVl9C4&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=sjp9o1GcZJUITvj2pIsr-Q&_nc_ss=7a3a8&oh=00_Af2mSVeYRYTGdoh3W0zrsKGx8rwYIhQkyKo73054O2QvsQ&oe=69D41988",
+    "card_count": 0,
+    "cards": [],
+    "original_json_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\gopure_ads.json",
+    "original_media_path": ""
+  }
+}

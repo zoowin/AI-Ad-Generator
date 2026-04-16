@@ -1,0 +1,38 @@
+{
+  "ad_id": "meta_gopure_1434346865066441",
+  "source_platform": "meta_ad_library",
+  "captured_at": "2026-04-15T03:28:29.004Z",
+  "brand_name": "gopure",
+  "product_category": "unknown",
+  "product_names": [
+    "Feeling confident in your skin 💕"
+  ],
+  "image_paths": [],
+  "video_paths": [],
+  "landing_page_url": "http://amazon.gopure.com/nc10",
+  "ad_copy": "I just added this Belly cream to my self care routine, and honestly, it’s become such a small but meaningful way to show myself some love. It’s from gopure, and I love how it’s all about embracing your story while feeling confident in your skin. 💕\n\nIt’s funny how something so simple can make such a difference in how you feel about yourself. 🥹\n@Gopurebeauty",
+  "cta": "Learn more",
+  "country": "ALL",
+  "language": "unknown",
+  "notes": "Imported from competitor Meta Ad Library scraper",
+  "source_meta": {
+    "original_ad_archive_id": "1434346865066441",
+    "ad_format": "Video",
+    "media_kind": "video_preview",
+    "title": "Feeling confident in your skin 💕",
+    "caption": "amazon.gopure.com",
+    "platforms": [
+      "FACEBOOK",
+      "INSTAGRAM",
+      "MESSENGER",
+      "THREADS"
+    ],
+    "start_date": "2026-03-20T07:00:00.000Z",
+    "end_date": "2026-04-02T07:00:00.000Z",
+    "primary_image_url": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/653908615_950152307430784_5369004681587859547_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=jBtXNkNrd9wQ7kNvwFO5TV3&_nc_oc=AdqlpfFPepi82hAcNU9qp-OVYjJqCo-lF-7lY73GtZ1c54VdiiTeGk08yy3964rvVPU&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=sjp9o1GcZJUITvj2pIsr-Q&_nc_ss=7a3a8&oh=00_Af292fk2ax1g52dfK73MnstkeRWGgBIeAD2CexA5xuLnfA&oe=69D4174A",
+    "card_count": 0,
+    "cards": [],
+    "original_json_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\gopure_ads.json",
+    "original_media_path": ""
+  }
+}

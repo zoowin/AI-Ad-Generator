@@ -1,0 +1,40 @@
+{
+  "ad_id": "meta_drsquatch_920519077244271",
+  "source_platform": "meta_ad_library",
+  "captured_at": "2026-04-15T03:28:28.978Z",
+  "brand_name": "drsquatch",
+  "product_category": "unknown",
+  "product_names": [
+    "Mini Soaps, Big Savings"
+  ],
+  "image_paths": [
+    "data/input/ad-library/raw/drsquatch/drsquatch__920519077244271.jpg"
+  ],
+  "video_paths": [],
+  "landing_page_url": "https://intl.drsquatch.com/products/winter-essentials",
+  "ad_copy": "✈️ Limited Time Only - Mini Soaps and Lip Balm 🫧\n\nGet 3 free lip balms when you sample 7 of our best-selling scents. Our mini soaps pack the same punch as the full size bars: natural, cold-processed, handcut, with natural manly scents. If you've never tried Dr. Squatch and want to know what the hype is about, grab this bundle and enjoy free lip balms on us.",
+  "cta": "Get offer",
+  "country": "ALL",
+  "language": "unknown",
+  "notes": "Imported from competitor Meta Ad Library scraper",
+  "source_meta": {
+    "original_ad_archive_id": "920519077244271",
+    "ad_format": "Image",
+    "media_kind": "image",
+    "title": "Mini Soaps, Big Savings",
+    "caption": "www.drsquatch.com",
+    "platforms": [
+      "FACEBOOK",
+      "INSTAGRAM",
+      "MESSENGER",
+      "THREADS"
+    ],
+    "start_date": "2026-02-25T08:00:00.000Z",
+    "end_date": "2026-04-13T07:00:00.000Z",
+    "primary_image_url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/626622703_1379010230573055_5330963944031198058_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=oU7fhN1bUIsQ7kNvwGumxnY&_nc_oc=Adq6tM5Tv_PbCqD_4Qwvaf80bp0_wRk6jXFNwWAjsPcVnYVa0-Qlu0eminsRZoQoDAg&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=jJjzAELG8KqNybh2TjzeMw&_nc_ss=7a3a8&oh=00_Af2F4rzuehPr_5asoKla0Q-rYlyhG9bpeLKVRw-CwhDa9A&oe=69E3CD18",
+    "card_count": 0,
+    "cards": [],
+    "original_json_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\drsquatch_ads.json",
+    "original_media_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\media_drsquatch\\ad_21_920519077244271.jpg"
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "ad_id": "meta_chomps_906855295456786",
+  "source_platform": "meta_ad_library",
+  "captured_at": "2026-04-15T03:28:28.779Z",
+  "brand_name": "chomps",
+  "product_category": "unknown",
+  "product_names": [
+    "20% OFF + FREE SHIPPING"
+  ],
+  "image_paths": [
+    "data/input/ad-library/raw/chomps/chomps__906855295456786.jpg"
+  ],
+  "video_paths": [],
+  "landing_page_url": "https://get.chomps.com/fb-try-chomps-20?discount=YUMCHOMPS20",
+  "ad_copy": "{{product.brand}}",
+  "cta": "Shop now",
+  "country": "ALL",
+  "language": "unknown",
+  "notes": "Imported from competitor Meta Ad Library scraper",
+  "source_meta": {
+    "original_ad_archive_id": "906855295456786",
+    "ad_format": "Carousel",
+    "media_kind": "carousel_preview",
+    "title": "{{product.name}}",
+    "caption": "get.chomps.com",
+    "platforms": [
+      "FACEBOOK",
+      "INSTAGRAM",
+      "AUDIENCE_NETWORK",
+      "MESSENGER",
+      "THREADS"
+    ],
+    "start_date": "2026-03-18T07:00:00.000Z",
+    "end_date": "2026-04-14T07:00:00.000Z",
+    "primary_image_url": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/653353578_941722952132573_6255193199288033348_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Fh3icco30I4Q7kNvwFoY_q5&_nc_oc=AdrkCZQbQGGs5MY5LhchJiwf0Didq6WUG9oaOqfOMGPl0PxfHQtqKB6zW2DDjaLvTGY&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=UkQqVnfDU7C9a3-abHHx9g&_nc_ss=7a3a8&oh=00_Af0-G4Tgtf_DPwbPzxY0rKN1oC_lq58Blb-Yu_0zP5gG1g&oe=69E3C1FD",
+    "card_count": 3,
+    "cards": [
+      {
+        "body": "Unlock 20% savings + free shipping on flavorful meat sticks with 10+ grams of protein, 0 grams of sugar, and real ingredients! Use code YUMCHOMPS20.",
+        "title": "20% OFF + FREE SHIPPING",
+        "caption": "",
+        "cta_text": "Shop Now",
+        "link_url": "https://get.chomps.com/fb-try-chomps-20?discount=YUMCHOMPS20",
+        "image": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/653353578_941722952132573_6255193199288033348_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Fh3icco30I4Q7kNvwFoY_q5&_nc_oc=AdrkCZQbQGGs5MY5LhchJiwf0Didq6WUG9oaOqfOMGPl0PxfHQtqKB6zW2DDjaLvTGY&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=UkQqVnfDU7C9a3-abHHx9g&_nc_ss=7a3a8&oh=00_Af0-G4Tgtf_DPwbPzxY0rKN1oC_lq58Blb-Yu_0zP5gG1g&oe=69E3C1FD"
+      },
+      {
+        "body": "Unlock 20% savings + free shipping on flavorful meat sticks with 10+ grams of protein, 0 grams of sugar, and real ingredients! Use code YUMCHOMPS20.",
+        "title": "20% OFF + FREE SHIPPING",
+        "caption": "",
+        "cta_text": "Shop Now",
+        "link_url": "https://get.chomps.com/fb-try-chomps-20?discount=YUMCHOMPS20",
+        "image": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/653693630_1449172570071797_3686699224112617645_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=prM80U8tph0Q7kNvwG5fXfz&_nc_oc=Adq_0rIazk9n2Tm5xLqIqsbVxhD090mwXIb6vC_l5jgbhmH5NrgzhgXVAby9_UnEHv4&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=UkQqVnfDU7C9a3-abHHx9g&_nc_ss=7a3a8&oh=00_Af08Aa1h8bNDgY-O5_CjM-KHxjKbrhB-lXG5gNGuVz2eIQ&oe=69E3D9EF"
+      },
+      {
+        "body": "Unlock 20% savings + free shipping on flavorful meat sticks with 10+ grams of protein, 0 grams of sugar, and real ingredients! Use code YUMCHOMPS20.",
+        "title": "20% OFF + FREE SHIPPING",
+        "caption": "",
+        "cta_text": "Shop Now",
+        "link_url": "https://get.chomps.com/fb-try-chomps-20?discount=YUMCHOMPS20",
+        "image": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/653693630_1449172570071797_3686699224112617645_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=prM80U8tph0Q7kNvwG5fXfz&_nc_oc=Adq_0rIazk9n2Tm5xLqIqsbVxhD090mwXIb6vC_l5jgbhmH5NrgzhgXVAby9_UnEHv4&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=UkQqVnfDU7C9a3-abHHx9g&_nc_ss=7a3a8&oh=00_Af08Aa1h8bNDgY-O5_CjM-KHxjKbrhB-lXG5gNGuVz2eIQ&oe=69E3D9EF"
+      }
+    ],
+    "original_json_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\chomps_ads.json",
+    "original_media_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\media_chomps\\ad_22_906855295456786.jpg"
+  }
+}

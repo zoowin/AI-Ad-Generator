@@ -1,0 +1,40 @@
+{
+  "ad_id": "meta_drsquatch_2295538227304285",
+  "source_platform": "meta_ad_library",
+  "captured_at": "2026-04-15T03:28:28.975Z",
+  "brand_name": "drsquatch",
+  "product_category": "unknown",
+  "product_names": [
+    "Thanks for Your Order!"
+  ],
+  "image_paths": [
+    "data/input/ad-library/raw/drsquatch/drsquatch__2295538227304285.jpg"
+  ],
+  "video_paths": [],
+  "landing_page_url": "https://drsquatch.com/",
+  "ad_copy": "Thanks for ordering from Dr. Squatch! Welcome to Squatch Nation",
+  "cta": "Learn more",
+  "country": "ALL",
+  "language": "unknown",
+  "notes": "Imported from competitor Meta Ad Library scraper",
+  "source_meta": {
+    "original_ad_archive_id": "2295538227304285",
+    "ad_format": "Video",
+    "media_kind": "video_preview",
+    "title": "Thanks for Your Order!",
+    "caption": "drsquatch.com",
+    "platforms": [
+      "FACEBOOK",
+      "INSTAGRAM",
+      "AUDIENCE_NETWORK",
+      "MESSENGER"
+    ],
+    "start_date": "2024-01-22T08:00:00.000Z",
+    "end_date": "2026-04-13T07:00:00.000Z",
+    "primary_image_url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/417444897_918025623305377_2468518205778096738_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=pHsTIcovkFoQ7kNvwH7r3PH&_nc_oc=AdruUs_ooUxDZ8WplYZaDW-wEsTouO2Z4PXFT30yyuAvwuBM99VEivrNDhAk-uHIXoI&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=jJjzAELG8KqNybh2TjzeMw&_nc_ss=7a3a8&oh=00_Af3TyuKQZv-QKxsniKVHJAFOe741rpQaszDi6NTo5Q-7dA&oe=69E3D17B",
+    "card_count": 0,
+    "cards": [],
+    "original_json_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\drsquatch_ads.json",
+    "original_media_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\media_drsquatch\\ad_18_2295538227304285.jpg"
+  }
+}

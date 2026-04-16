@@ -1,0 +1,41 @@
+{
+  "ad_id": "meta_jonesroad_26550062374580163",
+  "source_platform": "meta_ad_library",
+  "captured_at": "2026-04-15T03:28:29.174Z",
+  "brand_name": "jonesroad",
+  "product_category": "unknown",
+  "product_names": [
+    "Five-Minute Makeup Routine Before School Pickup"
+  ],
+  "image_paths": [
+    "data/input/ad-library/raw/jonesroad/jonesroad__26550062374580163.jpg"
+  ],
+  "video_paths": [],
+  "landing_page_url": "https://myshop.jonesroadbeauty.com/OTcw?selectedVariantId=gid://shopify/ProductVariant/44605505208470&featuredProduct=gid://shopify/Product/8358555943062",
+  "ad_copy": "When you have 5 minutes between work calls and school pickup, this tinted moisturizer and Miracle Balm is your lifeline. Lightweight formula evens out redness and gives you that 'your skin but better' glow without looking like you're wearing makeup. Because some days, good enough is perfect.",
+  "cta": "Shop now",
+  "country": "ALL",
+  "language": "unknown",
+  "notes": "Imported from competitor Meta Ad Library scraper",
+  "source_meta": {
+    "original_ad_archive_id": "26550062374580163",
+    "ad_format": "Video",
+    "media_kind": "video_preview",
+    "title": "Five-Minute Makeup Routine Before School Pickup",
+    "caption": "myshop.jonesroadbeauty.com",
+    "platforms": [
+      "FACEBOOK",
+      "INSTAGRAM",
+      "AUDIENCE_NETWORK",
+      "MESSENGER",
+      "THREADS"
+    ],
+    "start_date": "2026-02-18T08:00:00.000Z",
+    "end_date": "2026-04-14T07:00:00.000Z",
+    "primary_image_url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/631484966_2087288902060505_7879955539319937088_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=VonZrNXMWPcQ7kNvwHT-BpY&_nc_oc=Adpc0hMd_adxcuRbgi0h1lKeAvXrz7ioQ5GfCjpuMC8y4Wsk9nn3rtV_6ZWDx0JNN-Y&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=Sa29kFwNq6oKxQTEfza6Ew&_nc_ss=7a3a8&oh=00_Af20jk_4osK22SQgiABbRJw0MqGoXgpq9GYFGujHADg6gQ&oe=69E3CB3E",
+    "card_count": 0,
+    "cards": [],
+    "original_json_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\jonesroad_ads.json",
+    "original_media_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\media_jonesroad\\ad_29_26550062374580163.jpg"
+  }
+}

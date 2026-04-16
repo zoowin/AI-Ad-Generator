@@ -1,0 +1,57 @@
+{
+  "ad_id": "meta_gruns_1588627509094973",
+  "source_platform": "meta_ad_library",
+  "captured_at": "2026-04-15T03:28:29.106Z",
+  "brand_name": "gruns",
+  "product_category": "unknown",
+  "product_names": [
+    "Save up to 52% today!",
+    "One pack of bears = Ready for everything."
+  ],
+  "image_paths": [],
+  "video_paths": [],
+  "landing_page_url": "https://immun.co/pages/first-order",
+  "ad_copy": "{{product.brand}}",
+  "cta": "Shop now",
+  "country": "ALL",
+  "language": "unknown",
+  "notes": "Imported from competitor Meta Ad Library scraper",
+  "source_meta": {
+    "original_ad_archive_id": "1588627509094973",
+    "ad_format": "Carousel",
+    "media_kind": "carousel_preview",
+    "title": "{{product.name}}",
+    "caption": "immun.co",
+    "platforms": [
+      "FACEBOOK",
+      "INSTAGRAM",
+      "AUDIENCE_NETWORK",
+      "MESSENGER",
+      "THREADS"
+    ],
+    "start_date": "2026-02-27T08:00:00.000Z",
+    "end_date": "2026-04-13T07:00:00.000Z",
+    "primary_image_url": "",
+    "card_count": 2,
+    "cards": [
+      {
+        "body": "Immün isn’t just a Vitamin C gummy in disguise. It’s a science-backed blend of 13 ingredients—each one carefully chosen to support a specific part of our wellness ecosystem:\n\n✔️Vitamins like C, D3, B6, B12 and Zinc for immune strength\n✔️Botanicals like Elderberry, Ginger, and Turmeric for antioxidant power\n✔️Adaptogens like Ashwagandha and Holy Basil to help the body handle stress\n✔️7g of fiber to support the gut, where 70% of our immune system lives\n\nYou don’t need a cabinet full of supplements. You just need a gummy that gets it all.\n\n🛡️Try Immün today and save 52%",
+        "title": "Save up to 52% today!\n",
+        "caption": "",
+        "cta_text": "Shop Now",
+        "link_url": "https://immun.co/pages/first-order",
+        "image": ""
+      },
+      {
+        "body": "Most immunity supplements stop at one or two ingredients. Immün goes further with 13.\n\nWhy? Because staying healthy isn’t just about fighting off bugs—it’s about staying energized, calm, and balanced before the body needs backup.\n\nFrom clinical-strength Vitamins to adaptogens and superfoods, every gummy pack targets support for your immune system, gut, stress, and energy:\n\n✔️Vitamin C\n✔️Vitamin D3\n✔️Vitamin B6\n✔️Vitamin B12\n✔️Elderberry \n✔️Ashwagandha \n✔️Holy Basil \n✔️Zinc\n✔️Turmeric\n✔️Ginger Root\n✔️7g Fiber\n✔️MCT Oil\n✔️Black Pepper\n\nOne formula. One daily habit. 13 ways to stay ready.",
+        "title": "One pack of bears = Ready for everything.\n",
+        "caption": "",
+        "cta_text": "Shop Now",
+        "link_url": "https://immun.co/pages/first-order",
+        "image": ""
+      }
+    ],
+    "original_json_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\gruns_ads.json",
+    "original_media_path": ""
+  }
+}

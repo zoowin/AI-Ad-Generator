@@ -1,0 +1,40 @@
+{
+  "ad_id": "meta_caraway_1976654833007626",
+  "source_platform": "meta_ad_library",
+  "captured_at": "2026-04-15T03:28:28.754Z",
+  "brand_name": "caraway",
+  "product_category": "unknown",
+  "product_names": [
+    "Limited-Time Kitchen Savings"
+  ],
+  "image_paths": [
+    "data/input/ad-library/raw/caraway/caraway__1976654833007626.jpg"
+  ],
+  "video_paths": [],
+  "landing_page_url": "https://www.carawayhome.com/products/cookware-sets",
+  "ad_copy": "Limited time offer! 🚨 \nFinal call to upgrade your kitchen with Ceramic Cookware that delivers even heat & effortless release. Save now and renew your cooking experience!",
+  "cta": "Shop now",
+  "country": "ALL",
+  "language": "unknown",
+  "notes": "Imported from competitor Meta Ad Library scraper",
+  "source_meta": {
+    "original_ad_archive_id": "1976654833007626",
+    "ad_format": "Video",
+    "media_kind": "video_preview",
+    "title": "Limited-Time Kitchen Savings",
+    "caption": "www.carawayhome.com",
+    "platforms": [
+      "FACEBOOK",
+      "INSTAGRAM",
+      "MESSENGER",
+      "THREADS"
+    ],
+    "start_date": "2026-04-12T07:00:00.000Z",
+    "end_date": "2026-04-13T07:00:00.000Z",
+    "primary_image_url": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/653705026_791322146906481_913709795631563661_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=TrHRS_9ojWYQ7kNvwH_6i3Q&_nc_oc=Adr6sl31nAmE1iM-r3gM8IBc0CvkRz9IG-2vNO00EgstFqTyF1Nw7hNwP0wzH2HEVwI&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=_48kJ1ham5jY4v5iIqaJ5Q&_nc_ss=7a3a8&oh=00_Af07MFl8PfvRG4L5RJGSwgqxJ5Q2cU6mjXiXL8cSoMovlw&oe=69E3D593",
+    "card_count": 0,
+    "cards": [],
+    "original_json_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\caraway_ads.json",
+    "original_media_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\media_caraway\\ad_24_1976654833007626.jpg"
+  }
+}

@@ -2,22 +2,55 @@
 
 This workspace is used to generate Depology skincare ad images. The current focus is product-scene exploration, prompt iteration, and ad asset generation around the product line.
 
+It is also now being reorganized into a new closed-loop ad creative system with four layers:
+
+1. Input
+2. Analysis
+3. Output
+4. Feedback
+
+See the new blueprint here:
+
+- `ROOT-START-HERE.md`
+- `docs/ai-ad-system-blueprint.md`
+- `docs/folder-status.md`
+- `docs/workspace-organization.md`
+- `docs/workspace-catalog.md`
+- `WORKSPACE-GUIDE.md`
+
 ## Directory Layout
 
 ```text
 src/                     Main scripts and generation pipeline
-assets/products/         Product packshots used as source assets
-products/                Product notes and supporting materials
+data/                    Analysis / feedback / system state
+system/templates/        JSON contract templates for the new pipeline
 input/
+  product-docs/          Product notes and supporting materials
   briefs/                Product brief JSON files
-  products/              Product-specific reference images
-  references/            Winning ads / before-after references
+  products/              Product images and product-specific reference images
+  references/            Winning ads / ad-library references
 output/
   final/ad-sets/         Kept final deliverables
   experiments/           Recent exploration results
   runs/core/             Structured output from run.js
 text-test/               Prompt and copy experiments
 ```
+
+## Current State
+
+There are now two tracks in this repository:
+
+- Legacy generation track: the existing `src/` scripts for image generation experiments
+- New system track: the `data/`, `system/`, and `docs/` structure for rebuilding a scalable creative intelligence workflow
+
+Historical duplicate folders such as `ads-image/`, `text-test/`, and old utility scripts have been removed from the active workspace.
+
+Recommended direction:
+
+- keep using `src/` for short-term experiments
+- keep all new input material inside `input/`
+- use `WORKSPACE-GUIDE.md` and `docs/workspace-catalog.md` as the main navigation layer
+- when video is out of scope, prefer `input/references/ad-library-static/static-images/` for analysis inputs
 
 ## Main Scripts
 
@@ -49,7 +82,7 @@ text-test/               Prompt and copy experiments
 
 ## Expected Inputs
 
-- `assets/products/` should contain product packshots in `.png`, `.jpg`, `.jpeg`, or `.webp`.
+- `input/products/` should contain product images in `.png`, `.jpg`, `.jpeg`, or `.webp`.
 - `input/briefs/` can contain product briefs such as `matrixyl-brief.json`.
 - `input/products/` and `input/references/` can hold additional references for older workflows.
 

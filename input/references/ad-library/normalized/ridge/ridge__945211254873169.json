@@ -1,0 +1,40 @@
+{
+  "ad_id": "meta_ridge_945211254873169",
+  "source_platform": "meta_ad_library",
+  "captured_at": "2026-04-15T03:28:29.658Z",
+  "brand_name": "ridge",
+  "product_category": "unknown",
+  "product_names": [
+    "5 in 1 Powerbank"
+  ],
+  "image_paths": [
+    "data/input/ad-library/raw/ridge/ridge__945211254873169.jpg"
+  ],
+  "video_paths": [],
+  "landing_page_url": "https://ridge.com/pages/tech-MKBHD-6RLP",
+  "ad_copy": "Charge iPhones with magsafe, Qi phones, USB-C wired, lightning wired AND an Apple Watch and get 10,000mAh in the palm of your hand. One thing to pack, five ways to power.",
+  "cta": "Shop now",
+  "country": "ALL",
+  "language": "unknown",
+  "notes": "Imported from competitor Meta Ad Library scraper",
+  "source_meta": {
+    "original_ad_archive_id": "945211254873169",
+    "ad_format": "Video",
+    "media_kind": "video_preview",
+    "title": "5 in 1 Powerbank",
+    "caption": "ridge.com",
+    "platforms": [
+      "FACEBOOK",
+      "INSTAGRAM",
+      "MESSENGER",
+      "THREADS"
+    ],
+    "start_date": "2026-03-31T07:00:00.000Z",
+    "end_date": "2026-04-13T07:00:00.000Z",
+    "primary_image_url": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/658854993_840813682357767_2004915157100067462_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=WRdR-XNegmgQ7kNvwFPTEm_&_nc_oc=AdpA4tZ-lNAHWuRhpZ5o0Qj9PGquaeT10PB3k5VQn4paV6Jn09CinZvS4aTLQd2mPV4&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=qqZTfAce3wqWlUL87WTHpQ&_nc_ss=7a3a8&oh=00_Af2B5z6MvXcrFpauvwxTqvGGhI-ZhsPni38ZJ8GotyIgnA&oe=69E3D0A8",
+    "card_count": 0,
+    "cards": [],
+    "original_json_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\ridge_ads.json",
+    "original_media_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\media_ridge\\ad_11_945211254873169.jpg"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "ad_id": "meta_skinfix_1592119908572821",
+  "source_platform": "meta_ad_library",
+  "captured_at": "2026-04-15T03:28:29.853Z",
+  "brand_name": "skinfix",
+  "product_category": "unknown",
+  "product_names": [
+    "Smoother Pores + Lines—Fast"
+  ],
+  "image_paths": [
+    "data/input/ad-library/raw/skinfix/skinfix__1592119908572821.jpg"
+  ],
+  "video_paths": [],
+  "landing_page_url": "https://skinfix.com/products/ceramide-prime-whipped-cream",
+  "ad_copy": "{{product.brand}}",
+  "cta": "Learn more",
+  "country": "ALL",
+  "language": "unknown",
+  "notes": "Imported from competitor Meta Ad Library scraper",
+  "source_meta": {
+    "original_ad_archive_id": "1592119908572821",
+    "ad_format": "Carousel",
+    "media_kind": "carousel_preview",
+    "title": "{{product.name}}",
+    "caption": "skinfix.com",
+    "platforms": [
+      "FACEBOOK",
+      "INSTAGRAM",
+      "AUDIENCE_NETWORK",
+      "THREADS"
+    ],
+    "start_date": "2026-03-10T07:00:00.000Z",
+    "end_date": "2026-04-07T07:00:00.000Z",
+    "primary_image_url": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/649044213_1625637628470046_2847810568227054225_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=XfdgQ_KeHsQQ7kNvwEulHcR&_nc_oc=Adru4u0UGE7UxY3aNUeGKGmC-tksN_DA00MksHOB7TBnshoDJ9H--lCFWJjSOlduAQw&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=NfPh_cuV0mLiy6yq3lQodQ&_nc_ss=7a3a8&oh=00_Af3CPEBJncMd83LXqokraTCTNJuVVugoDi0t24SzFl_5jA&oe=69DBCE93",
+    "card_count": 2,
+    "cards": [
+      {
+        "body": "Finally: the fix for normal-to-combo skin, with a silicone-free formula that delivers a non-pilling base under SPF or makeup.",
+        "title": "Smoother Pores + Lines—Fast",
+        "caption": "",
+        "cta_text": "Learn More",
+        "link_url": "https://skinfix.com/products/ceramide-prime-whipped-cream",
+        "image": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/649044213_1625637628470046_2847810568227054225_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=XfdgQ_KeHsQQ7kNvwEulHcR&_nc_oc=Adru4u0UGE7UxY3aNUeGKGmC-tksN_DA00MksHOB7TBnshoDJ9H--lCFWJjSOlduAQw&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=NfPh_cuV0mLiy6yq3lQodQ&_nc_ss=7a3a8&oh=00_Af3CPEBJncMd83LXqokraTCTNJuVVugoDi0t24SzFl_5jA&oe=69DBCE93"
+      },
+      {
+        "body": "Finally: the fix for normal-to-combo skin, with a silicone-free formula that delivers a non-pilling base under SPF or makeup.",
+        "title": "Smoother Pores + Lines—Fast",
+        "caption": "",
+        "cta_text": "Learn More",
+        "link_url": "https://skinfix.com/products/ceramide-prime-whipped-cream",
+        "image": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/648282280_1446942017224451_6821990167313232329_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=8uP5HMnAVmEQ7kNvwEKqWob&_nc_oc=AdoAwtUz2-maz_8EFtmxnJltaU9_nxAP6WL9yyLxW1wFY9XjPRCPdol-_3Fkg3KaLEw&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=NfPh_cuV0mLiy6yq3lQodQ&_nc_ss=7a3a8&oh=00_Af24ndshUqOE8VGY88CbP0W1e0VMH9Y3uM7CCNTOKLN8Hg&oe=69DBEABA"
+      }
+    ],
+    "original_json_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\skinfix_ads.json",
+    "original_media_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\media_skinfix\\ad_11_1592119908572821.jpg"
+  }
+}

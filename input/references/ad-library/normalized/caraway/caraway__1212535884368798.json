@@ -1,0 +1,94 @@
+{
+  "ad_id": "meta_caraway_1212535884368798",
+  "source_platform": "meta_ad_library",
+  "captured_at": "2026-04-15T03:28:28.744Z",
+  "brand_name": "caraway",
+  "product_category": "unknown",
+  "product_names": [
+    "Caraway 12pc Cookware Set in Navy | Non-Toxic I Non-Stick",
+    "Caraway 12pc Cookware Set in Sage | Non-Toxic I Non-Stick",
+    "Caraway 12pc Cookware Set in Cream | Non-Toxic I Non-Stick",
+    "Caraway 10.5” Fry Pan in Sage | Non-Toxic I Non-Stick",
+    "Caraway 12pc Cookware Set in Perracotta | Non-Toxic I Non-Stick",
+    "Caraway 12pc Cookware Set in Gray | Non-Toxic I Non-Stick"
+  ],
+  "image_paths": [
+    "data/input/ad-library/raw/caraway/caraway__1212535884368798.jpg"
+  ],
+  "video_paths": [],
+  "landing_page_url": "https://www.carawayhome.com/collections",
+  "ad_copy": "Caraway kitchenware is designed for health-conscious households who care about performance, aesthetics, and ease.",
+  "cta": "Shop now",
+  "country": "ALL",
+  "language": "unknown",
+  "notes": "Imported from competitor Meta Ad Library scraper",
+  "source_meta": {
+    "original_ad_archive_id": "1212535884368798",
+    "ad_format": "Carousel",
+    "media_kind": "carousel_preview",
+    "title": "{{product.name}}",
+    "caption": "carawayhome.com",
+    "platforms": [
+      "FACEBOOK",
+      "INSTAGRAM",
+      "MESSENGER",
+      "THREADS"
+    ],
+    "start_date": "2026-02-26T08:00:00.000Z",
+    "end_date": "2026-04-14T07:00:00.000Z",
+    "primary_image_url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/641348006_937918691966796_5663667101064227818_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=7p61632ZC6gQ7kNvwHLfDuh&_nc_oc=AdrEpMSdd5sPvoRAzdrVBW0cgDLVwiPf9x0unvYL5lJtE8uxMMFMqHXzyVpxrIW-Z4A&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=_48kJ1ham5jY4v5iIqaJ5Q&_nc_ss=7a3a8&oh=00_Af11PIfESajP52kAzBZWOw899O8EHjeYaJAmXX7RxQyW7w&oe=69E3D6AC",
+    "card_count": 6,
+    "cards": [
+      {
+        "body": "Caraway kitchenware is designed for health-conscious households who care about performance, aesthetics, and ease.",
+        "title": "Caraway 12pc Cookware Set in Navy | Non-Toxic I Non-Stick",
+        "caption": "carawayhome.com",
+        "cta_text": "Shop Now",
+        "link_url": "https://www.carawayhome.com/products/cookware-sets?color=navy",
+        "image": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/641348006_937918691966796_5663667101064227818_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=7p61632ZC6gQ7kNvwHLfDuh&_nc_oc=AdrEpMSdd5sPvoRAzdrVBW0cgDLVwiPf9x0unvYL5lJtE8uxMMFMqHXzyVpxrIW-Z4A&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=_48kJ1ham5jY4v5iIqaJ5Q&_nc_ss=7a3a8&oh=00_Af11PIfESajP52kAzBZWOw899O8EHjeYaJAmXX7RxQyW7w&oe=69E3D6AC"
+      },
+      {
+        "body": "Caraway kitchenware is designed for health-conscious households who care about performance, aesthetics, and ease.",
+        "title": "Caraway 12pc Cookware Set in Sage | Non-Toxic I Non-Stick",
+        "caption": "carawayhome.com",
+        "cta_text": "Shop Now",
+        "link_url": "https://www.carawayhome.com/products/cookware-sets?color=sage",
+        "image": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/642204615_1430241178747991_3360801513308121121_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Y74j7G0fQ3UQ7kNvwHhsnIG&_nc_oc=AdoeOyi1-MVCzhCRF8YcLOysbZimT1gezAURDE0vaeCZLZjOW5aPof6E8mmq2-VQC8Q&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=_48kJ1ham5jY4v5iIqaJ5Q&_nc_ss=7a3a8&oh=00_Af2DWMp5QeQXlVa50UDRZ7H5lmEu4JK81vAyL50chqjb0Q&oe=69E3D550"
+      },
+      {
+        "body": "Caraway kitchenware is designed for health-conscious households who care about performance, aesthetics, and ease.",
+        "title": "Caraway 12pc Cookware Set in Cream | Non-Toxic I Non-Stick",
+        "caption": "carawayhome.com",
+        "cta_text": "Shop Now",
+        "link_url": "https://www.carawayhome.com/products/cookware-sets?color=cream",
+        "image": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/642283404_1146427750815064_4935802565322867505_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=phYNuFPZ3oQQ7kNvwFYBMo-&_nc_oc=AdqnZz2F9W9iX1B5XbL45FOPUHj31c2Bl3EF3NkpRyc5IS3QpeLvkb5wccmapP8_Nk8&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=_48kJ1ham5jY4v5iIqaJ5Q&_nc_ss=7a3a8&oh=00_Af3CeXdeS85b3JB4lIacaVYMzK6A7K7oDS83KrXM_1KmlA&oe=69E3E1B8"
+      },
+      {
+        "body": "Caraway kitchenware is designed for health-conscious households who care about performance, aesthetics, and ease.",
+        "title": "Caraway 10.5” Fry Pan in Sage | Non-Toxic I Non-Stick",
+        "caption": "carawayhome.com",
+        "cta_text": "Shop Now",
+        "link_url": "https://www.carawayhome.com/products/fry-pan?color=sage",
+        "image": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/641535146_1319926540193486_3714037767577640715_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Iny11cnHNtEQ7kNvwGNmFTr&_nc_oc=AdqMMVIVwrrEPuMicEfA0kzjzL5cXnbDHudzvp5n9PPcBTnVaE51b8gT7j5-6AQhGYI&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=_48kJ1ham5jY4v5iIqaJ5Q&_nc_ss=7a3a8&oh=00_Af2iWD5n_X01gwZ_cg9_9iuoXQmVcPYcissUdaLy8Om6tA&oe=69E3C0E7"
+      },
+      {
+        "body": "Caraway kitchenware is designed for health-conscious households who care about performance, aesthetics, and ease.",
+        "title": "Caraway 12pc Cookware Set in Perracotta | Non-Toxic I Non-Stick",
+        "caption": "carawayhome.com",
+        "cta_text": "Shop Now",
+        "link_url": "https://www.carawayhome.com/products/cookware-sets?color=perracotta",
+        "image": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/642715860_890432693884754_7535626382808733637_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=7b6PkKXMAtYQ7kNvwGABL6o&_nc_oc=AdqoJF4TVHagXz1XBH2mOVJEO1JnJJFWwneRQ4Ks8TYldmHBuJCtsSxIT-rCJ1zhsnk&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=_48kJ1ham5jY4v5iIqaJ5Q&_nc_ss=7a3a8&oh=00_Af3spgpRCgAMuJ7e2NmtGQNeK4CTHpNtpXgA-toQbEuEvA&oe=69E3EC78"
+      },
+      {
+        "body": "Caraway kitchenware is designed for health-conscious households who care about performance, aesthetics, and ease.",
+        "title": "Caraway 12pc Cookware Set in Gray | Non-Toxic I Non-Stick",
+        "caption": "carawayhome.com",
+        "cta_text": "Shop Now",
+        "link_url": "https://www.carawayhome.com/products/cookware-sets?color=gray",
+        "image": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/643428364_1463791908475454_2783269129798053048_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=hnTD_y0BcaIQ7kNvwFrgzdH&_nc_oc=AdrV-DzYpQhDMG7nD9GxDMR7Z81BWm9N3x3iHsE7xs_h4vLO8ilfgcAFfNB936ztCP4&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=_48kJ1ham5jY4v5iIqaJ5Q&_nc_ss=7a3a8&oh=00_Af3b1xYWkjpQRHdFfx0rHo3hjBBBdn-FzRUFFDil1UVnjg&oe=69E3D897"
+      }
+    ],
+    "original_json_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\caraway_ads.json",
+    "original_media_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\media_caraway\\ad_8_1212535884368798.jpg"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "ad_id": "meta_chomps_1468338454999261",
+  "source_platform": "meta_ad_library",
+  "captured_at": "2026-04-15T03:28:28.764Z",
+  "brand_name": "chomps",
+  "product_category": "unknown",
+  "product_names": [
+    "Fuel Any Adventure with Chomps",
+    "15% OFF + FREE SHIPPING"
+  ],
+  "image_paths": [
+    "data/input/ad-library/raw/chomps/chomps__1468338454999261.jpg"
+  ],
+  "video_paths": [],
+  "landing_page_url": "https://chomps.com/pages/fb-gotta-try-chomps?discount=YUMCHOMPS15",
+  "ad_copy": "{{product.brand}}",
+  "cta": "Shop now",
+  "country": "ALL",
+  "language": "unknown",
+  "notes": "Imported from competitor Meta Ad Library scraper",
+  "source_meta": {
+    "original_ad_archive_id": "1468338454999261",
+    "ad_format": "Carousel",
+    "media_kind": "carousel_preview",
+    "title": "{{product.name}}",
+    "caption": "chomps.com",
+    "platforms": [
+      "FACEBOOK",
+      "INSTAGRAM",
+      "AUDIENCE_NETWORK",
+      "MESSENGER",
+      "THREADS"
+    ],
+    "start_date": "2026-02-16T08:00:00.000Z",
+    "end_date": "2026-04-14T07:00:00.000Z",
+    "primary_image_url": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/617966330_870787242212669_8282601968873863573_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=oW8-mcRWgDAQ7kNvwHDrB0O&_nc_oc=Adq4DYXE0veoOflrY86-2Q7NcZm4Bu3Zlww_WQZD0AsVpQCyucVwPFvAEToTSraThl8&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=UkQqVnfDU7C9a3-abHHx9g&_nc_ss=7a3a8&oh=00_Af0yDnJ8wKPs5PQYH-SHN3yXqmgUKH5VEq_vyOcHXITJpA&oe=69E3E7A2",
+    "card_count": 2,
+    "cards": [
+      {
+        "body": "Unlock 15% savings + free shipping on flavorful meat sticks with 10+ grams of high-quality protein, 0 grams of sugar, and real ingredients!",
+        "title": "Fuel Any Adventure with Chomps",
+        "caption": "",
+        "cta_text": "Shop Now",
+        "link_url": "https://chomps.com/pages/fb-gotta-try-chomps?discount=YUMCHOMPS15",
+        "image": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/617966330_870787242212669_8282601968873863573_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=oW8-mcRWgDAQ7kNvwHDrB0O&_nc_oc=Adq4DYXE0veoOflrY86-2Q7NcZm4Bu3Zlww_WQZD0AsVpQCyucVwPFvAEToTSraThl8&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=UkQqVnfDU7C9a3-abHHx9g&_nc_ss=7a3a8&oh=00_Af0yDnJ8wKPs5PQYH-SHN3yXqmgUKH5VEq_vyOcHXITJpA&oe=69E3E7A2"
+      },
+      {
+        "body": "Unlock 15% savings + free shipping on flavorful meat sticks with 10+ grams of high-quality protein, 0 grams of sugar, and real ingredients!",
+        "title": "15% OFF + FREE SHIPPING",
+        "caption": "",
+        "cta_text": "Shop Now",
+        "link_url": "https://chomps.com/pages/fb-gotta-try-chomps?discount=YUMCHOMPS15",
+        "image": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/615794421_2027636071114484_5532185988139129507_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=2pOw5ZbhlsgQ7kNvwG9H0Id&_nc_oc=Adp1NYJN1xFKEGN2LEt2R8MPfrh-Vs_j6ZbajKMAv17Egh4QbXfMElCGrwBRH15jC08&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=UkQqVnfDU7C9a3-abHHx9g&_nc_ss=7a3a8&oh=00_Af3G4Y5osEatE9AgbrIi_k55s6rmPcUXO-3AcJDvdBgGEg&oe=69E3D142"
+      }
+    ],
+    "original_json_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\chomps_ads.json",
+    "original_media_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\media_chomps\\ad_5_1468338454999261.jpg"
+  }
+}

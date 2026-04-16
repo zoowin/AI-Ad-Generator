@@ -1,0 +1,71 @@
+{
+  "ad_id": "meta_ag1_898841652932275",
+  "source_platform": "meta_ad_library",
+  "captured_at": "2026-04-15T03:28:28.715Z",
+  "brand_name": "ag1",
+  "product_category": "unknown",
+  "product_names": [
+    "Morning Thoughts With Hugh Jackman"
+  ],
+  "image_paths": [],
+  "video_paths": [],
+  "landing_page_url": "http://drinkag1.com/hugh-jackman",
+  "ad_copy": "{{product.brand}}",
+  "cta": "Shop now",
+  "country": "ALL",
+  "language": "unknown",
+  "notes": "Imported from competitor Meta Ad Library scraper",
+  "source_meta": {
+    "original_ad_archive_id": "898841652932275",
+    "ad_format": "Carousel",
+    "media_kind": "carousel_preview",
+    "title": "{{product.name}}",
+    "caption": "drinkag1.com",
+    "platforms": [
+      "FACEBOOK",
+      "INSTAGRAM",
+      "MESSENGER",
+      "THREADS"
+    ],
+    "start_date": "2026-02-12T08:00:00.000Z",
+    "end_date": "2026-04-13T07:00:00.000Z",
+    "primary_image_url": "",
+    "card_count": 4,
+    "cards": [
+      {
+        "body": "AG1 is rigorously tested for quality and third-party verified.",
+        "title": "Morning Thoughts With Hugh Jackman",
+        "caption": "",
+        "cta_text": "Shop Now",
+        "link_url": "http://drinkag1.com/hugh-jackman",
+        "image": ""
+      },
+      {
+        "body": "AG1 is rigorously tested for quality and third-party verified.",
+        "title": "Morning Thoughts With Hugh Jackman",
+        "caption": "",
+        "cta_text": "Shop Now",
+        "link_url": "http://drinkag1.com/hugh-jackman",
+        "image": ""
+      },
+      {
+        "body": "AG1 is rigorously tested for quality and third-party verified.",
+        "title": "Morning Thoughts With Hugh Jackman",
+        "caption": "",
+        "cta_text": "Shop Now",
+        "link_url": "http://drinkag1.com/hugh-jackman",
+        "image": ""
+      },
+      {
+        "body": "AG1 is rigorously tested for quality and third-party verified.",
+        "title": "Morning Thoughts With Hugh Jackman",
+        "caption": "",
+        "cta_text": "Shop Now",
+        "link_url": "http://drinkag1.com/hugh-jackman",
+        "image": ""
+      }
+    ],
+    "original_json_path": "F:\\Work_Space\\Meta-Ad competitor\\fb_ad_scraper\\ag1_ads.json",
+    "original_media_path": ""
+  }
+}
